@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-03-18 周三</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-03-18 周三</h1>
+
+<blockquote>自动生成于 2026-03-18 14:05 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日共收录 0 个 GitHub 热门 AI 项目、15 条 Hacker News AI 热议、15 篇 arXiv 最新论文。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://mistral.ai/news/leanstral" target="_blank">Leanstral: Open-source agent for trustworthy coding and formal proof engineering</a> <code>其他</code></h3>
+
+<p>🔺 <strong>747</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47404796" target="_blank">183 评论</a> | 👤 Poudlardo</p>
+
+<h3>2. <a href="https://mistral.ai/news/forge" target="_blank">Mistral AI Releases Forge</a> <code>其他</code></h3>
+
+<p>🔺 <strong>254</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47418295" target="_blank">39 评论</a> | 👤 pember</p>
+
+<h3>3. <a href="https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html" target="_blank">Ryugu asteroid samples contain all DNA and RNA building blocks</a> <code>其他</code></h3>
+
+<p>🔺 <strong>218</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47411480" target="_blank">121 评论</a> | 👤 bookofjoe</p>
+
+<h3>4. <a href="https://openai.com/index/introducing-gpt-5-4-mini-and-nano" target="_blank">GPT‑5.4 Mini and Nano</a> <code>其他</code></h3>
+
+<p>🔺 <strong>217</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47415441" target="_blank">134 评论</a> | 👤 meetpateltech</p>
+
+<h3>5. <a href="https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai" target="_blank">Nvidia Launches Vera CPU, Purpose-Built for Agentic AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>172</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47404074" target="_blank">99 评论</a> | 👤 lewismenelaws</p>
+
+<h3>6. <a href="https://theasc.com/articles/the-secret-agent-cinematography" target="_blank">'The Secret Agent': Exploring a Vibrant, yet Violent Brazil (2025)</a> <code>其他</code></h3>
+
+<p>🔺 <strong>138</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47414440" target="_blank">68 评论</a> | 👤 tambourine_man</p>
+
+<h3>7. <a href="https://mistral.ai/news/mistral-small-4" target="_blank">Mistral Small 4</a> <code>其他</code></h3>
+
+<p>🔺 <strong>117</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47404575" target="_blank">10 评论</a> | 👤 pember</p>
+
+<h3>8. <a href="https://github.com/adammiribyan/zeroboot" target="_blank">Show HN: Sub-millisecond VM sandboxes using CoW memory forking</a> <code>其他</code></h3>
+
+<p>🔺 <strong>108</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47412569" target="_blank">21 评论</a> | 👤 adammiribyan</p>
+
+<h3>9. <a href="https://github.com/antflydb/antfly" target="_blank">Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go</a> <code>其他</code></h3>
+
+<p>🔺 <strong>85</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47414291" target="_blank">36 评论</a> | 👤 kingcauchy</p>
+
+<h3>10. <a href="https://arxiv.org/abs/2603.15381" target="_blank">Why AI systems don't learn – On autonomous learning from cognitive science</a> <code>其他</code></h3>
+
+<p>🔺 <strong>74</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47418722" target="_blank">22 评论</a> | 👤 aanet</p>
+
+<h3>11. <a href="https://github.com/chenxin-yan/crust" target="_blank">Show HN: Crust – A CLI framework for TypeScript and Bun</a> <code>其他</code></h3>
+
+<p>🔺 <strong>74</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47408727" target="_blank">32 评论</a> | 👤 jellyotsiro</p>
+
+<h3>12. <a href="https://github.com/peters/horizon" target="_blank">Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust</a> <code>其他</code></h3>
+
+<p>🔺 <strong>60</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47416227" target="_blank">22 评论</a> | 👤 petersunde</p>
+
+<h3>13. <a href="https://www.Bracketmadness.ai" target="_blank">Show HN: March Madness Bracket Challenge for AI Agents Only</a> <code>其他</code></h3>
+
+<p>🔺 <strong>60</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47412015" target="_blank">39 评论</a> | 👤 bwade818</p>
+
+<h3>14. <a href="https://github.com/garrytan/gstack/tree/main" target="_blank">Garry Tan's Claude Code Setup</a> <code>其他</code></h3>
+
+<p>🔺 <strong>52</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47418576" target="_blank">57 评论</a> | 👤 alienreborn</p>
+
+<h3>15. <a href="https://news.ycombinator.com/item?id=47417335" target="_blank">Launch HN: Kita (YC W26) – Automate credit review in emerging markets</a> <code>其他</code></h3>
+
+<p>🔺 <strong>36</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47417335" target="_blank">5 评论</a> | 👤 rheamalhotra1</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2603.16859v1" target="_blank">SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models</a></h3>
+
+<p class="italic-note"><em>SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models</em></p>
+
+<p>📝 Tianyu Xie, Jinfa Huang, Yuexiao Ma et al. | 📂 <code>cs.AI</code></p>
+
+<p>Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16859v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2603.16862v1" target="_blank">Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory</a></h3>
+
+<p class="italic-note"><em>Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory</em></p>
+
+<p>📝 Sahil Sen, Elias Lumer, Anmol Gulati et al. | 📂 <code>cs.CL</code></p>
+
+<p>Recent advances in Large Language Models (LLMs) have enabled conversational AI agents to engage in extended multi-turn interactions spanning weeks or months. However, existing memory systems struggle</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16862v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2603.16856v1" target="_blank">Online Experiential Learning for Language Models</a></h3>
+
+<p class="italic-note"><em>Online Experiential Learning for Language Models</em></p>
+
+<p>📝 Tianzhu Ye, Li Dong, Qingxiu Dong et al. | 📂 <code>cs.CL</code></p>
+
+<p>The prevailing paradigm for improving large language models relies on offline training with human annotations or simulated environments, leaving the rich experience accumulated during real-world deplo</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16856v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2603.16848v1" target="_blank">Mediocrity is the key for LLM as a Judge Anchor Selection</a></h3>
+
+<p class="italic-note"><em>Mediocrity is the key for LLM as a Judge Anchor Selection</em></p>
+
+<p>📝 Shachar Don-Yehiya, Asaf Yehudai, Leshem Choshen et al. | 📂 <code>cs.CL</code></p>
+
+<p>The ``LLM-as-a-judge'' paradigm has become a standard method for evaluating open-ended generation. To address the quadratic scalability costs of pairwise comparisons, popular benchmarks like Arena-Har</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16848v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2603.16867v1" target="_blank">Efficient Reasoning on the Edge</a></h3>
+
+<p class="italic-note"><em>Efficient Reasoning on the Edge</em></p>
+
+<p>📝 Yelysei Bondarenko, Thomas Hehn, Rob Hesselink et al. | 📂 <code>cs.LG, cs.CL</code></p>
+
+<p>Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16867v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2603.16857v1" target="_blank">Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers</a></h3>
+
+<p class="italic-note"><em>Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers</em></p>
+
+<p>📝 Mayur Patil, Qadeer Ahmed, Shawn Midlam-Mohler et al. | 📂 <code>cs.LG</code></p>
+
+<p>Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day p</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16857v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2603.16849v1" target="_blank">GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators</a></h3>
+
+<p class="italic-note"><em>GIST: Gauge-Invariant Spectral Transformers for Scalable Graph Neural Operators</em></p>
+
+<p>📝 Mattia Rigotti, Nicholas Thumiger, Thomas Frick | 📂 <code>cs.LG</code></p>
+
+<p>Adapting transformer positional encoding to meshes and graph-structured data presents significant computational challenges: exact spectral methods require cubic-complexity eigendecomposition and can i</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16849v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2603.16846v1" target="_blank">Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning</a></h3>
+
+<p class="italic-note"><em>Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning</em></p>
+
+<p>📝 Reek Das, Biplab Kanti Sen | 📂 <code>cs.LG</code></p>
+
+<p>Federated Learning (FL) is increasingly applied in sectors like healthcare, finance, and IoT, enabling collaborative model training while safeguarding user privacy. However, FL systems are susceptible</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16846v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2603.16871v1" target="_blank">WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation</a></h3>
+
+<p class="italic-note"><em>WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation</em></p>
+
+<p>📝 Jisu Nam, Yicong Hong, Chun-Hao Paul Huang et al. | 📂 <code>cs.CV</code></p>
+
+<p>Recent advances in video diffusion transformers have enabled interactive gaming world models that allow users to explore generated environments over extended horizons. However, existing approaches str</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16871v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2603.16870v1" target="_blank">Demystifing Video Reasoning</a></h3>
+
+<p class="italic-note"><em>Demystifing Video Reasoning</em></p>
+
+<p>📝 Ruisi Wang, Zhongang Cai, Fanyi Pu et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16870v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2603.16869v1" target="_blank">SegviGen: Repurposing 3D Generative Model for Part Segmentation</a></h3>
+
+<p class="italic-note"><em>SegviGen: Repurposing 3D Generative Model for Part Segmentation</em></p>
+
+<p>📝 Lin Li, Haoran Feng, Zehuan Huang et al. | 📂 <code>cs.CV</code></p>
+
+<p>We introduce SegviGen, a framework that repurposes native 3D generative models for 3D part segmentation. Existing pipelines either lift strong 2D priors into 3D via distillation or multi-view mask agg</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16869v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2603.16868v1" target="_blank">MessyKitchens: Contact-rich object-level 3D scene reconstruction</a></h3>
+
+<p class="italic-note"><em>MessyKitchens: Contact-rich object-level 3D scene reconstruction</em></p>
+
+<p>📝 Junaid Ahmed Ansari, Ran Ding, Fabio Pizzati et al. | 📂 <code>cs.CV, cs.AI, cs.RO</code></p>
+
+<p>Monocular 3D scene reconstruction has recently seen significant progress. Powered by the modern neural architectures and large-scale data, recent methods achieve high performance in depth estimation f</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16868v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2603.16864v1" target="_blank">SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation</a></h3>
+
+<p class="italic-note"><em>SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation</em></p>
+
+<p>📝 Jiongze Yu, Xiangbo Gao, Pooja Verlani et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reli</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16864v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2603.16858v1" target="_blank">SOMA: Unifying Parametric Human Body Models</a></h3>
+
+<p class="italic-note"><em>SOMA: Unifying Parametric Human Body Models</em></p>
+
+<p>📝 Jun Saito, Jiefeng Li, Michael de Ruyter et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>Parametric human body models are foundational to human reconstruction, animation, and simulation, yet they remain mutually incompatible: SMPL, SMPL-X, MHR, Anny, and related models each diverge in mes</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16858v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2603.16844v1" target="_blank">M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM</a></h3>
+
+<p class="italic-note"><em>M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM</em></p>
+
+<p>📝 Kerui Ren, Guanghao Li, Changjian Jiang et al. | 📂 <code>cs.CV</code></p>
+
+<p>Streaming reconstruction from uncalibrated monocular video remains challenging, as it requires both high-precision pose estimation and computationally efficient online refinement in dynamic environmen</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.16844v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + Gemini</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
