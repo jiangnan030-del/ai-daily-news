@@ -8,6 +8,10 @@ import logging
 import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from dotenv import load_dotenv
+
+# 加载 .env 环境变量
+load_dotenv()
 
 # 添加项目根目录到 Python 路径
 PROJECT_ROOT = Path(__file__).parent
@@ -68,14 +72,14 @@ def main():
         return
 
     # ========== Step 2: AI 摘要生成 ==========
-    gemini_key = os.environ.get("GEMINI_API_KEY", "")
-    if gemini_key:
-        logger.info("🧠 Step 2/5: 使用 Gemini 生成 AI 摘要...")
+    has_api = os.environ.get("AI_API_KEY", "") or os.environ.get("FALLBACK_API_KEY", "")
+    if has_api:
+        logger.info("🧠 Step 2/5: 使用 AI 生成摘要...")
 
         if github_projects:
             logger.info("  → 生成 GitHub 项目摘要...")
             github_projects = summarize_github_projects(github_projects)
-            time.sleep(1)  # 避免 API 速率限制
+            time.sleep(1)
 
         if hn_posts:
             logger.info("  → 生成 HN 帖子摘要...")
@@ -89,8 +93,7 @@ def main():
 
         logger.info("  ✅ AI 摘要生成完成")
     else:
-        logger.warning("⚠️ 未设置 GEMINI_API_KEY，跳过 AI 摘要生成（将使用原始内容）")
-        # 设置默认值
+        logger.warning("⚠️ 未设置 AI_API_KEY，跳过 AI 摘要生成（将使用原始内容）")
         for p in github_projects:
             p.setdefault("summary_cn", p.get("description", ""))
             p.setdefault("score", 5)
@@ -109,7 +112,7 @@ def main():
 
     # ========== Step 3: 生成每日概览 ==========
     logger.info("📌 Step 3/5: 生成每日趋势概览...")
-    if gemini_key:
+    if has_api:
         overview = generate_daily_overview(github_projects, hn_posts, arxiv_papers)
     else:
         overview = (
@@ -124,7 +127,6 @@ def main():
     md_content = generate_markdown(overview, github_projects, hn_posts, arxiv_papers)
     md_path = save_markdown(md_content, date_str)
 
-    # 保存原始 JSON 数据
     json_path = save_json_data(github_projects, hn_posts, arxiv_papers, date_str)
     logger.info(f"  ✅ Markdown: {md_path}")
     logger.info(f"  ✅ JSON 数据: {json_path}")
