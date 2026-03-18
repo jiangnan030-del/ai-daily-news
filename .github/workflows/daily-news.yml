@@ -33,7 +33,12 @@ jobs:
 
       - name: Generate daily news
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_API_BASE_URL: ${{ secrets.AI_API_BASE_URL }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          FALLBACK_API_KEY: ${{ secrets.FALLBACK_API_KEY }}
+          FALLBACK_API_BASE_URL: ${{ secrets.FALLBACK_API_BASE_URL }}
+          FALLBACK_MODEL: ${{ secrets.FALLBACK_MODEL }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python main.py
 
