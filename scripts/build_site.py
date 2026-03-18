@@ -302,7 +302,7 @@ HTML_TEMPLATE = r'''<!DOCTYPE html>
         {{CONTENT}}
     </div>
     <div class="footer">
-        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + Gemini</p>
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
     </div>
     <script>
         function toggleTheme() {
@@ -429,7 +429,7 @@ INDEX_TEMPLATE = r'''<!DOCTYPE html>
     </div>
     <div class="hero">
         <h1>🤖 AI 前沿日报</h1>
-        <p>每天自动聚合 GitHub Trending、Hacker News、arXiv 的 AI 前沿资讯，由 Gemini 智能摘要</p>
+        <p>每天自动聚合 GitHub Trending、Hacker News、arXiv 的 AI 前沿资讯，由 AI 智能摘要</p>
         <div class="hero-stats">
             <div class="stat"><div class="stat-num">{{TOTAL}}</div><div class="stat-label">已发布日报</div></div>
             <div class="stat"><div class="stat-num">3</div><div class="stat-label">数据来源</div></div>
@@ -448,7 +448,7 @@ INDEX_TEMPLATE = r'''<!DOCTYPE html>
         </div>
     </div>
     <div class="footer">
-        <p>AI Daily News · Powered by GitHub Actions + Google Gemini</p>
+        <p>AI Daily News · Powered by GitHub Actions + Claude/Gemini AI</p>
         <p style="margin-top:4px">数据来源: GitHub Trending · Hacker News · arXiv</p>
     </div>
     <script>
