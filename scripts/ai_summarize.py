@@ -1,27 +1,122 @@
 """
-使用 Google Gemini API 对抓取的内容进行智能摘要、评分和翻译
+使用 AI API (OpenAI 兼容格式) 对抓取的内容进行智能摘要、评分和翻译
+支持双 API 自动降级: Claude (主) → Gemini (备)
 """
 import os
+import re
 import json
 import logging
 import time
+from openai import OpenAI
 
 logger = logging.getLogger(__name__)
 
-# Gemini API 配置
-GEMINI_MODEL = "gemini-2.0-flash"
+# ========== 双 API 配置 ==========
+# 主 API: Claude
+PRIMARY_API_KEY = os.environ.get("AI_API_KEY", "")
+PRIMARY_API_BASE = os.environ.get("AI_API_BASE_URL", "https://aws.ai678.top/v1")
+PRIMARY_MODEL = os.environ.get("AI_MODEL", "claude-opus-4-5-20251101")
+
+# 备用 API: Gemini
+FALLBACK_API_KEY = os.environ.get("FALLBACK_API_KEY", "")
+FALLBACK_API_BASE = os.environ.get("FALLBACK_API_BASE_URL", "https://new.lemonapi.site/v1")
+FALLBACK_MODEL = os.environ.get("FALLBACK_MODEL", "[L]gemini-2.5-pro")
+
+API_TIMEOUT = 120
 
 
-def _get_gemini_client():
-    """获取 Gemini 客户端"""
-    import google.generativeai as genai
+def _create_client(api_key: str, base_url: str) -> OpenAI:
+    """创建 OpenAI 兼容客户端"""
+    return OpenAI(api_key=api_key, base_url=base_url, timeout=API_TIMEOUT)
 
-    api_key = os.environ.get("GEMINI_API_KEY", "")
-    if not api_key:
-        raise ValueError("未设置 GEMINI_API_KEY 环境变量")
 
-    genai.configure(api_key=api_key)
-    return genai.GenerativeModel(GEMINI_MODEL)
+def _call_api(client: OpenAI, model: str, prompt: str) -> str:
+    """调用单个 API"""
+    response = client.chat.completions.create(
+        model=model,
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.3,
+        max_tokens=8192,
+    )
+    return response.choices[0].message.content.strip()
+
+
+def _robust_json_parse(text: str) -> list[dict]:
+    """健壮的 JSON 解析，处理 LLM 常见的格式问题"""
+    # 1. 去除 markdown 代码块
+    if "```" in text:
+        match = re.search(r"```(?:json)?\s*\n?(.*?)```", text, re.DOTALL)
+        if match:
+            text = match.group(1)
+    text = text.strip()
+
+    # 2. 提取 JSON 数组部分
+    arr_match = re.search(r"\[.*\]", text, re.DOTALL)
+    if arr_match:
+        text = arr_match.group(0)
+
+    # 3. 尝试直接解析
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        pass
+
+    # 4. 修复尾逗号
+    fixed = re.sub(r",\s*([}\]])", r"\1", text)
+    try:
+        return json.loads(fixed)
+    except json.JSONDecodeError:
+        pass
+
+    # 5. 如果 JSON 被截断，尝试补全
+    if text.count("[") > text.count("]"):
+        last_brace = text.rfind("}")
+        if last_brace > 0:
+            truncated = text[:last_brace + 1] + "]"
+            truncated = re.sub(r",\s*\]", "]", truncated)
+            try:
+                return json.loads(truncated)
+            except json.JSONDecodeError:
+                pass
+
+    # 6. 逐个提取 JSON 对象
+    objects = []
+    for m in re.finditer(r"\{[^{}]*\}", text):
+        try:
+            obj = json.loads(m.group(0))
+            objects.append(obj)
+        except json.JSONDecodeError:
+            continue
+    if objects:
+        return objects
+
+    raise json.JSONDecodeError("无法解析 AI 返回的 JSON", text, 0)
+
+
+def _chat(prompt: str) -> str:
+    """调用 AI API 生成内容（自动降级）
+
+    优先使用 Claude (主)，失败时自动切换到 Gemini (备)
+    """
+    if PRIMARY_API_KEY:
+        try:
+            client = _create_client(PRIMARY_API_KEY, PRIMARY_API_BASE)
+            result = _call_api(client, PRIMARY_MODEL, prompt)
+            logger.debug(f"主 API ({PRIMARY_MODEL}) 调用成功")
+            return result
+        except Exception as e:
+            logger.warning(f"主 API ({PRIMARY_MODEL}) 调用失败: {e}")
+
+    if FALLBACK_API_KEY:
+        try:
+            client = _create_client(FALLBACK_API_KEY, FALLBACK_API_BASE)
+            result = _call_api(client, FALLBACK_MODEL, prompt)
+            logger.info(f"备用 API ({FALLBACK_MODEL}) 调用成功")
+            return result
+        except Exception as e:
+            logger.warning(f"备用 API ({FALLBACK_MODEL}) 调用失败: {e}")
+
+    raise ValueError("所有 AI API 均不可用，请检查 API Key 配置")
 
 
 def summarize_github_projects(projects: list[dict]) -> list[dict]:
@@ -33,8 +128,6 @@ def summarize_github_projects(projects: list[dict]) -> list[dict]:
     """
     if not projects:
         return []
-
-    model = _get_gemini_client()
 
     projects_text = ""
     for i, p in enumerate(projects):
@@ -60,16 +153,8 @@ def summarize_github_projects(projects: list[dict]) -> list[dict]:
 只返回 JSON 数组，不要其他文字。"""
 
     try:
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        # 清理可能的 markdown 代码块标记
-        if text.startswith("```"):
-            text = text.split("\n", 1)[1]
-        if text.endswith("```"):
-            text = text.rsplit("```", 1)[0]
-        text = text.strip()
-
-        summaries = json.loads(text)
+        text = _chat(prompt)
+        summaries = _robust_json_parse(text)
 
         for s in summaries:
             idx = s.get("index", 0) - 1
@@ -98,8 +183,6 @@ def summarize_hn_posts(posts: list[dict]) -> list[dict]:
     if not posts:
         return []
 
-    model = _get_gemini_client()
-
     posts_text = ""
     for i, p in enumerate(posts):
         posts_text += (
@@ -123,15 +206,8 @@ def summarize_hn_posts(posts: list[dict]) -> list[dict]:
 只返回 JSON 数组，不要其他文字。"""
 
     try:
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        if text.startswith("```"):
-            text = text.split("\n", 1)[1]
-        if text.endswith("```"):
-            text = text.rsplit("```", 1)[0]
-        text = text.strip()
-
-        summaries = json.loads(text)
+        text = _chat(prompt)
+        summaries = _robust_json_parse(text)
 
         for s in summaries:
             idx = s.get("index", 0) - 1
@@ -160,8 +236,6 @@ def summarize_arxiv_papers(papers: list[dict]) -> list[dict]:
     if not papers:
         return []
 
-    model = _get_gemini_client()
-
     papers_text = ""
     for i, p in enumerate(papers):
         abstract_short = p["abstract"][:300]
@@ -187,15 +261,8 @@ def summarize_arxiv_papers(papers: list[dict]) -> list[dict]:
 只返回 JSON 数组，不要其他文字。"""
 
     try:
-        response = model.generate_content(prompt)
-        text = response.text.strip()
-        if text.startswith("```"):
-            text = text.split("\n", 1)[1]
-        if text.endswith("```"):
-            text = text.rsplit("```", 1)[0]
-        text = text.strip()
-
-        summaries = json.loads(text)
+        text = _chat(prompt)
+        summaries = _robust_json_parse(text)
 
         for s in summaries:
             idx = s.get("index", 0) - 1
@@ -228,9 +295,6 @@ def generate_daily_overview(
     Returns:
         中文趋势总结文本
     """
-    model = _get_gemini_client()
-
-    # 构建上下文
     context_parts = []
 
     if github_projects:
@@ -258,8 +322,7 @@ def generate_daily_overview(
 4. 不要使用列表格式，用连贯的段落叙述"""
 
     try:
-        response = model.generate_content(prompt)
-        overview = response.text.strip()
+        overview = _chat(prompt)
         logger.info("生成每日趋势总览成功")
         return overview
     except Exception as e:
