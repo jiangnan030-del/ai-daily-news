@@ -1,0 +1,667 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T09:19:57.059355+08:00",
+  "github_trending": [
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 96241,
+      "forks": 7636,
+      "language": "Shell",
+      "stars_today": 4089,
+      "source": "github_trending",
+      "summary_cn": "一个实用的智能体技能框架和软件开发方法论。提供结构化的方式来构建和管理 AI 智能体的能力，适合需要快速搭建智能体系统的开发团队。今日新增 4089 星，热度极高。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "让智能体开发真正可行的技能框架"
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "stars": 15126,
+      "forks": 2222,
+      "language": "Python",
+      "stars_today": 1206,
+      "source": "github_trending",
+      "summary_cn": "基于 LangChain 和 LangGraph 构建的智能体执行框架。配备规划工具、文件系统后端和子智能体生成能力，专为处理复杂智能体任务设计。适合需要企业级智能体解决方案的团队。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "LangChain 官方出品的复杂任务智能体框架"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 7038,
+      "forks": 303,
+      "language": "JavaScript",
+      "stars_today": 1038,
+      "source": "github_trending",
+      "summary_cn": "Claude Code 的可视化监控插件。实时显示上下文使用情况、活跃工具、运行中的智能体和任务进度，帮助开发者更好地理解和调试智能体行为。轻量级 JavaScript 实现。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "让 Claude Code 的运行状态一目了然"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 55833,
+      "forks": 4686,
+      "language": "Python",
+      "stars_today": 1005,
+      "source": "github_trending",
+      "summary_cn": "统一的 Web UI 用于训练和本地运行开源模型。支持 Qwen、DeepSeek、gpt-oss 和 Gemma 等主流开源模型，提供一站式的模型管理和推理界面。55K+ 星标，成熟稳定。",
+      "score": 9,
+      "category": "LLM",
+      "one_liner": "本地运行开源大模型的最佳 UI 工具"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "stars": 6363,
+      "forks": 813,
+      "language": "Python",
+      "stars_today": 481,
+      "source": "github_trending",
+      "summary_cn": "开源的异步编码智能体。由 LangChain 团队开发，专注于自动化代码生成和修改任务，支持异步执行提升效率。适合需要 AI 辅助编程的开发场景。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "LangChain 推出的开源编码助手"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 32928,
+      "forks": 6359,
+      "language": "Python",
+      "stars_today": 287,
+      "source": "github_trending",
+      "summary_cn": "多智能体 LLM 金融交易框架。利用多个协作智能体进行市场分析、策略制定和交易执行，将 AI 技术应用于量化交易领域。32K+ 星标，金融科技热门项目。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "用多智能体系统玩转量化交易"
+    },
+    {
+      "name": "resemble-ai/chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "description": "SoTA open-source TTS",
+      "stars": 23737,
+      "forks": 3142,
+      "language": "Python",
+      "stars_today": 148,
+      "source": "github_trending",
+      "summary_cn": "最先进的开源文本转语音系统。提供高质量的语音合成能力，音质和自然度达到业界领先水平。适合需要集成 TTS 功能的应用开发。",
+      "score": 8,
+      "category": "NLP",
+      "one_liner": "开源 TTS 的新标杆"
+    },
+    {
+      "name": "1Panel-dev/MaxKB",
+      "url": "https://github.com/1Panel-dev/MaxKB",
+      "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents. 强大易用的开源企业级智能体平台。",
+      "stars": 20432,
+      "forks": 2692,
+      "language": "Python",
+      "stars_today": 31,
+      "source": "github_trending",
+      "summary_cn": "企业级智能体构建平台。提供强大易用的开源解决方案，帮助企业快速搭建和部署智能体应用。20K+ 星标，国内团队开发，中文支持友好。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "国产企业级智能体平台"
+    },
+    {
+      "name": "coleam00/context-engineering-intro",
+      "url": "https://github.com/coleam00/context-engineering-intro",
+      "description": "Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!",
+      "stars": 12814,
+      "forks": 2660,
+      "language": "Python",
+      "stars_today": 29,
+      "source": "github_trending",
+      "summary_cn": "上下文工程入门教程。介绍如何通过优化上下文让 AI 编码助手真正发挥作用，以 Claude Code 为核心但适用于所有 AI 编码工具。实用的方法论指南。",
+      "score": 6,
+      "category": "教程",
+      "one_liner": "让 AI 编码助手好用的秘诀"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "description": "🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.",
+      "stars": 32114,
+      "forks": 2412,
+      "language": "Python",
+      "stars_today": 29,
+      "source": "github_trending",
+      "summary_cn": "一体化开发者平台。集成产品分析、会话回放、错误追踪、功能开关、A/B 测试、数据仓库和 AI 助手等功能，帮助团队更快构建成功产品。32K+ 星标，功能全面。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "开发者的全能数据分析平台"
+    },
+    {
+      "name": "plastic-labs/honcho",
+      "url": "https://github.com/plastic-labs/honcho",
+      "description": "Memory library for building stateful agents",
+      "stars": 641,
+      "forks": 63,
+      "language": "Python",
+      "stars_today": 28,
+      "source": "github_trending",
+      "summary_cn": "用于构建有状态智能体的内存库。提供持久化的对话记忆和上下文管理能力，让智能体能够跨会话保持状态。轻量级 Python 实现，易于集成。",
+      "score": 6,
+      "category": "Agent",
+      "one_liner": "给智能体加上长期记忆"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "score": 9,
+      "comments": 179,
+      "author": "pember",
+      "time": "2026-03-17T21:04:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47418295",
+      "source": "hacker_news",
+      "title_cn": "Mistral AI 发布 Forge 平台",
+      "summary_cn": "Mistral AI 推出名为 Forge 的新产品，预计是面向开发者的 AI 应用构建或部署平台，旨在降低企业使用大模型的门槛。",
+      "category": "产品发布"
+    },
+    {
+      "title": "AI coding is gambling",
+      "url": "https://notes.visaint.space/ai-coding-is-gambling/",
+      "score": 8,
+      "comments": 375,
+      "author": "speckx",
+      "time": "2026-03-18T17:22:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428541",
+      "source": "hacker_news",
+      "title_cn": "AI 编程就是一场赌博",
+      "summary_cn": "作者认为使用 AI 辅助编程本质上是在赌博——有时能快速产出高质量代码，有时则生成难以调试的垃圾，结果高度不可预测。评论区引发大量开发者共鸣与争论。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "score": 9,
+      "comments": 72,
+      "author": "ozgune",
+      "time": "2026-03-18T15:30:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47427017",
+      "source": "hacker_news",
+      "title_cn": "Snowflake AI 逃逸沙箱并执行恶意软件",
+      "summary_cn": "安全研究人员发现 Snowflake 平台的 AI 功能存在严重漏洞，AI 代理能够突破沙箱隔离并在宿主环境中执行恶意代码，暴露了 AI 集成系统的安全风险。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 7,
+      "comments": 96,
+      "author": "Stwerner",
+      "time": "2026-03-18T20:45:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47431237",
+      "source": "hacker_news",
+      "title_cn": "「如经 AI 重新生成，保修即失效」",
+      "summary_cn": "文章探讨 AI 生成代码的质量保证与责任归属问题，当软件由 AI 重写或重新生成后，原有的质量承诺和维护保障是否还能成立。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "score": 8,
+      "comments": 106,
+      "author": "aanet",
+      "time": "2026-03-17T21:42:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47418722",
+      "source": "hacker_news",
+      "title_cn": "为什么 AI 系统不会真正学习——来自认知科学的自主学习视角",
+      "summary_cn": "该论文从认知科学角度分析当前 AI 系统与人类自主学习之间的根本差异，指出现有模型缺乏真正的自主学习能力，仅是模式匹配而非理解。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Show HN: Will my flight have Starlink?",
+      "url": "https://news.ycombinator.com/item?id=47428650",
+      "score": 6,
+      "comments": 207,
+      "author": "bblcla",
+      "time": "2026-03-18T17:29:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428650",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 查查我的航班有没有 Starlink WiFi",
+      "summary_cn": "开发者制作了一个工具，帮助乘客查询特定航班是否配备了 SpaceX Starlink 卫星互联网服务，方便旅客提前了解机上网络体验。",
+      "category": "开源项目"
+    },
+    {
+      "title": "OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "score": 8,
+      "comments": 145,
+      "author": "aamederen",
+      "time": "2026-03-18T10:49:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47423976",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 的新重心：IPO",
+      "summary_cn": "分析文章指出 OpenAI 的战略重心正在向 IPO 上市倾斜，商业化和估值增长可能正在取代技术突破成为公司的首要目标。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: Antfly: Distributed, Multimodal Search and Memory and Graphs in Go",
+      "url": "https://github.com/antflydb/antfly",
+      "score": 7,
+      "comments": 41,
+      "author": "kingcauchy",
+      "time": "2026-03-17T15:45:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47414291",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Antfly——用 Go 实现的分布式多模态搜索、记忆与图数据库",
+      "summary_cn": "Antfly 是一个用 Go 语言编写的开源项目，集成了分布式多模态搜索、记忆存储和图数据库功能，适用于 AI 应用的数据基础设施。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+      "score": 8,
+      "comments": 43,
+      "author": "speckx",
+      "time": "2026-03-18T16:17:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47427647",
+      "source": "hacker_news",
+      "title_cn": "Google 工程师推出「Sashiko」，用 AI 代理审查 Linux 内核代码",
+      "summary_cn": "Google 工程师发布了名为 Sashiko 的工具，利用 AI 代理自动审查 Linux 内核代码，旨在提升内核开发的代码审查效率和质量。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+      "url": "https://github.com/peters/horizon",
+      "score": 7,
+      "comments": 31,
+      "author": "petersunde",
+      "time": "2026-03-17T18:14:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47416227",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Horizon——用 Rust 打造的 GPU 加速无限画布终端",
+      "summary_cn": "Horizon 是一个用 Rust 编写的终端模拟器，支持 GPU 加速渲染和无限画布功能，为开发者提供全新的终端交互体验。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+      "url": "https://tmux.thijsverreck.com",
+      "score": 6,
+      "comments": 36,
+      "author": "thijsverreck",
+      "time": "2026-03-18T17:46:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428868",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Tmux-IDE，开源的 Agent 优先终端 IDE",
+      "summary_cn": "基于 tmux 构建的开源终端 IDE，以 AI Agent 为核心设计理念，让开发者在终端环境中获得智能编码辅助体验。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+      "url": "https://news.ycombinator.com/item?id=47417335",
+      "score": 6,
+      "comments": 15,
+      "author": "rheamalhotra1",
+      "time": "2026-03-17T19:46:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47417335",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Kita (YC W26)——自动化新兴市场信贷审核",
+      "summary_cn": "YC W26 孵化的 Kita 致力于用 AI 自动化新兴市场的信贷审核流程，帮助金融机构更高效地评估借款人信用。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "score": 6,
+      "comments": 17,
+      "author": "wiseprobe",
+      "time": "2026-03-18T01:10:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47420493",
+      "source": "hacker_news",
+      "title_cn": "两行代码启动一个带沙箱执行环境的自主 AI 代理",
+      "summary_cn": "开源库 onprem 展示了如何仅用两行代码即可启动一个具备沙箱隔离执行能力的自主 AI 代理，大幅降低了本地 AI 代理的部署门槛。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "score": 8,
+      "comments": 6,
+      "author": "xlayn",
+      "time": "2026-03-18T21:31:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47431671",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 复制 24B 大模型中的 3 层，逻辑推理能力从 0.22 飙升至 0.76，无需训练",
+      "summary_cn": "研究者发现通过简单复制 LLM 中特定的 3 个层，无需任何额外训练即可将模型的逻辑推理得分从 0.22 大幅提升至 0.76，揭示了模型内部电路的有趣特性。",
+      "category": "技术突破"
+    },
+    {
+      "title": "AI chatbots often validate delusions and suicidal thoughts, study finds",
+      "url": "https://www.ft.com/content/7f635a68-3b2a-4e4f-ae3d-926ff06ff068",
+      "score": 9,
+      "comments": 11,
+      "author": "1vuio0pswjnm7",
+      "time": "2026-03-18T17:34:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428718",
+      "source": "hacker_news",
+      "title_cn": "研究发现：AI 聊天机器人经常附和用户的妄想和自杀念头",
+      "summary_cn": "一项研究表明，AI 聊天机器人在与用户对话时倾向于迎合和验证用户的妄想性想法及自杀倾向，而非提供适当的引导，引发对 AI 安全性的严重担忧。",
+      "category": "行业动态"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Detecting the Machine: A Comprehensive Benchmark of AI-Generated Text Detectors Across Architectures, Domains, and Adversarial Conditions",
+      "authors": [
+        "Madhav S. Baidya",
+        "S. S. Baidya",
+        "Chirag Chawla"
+      ],
+      "abstract": "The rapid proliferation of large language models (LLMs) has created an urgent need for robust and generalizable detectors of machine-generated text. Existing benchmarks typically evaluate a single detector on a single dataset under ideal conditions, leaving open questions about cross-domain transfer, cross-LLM generalization, and adversarial robustness. We present a comprehensive benchmark evaluating diverse detection approaches across two corpora: HC3 (23,363 human-ChatGPT pairs) and ELI5 (15,000 human-Mistral-7B pairs). Methods include classical classifiers, fine-tuned transformer encoders (BERT, RoBERTa, ELECTRA, DistilBERT, DeBERTa-v3), a CNN, an XGBoost stylometric model, perplexity-based detectors, and LLM-as-detector prompting. Results show that transformer models achieve near-perfect in-distribution performance but degrade under domain shift. The XGBoost stylometric model matches performance while remaining interpretable. LLM-based detectors underperform and are affected by generator-detector identity bias. Perplexity-based methods exhibit polarity inversion, with modern LLM outputs showing lower perplexity than human text, but remain effective when corrected. No method generalizes robustly across domains and LLM sources.",
+      "url": "http://arxiv.org/abs/2603.17522v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17522v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-03-18T09:27:27+00:00",
+      "source": "arxiv",
+      "title_cn": "检测机器生成文本：跨架构、领域和对抗条件的AI生成文本检测器综合基准",
+      "summary_cn": "针对大语言模型生成文本泛滥的问题，研究者构建了一个全面的检测基准，评估不同检测器在跨领域和对抗条件下的表现。现有基准通常只在理想条件下测试单一检测器，该研究填补了跨域迁移能力评估的空白。",
+      "score": 8,
+      "significance": "为AI生成文本检测提供了首个系统性的跨域评估框架，对打击虚假信息和学术不端具有重要意义"
+    },
+    {
+      "title": "Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality",
+      "authors": [
+        "Mengyu Bu",
+        "Yang Feng"
+      ],
+      "abstract": "Large language models (LLMs) exhibit strong general intelligence, yet their multilingual performance remains highly imbalanced. Although LLMs encode substantial cross-lingual knowledge in a unified semantic space, they often struggle to reliably interface this knowledge with low-resource or unseen languages. Fortunately, pretrained encoder-decoder translation models already possess balanced multilingual capability, suggesting a natural complement to LLMs. In this work, we propose XBridge, a compositional encoder-LLM-decoder architecture that offloads multilingual understanding and generation to external pretrained translation models, while preserving the LLM as an English-centric core for general knowledge processing. To address the resulting representation misalignment across models, we introduce lightweight cross-model mapping layers and an optimal transport-based alignment objective, enabling fine-grained semantic consistency for multilingual generation. Experiments on four LLMs across multilingual understanding, reasoning, summarization, and generation indicate that XBridge outperforms strong baselines, especially on low-resource and previously unseen languages, without retraining the LLM.",
+      "url": "http://arxiv.org/abs/2603.17512v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17512v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-18T09:19:08+00:00",
+      "source": "arxiv",
+      "title_cn": "按需语言，核心知识：用编码器-解码器翻译模型组合LLM实现可扩展多语言能力",
+      "summary_cn": "针对大语言模型多语言性能不平衡的问题，提出将LLM的跨语言知识与编码器-解码器翻译模型结合的方案。该方法能够让LLM更好地处理低资源语言和未见过的语言。",
+      "score": 7,
+      "significance": "为解决LLM多语言能力不均衡提供了新思路，有助于推动AI技术的全球化普及"
+    },
+    {
+      "title": "Inducing Epistemological Humility in Large Language Models: A Targeted SFT Approach to Reducing Hallucination",
+      "authors": [
+        "Cem Uluoglakci",
+        "Tugba Taskaya Temizel"
+      ],
+      "abstract": "Large language models (LLMs) often hallucinate, producing fluent but false information, partly because supervised fine-tuning (SFT) implicitly rewards always responding. We introduce $\\textit{HypoTermInstruct}$, an SFT dataset (31,487 responses for 11,151 questions) designed to teach models epistemological humility-the ability to recognize the limits of their own knowledge and admit uncertainty. This is achieved through questions about non-existent \"hypothetical\" terms. We also release $\\textit{HypoTermQA-Enhanced}$, a benchmark for hallucination tendency strengthened through multiple validations. We conducted 800 controlled LoRA SFT runs across $\\textit{Llama3.1-8B}$ and $\\textit{Gemma3-4B}$ (base and instruct), testing 100 fine-tuning configurations with paired controls. Our results demonstrate that replacing generic instruction data with $\\textit{HypoTermInstruct}$ significantly improves the HypoTerm Score (median increases of 0.19% to 25.91%) and FactScore (+0.39% to +0.86%), while maintaining stable performance on MMLU (minimal decreases of 0.26% to 0.35%). Our work demonstrates that targeted, high-quality SFT data teaching meta-cognitive skills can effectively reduce hallucination without preference/RL pipelines, providing mechanistic insights and a practical path toward more reliable AI systems.",
+      "url": "http://arxiv.org/abs/2603.17504v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17504v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-18T09:07:39+00:00",
+      "source": "arxiv"
+    },
+    {
+      "title": "Learning When to Attend: Conditional Memory Access for Long-Context LLMs",
+      "authors": [
+        "Sakshi Choudhary",
+        "Aditya Chattopadhyay",
+        "Luca Zancato",
+        "Elvis Nunez",
+        "Matthew Trager"
+      ],
+      "abstract": "Language models struggle to generalize beyond pretraining context lengths, limiting long-horizon reasoning and retrieval. Continued pretraining on long-context data can help but is expensive due to the quadratic scaling of Attention. We observe that most tokens do not require (Global) Attention over the entire sequence and can rely on local context. Based on this, we propose L2A (Learning To Attend), a layer that enables conditional (token-wise) long-range memory access by deciding when to invoke global attention. We evaluate L2A on Qwen 2.5 and Qwen 3 models, extending their effective context length from 32K to 128K tokens. L2A matches the performance of standard long-context training to within 3% while skipping Global Attention for $\\sim$80% of tokens, outperforming prior baselines. We also design custom Triton kernels to efficiently implement this token-wise conditional Attention on GPUs, achieving up to $\\sim$2x improvements in training throughput and time-to-first-token over FlashAttention. Moreover, L2A enables post-training pruning of highly sparse Global Attention layers, reducing KV cache memory by up to 50% with negligible performance loss.",
+      "url": "http://arxiv.org/abs/2603.17484v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17484v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-03-18T08:48:18+00:00",
+      "source": "arxiv",
+      "title_cn": "学习何时关注：长上下文LLM的条件记忆访问",
+      "summary_cn": "针对语言模型难以处理超长上下文的问题，研究发现大多数token不需要全局注意力。提出条件记忆访问机制，避免注意力机制的二次方复杂度，降低长文本处理成本。",
+      "score": 8,
+      "significance": "为突破LLM上下文长度限制提供了高效解决方案，可大幅降低长文本处理的计算成本"
+    },
+    {
+      "title": "Humans and transformer LMs: Abstraction drives language learning",
+      "authors": [
+        "Jasper Jian",
+        "Christopher D. Manning"
+      ],
+      "abstract": "Categorization is a core component of human linguistic competence. We investigate how a transformer-based language model (LM) learns linguistic categories by comparing its behaviour over the course of training to behaviours which characterize abstract feature-based and concrete exemplar-based accounts of human language acquisition. We investigate how lexical semantic and syntactic categories emerge using novel divergence-based metrics that track learning trajectories using next-token distributions. In experiments with GPT-2 small, we find that (i) when a construction is learned, abstract class-level behaviour is evident at earlier steps than lexical item-specific behaviour, and (ii) that different linguistic behaviours emerge abruptly in sequence at different points in training, revealing that abstraction plays a key role in how LMs learn. This result informs the models of human language acquisition that LMs may serve as an existence proof for.",
+      "url": "http://arxiv.org/abs/2603.17475v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17475v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-18T08:30:20+00:00",
+      "source": "arxiv",
+      "title_cn": "人类与Transformer语言模型：抽象驱动语言学习",
+      "summary_cn": "通过对比Transformer语言模型训练过程与人类语言习得，研究语言模型如何学习语言类别。对比了基于抽象特征和具体样例的两种学习机制。",
+      "score": 6,
+      "significance": "从认知科学角度理解语言模型的学习机制，为改进模型设计提供理论基础"
+    },
+    {
+      "title": "Translation Invariance of Neural Operators for the FitzHugh-Nagumo Model",
+      "authors": [
+        "Luca Pellegrini"
+      ],
+      "abstract": "Neural Operators (NOs) are a powerful deep learning framework designed to learn the solution operator that arise from partial differential equations. This study investigates NOs ability to capture the stiff spatio-temporal dynamics of the FitzHugh-Nagumo model, which describes excitable cells. A key contribution of this work is evaluating the translation invariance using a novel training strategy. NOs are trained using an applied current with varying spatial locations and intensities at a fixed time, and the test set introduces a more challenging out-of-distribution scenario in which the applied current is translated in both time and space. This approach significantly reduces the computational cost of dataset generation. Moreover we benchmark seven NOs architectures: Convolutional Neural Operators (CNOs), Deep Operator Networks (DONs), DONs with CNN encoder (DONs-CNN), Proper Orthogonal Decomposition DONs (POD-DONs), Fourier Neural Operators (FNOs), Tucker Tensorized FNOs (TFNOs), Localized Neural Operators (LocalNOs). We evaluated these models based on training and test accuracy, efficiency, and inference speed. Our results reveal that CNOs performs well on translated test dynamics. However, they require higher training costs, though their performance on the training set is similar to that of the other considered architectures. In contrast, FNOs achieve the lowest training error, but have the highest inference time. Regarding the translated dynamics, FNOs and their variants provide less accurate predictions. Finally, DONs and their variants demonstrate high efficiency in both training and inference, however they do not generalize well to the test set. These findings highlight the current capabilities and limitations of NOs in capturing complex ionic model dynamics and provide a comprehensive benchmark including their application to scenarios involving translated dynamics.",
+      "url": "http://arxiv.org/abs/2603.17523v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17523v1",
+      "categories": [
+        "cs.LG",
+        "math.NA"
+      ],
+      "published": "2026-03-18T09:28:48+00:00",
+      "source": "arxiv",
+      "title_cn": "FitzHugh-Nagumo模型的神经算子平移不变性",
+      "summary_cn": "研究神经算子在学习偏微分方程解算子时的能力，特别是在描述可兴奋细胞的FitzHugh-Nagumo模型中捕捉刚性时空动力学的表现。",
+      "score": 5,
+      "significance": "将深度学习应用于科学计算，为求解复杂偏微分方程提供新工具"
+    },
+    {
+      "title": "QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation",
+      "authors": [
+        "Charuka Herath",
+        "Yogachandran Rahulamathavan",
+        "Varuna De Silva",
+        "Sangarapillai Lambotharan"
+      ],
+      "abstract": "Federated Learning (FL) enables privacy-preserving intelligence on Internet of Things (IoT) devices but incurs a significant carbon footprint due to the high energy cost of frequent uplink transmission. While pre-trained models are increasingly available on edge devices, their potential to reduce the energy overhead of fine-tuning remains underexplored. In this work, we propose QuantFL, a sustainable FL framework that leverages pre-trained initialisation to enable aggressive, computationally lightweight quantisation. We demonstrate that pre-training naturally concentrates update statistics, allowing us to use memory-efficient bucket quantisation without the energy-intensive overhead of complex error-feedback mechanisms. On MNIST and CIFAR-100, QuantFL reduces total communication by 40\\% ($\\simeq40\\%$ total-bit reduction with full-precision downlink; $\\geq80\\%$ on uplink or when downlink is quantised) while matching or exceeding uncompressed baselines under strict bandwidth budgets; BU attains 89.00\\% (MNIST) and 66.89\\% (CIFAR-100) test accuracy with orders of magnitude fewer bits. We also account for uplink and downlink costs and provide ablations on quantisation levels and initialisation. QuantFL delivers a practical, \"green\" recipe for scalable training on battery-constrained IoT networks.",
+      "url": "http://arxiv.org/abs/2603.17507v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17507v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-03-18T09:08:28+00:00",
+      "source": "arxiv",
+      "title_cn": "QuantFL：通过预训练模型量化实现边缘物联网的可持续联邦学习",
+      "summary_cn": "针对联邦学习在物联网设备上高能耗的问题，提出利用预训练模型量化技术降低上行传输的能源成本。该方法在保护隐私的同时显著减少碳足迹。",
+      "score": 7,
+      "significance": "将AI可持续性与边缘计算结合，为绿色AI和物联网应用提供实用解决方案"
+    },
+    {
+      "title": "Auto-Unrolled Proximal Gradient Descent: An AutoML Approach to Interpretable Waveform Optimization",
+      "authors": [
+        "Ahmet Kaplan"
+      ],
+      "abstract": "This study explores the combination of automated machine learning (AutoML) with model-based deep unfolding (DU) for optimizing wireless beamforming and waveforms. We convert the iterative proximal gradient descent (PGD) algorithm into a deep neural network, wherein the parameters of each layer are learned instead of being predetermined. Additionally, we enhance the architecture by incorporating a hybrid layer that performs a learnable linear gradient transformation prior to the proximal projection. By utilizing AutoGluon with a tree-structured parzen estimator (TPE) for hyperparameter optimization (HPO) across an expanded search space, which includes network depth, step-size initialization, optimizer, learning rate scheduler, layer type, and post-gradient activation, the proposed auto-unrolled PGD (Auto-PGD) achieves 98.8% of the spectral efficiency of a traditional 200-iteration PGD solver using only five unrolled layers, while requiring only 100 training samples. We also address a gradient normalization issue to ensure consistent performance during training and evaluation, and we illustrate per-layer sum-rate logging as a tool for transparency. These contributions highlight a notable reduction in the amount of training data and inference cost required, while maintaining high interpretability compared to conventional black-box architectures.",
+      "url": "http://arxiv.org/abs/2603.17478v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17478v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-03-18T08:33:25+00:00",
+      "source": "arxiv",
+      "title_cn": "自动展开的近端梯度下降：可解释波形优化的AutoML方法",
+      "summary_cn": "将自动机器学习与基于模型的深度展开结合，用于无线波束成形和波形优化。通过将迭代优化算法转换为深度神经网络，实现可解释的参数学习。",
+      "score": 6,
+      "significance": "为无线通信优化提供了兼具性能和可解释性的深度学习方法"
+    },
+    {
+      "title": "PCA-Seg: Revisiting Cost Aggregation for Open-Vocabulary Semantic and Part Segmentation",
+      "authors": [
+        "Jianjian Yin",
+        "Tao Chen",
+        "Yi Chen",
+        "Gensheng Pei",
+        "Xiangbo Shu"
+      ],
+      "abstract": "Recent advances in vision-language models (VLMs) have garnered substantial attention in open-vocabulary semantic and part segmentation (OSPS). However, existing methods extract image-text alignment cues from cost volumes through a serial structure of spatial and class aggregations, leading to knowledge interference between class-level semantics and spatial context. Therefore, this paper proposes a simple yet effective parallel cost aggregation (PCA-Seg) paradigm to alleviate the above challenge, enabling the model to capture richer vision-language alignment information from cost volumes. Specifically, we design an expert-driven perceptual learning (EPL) module that efficiently integrates semantic and contextual streams. It incorporates a multi-expert parser to extract complementary features from multiple perspectives. In addition, a coefficient mapper is designed to adaptively learn pixel-specific weights for each feature, enabling the integration of complementary knowledge into a unified and robust feature embedding. Furthermore, we propose a feature orthogonalization decoupling (FOD) strategy to mitigate redundancy between the semantic and contextual streams, which allows the EPL module to learn diverse knowledge from orthogonalized features. Extensive experiments on eight benchmarks show that each parallel block in PCA-Seg adds merely 0.35M parameters while achieving state-of-the-art OSPS performance.",
+      "url": "http://arxiv.org/abs/2603.17520v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17520v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T09:26:43+00:00",
+      "source": "arxiv",
+      "title_cn": "PCA-Seg：重新审视开放词汇语义和部件分割的成本聚合",
+      "summary_cn": "针对视觉-语言模型在开放词汇分割中的问题，提出改进的成本聚合方法。现有方法采用串行的空间和类别聚合结构，导致知识损失。",
+      "score": 7,
+      "significance": "改进视觉-语言模型的分割能力，推动开放词汇理解在实际场景中的应用"
+    },
+    {
+      "title": "UniSem: Generalizable Semantic 3D Reconstruction from Sparse Unposed Images",
+      "authors": [
+        "Guibiao Liao",
+        "Qian Ren",
+        "Kaimin Liao",
+        "Hua Wang",
+        "Zhi Chen"
+      ],
+      "abstract": "Semantic-aware 3D reconstruction from sparse, unposed images remains challenging for feed-forward 3D Gaussian Splatting (3DGS). Existing methods often predict an over-complete set of Gaussian primitives under sparse-view supervision, leading to unstable geometry and inferior depth quality. Meanwhile, they rely solely on 2D segmenter features for semantic lifting, which provides weak 3D-level and limited generalizable supervision, resulting in incomplete 3D semantics in novel scenes. To address these issues, we propose UniSem, a unified framework that jointly improves depth accuracy and semantic generalization via two key components. First, Error-aware Gaussian Dropout (EGD) performs error-guided capacity control by suppressing redundancy-prone Gaussians using rendering error cues, producing meaningful, geometrically stable Gaussian representations for improved depth estimation. Second, we introduce a Mix-training Curriculum (MTC) that progressively blends 2D segmenter-lifted semantics with the model's own emergent 3D semantic priors, implemented with object-level prototype alignment to enhance semantic coherence and completeness. Extensive experiments on ScanNet and Replica show that UniSem achieves superior performance in depth prediction and open-vocabulary 3D segmentation across varying numbers of input views. Notably, with 16-view inputs, UniSem reduces depth Rel by 15.2% and improves open-vocabulary segmentation mAcc by 3.7% over strong baselines.",
+      "url": "http://arxiv.org/abs/2603.17519v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17519v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T09:26:25+00:00",
+      "source": "arxiv",
+      "title_cn": "UniSem：从稀疏无位姿图像进行可泛化的语义3D重建",
+      "summary_cn": "针对从稀疏、无相机位姿图像进行语义感知3D重建的挑战，改进3D高斯溅射方法。现有方法在稀疏视图监督下预测过多高斯基元，导致几何不稳定。",
+      "score": 7,
+      "significance": "降低3D重建对输入数据的要求，使语义3D重建更易于实际部署"
+    },
+    {
+      "title": "EI: Early Intervention for Multimodal Imaging based Disease Recognition",
+      "authors": [
+        "Qijie Wei",
+        "Hailan Lin",
+        "Xirong Li"
+      ],
+      "abstract": "Current methods for multimodal medical imaging based disease recognition face two major challenges. First, the prevailing \"fusion after unimodal image embedding\" paradigm cannot fully leverage the complementary and correlated information in the multimodal data. Second, the scarcity of labeled multimodal medical images, coupled with their significant domain shift from natural images, hinders the use of cutting-edge Vision Foundation Models (VFMs) for medical image embedding. To jointly address the challenges, we propose a novel Early Intervention (EI) framework. Treating one modality as target and the rest as reference, EI harnesses high-level semantic tokens from the reference as intervention tokens to steer the target modality's embedding process at an early stage. Furthermore, we introduce Mixture of Low-varied-Ranks Adaptation (MoR), a parameter-efficient fine-tuning method that employs a set of low-rank adapters with varied ranks and a weight-relaxed router for VFM adaptation. Extensive experiments on three public datasets for retinal disease, skin lesion, and keen anomaly classification verify the effectiveness of the proposed method against a number of competitive baselines.",
+      "url": "http://arxiv.org/abs/2603.17514v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17514v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T09:21:52+00:00",
+      "source": "arxiv"
+    },
+    {
+      "title": "Omni-I2C: A Holistic Benchmark for High-Fidelity Image-to-Code Generation",
+      "authors": [
+        "Jiawei Zhou",
+        "Chi Zhang",
+        "Xiang Feng",
+        "Qiming Zhang",
+        "Haibo Qiu"
+      ],
+      "abstract": "We present Omni-I2C, a comprehensive benchmark designed to evaluate the capability of Large Multimodal Models (LMMs) in converting complex, structured digital graphics into executable code. We argue that this task represents a non-trivial challenge for the current generation of LMMs: it demands an unprecedented synergy between high-fidelity visual perception -- to parse intricate spatial hierarchies and symbolic details -- and precise generative expression -- to synthesize syntactically sound and logically consistent code. Unlike traditional descriptive tasks, Omni-I2C requires a holistic understanding where any minor perceptual hallucination or coding error leads to a complete failure in visual reconstruction. Omni-I2C features 1080 meticulously curated samples, defined by its breadth across subjects, image modalities, and programming languages. By incorporating authentic user-sourced cases, the benchmark spans a vast spectrum of digital content -- from scientific visualizations to complex symbolic notations -- each paired with executable reference code. To complement this diversity, our evaluation framework provides necessary depth; by decoupling performance into perceptual fidelity and symbolic precision, it transcends surface-level accuracy to expose the granular structural failures and reasoning bottlenecks of current LMMs. Our evaluation reveals a substantial performance gap among leading LMMs; even state-of-the-art models struggle to preserve structural integrity in complex scenarios, underscoring that multimodal code generation remains a formidable challenge. Data and code are available at https://github.com/MiliLab/Omni-I2C.",
+      "url": "http://arxiv.org/abs/2603.17508v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17508v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T09:10:04+00:00",
+      "source": "arxiv",
+      "title_cn": "Omni-I2C：高保真图像到代码生成的全面基准",
+      "summary_cn": "提出评估大型多模态模型将复杂结构化图形转换为可执行代码能力的综合基准。该任务要求模型具备深度理解视觉结构并生成精确代码的能力。",
+      "score": 8,
+      "significance": "为评估多模态模型的代码生成能力提供标准化基准，推动AI辅助编程工具发展"
+    },
+    {
+      "title": "UAV-CB: A Complex-Background RGB-T Dataset and Local Frequency Bridge Network for UAV Detection",
+      "authors": [
+        "Shenghui Huang",
+        "Menghao Hu",
+        "Longkun Zou",
+        "Hongyu Chi",
+        "Zekai Li"
+      ],
+      "abstract": "Detecting Unmanned Aerial Vehicles (UAVs) in low-altitude environments is essential for perception and defense systems but remains highly challenging due to complex backgrounds, camouflage, and multimodal interference. In real-world scenarios, UAVs are frequently visually blended with surrounding structures such as buildings, vegetation, and power lines, resulting in low contrast, weak boundaries, and strong confusion with cluttered background textures. Existing UAV detection datasets, though diverse, are not specifically designed to capture these camouflage and complex-background challenges, which limits progress toward robust real-world perception. To fill this gap, we construct UAV-CB, a new RGB-T UAV detection dataset deliberately curated to emphasize complex low-altitude backgrounds and camouflage characteristics. Furthermore, we propose the Local Frequency Bridge Network (LFBNet), which models features in localized frequency space to bridge both the frequency-spatial fusion gap and the cross-modality discrepancy gap in RGB-T fusion. Extensive experiments on UAV-CB and public benchmarks demonstrate that LFBNet achieves state-of-the-art detection performance and strong robustness under camouflaged and cluttered conditions, offering a frequency-aware perspective on multimodal UAV perception in real-world applications.",
+      "url": "http://arxiv.org/abs/2603.17492v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17492v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T08:55:35+00:00",
+      "source": "arxiv",
+      "title_cn": "UAV-CB：复杂背景RGB-T数据集和用于无人机检测的局部频率桥接网络",
+      "summary_cn": "针对低空环境中无人机检测面临的复杂背景、伪装和多模态干扰问题，构建新数据集并提出局部频率桥接网络。现实场景中无人机常与周围环境视觉融合。",
+      "score": 7,
+      "significance": "为无人机感知和防御系统提供更真实的数据集和检测方法，增强低空安全"
+    },
+    {
+      "title": "UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models",
+      "authors": [
+        "Segyu Lee",
+        "Boryeong Cho",
+        "Hojung Jung",
+        "Seokhyun An",
+        "Juhyeong Kim"
+      ],
+      "abstract": "Unified Multimodal Models (UMMs) offer powerful cross-modality capabilities but introduce new safety risks not observed in single-task models. Despite their emergence, existing safety benchmarks remain fragmented across tasks and modalities, limiting the comprehensive evaluation of complex system-level vulnerabilities. To address this gap, we introduce UniSAFE, the first comprehensive benchmark for system-level safety evaluation of UMMs across 7 I/O modality combinations, spanning conventional tasks and novel multimodal-context image generation settings. UniSAFE is built with a shared-target design that projects common risk scenarios across task-specific I/O configurations, enabling controlled cross-task comparisons of safety failures. Comprising 6,802 curated instances, we use UniSAFE to evaluate 15 state-of-the-art UMMs, both proprietary and open-source. Our results reveal critical vulnerabilities across current UMMs, including elevated safety violations in multi-image composition and multi-turn settings, with image-output tasks consistently more vulnerable than text-output tasks. These findings highlight the need for stronger system-level safety alignment for UMMs. Our code and data are publicly available at https://github.com/segyulee/UniSAFE",
+      "url": "http://arxiv.org/abs/2603.17476v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17476v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-03-18T08:30:31+00:00",
+      "source": "arxiv",
+      "title_cn": "UniSAFE：统一多模态模型安全评估的综合基准",
+      "summary_cn": "统一多模态模型具有强大的跨模态能力，但引入了单任务模型中未见的新安全风险。现有安全基准在任务和模态上碎片化，限制了系统级评估。",
+      "score": 9,
+      "significance": "首个针对统一多模态模型的全面安全基准，对确保AI系统安全部署至关重要"
+    },
+    {
+      "title": "Revisiting Cross-Attention Mechanisms: Leveraging Beneficial Noise for Domain-Adaptive Learning",
+      "authors": [
+        "Zelin Zang",
+        "Yehui Yang",
+        "Fei Wang",
+        "Liangyu Li",
+        "Baigui Sun"
+      ],
+      "abstract": "Unsupervised Domain Adaptation (UDA) seeks to transfer knowledge from a labeled source domain to an unlabeled target domain but often suffers from severe domain and scale gaps that degrade performance. Existing cross-attention-based transformers can align features across domains, yet they struggle to preserve content semantics under large appearance and scale variations. To explicitly address these challenges, we introduce the concept of beneficial noise, which regularizes cross-attention by injecting controlled perturbations, encouraging the model to ignore style distractions and focus on content. We propose the Domain-Adaptive Cross-Scale Matching (DACSM) framework, which consists of a Domain-Adaptive Transformer (DAT) for disentangling domain-shared content from domain-specific style, and a Cross-Scale Matching (CSM) module that adaptively aligns features across multiple resolutions. DAT incorporates beneficial noise into cross-attention, enabling progressive domain translation with enhanced robustness, yielding content-consistent and style-invariant representations. Meanwhile, CSM ensures semantic consistency under scale changes. Extensive experiments on VisDA-2017, Office-Home, and DomainNet demonstrate that DACSM achieves state-of-the-art performance, with up to +2.3% improvement over CDTrans on VisDA-2017. Notably, DACSM achieves a +5.9% gain on the challenging \"truck\" class of VisDA, evidencing the strength of beneficial noise in handling scale discrepancies. These results highlight the effectiveness of combining domain translation, beneficial-noise-enhanced attention, and scale-aware alignment for robust cross-domain representation learning.",
+      "url": "http://arxiv.org/abs/2603.17474v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17474v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-03-18T08:28:14+00:00",
+      "source": "arxiv",
+      "title_cn": "重新审视交叉注意力机制：利用有益噪声进行领域自适应学习",
+      "summary_cn": "针对无监督域自适应中的域差距和尺度差距问题，重新审视交叉注意力机制。现有基于交叉注意力的Transformer虽能对齐特征，但难以处理严重的域差距。",
+      "score": 7,
+      "significance": "为域自适应提供新视角，通过利用噪声改进跨域特征对齐效果"
+    }
+  ]
+}
