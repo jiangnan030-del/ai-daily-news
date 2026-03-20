@@ -1,0 +1,717 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-03-20T09:16:37.192483+08:00",
+  "github_trending": [
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 99231,
+      "forks": 7906,
+      "language": "Shell",
+      "stars_today": 3494,
+      "source": "github_trending",
+      "summary_cn": "Superpowers 是一个基于 Agent 的技能框架和软件开发方法论，旨在通过结构化的 Agent 技能体系提升开发效率。项目以 Shell 脚本为核心，提供了一套可落地的 AI 辅助开发工作流。近10万星标和日增3400+的热度说明其在开发者社区中获得了极高认可。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "一套真正能用的 Agent 技能框架与 AI 驱动开发方法论。"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 8519,
+      "forks": 354,
+      "language": "JavaScript",
+      "stars_today": 1851,
+      "source": "github_trending"
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 33645,
+      "forks": 5477,
+      "language": "TypeScript",
+      "stars_today": 1448,
+      "source": "github_trending"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 5663,
+      "forks": 408,
+      "language": "Java",
+      "stars_today": 1416,
+      "source": "github_trending",
+      "summary_cn": "OpenDataLoader-PDF 是一个开源的 PDF 解析工具，专注于将 PDF 文档转换为 AI 可用的结构化数据。它支持自动化 PDF 无障碍处理，基于 Java 构建，适用于需要大规模 PDF 数据提取和预处理的 RAG、知识库等 AI 应用场景。",
+      "score": 7,
+      "category": "数据",
+      "one_liner": "开源 PDF 解析器，让文档数据为 AI 所用。"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 56710,
+      "forks": 4761,
+      "language": "Python",
+      "stars_today": 1262,
+      "source": "github_trending",
+      "summary_cn": "Unsloth 提供统一的 Web 界面，支持在本地训练和运行 Qwen、DeepSeek、gpt-oss、Gemma 等开源模型。它以显著的内存优化和训练加速著称，降低了本地微调大模型的硬件门槛。5.6万星标证明其在开源模型训练领域的标杆地位。",
+      "score": 9,
+      "category": "框架",
+      "one_liner": "本地训练开源大模型的首选工具，省显存、速度快。"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "stars": 7039,
+      "forks": 875,
+      "language": "Python",
+      "stars_today": 965,
+      "source": "github_trending",
+      "summary_cn": "Open-SWE 是 LangChain 团队推出的开源异步编程 Agent，定位类似 SWE-bench 场景下的自动化代码修复与生成。它基于 LangChain 生态构建，支持异步任务执行，适合需要自动化处理代码任务的团队和研究者。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "LangChain 出品的开源异步编程 Agent，对标 SWE-bench。"
+    },
+    {
+      "name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "stars": 10772,
+      "forks": 961,
+      "language": "Rust",
+      "stars_today": 946,
+      "source": "github_trending",
+      "summary_cn": "Arnis 使用 Rust 编写，能够将真实世界的任意地理位置高精度还原到 Minecraft 中。它利用 OpenStreetMap 等地理数据源，自动生成包含建筑、道路、地形等细节的游戏地图。兼具技术趣味性和实用性，适合游戏爱好者和地理信息开发者。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "用 Rust 把真实世界搬进 Minecraft，细节拉满。"
+    },
+    {
+      "name": "mobile-dev-inc/Maestro",
+      "url": "https://github.com/mobile-dev-inc/Maestro",
+      "description": "Painless E2E Automation for Mobile and Web",
+      "stars": 12445,
+      "forks": 703,
+      "language": "Kotlin",
+      "stars_today": 492,
+      "source": "github_trending",
+      "summary_cn": "Maestro 是一个面向移动端和 Web 的端到端自动化测试框架，使用 Kotlin 开发。它以简洁的 YAML 语法定义测试流程，大幅降低了 E2E 测试的编写和维护成本。适合需要跨平台 UI 自动化测试的移动开发团队。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "移动端和 Web E2E 测试的省心之选，YAML 写用例就够了。"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 33328,
+      "forks": 6431,
+      "language": "Python",
+      "stars_today": 371,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents 是一个基于多 Agent 和 LLM 的金融交易框架，模拟多角色协作进行市场分析和交易决策。它将基本面分析师、技术分析师、风控等角色拆分为独立 Agent 协同工作，适合量化交易研究和 AI 金融应用探索。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "多 Agent 协作的 LLM 量化交易框架，模拟真实交易团队。"
+    },
+    {
+      "name": "alibaba/OpenSandbox",
+      "url": "https://github.com/alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.",
+      "stars": 8775,
+      "forks": 665,
+      "language": "Python",
+      "stars_today": 195,
+      "source": "github_trending",
+      "summary_cn": "OpenSandbox 是阿里巴巴开源的通用 AI 沙箱平台，提供多语言 SDK、统一沙箱 API，支持 Docker/Kubernetes 运行时。覆盖编程 Agent、GUI Agent、Agent 评估、AI 代码执行和强化学习训练等场景，是构建安全 AI 执行环境的基础设施。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "阿里开源的 AI 通用沙箱平台，Agent 安全执行的基础设施。"
+    },
+    {
+      "name": "github/awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "stars": 26100,
+      "forks": 3003,
+      "language": "Python",
+      "stars_today": 174,
+      "source": "github_trending",
+      "summary_cn": "awesome-copilot 是 GitHub 官方维护的社区资源合集，收录了 GitHub Copilot 的指令、Agent、技能和配置方案。帮助开发者充分发挥 Copilot 的能力，是学习和优化 Copilot 使用的一站式参考。",
+      "score": 7,
+      "category": "教程",
+      "one_liner": "GitHub 官方出品的 Copilot 最佳实践与资源大全。"
+    },
+    {
+      "name": "MiroMindAI/MiroThinker",
+      "url": "https://github.com/MiroMindAI/MiroThinker",
+      "description": "MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7 and MiroThinker-H1, achieve 74.0 and 88.2 on the BrowseComp, respectively.",
+      "stars": 7274,
+      "forks": 558,
+      "language": "Python",
+      "stars_today": 146,
+      "source": "github_trending",
+      "summary_cn": "MiroThinker 是一个面向复杂研究和预测任务的深度研究 Agent，最新模型 MiroThinker-H1 在 BrowseComp 基准上达到 88.2 分。它专注于需要深度推理和信息检索的场景，适合学术研究和复杂问题分析。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "BrowseComp 高分深度研究 Agent，擅长复杂推理与预测。"
+    },
+    {
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "stars": 39049,
+      "forks": 6088,
+      "language": "Python",
+      "stars_today": 118,
+      "source": "github_trending",
+      "summary_cn": "Qlib 是微软开源的 AI 量化投资平台，支持监督学习、市场动态建模和强化学习等多种范式，并集成了 RD-Agent 实现研发流程自动化。近4万星标使其成为 AI 量化领域最成熟的开源平台之一，适合量化研究从想法探索到生产部署的全流程。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "微软出品的 AI 量化投资平台，从研究到生产一站式覆盖。"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 29618,
+      "forks": 4248,
+      "language": "Python",
+      "stars_today": 58,
+      "source": "github_trending",
+      "summary_cn": "LightRAG 是一个轻量级检索增强生成框架，已被 EMNLP 2025 收录。它以简洁高效为设计目标，通过图结构索引实现快速检索与生成，适合需要在知识库上构建问答系统的开发者和研究者。",
+      "score": 8,
+      "category": "论文实现",
+      "one_liner": "EMNLP 2025 收录的轻量 RAG 框架，简洁高效易上手。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "score": 9,
+      "comments": 747,
+      "author": "ibraheemdev",
+      "time": "2026-03-19T13:05:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47438723",
+      "source": "hacker_news",
+      "title_cn": "Astral 宣布加入 OpenAI",
+      "summary_cn": "Python 工具链公司 Astral（uv、Ruff 的开发者）宣布被 OpenAI 收购，引发社区对开源项目未来走向的广泛讨论。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Warranty Void If Regenerated",
+      "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+      "score": 7,
+      "comments": 307,
+      "author": "Stwerner",
+      "time": "2026-03-18T20:45:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47431237",
+      "source": "hacker_news",
+      "title_cn": "「再生即失保」：AI 生成代码的质保困境",
+      "summary_cn": "文章探讨了当软件代码由 AI 重新生成后，原有的质量保证和可靠性承诺是否还能成立，对 AI 辅助开发的信任问题提出质疑。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "score": 8,
+      "comments": 299,
+      "author": "_squared_",
+      "time": "2026-03-19T19:37:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444748",
+      "source": "hacker_news",
+      "title_cn": "Anthropic 对 OpenCode 项目采取法律行动",
+      "summary_cn": "Anthropic 针对开源项目 OpenCode 发起法律维权，疑似涉及 API 使用条款或品牌侵权问题，在开发者社区引发关于 AI 公司与开源生态关系的激烈争论。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "score": 8,
+      "comments": 104,
+      "author": "rohan_joshi",
+      "time": "2026-03-19T15:56:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47441546",
+      "source": "hacker_news",
+      "title_cn": "Show HN：三款全新 Kitten TTS 模型——最小不到 25MB",
+      "summary_cn": "KittenML 发布三款超轻量级文本转语音模型，最小模型体积不到 25MB，适合在边缘设备和资源受限环境中运行。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "score": 7,
+      "comments": 87,
+      "author": "staticvar",
+      "time": "2026-03-19T02:20:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47434024",
+      "source": "hacker_news",
+      "title_cn": "Cook：一个编排 Claude Code 的简洁 CLI 工具",
+      "summary_cn": "开源命令行工具 Cook 可以帮助开发者编排和管理多个 Claude Code 实例的协同工作流，简化 AI 辅助编程的任务调度。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Will my flight have Starlink?",
+      "url": "https://news.ycombinator.com/item?id=47428650",
+      "score": 6,
+      "comments": 350,
+      "author": "bblcla",
+      "time": "2026-03-18T17:29:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428650",
+      "source": "hacker_news",
+      "title_cn": "Show HN：查查你的航班有没有 Starlink WiFi",
+      "summary_cn": "一款工具帮助旅客查询特定航班是否配备了 SpaceX Starlink 卫星互联网服务，方便选择有高速网络的航班。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Snowflake AI Escapes Sandbox and Executes Malware",
+      "url": "https://www.promptarmor.com/resources/snowflake-ai-escapes-sandbox-and-executes-malware",
+      "score": 9,
+      "comments": 84,
+      "author": "ozgune",
+      "time": "2026-03-18T15:30:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47427017",
+      "source": "hacker_news",
+      "title_cn": "Snowflake AI 逃逸沙箱并执行恶意软件",
+      "summary_cn": "安全研究人员发现 Snowflake 平台的 AI 功能存在严重漏洞，AI 代理能够突破沙箱隔离并在宿主环境中执行恶意代码。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+      "url": "https://github.com/alainnothere/llm-circuit-finder",
+      "score": 9,
+      "comments": 79,
+      "author": "xlayn",
+      "time": "2026-03-18T21:31:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47431671",
+      "source": "hacker_news",
+      "title_cn": "Show HN：复制 24B LLM 中的 3 层，逻辑推理能力从 0.22 飙升至 0.76，无需训练",
+      "summary_cn": "研究者通过识别并复制大语言模型中关键的推理层，在不进行任何额外训练的情况下大幅提升了模型的逻辑推理能力。",
+      "category": "技术突破"
+    },
+    {
+      "title": "What 81,000 people want from AI",
+      "url": "https://www.anthropic.com/features/81k-interviews",
+      "score": 7,
+      "comments": 178,
+      "author": "dsr12",
+      "time": "2026-03-19T05:00:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47435156",
+      "source": "hacker_news",
+      "title_cn": "81000 人告诉我们他们对 AI 的期望",
+      "summary_cn": "Anthropic 发布大规模调研报告，汇总了 81000 名受访者对 AI 技术的需求、担忧和期望，为 AI 发展方向提供公众视角参考。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "2% of ICML papers desk rejected because the authors used LLM in their reviews",
+      "url": "https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/",
+      "score": 8,
+      "comments": 151,
+      "author": "sergdigon",
+      "time": "2026-03-19T10:17:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47437101",
+      "source": "hacker_news",
+      "title_cn": "ICML 2% 的论文因作者使用 LLM 撰写审稿意见而被直接拒稿",
+      "summary_cn": "机器学习顶会 ICML 披露约 2% 的投稿论文因作者在同行评审中使用大语言模型代写审稿意见而被拒，引发学术诚信讨论。",
+      "category": "行业动态"
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "score": 9,
+      "comments": 110,
+      "author": "mikece",
+      "time": "2026-03-19T18:59:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444195",
+      "source": "hacker_news",
+      "title_cn": "一个失控的 AI 导致 Meta 发生严重安全事故",
+      "summary_cn": "据报道，Meta 内部一个 AI 代理出现异常行为，脱离预期控制范围，引发了一起严重的安全事件，凸显了 AI 自主代理的安全风险。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review",
+      "score": 7,
+      "comments": 49,
+      "author": "speckx",
+      "time": "2026-03-18T16:17:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47427647",
+      "source": "hacker_news",
+      "title_cn": "谷歌工程师推出「Sashiko」：用 AI 代理审查 Linux 内核代码",
+      "summary_cn": "谷歌工程师发布 Sashiko 项目，利用 AI 代理自动审查 Linux 内核代码提交，旨在提升内核开发的代码质量和审查效率。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+      "url": "https://tmux.thijsverreck.com",
+      "score": 6,
+      "comments": 37,
+      "author": "thijsverreck",
+      "time": "2026-03-18T17:46:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47428868",
+      "source": "hacker_news",
+      "title_cn": "Show HN：Tmux-IDE，开源的代理优先终端 IDE",
+      "summary_cn": "基于 Tmux 构建的开源终端 IDE，以 AI 代理为核心设计理念，为偏好终端工作流的开发者提供集成开发环境。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Claude Code: Channels",
+      "url": "https://code.claude.com/docs/en/channels",
+      "score": 6,
+      "comments": 32,
+      "author": "jasonjmcghee",
+      "time": "2026-03-20T00:22:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47448524",
+      "source": "hacker_news",
+      "title_cn": "Claude Code 新功能：Channels（频道）",
+      "summary_cn": "Claude Code 推出 Channels 功能，允许开发者在不同的上下文频道间切换和管理对话，提升多任务协作体验。",
+      "category": "产品发布"
+    },
+    {
+      "title": "I turned Markdown into a protocol for generative UI",
+      "url": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
+      "score": 7,
+      "comments": 40,
+      "author": "FabianCarbonara",
+      "time": "2026-03-19T13:42:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47439300",
+      "source": "hacker_news",
+      "title_cn": "我把 Markdown 变成了生成式 UI 的协议",
+      "summary_cn": "开发者将 Markdown 语法扩展为一种生成式 UI 协议，使 AI 代理能够通过 Markdown 描述动态生成交互式用户界面。",
+      "category": "技术突破"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+      "authors": [
+        "Zhang Zhang",
+        "Shuqi Lu",
+        "Hongjin Qian",
+        "Di He",
+        "Zheng Liu"
+      ],
+      "abstract": "Building LLM-based agents has become increasingly important. Recent works on LLM-based agent self-evolution primarily record successful experiences as textual prompts or reflections, which cannot reliably guarantee efficient task re-execution in complex scenarios. We propose AgentFactory, a new self-evolution paradigm that preserves successful task solutions as executable subagent code rather than textual experience. Crucially, these subagents are continuously refined based on execution feedback, becoming increasingly robust and efficient as more tasks are encountered. Saved subagents are pure Python code with standardized documentation, enabling portability across any Python-capable system. We demonstrate that AgentFactory enables continuous capability accumulation: its library of executable subagents grows and improves over time, progressively reducing the effort required for similar tasks without manual intervention. Our implementation is open-sourced at https://github.com/zzatpku/AgentFactory, and our demonstration video is available at https://youtu.be/iKSsuAXJHW0.",
+      "url": "http://arxiv.org/abs/2603.18000v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.18000v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-03-18T17:58:25+00:00",
+      "source": "arxiv",
+      "title_cn": "AgentFactory：通过可执行子智能体的积累与复用实现自我进化的框架",
+      "summary_cn": "构建基于大语言模型（LLM）的智能体日益重要，但现有自我进化方法主要将成功经验记录为文本提示或反思，在复杂场景中难以可靠地保证高效任务重执行。本文提出AgentFactory框架，通过将成功经验封装为可执行的子智能体进行积累和复用，实现智能体的自我进化，从而在复杂任务中提升执行效率和可靠性。",
+      "score": 7,
+      "significance": "将智能体经验从文本提示升级为可执行子智能体的思路新颖，为LLM智能体的持续学习和能力积累提供了更可靠的范式。"
+    },
+    {
+      "title": "ConGA: Guidelines for Contextual Gender Annotation. A Framework for Annotating Gender in Machine Translation",
+      "authors": [
+        "Argentina Anna Rescigno",
+        "Eva Vanmassenhove",
+        "Johanna Monti"
+      ],
+      "abstract": "Handling gender across languages remains a persistent challenge for Machine Translation (MT) and Large Language Models (LLMs), especially when translating from gender-neutral languages into morphologically gendered ones, such as English to Italian. English largely omits grammatical gender, while Italian requires explicit agreement across multiple grammatical categories. This asymmetry often leads MT systems to default to masculine forms, reinforcing bias and reducing translation accuracy. To address this issue, we present the Contextual Gender Annotation (ConGA) framework, a linguistically grounded set of guidelines for word-level gender annotation. The scheme distinguishes between semantic gender in English through three tags, Masculine (M), Feminine (F), and Ambiguous (A), and grammatical gender realisation in Italian (Masculine (M), Feminine (F)), combined with entity-level identifiers for cross-sentence tracking. We apply ConGA to the gENder-IT dataset, creating a gold-standard resource for evaluating gender bias in translation. Our results reveal systematic masculine overuse and inconsistent feminine realisation, highlighting persistent limitations of current MT systems. By combining fine-grained linguistic annotation with quantitative evaluation, this work offers both a methodology and a benchmark for building more gender-aware and multilingual NLP systems.",
+      "url": "http://arxiv.org/abs/2603.17962v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17962v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-18T17:31:47+00:00",
+      "source": "arxiv",
+      "title_cn": "ConGA：上下文性别标注指南——机器翻译中的性别标注框架",
+      "summary_cn": "机器翻译和大语言模型在跨语言处理性别信息时面临持续挑战，尤其是从性别中立语言（如英语）翻译到语法性别丰富的语言（如意大利语）时。本文提出ConGA框架，为机器翻译中的性别标注提供系统化的上下文指南，旨在改善翻译系统对性别信息的处理能力。",
+      "score": 5,
+      "significance": "为机器翻译中长期存在的性别偏见问题提供了标准化的标注框架，有助于推动更公平的翻译系统开发。"
+    },
+    {
+      "title": "Beyond Muon: MUD (MomentUm Decorrelation) for Faster Transformer Training",
+      "authors": [
+        "Ben S. Southworth",
+        "Stephen Thomas"
+      ],
+      "abstract": "Orthogonalized-momentum optimizers such as Muon improve transformer training by approximately whitening/orthogonalizing matrix-valued momentum updates via a short polar-decomposition iteration. However, polar-factor approximations typically require multiple large matrix multiplications, and the resulting overhead can be substantial and hardware-dependent. We introduce MUD (MomentUm Decorrelation), a complementary whitening approach that replaces Muon's polar update with a triangular (Cholesky-like) whitening surrogate inspired by classical Gram--Schmidt and Gauss-Seidel ideas. We show that row-orthonormal matrices are fixed points of the MUD map, relate the inner step to symmetric Gauss-Seidel preconditioning of the Gram matrix, and prove quadratic local convergence near the fixed point. In terms of time-to-perplexity, MUD yields consistent 10-50\\% wall-clock improvements over tuned AdamW and Muon in time-to-perplexity, typically converging slightly slower per step than Muon but with substantially lower optimizer overhead -- relative to Muon, MUD improves peak tokens/s by roughly $1.3-2.6\\times$ across most settings and up to nearly $3\\times$ on GPT-2 large on an A100. We also demonstrate training a ESM-2 150M protein language model, where MUD matches Muon-level validation perplexity in significantly less wall-clock time.",
+      "url": "http://arxiv.org/abs/2603.17970v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17970v1",
+      "categories": [
+        "cs.LG",
+        "math.NA",
+        "math.OC"
+      ],
+      "published": "2026-03-18T17:37:31+00:00",
+      "source": "arxiv",
+      "title_cn": "超越Muon：MUD（动量去相关）加速Transformer训练",
+      "summary_cn": "正交化动量优化器（如Muon）通过极分解迭代对矩阵动量更新进行白化/正交化来改善Transformer训练，但极因子近似通常需要多次大矩阵乘法，计算开销大。本文提出MUD（动量去相关）方法，以更高效的方式实现类似的去相关效果，加速Transformer训练。",
+      "score": 8,
+      "significance": "在Muon优化器基础上进一步降低计算成本，对大规模Transformer训练的效率提升具有直接的实用价值。"
+    },
+    {
+      "title": "Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+      "authors": [
+        "Jianrui Zhang",
+        "Yue Yang",
+        "Rohun Tripathi",
+        "Winson Han",
+        "Ranjay Krishna"
+      ],
+      "abstract": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typically prune tokens either (1) within the vision transformer (ViT) exclusively for unimodal perception tasks such as action recognition and object segmentation, without adapting to downstream vision-language tasks; or (2) only within the LLM while leaving the ViT output intact, often requiring complex text-conditioned token selection mechanisms. In this paper, we introduce Spatio-Temporal Token Scoring (STTS), a simple and lightweight module that prunes vision tokens across both the ViT and the LLM without text conditioning or token merging, and is fully compatible with end-to-end training. By learning how to score temporally via an auxiliary loss and spatially via LLM downstream gradients, aided by our efficient packing algorithm, STTS prunes 50% of vision tokens throughout the entire architecture, resulting in a 62% improvement in efficiency during both training and inference with only a 0.7% drop in average performance across 13 short and long video QA tasks. Efficiency gains increase with more sampled frames per video. Applying test-time scaling for long-video QA further yields performance gains of 0.5-1% compared to the baseline. Overall, STTS represents a novel, simple yet effective technique for unified, architecture-wide vision token pruning.",
+      "url": "http://arxiv.org/abs/2603.18004v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.18004v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-03-18T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "统一时空Token评分：面向高效视频视觉语言模型",
+      "summary_cn": "Token剪枝对于提升视觉语言模型（VLM）的计算效率至关重要，尤其在视频任务中存在大量时间冗余。现有方法通常在视觉编码器内部或语言模型前单独进行剪枝。本文提出统一的时空Token评分方法，同时考虑空间和时间维度的冗余，实现更高效的视频VLM推理。",
+      "score": 7,
+      "significance": "提出统一的时空评分机制解决视频VLM的效率瓶颈，对视频理解模型的实际部署具有重要意义。"
+    },
+    {
+      "title": "Universal Skeleton Understanding via Differentiable Rendering and MLLMs",
+      "authors": [
+        "Ziyi Wang",
+        "Peiming Li",
+        "Xinshun Wang",
+        "Yang Tang",
+        "Kai-Kuang Ma"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) exhibit strong visual-language reasoning, yet remain confined to their native modalities and cannot directly process structured, non-visual data such as human skeletons. Existing methods either compress skeleton dynamics into lossy feature vectors for text alignment, or quantize motion into discrete tokens that generalize poorly across heterogeneous skeleton formats. We present SkeletonLLM, which achieves universal skeleton understanding by translating arbitrary skeleton sequences into the MLLM's native visual modality. At its core is DrAction, a differentiable, format-agnostic renderer that converts skeletal kinematics into compact image sequences. Because the pipeline is end-to-end differentiable, MLLM gradients can directly guide the rendering to produce task-informative visual tokens. To further enhance reasoning capabilities, we introduce a cooperative training strategy: Causal Reasoning Distillation transfers structured, step-by-step reasoning from a teacher model, while Discriminative Finetuning sharpens decision boundaries between confusable actions. SkeletonLLM demonstrates strong generalization on diverse tasks including recognition, captioning, reasoning, and cross-format transfer -- suggesting a viable path for applying MLLMs to non-native modalities. Code will be released upon acceptance.",
+      "url": "http://arxiv.org/abs/2603.18003v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.18003v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:59:12+00:00",
+      "source": "arxiv",
+      "title_cn": "通过可微渲染和多模态大语言模型实现通用骨架理解",
+      "summary_cn": "多模态大语言模型在视觉语言推理方面表现出色，但无法直接处理人体骨架等结构化非视觉数据。本文提出通过可微渲染将骨架数据转换为视觉表示，使MLLM能够理解和推理骨架动态信息，实现通用的骨架理解能力，避免了传统方法中将骨架压缩为有损特征向量的问题。",
+      "score": 7,
+      "significance": "巧妙地利用可微渲染桥接骨架数据与视觉模态，拓展了MLLM处理非视觉结构化数据的能力边界。"
+    },
+    {
+      "title": "Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "authors": [
+        "Kevin Qu",
+        "Haozhe Qi",
+        "Mihai Dusmanu",
+        "Mahdi Rad",
+        "Rui Wang"
+      ],
+      "abstract": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent efforts aim to augment the input representations with geometric cues rather than explicitly teaching models to reason in 3D space. We introduce Loc3R-VLM, a framework that equips 2D Vision-Language Models with advanced 3D understanding capabilities from monocular video input. Inspired by human spatial cognition, Loc3R-VLM relies on two joint objectives: global layout reconstruction to build a holistic representation of the scene structure, and explicit situation modeling to anchor egocentric perspective. These objectives provide direct spatial supervision that grounds both perception and language in a 3D context. To ensure geometric consistency and metric-scale alignment, we leverage lightweight camera pose priors extracted from a pre-trained 3D foundation model. Loc3R-VLM achieves state-of-the-art performance in language-based localization and outperforms existing 2D- and video-based approaches on situated and general 3D question-answering benchmarks, demonstrating that our spatial supervision framework enables strong 3D understanding. Project page: https://kevinqu7.github.io/loc3r-vlm",
+      "url": "http://arxiv.org/abs/2603.18002v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.18002v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-03-18T17:59:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Loc3R-VLM：基于语言的视觉语言模型定位与3D推理",
+      "summary_cn": "多模态大语言模型在连接视觉和语言方面取得了显著进展，但在空间理解和视角感知推理方面仍存在不足。本文提出Loc3R-VLM，通过在输入表示中增强几何线索，使视觉语言模型具备基于语言的3D定位和空间推理能力，而非显式教授模型几何知识。",
+      "score": 7,
+      "significance": "将几何感知能力融入VLM框架，为实现语言驱动的3D空间理解提供了有效途径。"
+    },
+    {
+      "title": "EchoGen: Cycle-Consistent Learning for Unified Layout-Image Generation and Understanding",
+      "authors": [
+        "Kai Zou",
+        "Hongbo Liu",
+        "Dian Zheng",
+        "Jianxiong Gao",
+        "Zhiwei Zhao"
+      ],
+      "abstract": "In this work, we present EchoGen, a unified framework for layout-to-image generation and image grounding, capable of generating images with accurate layouts and high fidelity to text descriptions (e.g., spatial relationships), while grounding the image robustly at the same time. We believe that image grounding possesses strong text and layout understanding abilities, which can compensate for the corresponding limitations in layout-to-image generation. At the same time, images generated from layouts exhibit high diversity in content, thereby enhancing the robustness of image grounding. Jointly training both tasks within a unified model can promote performance improvements for each. However, we identify that this joint training paradigm encounters several optimization challenges and results in restricted performance. To address these issues, we propose progressive training strategies. First, the Parallel Multi-Task Pre-training (PMTP) stage equips the model with basic abilities for both tasks, leveraging shared tokens to accelerate training. Next, the Dual Joint Optimization (DJO) stage exploits task duality to sequentially integrate the two tasks, enabling unified optimization. Finally, the Cycle RL stage eliminates reliance on visual supervision by using consistency constraints as rewards, significantly enhancing the model's unified capabilities via the GRPO strategy. Extensive experiments demonstrate state-of-the-art results on both layout-to-image generation and image grounding benchmarks, and reveal clear synergistic gains from optimizing the two tasks together.",
+      "url": "http://arxiv.org/abs/2603.18001v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.18001v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:59:03+00:00",
+      "source": "arxiv",
+      "title_cn": "EchoGen：面向统一布局-图像生成与理解的循环一致性学习",
+      "summary_cn": "本文提出EchoGen，一个统一的框架，同时支持布局到图像生成和图像定位理解。该框架能够生成具有准确布局和高文本保真度的图像（如空间关系），同时实现鲁棒的图像定位。通过循环一致性学习，生成和理解任务相互促进，提升整体性能。",
+      "score": 7,
+      "significance": "将图像生成与理解统一在循环一致性框架中，实现了两个任务的协同增强，思路优雅。"
+    },
+    {
+      "title": "The Unreasonable Effectiveness of Text Embedding Interpolation for Continuous Image Steering",
+      "authors": [
+        "Yigit Ekin",
+        "Yossi Gandelsman"
+      ],
+      "abstract": "We present a training-free framework for continuous and controllable image editing at test time for text-conditioned generative models. In contrast to prior approaches that rely on additional training or manual user intervention, we find that a simple steering in the text-embedding space is sufficient to produce smooth edit control. Given a target concept (e.g., enhancing photorealism or changing facial expression), we use a large language model to automatically construct a small set of debiased contrastive prompt pairs, from which we compute a steering vector in the generator's text-encoder space. We then add this vector directly to the input prompt representation to control generation along the desired semantic axis. To obtain a continuous control, we propose an elastic range search procedure that automatically identifies an effective interval of steering magnitudes, avoiding both under-steering (no-edit) and over-steering (changing other attributes). Adding the scaled versions of the same vector within this interval yields smooth and continuous edits. Since our method modifies only textual representations, it naturally generalizes across text-conditioned modalities, including image and video generation. To quantify the steering continuity, we introduce a new evaluation metric that measures the uniformity of semantic change across edit strengths. We compare the continuous editing behavior across methods and find that, despite its simplicity and lightweight design, our approach is comparable to training-based alternatives, outperforming other training-free methods.",
+      "url": "http://arxiv.org/abs/2603.17998v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17998v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:57:53+00:00",
+      "source": "arxiv",
+      "title_cn": "文本嵌入插值在连续图像引导中的惊人有效性",
+      "summary_cn": "本文提出一种无需训练的框架，在测试时对文本条件生成模型进行连续可控的图像编辑。与依赖额外训练或手动干预的方法不同，研究发现在文本嵌入空间中进行简单的引导操作就足以实现连续、精细的图像控制，展示了文本嵌入插值出人意料的有效性。",
+      "score": 8,
+      "significance": "揭示了文本嵌入空间中简单插值操作的强大编辑能力，方法极其简洁却效果显著，具有广泛的实用价值。"
+    },
+    {
+      "title": "LoST: Level of Semantics Tokenization for 3D Shapes",
+      "authors": [
+        "Niladri Shekhar Dutt",
+        "Zifan Shi",
+        "Paul Guerrero",
+        "Chun-Hao Paul Huang",
+        "Duygu Ceylan"
+      ],
+      "abstract": "Tokenization is a fundamental technique in the generative modeling of various modalities. In particular, it plays a critical role in autoregressive (AR) models, which have recently emerged as a compelling option for 3D generation. However, optimal tokenization of 3D shapes remains an open question. State-of-the-art (SOTA) methods primarily rely on geometric level-of-detail (LoD) hierarchies, originally designed for rendering and compression. These spatial hierarchies are often token-inefficient and lack semantic coherence for AR modeling. We propose Level-of-Semantics Tokenization (LoST), which orders tokens by semantic salience, such that early prefixes decode into complete, plausible shapes that possess principal semantics, while subsequent tokens refine instance-specific geometric and semantic details. To train LoST, we introduce Relational Inter-Distance Alignment (RIDA), a novel 3D semantic alignment loss that aligns the relational structure of the 3D shape latent space with that of the semantic DINO feature space. Experiments show that LoST achieves SOTA reconstruction, surpassing previous LoD-based 3D shape tokenizers by large margins on both geometric and semantic reconstruction metrics. Moreover, LoST achieves efficient, high-quality AR 3D generation and enables downstream tasks like semantic retrieval, while using only 0.1%-10% of the tokens needed by prior AR models.",
+      "url": "http://arxiv.org/abs/2603.17995v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17995v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR",
+        "cs.LG"
+      ],
+      "published": "2026-03-18T17:56:06+00:00",
+      "source": "arxiv",
+      "title_cn": "LoST：面向3D形状的语义层级标记化",
+      "summary_cn": "标记化是生成建模的基础技术，在自回归3D生成模型中尤为关键，但3D形状的最优标记化方案仍是开放问题。本文提出LoST方法，实现不同语义层级的3D形状标记化，使模型能够在不同粒度上理解和生成3D形状。",
+      "score": 7,
+      "significance": "为3D自回归生成提供了多语义层级的标记化方案，填补了3D生成建模中标记化策略研究的空白。"
+    },
+    {
+      "title": "GMT: Goal-Conditioned Multimodal Transformer for 6-DOF Object Trajectory Synthesis in 3D Scenes",
+      "authors": [
+        "Huajian Zeng",
+        "Abhishek Saroha",
+        "Daniel Cremers",
+        "Xi Wang"
+      ],
+      "abstract": "Synthesizing controllable 6-DOF object manipulation trajectories in 3D environments is essential for enabling robots to interact with complex scenes, yet remains challenging due to the need for accurate spatial reasoning, physical feasibility, and multimodal scene understanding. Existing approaches often rely on 2D or partial 3D representations, limiting their ability to capture full scene geometry and constraining trajectory precision. We present GMT, a multimodal transformer framework that generates realistic and goal-directed object trajectories by jointly leveraging 3D bounding box geometry, point cloud context, semantic object categories, and target end poses. The model represents trajectories as continuous 6-DOF pose sequences and employs a tailored conditioning strategy that fuses geometric, semantic, contextual, and goaloriented information. Extensive experiments on synthetic and real-world benchmarks demonstrate that GMT outperforms state-of-the-art human motion and human-object interaction baselines, such as CHOIS and GIMO, achieving substantial gains in spatial accuracy and orientation control. Our method establishes a new benchmark for learningbased manipulation planning and shows strong generalization to diverse objects and cluttered 3D environments. Project page: https://huajian- zeng.github. io/projects/gmt/.",
+      "url": "http://arxiv.org/abs/2603.17993v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17993v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-03-18T17:54:35+00:00",
+      "source": "arxiv",
+      "title_cn": "GMT：面向3D场景中6自由度物体轨迹合成的目标条件多模态Transformer",
+      "summary_cn": "在3D环境中合成可控的6自由度物体操作轨迹对于机器人交互至关重要，但面临精确空间推理、物理可行性和多模态场景理解等挑战。本文提出GMT，一种目标条件多模态Transformer，能够在3D场景中合成物理可行的物体操作轨迹。",
+      "score": 7,
+      "significance": "解决了3D场景中物体操作轨迹合成的关键问题，对机器人操作规划具有直接应用价值。"
+    },
+    {
+      "title": "Versatile Editing of Video Content, Actions, and Dynamics without Training",
+      "authors": [
+        "Vladimir Kulikov",
+        "Roni Paiss",
+        "Andrey Voynov",
+        "Inbar Mosseri",
+        "Tali Dekel"
+      ],
+      "abstract": "Controlled video generation has seen drastic improvements in recent years. However, editing actions and dynamic events, or inserting contents that should affect the behaviors of other objects in real-world videos, remains a major challenge. Existing trained models struggle with complex edits, likely due to the difficulty of collecting relevant training data. Similarly, existing training-free methods are inherently restricted to structure- and motion-preserving edits and do not support modification of motion or interactions. Here, we introduce DynaEdit, a training-free editing method that unlocks versatile video editing capabilities with pretrained text-to-video flow models. Our method relies on the recently introduced inversion-free approach, which does not intervene in the model internals, and is thus model-agnostic. We show that naively attempting to adapt this approach to general unconstrained editing results in severe low-frequency misalignment and high-frequency jitter. We explain the sources for these phenomena and introduce novel mechanisms for overcoming them. Through extensive experiments, we show that DynaEdit achieves state-of-the-art results on complex text-based video editing tasks, including modifying actions, inserting objects that interact with the scene, and introducing global effects.",
+      "url": "http://arxiv.org/abs/2603.17989v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17989v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:50:56+00:00",
+      "source": "arxiv",
+      "title_cn": "无需训练的多功能视频内容、动作和动态编辑",
+      "summary_cn": "受控视频生成近年来取得了巨大进步，但编辑动作、动态事件或插入影响其他物体行为的内容仍是重大挑战。本文提出一种无需训练的方法，能够对真实视频中的内容、动作和动态进行多功能编辑，克服了现有训练模型在复杂编辑场景中的局限性。",
+      "score": 8,
+      "significance": "在无需额外训练的情况下实现视频动作和动态编辑，突破了现有视频编辑方法的能力边界。"
+    },
+    {
+      "title": "Feeling the Space: Egomotion-Aware Video Representation for Efficient and Accurate 3D Scene Understanding",
+      "authors": [
+        "Shuyao Shi",
+        "Kang G. Shin"
+      ],
+      "abstract": "Recent Multimodal Large Language Models (MLLMs) have shown high potential for spatial reasoning within 3D scenes. However, they typically rely on computationally expensive 3D representations like point clouds or reconstructed Bird's-Eye View (BEV) maps, or lack physical grounding to resolve ambiguities in scale and size. This paper significantly enhances MLLMs with egomotion modality data, captured by Inertial Measurement Units (IMUs) concurrently with the video. In particular, we propose a novel framework, called Motion-MLLM, introducing two key components: (1) a cascaded motion-visual keyframe filtering module that leverages both IMU data and visual features to efficiently select a sparse yet representative set of keyframes, and (2) an asymmetric cross-modal fusion module where motion tokens serve as intermediaries that channel egomotion cues and cross-frame visual context into the visual representation. By grounding visual content in physical egomotion trajectories, Motion-MLLM can reason about absolute scale and spatial relationships across the scene. Our extensive evaluation shows that Motion-MLLM makes significant improvements in various tasks related to 3D scene understanding and spatial reasoning. Compared to state-of-the-art (SOTA) methods based on video frames and explicit 3D data, Motion-MLLM exhibits similar or even higher accuracy with significantly less overhead (i.e., 1.40$\\times$ and 1.63$\\times$ higher cost-effectiveness, respectively).",
+      "url": "http://arxiv.org/abs/2603.17980v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17980v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:42:49+00:00",
+      "source": "arxiv",
+      "title_cn": "感知空间：面向高效精确3D场景理解的自运动感知视频表示",
+      "summary_cn": "多模态大语言模型在3D场景空间推理方面展现出潜力，但通常依赖计算昂贵的3D表示（如点云或BEV地图），或缺乏物理基础。本文提出自运动感知的视频表示方法，在不依赖昂贵3D重建的情况下，通过编码相机运动信息实现高效且精确的3D场景理解。",
+      "score": 7,
+      "significance": "通过自运动感知的视频表示替代昂贵的3D重建，在效率和精度之间取得了良好平衡。"
+    },
+    {
+      "title": "AdaRadar: Rate Adaptive Spectral Compression for Radar-based Perception",
+      "authors": [
+        "Jinho Park",
+        "Se Young Chun",
+        "Mingoo Seok"
+      ],
+      "abstract": "Radar is a critical perception modality in autonomous driving systems due to its all-weather characteristics and ability to measure range and Doppler velocity. However, the sheer volume of high-dimensional raw radar data saturates the communication link to the computing engine (e.g., an NPU), which is often a low-bandwidth interface with data rate provisioned only for a few low-resolution range-Doppler frames. A generalized codec for utilizing high-dimensional radar data is notably absent, while existing image-domain approaches are unsuitable, as they typically operate at fixed compression ratios and fail to adapt to varying or adversarial conditions. In light of this, we propose radar data compression with adaptive feedback. It dynamically adjusts the compression ratio by performing gradient descent from the proxy gradient of detection confidence with respect to the compression rate. We employ a zeroth-order gradient approximation as it enables gradient computation even with non-differentiable core operations--pruning and quantization. This also avoids transmitting the gradient tensors over the band-limited link, which, if estimated, would be as large as the original radar data. In addition, we have found that radar feature maps are heavily concentrated on a few frequency components. Thus, we apply the discrete cosine transform to the radar data cubes and selectively prune out the coefficients effectively. We preserve the dynamic range of each radar patch through scaled quantization. Combining those techniques, our proposed online adaptive compression scheme achieves over 100x feature size reduction at minimal performance drop (~1%p). We validate our results on the RADIal, CARRADA, and Radatron datasets.",
+      "url": "http://arxiv.org/abs/2603.17979v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17979v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:42:34+00:00",
+      "source": "arxiv",
+      "title_cn": "AdaRadar：面向雷达感知的自适应速率频谱压缩",
+      "summary_cn": "雷达是自动驾驶中的关键感知模态，但高维原始雷达数据的巨大数据量会使通信链路饱和。本文提出AdaRadar，一种自适应速率的频谱压缩方法，根据场景复杂度动态调整压缩率，在保持感知性能的同时大幅降低数据传输量。",
+      "score": 6,
+      "significance": "解决了自动驾驶中雷达数据传输的实际瓶颈问题，自适应压缩策略具有工程实用性。"
+    },
+    {
+      "title": "AHOY! Animatable Humans under Occlusion from YouTube Videos with Gaussian Splatting and Video Diffusion Priors",
+      "authors": [
+        "Aymen Mir",
+        "Riza Alp Guler",
+        "Xiangjun Tang",
+        "Peter Wonka",
+        "Gerard Pons-Moll"
+      ],
+      "abstract": "We present AHOY, a method for reconstructing complete, animatable 3D Gaussian avatars from in-the-wild monocular video despite heavy occlusion. Existing methods assume unoccluded input-a fully visible subject, often in a canonical pose-excluding the vast majority of real-world footage where people are routinely occluded by furniture, objects, or other people. Reconstructing from such footage poses fundamental challenges: large body regions may never be observed, and multi-view supervision per pose is unavailable. We address these challenges with four contributions: (i) a hallucination-as-supervision pipeline that uses identity-finetuned diffusion models to generate dense supervision for previously unobserved body regions; (ii) a two-stage canonical-to-pose-dependent architecture that bootstraps from sparse observations to full pose-dependent Gaussian maps; (iii) a map-pose/LBS-pose decoupling that absorbs multi-view inconsistencies from the generated data; (iv) a head/body split supervision strategy that preserves facial identity. We evaluate on YouTube videos and on multi-view capture data with significant occlusion and demonstrate state-of-the-art reconstruction quality. We also demonstrate that the resulting avatars are robust enough to be animated with novel poses and composited into 3DGS scenes captured using cell-phone video. Our project page is available at https://miraymen.github.io/ahoy/",
+      "url": "http://arxiv.org/abs/2603.17975v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17975v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:39:05+00:00",
+      "source": "arxiv",
+      "title_cn": "AHOY！从YouTube视频中利用高斯泼溅和视频扩散先验重建遮挡下的可动画人体",
+      "summary_cn": "本文提出AHOY方法，能够从野外单目视频中重建完整的、可动画的3D高斯人体模型，即使存在严重遮挡。现有方法假设输入无遮挡，排除了大量真实场景中人物被部分遮挡的视频。AHOY结合高斯泼溅和视频扩散先验，有效处理遮挡问题。",
+      "score": 8,
+      "significance": "突破了现有人体重建方法对无遮挡输入的限制，使从真实野外视频重建可动画人体成为可能。"
+    },
+    {
+      "title": "Robust-ComBat: Mitigating Outlier Effects in Diffusion MRI Data Harmonization",
+      "authors": [
+        "Yoan David",
+        "Pierre-Marc Jodoin",
+        "Alzheimer's Disease Neuroimaging Initiative",
+        "The TRACK-TBI Investigators"
+      ],
+      "abstract": "Harmonization methods such as ComBat and its variants are widely used to mitigate diffusion MRI (dMRI) site-specific biases. However, ComBat assumes that subject distributions exhibit a Gaussian profile. In practice, patients with neurological disorders often present diffusion metrics that deviate markedly from those of healthy controls, introducing pathological outliers that distort site-effect estimation. This problem is particularly challenging in clinical practice as most patients undergoing brain imaging have an underlying and yet undiagnosed condition, making it difficult to exclude them from harmonization cohorts, as their scans were precisely prescribed to establish a diagnosis. In this paper, we show that harmonizing data to a normative reference population with ComBat while including pathological cases induces significant distortions. Across 7 neurological conditions, we evaluated 10 outlier rejection methods with 4 ComBat variants over a wide range of scenarios, revealing that many filtering strategies fail in the presence of pathology. In contrast, a simple MLP provides robust outlier compensation enabling reliable harmonization while preserving disease-related signal. Experiments on both control and real multi-site cohorts, comprising up to 80% of subjects with neurological disorders, demonstrate that Robust-ComBat consistently outperforms conventional statistical baselines with lower harmonization error across all ComBat variants.",
+      "url": "http://arxiv.org/abs/2603.17968v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.17968v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-18T17:35:25+00:00",
+      "source": "arxiv",
+      "title_cn": "Robust-ComBat：缓解扩散MRI数据协调中的离群值效应",
+      "summary_cn": "ComBat及其变体广泛用于消除扩散MRI的站点特异性偏差，但其假设受试者分布呈高斯分布。实际中，神经疾病患者的扩散指标常偏离高斯分布。本文提出Robust-ComBat方法，通过缓解离群值效应，提高扩散MRI数据协调的鲁棒性。",
+      "score": 6,
+      "significance": "解决了多站点神经影像数据协调中的实际问题，对大规模脑影像研究的数据质量保障具有重要意义。"
+    }
+  ]
+}
