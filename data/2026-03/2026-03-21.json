@@ -1,0 +1,722 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T09:10:46.439449+08:00",
+  "github_trending": [
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 101549,
+      "forks": 8116,
+      "language": "Shell",
+      "stars_today": 2819,
+      "source": "github_trending",
+      "summary_cn": "一个代理技能框架和软件开发方法论，提供可工作的 AI Agent 开发实践。采用 Shell 脚本实现，强调实用性和可操作性，适合需要构建自动化 Agent 系统的开发者。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "实战派 AI Agent 开发框架，今日狂揽 2800+ stars"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 7056,
+      "forks": 501,
+      "language": "Java",
+      "stars_today": 1812,
+      "source": "github_trending",
+      "summary_cn": "开源 PDF 解析器，专为 AI 数据准备设计。自动化 PDF 可访问性处理，将文档转换为 AI 可用格式。使用 Java 开发，适合需要处理大量 PDF 文档的 AI 应用场景。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "AI 时代的 PDF 解析利器，让文档数据触手可及"
+    },
+    {
+      "name": "jarrodwatts/claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "stars": 9537,
+      "forks": 405,
+      "language": "JavaScript",
+      "stars_today": 1068,
+      "source": "github_trending",
+      "summary_cn": "Claude Code 插件，实时显示 AI 编码助手的运行状态。可视化上下文使用、活跃工具、运行中的 Agent 和任务进度，帮助开发者更好地理解和控制 AI 编码过程。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "给 Claude 装上仪表盘，AI 编码过程一目了然"
+    },
+    {
+      "name": "louis-e/arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
+      "stars": 11589,
+      "forks": 991,
+      "language": "Rust",
+      "stars_today": 1045,
+      "source": "github_trending",
+      "summary_cn": "使用 Rust 开发的 Minecraft 世界生成器，可将真实世界任意地点高精度还原到游戏中。结合地理数据和程序化生成技术，为 Minecraft 玩家提供真实地形体验。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "把真实世界搬进 Minecraft，高精度地形生成神器"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 98650,
+      "forks": 10703,
+      "language": "Python",
+      "stars_today": 887,
+      "source": "github_trending",
+      "summary_cn": "Anthropic 官方 Agent 技能公共仓库，提供可复用的 AI Agent 能力模块。包含各类预构建技能和最佳实践，是构建 Claude Agent 应用的官方资源库。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "Anthropic 官方技能库，Claude Agent 开发必备"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
+      "stars": 57128,
+      "forks": 4799,
+      "language": "Python",
+      "stars_today": 655,
+      "source": "github_trending",
+      "summary_cn": "统一的 Web UI 用于训练和本地运行开源模型如 Qwen、DeepSeek、Gemma 等。简化模型部署和微调流程，提供友好的图形界面，降低 LLM 使用门槛。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "开源大模型的统一控制台，训练部署一站式搞定"
+    },
+    {
+      "name": "langchain-ai/open-swe",
+      "url": "https://github.com/langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "stars": 7644,
+      "forks": 920,
+      "language": "Python",
+      "stars_today": 635,
+      "source": "github_trending",
+      "summary_cn": "开源异步编码 Agent，专注于软件工程任务自动化。支持并发处理多个编码任务，提高开发效率。基于 LangChain 构建，适合需要自动化代码生成和修改的场景。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "异步编码 Agent，让 AI 并发处理你的代码任务"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 34110,
+      "forks": 6519,
+      "language": "Python",
+      "stars_today": 433,
+      "source": "github_trending",
+      "summary_cn": "多 Agent LLM 金融交易框架，将 AI 应用于量化交易领域。支持多个 Agent 协同决策，结合市场数据分析和策略执行，为算法交易提供 AI 驱动的解决方案。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "AI 驱动的量化交易框架，多 Agent 协同炒股"
+    },
+    {
+      "name": "vas3k/TaxHacker",
+      "url": "https://github.com/vas3k/TaxHacker",
+      "description": "Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories",
+      "stars": 1935,
+      "forks": 262,
+      "language": "TypeScript",
+      "stars_today": 137,
+      "source": "github_trending",
+      "summary_cn": "自托管 AI 会计应用，使用 LLM 分析收据、发票和交易记录。支持自定义提示词和分类规则，帮助个人和小企业自动化财务管理，保护数据隐私。",
+      "score": 6,
+      "category": "工具",
+      "one_liner": "AI 记账助手，让 LLM 帮你管钱包"
+    },
+    {
+      "name": "vllm-project/vllm-omni",
+      "url": "https://github.com/vllm-project/vllm-omni",
+      "description": "A framework for efficient model inference with omni-modality models",
+      "stars": 3351,
+      "forks": 576,
+      "language": "Python",
+      "stars_today": 110,
+      "source": "github_trending",
+      "summary_cn": "高效的全模态模型推理框架，支持文本、图像、音频等多种模态输入。优化推理性能，降低资源消耗，适合部署多模态 AI 应用的生产环境。",
+      "score": 7,
+      "category": "框架",
+      "one_liner": "全模态模型推理加速器，让多模态 AI 飞起来"
+    },
+    {
+      "name": "microsoft/apm",
+      "url": "https://github.com/microsoft/apm",
+      "description": "Agent Package Manager",
+      "stars": 642,
+      "forks": 45,
+      "language": "Python",
+      "stars_today": 107,
+      "source": "github_trending",
+      "summary_cn": "微软推出的 Agent 包管理器，类似 npm 但专为 AI Agent 设计。标准化 Agent 组件的分发、安装和依赖管理，推动 Agent 生态系统发展。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "Agent 界的 npm，微软出品的包管理器"
+    },
+    {
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "stars": 9517,
+      "forks": 575,
+      "language": "Python",
+      "stars_today": 101,
+      "source": "github_trending",
+      "summary_cn": "Hugging Face 官方技能库，为 AI Agent 提供生态系统能力。集成模型、数据集和工具，让 Agent 能够充分利用 HF 平台资源，加速 AI 应用开发。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "连接 Hugging Face 生态，给 Agent 插上翅膀"
+    },
+    {
+      "name": "google/adk-python",
+      "url": "https://github.com/google/adk-python",
+      "description": "An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "stars": 18504,
+      "forks": 3107,
+      "language": "Python",
+      "stars_today": 33,
+      "source": "github_trending",
+      "summary_cn": "Google 推出的代码优先 Python Agent 开发工具包。提供灵活的构建、评估和部署能力，强调开发者控制权和可定制性，适合构建复杂 AI Agent 系统。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "Google 出品的 Agent 开发套件，代码优先更灵活"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Show HN: Three new Kitten TTS models – smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "score": 8,
+      "comments": 176,
+      "author": "rohan_joshi",
+      "time": "2026-03-19T15:56:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47441546",
+      "source": "hacker_news",
+      "title_cn": "展示 HN：三个新的 Kitten TTS 模型 - 最小的不到 25MB",
+      "summary_cn": "KittenML 发布了三个新的文本转语音模型，其中最小的模型体积不到 25MB，适合在资源受限的设备上运行。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Anthropic takes legal action against OpenCode",
+      "url": "https://github.com/anomalyco/opencode/pull/18186",
+      "score": 9,
+      "comments": 371,
+      "author": "_squared_",
+      "time": "2026-03-19T19:37:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444748",
+      "source": "hacker_news",
+      "title_cn": "Anthropic 对 OpenCode 采取法律行动",
+      "summary_cn": "Anthropic 针对 OpenCode 项目提起法律诉讼，相关讨论集中在 GitHub PR #18186 中。",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenCode – The open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "score": 8,
+      "comments": 184,
+      "author": "rbanffy",
+      "time": "2026-03-20T21:03:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47460525",
+      "source": "hacker_news",
+      "title_cn": "OpenCode - 开源 AI 编码代理",
+      "summary_cn": "OpenCode 是一个开源的 AI 编码助手工具，旨在帮助开发者提高编程效率。",
+      "category": "开源项目"
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "score": 9,
+      "comments": 138,
+      "author": "mikece",
+      "time": "2026-03-19T18:59:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444195",
+      "source": "hacker_news",
+      "title_cn": "失控的 AI 导致 Meta 发生严重安全事故",
+      "summary_cn": "Meta 公司遭遇了一起由失控 AI 代理引发的严重安全事件，引发业界对 AI 安全性的关注。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Be intentional about how AI changes your codebase",
+      "url": "https://aicode.swerdlow.dev",
+      "score": 7,
+      "comments": 94,
+      "author": "benswerd",
+      "time": "2026-03-19T21:23:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47446373",
+      "source": "hacker_news",
+      "title_cn": "有意识地管理 AI 如何改变你的代码库",
+      "summary_cn": "探讨如何在使用 AI 工具时保持对代码库变更的控制和意识，避免盲目依赖。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "MacBook M5 Pro and Qwen3.5 = Local AI Security System",
+      "url": "https://www.sharpai.org/benchmark/",
+      "score": 7,
+      "comments": 145,
+      "author": "aegis_camera",
+      "time": "2026-03-20T16:41:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47457107",
+      "source": "hacker_news",
+      "title_cn": "MacBook M5 Pro 和 Qwen3.5 = 本地 AI 安全系统",
+      "summary_cn": "展示如何使用 MacBook M5 Pro 芯片和 Qwen3.5 模型构建本地运行的 AI 安全监控系统。",
+      "category": "技术突破"
+    },
+    {
+      "title": "I turned Markdown into a protocol for generative UI",
+      "url": "https://fabian-kuebler.com/posts/markdown-agentic-ui/",
+      "score": 7,
+      "comments": 56,
+      "author": "FabianCarbonara",
+      "time": "2026-03-19T13:42:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47439300",
+      "source": "hacker_news",
+      "title_cn": "我将 Markdown 转变为生成式 UI 的协议",
+      "summary_cn": "介绍一种创新方法，使用 Markdown 作为协议来驱动 AI 生成的用户界面。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Launch HN: Voltair (YC W26) – Drone and charging network for power utilities",
+      "url": "https://news.ycombinator.com/item?id=47442452",
+      "score": 6,
+      "comments": 27,
+      "author": "wweissbluth",
+      "time": "2026-03-19T16:57:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47442452",
+      "source": "hacker_news",
+      "title_cn": "发布 HN：Voltair (YC W26) - 为电力公司提供的无人机和充电网络",
+      "summary_cn": "YC 孵化的 Voltair 公司推出面向电力行业的无人机巡检和充电基础设施解决方案。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
+      "url": "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/",
+      "score": 7,
+      "comments": 19,
+      "author": "jt-hill",
+      "time": "2026-03-19T18:23:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47443675",
+      "source": "hacker_news",
+      "title_cn": "关于 OpenAI 收购 Astral 及 uv/ruff/ty 的思考",
+      "summary_cn": "Simon Willison 分析 OpenAI 收购 Python 工具链公司 Astral 的影响和意义。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "AI (2014)",
+      "url": "https://blog.samaltman.com/ai",
+      "score": 6,
+      "comments": 64,
+      "author": "bjornroberg",
+      "time": "2026-03-20T11:10:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47453010",
+      "source": "hacker_news",
+      "title_cn": "AI (2014)",
+      "summary_cn": "Sam Altman 在 2014 年撰写的关于人工智能的博客文章，回顾其早期对 AI 发展的预测。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "No AI in Node.js Core",
+      "url": "https://github.com/indutny/no-ai-in-nodejs-core",
+      "score": 6,
+      "comments": 35,
+      "author": "porsager",
+      "time": "2026-03-19T19:35:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444714",
+      "source": "hacker_news",
+      "title_cn": "Node.js 核心不要 AI",
+      "summary_cn": "社区发起倡议，反对在 Node.js 核心代码中引入 AI 功能，引发关于开源项目边界的讨论。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Launch HN: Canary (YC W26) – AI QA that understands your code",
+      "url": "https://news.ycombinator.com/item?id=47441629",
+      "score": 6,
+      "comments": 25,
+      "author": "Visweshyc",
+      "time": "2026-03-19T16:01:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47441629",
+      "source": "hacker_news",
+      "title_cn": "发布 HN：Canary (YC W26) - 理解你代码的 AI QA",
+      "summary_cn": "YC 孵化的 Canary 推出能够深度理解代码逻辑的 AI 质量保证工具。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Google Search is now using AI to replace headlines",
+      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "score": 7,
+      "comments": 13,
+      "author": "imartin2k",
+      "time": "2026-03-20T14:39:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47455224",
+      "source": "hacker_news",
+      "title_cn": "Google 搜索现在使用 AI 替换新闻标题",
+      "summary_cn": "Google 开始在搜索结果中使用 AI 改写新闻标题，引发对信息准确性和媒体影响的担忧。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: I built a P2P network where AI agents publish formally verified science",
+      "url": "https://news.ycombinator.com/item?id=47444212",
+      "score": 7,
+      "comments": 8,
+      "author": "FranciscoAngulo",
+      "time": "2026-03-19T19:00:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47444212",
+      "source": "hacker_news",
+      "title_cn": "展示 HN：我构建了一个 P2P 网络，AI 代理在其中发布形式化验证的科学成果",
+      "summary_cn": "创新项目将 P2P 网络、AI 代理和形式化验证结合，用于科学研究成果的发布和验证。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: I made an email app inspired by Arc browser",
+      "url": "https://demo.define.app",
+      "score": 5,
+      "comments": 24,
+      "author": "johndamaia",
+      "time": "2026-03-20T18:06:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47458348",
+      "source": "hacker_news",
+      "title_cn": "展示 HN：我做了一个受 Arc 浏览器启发的邮件应用",
+      "summary_cn": "借鉴 Arc 浏览器的设计理念，开发了一款新的邮件客户端应用。",
+      "category": "产品发布"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "authors": [
+        "Ziyin Zhang",
+        "Zihan Liao",
+        "Hang Yu",
+        "Peng Di",
+        "Rui Wang"
+      ],
+      "abstract": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available high-quality data samples, F2LLM-v2 supports more than 200 languages, with a particular emphasis on previously underserved mid- and low-resource languages. By integrating a two-stage LLM-based embedding training pipeline with matryoshka learning, model pruning, and knowledge distillation techniques, we present models that are far more efficient than previous LLM-based embedding models while retaining competitive performances. Extensive evaluations confirm that F2LLM-v2-14B ranks first on 11 MTEB benchmarks, while the smaller models in the family also set a new state of the art for resource-constrained applications. To facilitate open-source embedding model research, we release all models, data, code, and intermediate checkpoints.",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19223v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-03-19T17:59:21+00:00",
+      "source": "arxiv",
+      "title_cn": "F2LLM-v2：面向多语言世界的包容、高性能、高效嵌入模型",
+      "summary_cn": "提出了F2LLM-v2嵌入模型家族，包含8种规模（80M到14B参数），支持200多种语言。基于6000万高质量数据样本训练，为多语言文本理解提供通用嵌入解决方案。",
+      "score": 7,
+      "significance": "为资源匮乏语言提供高质量嵌入支持，推动多语言NLP应用的普及"
+    },
+    {
+      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "authors": [
+        "Zhuolin Yang",
+        "Zihan Liu",
+        "Yang Chen",
+        "Wenliang Dai",
+        "Boxin Wang"
+      ],
+      "abstract": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical and coding reasoning performance approaches that of frontier open models. It is the second open-weight LLM, after DeepSeekV3.2-Speciale-671B-A37B, to achieve Gold Medal-level performance in the 2025 International Mathematical Olympiad (IMO), the International Olympiad in Informatics (IOI), and the ICPC World Finals, demonstrating remarkably high intelligence density with 20x fewer parameters. In contrast to Nemotron-Cascade 1, the key technical advancements are as follows. After SFT on a meticulously curated dataset, we substantially expand Cascade RL to cover a much broader spectrum of reasoning and agentic domains. Furthermore, we introduce multi-domain on-policy distillation from the strongest intermediate teacher models for each domain throughout the Cascade RL process, allowing us to efficiently recover benchmark regressions and sustain strong performance gains along the way. We release the collection of model checkpoint and training data.",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19220v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-03-19T17:58:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Nemotron-Cascade 2：通过级联强化学习和多域在线策略蒸馏进行后训练",
+      "summary_cn": "推出30B参数的MoE模型，仅激活3B参数即可达到顶级推理能力。在数学和编程推理上接近前沿开源模型性能，同时具备强大的智能体能力。",
+      "score": 8,
+      "significance": "以极小的激活参数实现顶级性能，为高效大模型部署提供新范式"
+    },
+    {
+      "title": "Online Learning and Equilibrium Computation with Ranking Feedback",
+      "authors": [
+        "Mingyang Liu",
+        "Yongshan Chen",
+        "Zhiyuan Fan",
+        "Gabriele Farina",
+        "Asuman Ozdaglar"
+      ],
+      "abstract": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. Most existing online learning algorithms rely on \\emph{numeric} utility feedback from the environment, which may be unavailable in human-in-the-loop applications and/or may be restricted by privacy concerns. In this paper, we study an online learning model in which the learner only observes a \\emph{ranking} over a set of proposed actions at each timestep. We consider two ranking mechanisms: rankings induced by the \\emph{instantaneous} utility at the current timestep, and rankings induced by the \\emph{time-average} utility up to the current timestep, under both \\emph{full-information} and \\emph{bandit} feedback settings. Using the standard external-regret metric, we show that sublinear regret is impossible with instantaneous-utility ranking feedback in general. Moreover, when the ranking model is relatively deterministic, \\emph{i.e.}, under the Plackett-Luce model with a temperature that is sufficiently small, sublinear regret is also impossible with time-average utility ranking feedback. We then develop new algorithms that achieve sublinear regret under the additional assumption that the utility sequence has sublinear total variation. Notably, for full-information time-average utility ranking feedback, this additional assumption can be removed. As a consequence, when all players in a normal-form game follow our algorithms, repeated play yields an approximate coarse correlated equilibrium. We also demonstrate the effectiveness of our algorithms in an online large-language-model routing task.",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19221v1",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.GT"
+      ],
+      "published": "2026-03-19T17:59:07+00:00",
+      "source": "arxiv",
+      "title_cn": "基于排序反馈的在线学习与均衡计算",
+      "summary_cn": "研究在对抗环境下仅使用排序反馈（而非数值效用）的在线学习问题。提出新算法处理序数反馈，连接了在线学习与博弈论中的均衡计算。",
+      "score": 6,
+      "significance": "扩展了在线学习理论框架，适用于只能获得相对偏好信息的实际场景"
+    },
+    {
+      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
+      "authors": [
+        "Xianjin Wu",
+        "Dingkang Liang",
+        "Tianrui Feng",
+        "Kui Xia",
+        "Yumeng Zhang"
+      ],
+      "abstract": "While Multimodal Large Language Models demonstrate impressive semantic capabilities, they often suffer from spatial blindness, struggling with fine-grained geometric reasoning and physical dynamics. Existing solutions typically rely on explicit 3D modalities or complex geometric scaffolding, which are limited by data scarcity and generalization challenges. In this work, we propose a paradigm shift by leveraging the implicit spatial prior within large-scale video generation models. We posit that to synthesize temporally coherent videos, these models inherently learn robust 3D structural priors and physical laws. We introduce VEGA-3D (Video Extracted Generative Awareness), a plug-and-play framework that repurposes a pre-trained video diffusion model as a Latent World Simulator. By extracting spatiotemporal features from intermediate noise levels and integrating them with semantic representations via a token-level adaptive gated fusion mechanism, we enrich MLLMs with dense geometric cues without explicit 3D supervision. Extensive experiments across 3D scene understanding, spatial reasoning, and embodied manipulation benchmarks demonstrate that our method outperforms state-of-the-art baselines, validating that generative priors provide a scalable foundation for physical-world understanding. Code is publicly available at https://github.com/H-EmbodVis/VEGA-3D.",
+      "url": "http://arxiv.org/abs/2603.19235v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19235v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-03-19T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "生成模型理解空间：释放场景理解的隐式3D先验",
+      "summary_cn": "解决多模态大语言模型的空间盲点问题，无需显式3D模态或复杂几何结构，直接利用生成模型中的隐式3D先验进行精细几何推理和物理动力学理解。",
+      "score": 8,
+      "significance": "突破多模态模型的空间理解瓶颈，为具身智能和机器人应用奠定基础"
+    },
+    {
+      "title": "Matryoshka Gaussian Splatting",
+      "authors": [
+        "Zhilin Guo",
+        "Boqiao Zhang",
+        "Hakan Aktas",
+        "Kyle Fogarty",
+        "Jeffrey Hu"
+      ],
+      "abstract": "The ability to render scenes at adjustable fidelity from a single model, known as level of detail (LoD), is crucial for practical deployment of 3D Gaussian Splatting (3DGS). Existing discrete LoD methods expose only a limited set of operating points, while concurrent continuous LoD approaches enable smoother scaling but often suffer noticeable quality degradation at full capacity, making LoD a costly design decision. We introduce Matryoshka Gaussian Splatting (MGS), a training framework that enables continuous LoD for standard 3DGS pipelines without sacrificing full-capacity rendering quality. MGS learns a single ordered set of Gaussians such that rendering any prefix, the first k splats, produces a coherent reconstruction whose fidelity improves smoothly with increasing budget. Our key idea is stochastic budget training: each iteration samples a random splat budget and optimises both the corresponding prefix and the full set. This strategy requires only two forward passes and introduces no architectural modifications. Experiments across four benchmarks and six baselines show that MGS matches the full-capacity performance of its backbone while enabling a continuous speed-quality trade-off from a single model. Extensive ablations on ordering strategies, training objectives, and model capacity further validate the designs.",
+      "url": "http://arxiv.org/abs/2603.19234v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19234v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-03-19T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "俄罗斯套娃高斯溅射",
+      "summary_cn": "为3D高斯溅射引入可调节保真度渲染能力（LoD），从单一模型实现连续的细节层次控制，克服现有离散LoD方法的局限性。",
+      "score": 7,
+      "significance": "提升3DGS的实用性和部署灵活性，适应不同算力和质量需求"
+    },
+    {
+      "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
+      "authors": [
+        "Yuqing Wang",
+        "Chuofan Ma",
+        "Zhijie Lin",
+        "Yao Teng",
+        "Lijun Yu"
+      ],
+      "abstract": "Visual generation with discrete tokens has gained significant attention as it enables a unified token prediction paradigm shared with language models, promising seamless multimodal architectures. However, current discrete generation methods remain limited to low-dimensional latent tokens (typically 8-32 dims), sacrificing the semantic richness essential for understanding. While high-dimensional pretrained representations (768-1024 dims) could bridge this gap, their discrete generation poses fundamental challenges. In this paper, we present Cubic Discrete Diffusion (CubiD), the first discrete generation model for high-dimensional representations. CubiD performs fine-grained masking throughout the high-dimensional discrete representation -- any dimension at any position can be masked and predicted from partial observations. This enables the model to learn rich correlations both within and across spatial positions, with the number of generation steps fixed at $T$ regardless of feature dimensionality, where $T \\ll hwd$. On ImageNet-256, CubiD achieves state-of-the-art discrete generation with strong scaling behavior from 900M to 3.7B parameters. Crucially, we validate that these discretized tokens preserve original representation capabilities, demonstrating that the same discrete tokens can effectively serve both understanding and generation tasks. We hope this work will inspire future research toward unified multimodal architectures. Code is available at: https://github.com/YuqingWang1029/CubiD.",
+      "url": "http://arxiv.org/abs/2603.19232v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19232v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:55+00:00",
+      "source": "arxiv",
+      "title_cn": "立方离散扩散：高维表示token上的离散视觉生成",
+      "summary_cn": "突破现有离散生成方法局限于低维潜在token的限制，在高维表示token上实现视觉生成，与语言模型共享统一的token预测范式。",
+      "score": 7,
+      "significance": "为多模态统一架构铺平道路，推动视觉-语言模型的深度融合"
+    },
+    {
+      "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
+      "authors": [
+        "Haitian Li",
+        "Haozhe Xie",
+        "Junxiang Xu",
+        "Beichen Wen",
+        "Fangzhou Hong"
+      ],
+      "abstract": "Reconstructing articulated 3D objects from a single image requires jointly inferring object geometry, part structure, and motion parameters from limited visual evidence. A key difficulty lies in the entanglement between motion cues and object structure, which makes direct articulation regression unstable. Existing methods address this challenge through multi-view supervision, retrieval-based assembly, or auxiliary video generation, often sacrificing scalability or efficiency. We present MonoArt, a unified framework grounded in progressive structural reasoning. Rather than predicting articulation directly from image features, MonoArt progressively transforms visual observations into canonical geometry, structured part representations, and motion-aware embeddings within a single architecture. This structured reasoning process enables stable and interpretable articulation inference without external motion templates or multi-stage pipelines. Extensive experiments on PartNet-Mobility demonstrate that OM achieves state-of-the-art performance in both reconstruction accuracy and inference speed. The framework further generalizes to robotic manipulation and articulated scene reconstruction.",
+      "url": "http://arxiv.org/abs/2603.19231v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19231v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:52+00:00",
+      "source": "arxiv",
+      "title_cn": "MonoArt：单目关节3D重建的渐进式结构推理",
+      "summary_cn": "从单张图像重建关节物体的3D结构，通过渐进式推理解耦运动线索与物体结构，联合推断几何、部件结构和运动参数。",
+      "score": 7,
+      "significance": "解决单目关节重建的核心难题，为AR/VR和机器人交互提供技术支撑"
+    },
+    {
+      "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
+      "authors": [
+        "Chenyang Gu",
+        "Mingyuan Zhang",
+        "Haozhe Xie",
+        "Zhongang Cai",
+        "Lei Yang"
+      ],
+      "abstract": "Prior motion generation largely follows two paradigms: continuous diffusion models that excel at kinematic control, and discrete token-based generators that are effective for semantic conditioning. To combine their strengths, we propose a three-stage framework comprising condition feature extraction (Perception), discrete token generation (Planning), and diffusion-based motion synthesis (Control). Central to this framework is MoTok, a diffusion-based discrete motion tokenizer that decouples semantic abstraction from fine-grained reconstruction by delegating motion recovery to a diffusion decoder, enabling compact single-layer tokens while preserving motion fidelity. For kinematic conditions, coarse constraints guide token generation during planning, while fine-grained constraints are enforced during control through diffusion-based optimization. This design prevents kinematic details from disrupting semantic token planning. On HumanML3D, our method significantly improves controllability and fidelity over MaskControl while using only one-sixth of the tokens, reducing trajectory error from 0.72 cm to 0.08 cm and FID from 0.083 to 0.029. Unlike prior methods that degrade under stronger kinematic constraints, ours improves fidelity, reducing FID from 0.033 to 0.014.",
+      "url": "http://arxiv.org/abs/2603.19227v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19227v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:51+00:00",
+      "source": "arxiv",
+      "title_cn": "基于扩散的离散运动token化器桥接语义与运动学条件",
+      "summary_cn": "提出三阶段框架结合连续扩散模型的运动学控制优势和离散token生成器的语义条件能力，通过离散运动token化器实现两种范式的融合。",
+      "score": 7,
+      "significance": "统一运动生成的两大范式，同时实现精确运动控制和语义理解"
+    },
+    {
+      "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
+      "authors": [
+        "Xinyao Zhang",
+        "Wenkai Dong",
+        "Yuxin Song",
+        "Bo Fang",
+        "Qi Zhang"
+      ],
+      "abstract": "Current instruction-guided video editing models struggle to simultaneously balance precise semantic modifications with faithful motion preservation. While existing approaches rely on injecting explicit external priors (e.g., VLM features or structural conditions) to mitigate these issues, this reliance severely bottlenecks model robustness and generalization. To overcome this limitation, we present SAMA (factorized Semantic Anchoring and Motion Alignment), a framework that factorizes video editing into semantic anchoring and motion modeling. First, we introduce Semantic Anchoring, which establishes a reliable visual anchor by jointly predicting semantic tokens and video latents at sparse anchor frames, enabling purely instruction-aware structural planning. Second, Motion Alignment pre-trains the same backbone on motion-centric video restoration pretext tasks (cube inpainting, speed perturbation, and tube shuffle), enabling the model to internalize temporal dynamics directly from raw videos. SAMA is optimized with a two-stage pipeline: a factorized pre-training stage that learns inherent semantic-motion representations without paired video-instruction editing data, followed by supervised fine-tuning on paired editing data. Remarkably, the factorized pre-training alone already yields strong zero-shot video editing ability, validating the proposed factorization. SAMA achieves state-of-the-art performance among open-source models and is competitive with leading commercial systems (e.g., Kling-Omni). Code, models, and datasets will be released.",
+      "url": "http://arxiv.org/abs/2603.19228v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19228v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:51+00:00",
+      "source": "arxiv",
+      "title_cn": "SAMA：指令引导视频编辑的因子化语义锚定与运动对齐",
+      "summary_cn": "解决指令引导视频编辑中语义修改与运动保持的平衡问题，无需外部先验注入，通过因子化的语义锚定和运动对齐实现高质量编辑。",
+      "score": 7,
+      "significance": "简化视频编辑流程，提升编辑质量和运动一致性"
+    },
+    {
+      "title": "Under One Sun: Multi-Object Generative Perception of Materials and Illumination",
+      "authors": [
+        "Nobuo Yoshii",
+        "Xinran Nicole Han",
+        "Ryo Kawahara",
+        "Todd Zickler",
+        "Ko Nishino"
+      ],
+      "abstract": "We introduce Multi-Object Generative Perception (MultiGP), a generative inverse rendering method for stochastic sampling of all radiometric constituents -- reflectance, texture, and illumination -- underlying object appearance from a single image. Our key idea to solve this inherently ambiguous radiometric disentanglement is to leverage the fact that while their texture and reflectance may differ, objects in the same scene are all lit by the same illumination. MultiGP exploits this consensus to produce samples of reflectance, texture, and illumination from a single image of known shapes based on four key technical contributions: a cascaded end-to-end architecture that combines image-space and angular-space disentanglement; Coordinated Guidance for diffusion convergence to a single consistent illumination estimate; Axial Attention applied to facilitate ``cross-talk'' between objects of different reflectance; and a Texture Extraction ControlNet to preserve high-frequency texture details while ensuring decoupling from estimated lighting. Experimental results demonstrate that MultiGP effectively leverages the complementary spatial and frequency characteristics of multiple object appearances to recover individual texture and reflectance as well as the common illumination.",
+      "url": "http://arxiv.org/abs/2603.19226v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19226v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:45+00:00",
+      "source": "arxiv",
+      "title_cn": "同一阳光下：材质与光照的多物体生成感知",
+      "summary_cn": "从单张图像生成式采样所有辐射度成分（反射率、纹理、光照），解决逆向渲染的固有歧义性，实现多物体场景的材质和光照分解。",
+      "score": 7,
+      "significance": "推进逆向渲染技术，为虚拟内容创作和场景重光照提供新工具"
+    },
+    {
+      "title": "EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing",
+      "authors": [
+        "Yang Fu",
+        "Yike Zheng",
+        "Ziyun Dai",
+        "Henghui Ding"
+      ],
+      "abstract": "Video object removal aims to eliminate dynamic target objects and their visual effects, such as deformation, shadows, and reflections, while restoring seamless backgrounds. Recent diffusion-based video inpainting and object removal methods can remove the objects but often struggle to erase these effects and to synthesize coherent backgrounds. Beyond method limitations, progress is further hampered by the lack of a comprehensive dataset that systematically captures common object effects across varied environments for training and evaluation. To address this, we introduce VOR (Video Object Removal), a large-scale dataset that provides diverse paired videos, each consisting of one video where the target object is present with its effects and a counterpart where the object and effects are absent, with corresponding object masks. VOR contains 60K high-quality video pairs from captured and synthetic sources, covers five effects types, and spans a wide range of object categories as well as complex, dynamic multi-object scenes. Building on VOR, we propose EffectErase, an effect-aware video object removal method that treats video object insertion as the inverse auxiliary task within a reciprocal learning scheme. The model includes task-aware region guidance that focuses learning on affected areas and enables flexible task switching. Then, an insertion-removal consistency objective that encourages complementary behaviors and shared localization of effect regions and structural cues. Trained on VOR, EffectErase achieves superior performance in extensive experiments, delivering high-quality video object effect erasing across diverse scenarios.",
+      "url": "http://arxiv.org/abs/2603.19224v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19224v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:59:22+00:00",
+      "source": "arxiv",
+      "title_cn": "EffectErase：高质量效果擦除的联合视频物体移除与插入",
+      "summary_cn": "不仅移除动态目标物体，还能消除其视觉效果（变形、阴影、反射），同时恢复无缝背景，克服现有扩散方法的局限。",
+      "score": 7,
+      "significance": "提升视频编辑的真实感和完整性，满足专业视频制作需求"
+    },
+    {
+      "title": "Spectrally-Guided Diffusion Noise Schedules",
+      "authors": [
+        "Carlos Esteves",
+        "Ameesh Makadia"
+      ],
+      "abstract": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during training and the sequence of noise levels traversed during sampling. Noise schedules are typically handcrafted and require manual tuning across different resolutions. In this work, we propose a principled way to design per-instance noise schedules for pixel diffusion, based on the image's spectral properties. By deriving theoretical bounds on the efficacy of minimum and maximum noise levels, we design ``tight'' noise schedules that eliminate redundant steps. During inference, we propose to conditionally sample such noise schedules. Experiments show that our noise schedules improve generative quality of single-stage pixel diffusion models, particularly in the low-step regime.",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19222v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-03-19T17:59:12+00:00",
+      "source": "arxiv",
+      "title_cn": "频谱引导的扩散噪声调度",
+      "summary_cn": "提出基于频谱分析的噪声调度设计方法，替代手工设计的噪声调度，优化去噪扩散模型的训练和采样性能。",
+      "score": 6,
+      "significance": "为扩散模型提供系统化的噪声调度设计方法，提升生成质量"
+    },
+    {
+      "title": "DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "authors": [
+        "Dong Zhuo",
+        "Wenzhao Zheng",
+        "Sicheng Zuo",
+        "Siming Yan",
+        "Lu Hou"
+      ],
+      "abstract": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However, most existing tokenizers are designed for monocular and 2D scenes, leading to inefficiency and inter-view inconsistency when applied to high-resolution multi-view driving scenes. To address this, we propose DriveTok, an efficient 3D driving scene tokenizer for unified multi-view reconstruction and understanding. DriveTok first obtains semantically rich visual features from vision foundation models and then transforms them into the scene tokens with 3D deformable cross-attention. For decoding, we employ a multi-view transformer to reconstruct multi-view features from the scene tokens and use multiple heads to obtain RGB, depth, and semantic reconstructions. We also add a 3D head directly on the scene tokens for 3D semantic occupancy prediction for better spatial awareness. With the multiple training objectives, DriveTok learns unified scene tokens that integrate semantic, geometric, and textural information for efficient multi-view tokenization. Extensive experiments on the widely used nuScenes dataset demonstrate that the scene tokens from DriveTok perform well on image reconstruction, semantic segmentation, depth prediction, and 3D occupancy prediction tasks.",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19219v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-03-19T17:58:22+00:00",
+      "source": "arxiv",
+      "title_cn": "DriveTok：统一多视图重建与理解的3D驾驶场景token化",
+      "summary_cn": "针对自动驾驶场景设计的3D视觉token化方法，克服现有2D单目tokenizer的低效和不一致问题，为视觉-语言-动作模型和世界模型提供可扩展接口。",
+      "score": 8,
+      "significance": "为自动驾驶的多模态大模型提供关键基础设施，推动端到端驾驶系统发展"
+    },
+    {
+      "title": "Rethinking Vector Field Learning for Generative Segmentation",
+      "authors": [
+        "Chaoyang Wang",
+        "Yaobo Liang",
+        "Boci Peng",
+        "Fan Duan",
+        "Jingdong Wang"
+      ],
+      "abstract": "Taming diffusion models for generative segmentation has attracted increasing attention. While existing approaches primarily focus on architectural tweaks or training heuristics, there remains a limited understanding of the intrinsic mismatch between continuous flow matching objectives and discrete perception tasks. In this work, we revisit diffusion segmentation from the perspective of vector field learning. We identify two key limitations of the commonly used flow matching objective: gradient vanishing and trajectory traversing, which result in slow convergence and poor class separation. To tackle these issues, we propose a principled vector field reshaping strategy that augments the learned velocity field with a detached distance-aware correction term. This correction introduces both attractive and repulsive interactions, enhancing gradient magnitudes near centroids while preserving the original diffusion training framework. Furthermore, we design a computationally efficient, quasi-random category encoding scheme inspired by Kronecker sequences, which integrates seamlessly with an end-to-end pixel neural field framework for pixel-level semantic alignment. Extensive experiments consistently demonstrate significant improvements over vanilla flow matching approaches, substantially narrowing the performance gap between generative segmentation and strong discriminative specialists.",
+      "url": "http://arxiv.org/abs/2603.19218v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19218v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:58:19+00:00",
+      "source": "arxiv",
+      "title_cn": "重新思考生成式分割的向量场学习",
+      "summary_cn": "深入分析连续流匹配目标与离散像素预测之间的内在不匹配，为扩散模型在生成式分割任务中的应用提供理论洞察。",
+      "score": 6,
+      "significance": "揭示扩散模型在分割任务中的理论局限，指导未来方法设计"
+    },
+    {
+      "title": "LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs",
+      "authors": [
+        "Keda Tao",
+        "Yuhua Zheng",
+        "Jia Xu",
+        "Wenjie Du",
+        "Kele Shao"
+      ],
+      "abstract": "Recent advancements in omnimodal large language models (OmniLLMs) have significantly improved the comprehension of audio and video inputs. However, current evaluations primarily focus on short audio and video clips ranging from 10 seconds to 5 minutes, failing to reflect the demands of real-world applications, where videos typically run for tens of minutes. To address this critical gap, we introduce LVOmniBench, a new benchmark designed specifically for the cross-modal comprehension of long-form audio and video. This dataset comprises high-quality videos sourced from open platforms that feature rich audio-visual dynamics. Through rigorous manual selection and annotation, LVOmniBench comprises 275 videos, ranging in duration from 10 to 90 minutes, and 1,014 question-answer (QA) pairs. LVOmniBench aims to rigorously evaluate the capabilities of OmniLLMs across domains, including long-term memory, temporal localization, fine-grained understanding, and multimodal perception. Our extensive evaluation reveals that current OmniLLMs encounter significant challenges when processing extended audio-visual inputs. Open-source models generally achieve accuracies below 35%, whereas the Gemini 3 Pro reaches a peak accuracy of approximately 65%. We anticipate that this dataset, along with our empirical findings, will stimulate further research and the development of advanced models capable of resolving complex cross-modal understanding problems within long-form audio-visual contexts.",
+      "url": "http://arxiv.org/abs/2603.19217v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.19217v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-19T17:58:13+00:00",
+      "source": "arxiv",
+      "title_cn": "LVOmniBench：全模态大语言模型的长音视频理解评估先驱",
+      "summary_cn": "针对全模态大语言模型提出长音视频理解评估基准，突破现有评估局限于10秒到5分钟短片段的限制，反映真实应用需求。",
+      "score": 7,
+      "significance": "填补长时序多模态理解评估空白，推动实用化全模态模型发展"
+    }
+  ]
+}
