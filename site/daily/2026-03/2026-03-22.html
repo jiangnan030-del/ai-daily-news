@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-03-22 周日</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-03-22 周日</h1>
+
+<blockquote>自动生成于 2026-03-22 09:19 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p><strong>AI 日报·趋势总览</strong></p>
+
+<p>今天的AI领域呈现出三条清晰的主线。</p>
+
+<p><strong>开源AI编程工具正在加速"去中心化"。</strong> 从OpenCode开源AI编程代理到langchain-ai的open-swe、再到将Claude Code改造为自管理团队的AI Team OS，开发者社区正以前所未有的热情构建开放、可控的AI编码基础设施。这不再是简单的代码补全——编程智能体正朝着自主协作、端到端工程管理的方向演进，开源力量正试图打破闭源产品的垄断叙事。</p>
+
+<p><strong>AI落地场景持续向"重决策"领域渗透。</strong> 五角大楼宣布将Palantir AI纳入美军核心系统，TradingAgents项目探索多智能体金融交易，这标志着AI正从辅助工具升级为关键决策中枢。与此同时，欧洲资深记者因使用AI生成虚假引语遭停职，再次敲响了AI在高信任度场景中的伦理警钟——能力越大，责任边界的模糊也越危险。</p>
+
+<p><strong>边缘与离线AI正在开辟新战场。</strong> Tinybox推出支持1200亿参数的离线AI设备，Unsloth持续优化本地模型训练效率，反映出市场对数据隐私和算力自主权的强烈需求。AI不只属于云端，本地化浪潮正在重塑算力版图。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">Crosstalk-Solutions/project-nomad</a> <code>工具</code></h3>
+
+<blockquote>一台装满 AI 和生存知识的离线生存电脑，让你在任何环境下都能自给自足。</blockquote>
+
+<p>⭐ <strong>6,762</strong> Stars | 📈 今日 +2032 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Project N.O.M.A.D 是一款自给自足的离线生存计算机项目，集成了关键工具、知识库和 AI 功能，可在无网络环境下为用户提供信息支持和生存指导。项目使用 TypeScript 开发，适合户外探险、应急准备和离网场景使用。今日新增超 2000 星，热度极高。</p>
+
+<h3>2. <a href="https://github.com/TauricResearch/TradingAgents" target="_blank">TauricResearch/TradingAgents</a> <code>Agent</code></h3>
+
+<blockquote>多智能体协作的 LLM 金融交易框架，用 AI 团队替你做投资决策。</blockquote>
+
+<p>⭐ <strong>35,558</strong> Stars | 📈 今日 +1503 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>TradingAgents 是一个基于多智能体 LLM 的金融交易框架，通过多个 AI Agent 协作完成市场分析、策略制定和交易执行。项目已积累超 3.5 万星，适用于量化交易研究和 AI 驱动的金融决策场景。框架设计模块化，便于扩展和定制交易策略。</p>
+
+<h3>3. <a href="https://github.com/jarrodwatts/claude-hud" target="_blank">jarrodwatts/claude-hud</a></h3>
+
+<p>⭐ <strong>10,443</strong> Stars | 📈 今日 +970 | 🔤 JavaScript | 推荐: ⭐⭐ (5/10)</p>
+
+<h3>4. <a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">opendataloader-project/opendataloader-pdf</a> <code>数据</code></h3>
+
+<blockquote>专为 AI 打造的开源 PDF 解析器，让文档数据真正变得可用。</blockquote>
+
+<p>⭐ <strong>7,892</strong> Stars | 📈 今日 +950 | 🔤 Java | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>OpenDataLoader PDF 是一款开源 PDF 解析器，专为生成 AI 就绪数据而设计，能自动化处理 PDF 文档的可访问性和结构化提取。基于 Java 开发，适用于 RAG 管道、文档智能和大规模 PDF 数据预处理场景。今日新增近千星，市场需求旺盛。</p>
+
+<h3>5. <a href="https://github.com/louis-e/arnis" target="_blank">louis-e/arnis</a> <code>工具</code></h3>
+
+<blockquote>用 Rust 把真实世界搬进 Minecraft，任意地点一键生成高精度地图。</blockquote>
+
+<p>⭐ <strong>12,224</strong> Stars | 📈 今日 +690 | 🔤 Rust | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Arnis 是一个用 Rust 编写的工具，能将真实世界的任意地点高精度地生成为 Minecraft 地图。利用地理信息数据实现建筑、道路、地形等细节的自动还原，适合地理教育、城市规划可视化和 Minecraft 爱好者。项目创意新颖，技术实现精巧。</p>
+
+<h3>6. <a href="https://github.com/anthropics/skills" target="_blank">anthropics/skills</a> <code>Agent</code></h3>
+
+<blockquote>Anthropic 官方出品的 Agent 技能库，近 10 万星定义 Agent 能力标准。</blockquote>
+
+<p>⭐ <strong>99,312</strong> Stars | 📈 今日 +651 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>Anthropic 官方发布的 Agent Skills 公共仓库，为 AI Agent 提供标准化的技能模块。项目已接近 10 万星，是目前最受关注的 Agent 生态项目之一。为开发者提供了构建和共享 Agent 能力的统一框架，推动 Agent 技能的标准化和复用。</p>
+
+<h3>7. <a href="https://github.com/langchain-ai/open-swe" target="_blank">langchain-ai/open-swe</a> <code>Agent</code></h3>
+
+<blockquote>LangChain 出品的开源异步编程 Agent，让 AI 自动帮你写代码修 Bug。</blockquote>
+
+<p>⭐ <strong>7,933</strong> Stars | 📈 今日 +428 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Open-SWE 是 LangChain 团队开源的异步编程 Agent，专注于软件工程任务的自动化处理。支持异步执行，可高效处理代码生成、Bug 修复等开发任务。基于 LangChain 生态构建，适合需要自动化软件开发流程的团队和研究人员。</p>
+
+<h3>8. <a href="https://github.com/unslothai/unsloth" target="_blank">unslothai/unsloth</a> <code>框架</code></h3>
+
+<blockquote>一站式本地大模型训练和推理平台，低资源也能玩转主流开源模型。</blockquote>
+
+<p>⭐ <strong>57,365</strong> Stars | 📈 今日 +242 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>Unsloth 提供统一的 Web 界面，支持本地训练和运行 Qwen、DeepSeek、GPT-OSS、Gemma 等主流开源模型。以高效低资源消耗著称，大幅降低了大模型微调的门槛。已积累超 5.7 万星，是本地模型训练领域最受欢迎的工具之一。</p>
+
+<h3>9. <a href="https://github.com/huggingface/skills" target="_blank">huggingface/skills</a> <code>Agent</code></h3>
+
+<blockquote>让你的 AI Agent 接入 Hugging Face 全生态，解锁海量模型和数据能力。</blockquote>
+
+<p>⭐ <strong>9,590</strong> Stars | 📈 今日 +74 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>Hugging Face 官方推出的 Agent Skills 库，赋予 AI Agent 使用 Hugging Face 生态系统能力的技能模块。让 Agent 可以调用模型推理、数据集访问、空间部署等 HF 平台核心功能，是构建基于 HF 生态的智能体应用的重要基础设施。</p>
+
+<h3>10. <a href="https://github.com/vllm-project/vllm-omni" target="_blank">vllm-project/vllm-omni</a> <code>框架</code></h3>
+
+<blockquote>vLLM 的全模态版本，一个框架高效推理文本、图像、音频等多模态模型。</blockquote>
+
+<p>⭐ <strong>3,511</strong> Stars | 📈 今日 +71 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>vLLM-Omni 是 vLLM 团队推出的全模态模型高效推理框架，扩展了 vLLM 的能力以支持多模态（文本、图像、音频等）统一推理。继承 vLLM 高吞吐、低延迟的优势，适用于全模态大模型的生产级部署场景。</p>
+
+<h3>11. <a href="https://github.com/microsoft/apm" target="_blank">microsoft/apm</a> <code>Agent</code></h3>
+
+<blockquote>微软出品的 Agent 包管理器，像管理代码库一样管理你的 AI Agent。</blockquote>
+
+<p>⭐ <strong>677</strong> Stars | 📈 今日 +54 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>APM（Agent Package Manager）是微软推出的 Agent 包管理器，为 AI Agent 提供类似 npm/pip 的包管理体验。旨在标准化 Agent 组件的发布、安装和依赖管理，推动 Agent 开发生态的工程化和模块化。项目尚处早期但概念前沿。</p>
+
+<h3>12. <a href="https://github.com/simular-ai/Agent-S" target="_blank">simular-ai/Agent-S</a> <code>Agent</code></h3>
+
+<blockquote>让 AI 像人一样操作电脑的开源框架，鼠标键盘全自动。</blockquote>
+
+<p>⭐ <strong>10,445</strong> Stars | 📈 今日 +43 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Agent S 是一个开源智能体框架，让 AI 像人类一样操作计算机，包括点击、输入、浏览网页等 GUI 交互操作。支持复杂任务的自动化执行，适用于 RPA、自动化测试和通用计算机操作代理等场景。已超 1 万星，社区认可度高。</p>
+
+<h3>13. <a href="https://github.com/aquasecurity/trivy" target="_blank">aquasecurity/trivy</a> <code>工具</code></h3>
+
+<blockquote>一站式安全扫描神器，容器、K8s、代码、云端漏洞一网打尽。</blockquote>
+
+<p>⭐ <strong>33,379</strong> Stars | 📈 今日 +39 | 🔤 Go | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Trivy 是 Aqua Security 开源的全方位安全扫描工具，支持容器、Kubernetes、代码仓库和云环境的漏洞、配置错误、密钥泄露和 SBOM 检测。作为 DevSecOps 领域的标杆工具，已被广泛集成到 CI/CD 流水线中，超 3.3 万星。</p>
+
+<h3>14. <a href="https://github.com/skypilot-org/skypilot" target="_blank">skypilot-org/skypilot</a> <code>框架</code></h3>
+
+<blockquote>一套系统管理所有 AI 算力，跨云、跨集群轻松调度 AI 工作负载。</blockquote>
+
+<p>⭐ <strong>9,660</strong> Stars | 📈 今日 +20 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>SkyPilot 是一个跨基础设施的 AI 工作负载管理系统，支持在 Kubernetes、Slurm、20+ 云服务和本地环境中统一运行和扩展 AI 任务。通过一个系统管理所有 AI 算力资源，大幅简化多云和混合环境下的 AI 训练与推理部署。</p>
+
+<h3>15. <a href="https://github.com/meta-pytorch/OpenEnv" target="_blank">meta-pytorch/OpenEnv</a> <code>框架</code></h3>
+
+<blockquote>Meta 推出的 RL 后训练环境接口库，标准化大模型强化学习训练流程。</blockquote>
+
+<p>⭐ <strong>1,288</strong> Stars | 📈 今日 +10 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>OpenEnv 是 Meta PyTorch 团队推出的强化学习后训练环境接口库，为 RL 后训练提供标准化的环境交互接口。旨在统一不同 RL 环境的接口规范，便于大模型 RLHF/RL 后训练阶段与各类环境的集成，适合 RL 研究者和大模型对齐训练团队。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://opencode.ai/" target="_blank">OpenCode —— 开源 AI 编程代理</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: OpenCode – Open source AI coding agent</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47460525" target="_blank">586 评论</a> | 👤 rbanffy</p>
+
+<p>OpenCode 是一款开源的 AI 编程代理工具，旨在帮助开发者通过 AI 辅助完成代码编写、调试和重构等任务。该项目在 Hacker News 上获得了极高关注，引发了关于开源 AI 编程工具生态的广泛讨论。</p>
+
+<h3>2. <a href="https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record" target="_blank">封锁互联网档案馆无法阻止 AI，但会抹去互联网的历史记录</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47464818" target="_blank">136 评论</a> | 👤 pabs3</p>
+
+<p>EFF（电子前沿基金会）发文指出，封锁互联网档案馆（Internet Archive）并不能有效阻止 AI 训练数据的获取，反而会破坏互联网珍贵的历史记录和公共知识资源。文章呼吁在保护版权与维护公共利益之间寻找平衡。</p>
+
+<h3>3. <a href="https://tinygrad.org/#tinybox" target="_blank">Tinybox —— 支持 1200 亿参数的离线 AI 设备</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Tinybox – Offline AI device 120B parameters</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47470773" target="_blank">167 评论</a> | 👤 albelfio</p>
+
+<p>Tinybox 是 tinygrad 团队推出的离线 AI 硬件设备，能够在本地运行高达 1200 亿参数的大语言模型，无需联网即可使用。该产品面向注重隐私和离线使用场景的用户。</p>
+
+<h3>4. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646" target="_blank">Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning</a></h3>
+
+<p>🔺 <strong>89</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47467913" target="_blank">54 评论</a> | 👤 Anon84</p>
+
+<h3>5. <a href="https://blog.atuin.sh/atuin-v18-13/" target="_blank">Atuin v18.13 发布 —— 更强搜索、PTY 代理和 Shell AI 功能</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Atuin v18.13 – better search, a PTY proxy, and AI for your shell</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47465824" target="_blank">73 评论</a> | 👤 cenanozen</p>
+
+<p>Shell 历史记录管理工具 Atuin 发布 v18.13 版本，带来了改进的搜索功能、PTY 代理支持以及集成 AI 能力，帮助用户更高效地在终端中查找和执行命令。</p>
+
+<h3>6. <a href="https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes" target="_blank">欧洲资深记者因使用 AI 生成引语被停职</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Senior European journalist suspended over AI-generated quotes</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47467566" target="_blank">72 评论</a> | 👤 Brajeshwar</p>
+
+<p>欧洲媒体集团 Mediahuis 的一名资深记者因在报道中使用 AI 生成的虚假引语而被停职。该事件引发了新闻行业对 AI 工具滥用和新闻伦理底线的广泛讨论。</p>
+
+<h3>7. <a href="https://demo.define.app" target="_blank">Show HN：我做了一款受 Arc 浏览器启发的邮件应用</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: I made an email app inspired by Arc browser</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47458348" target="_blank">47 评论</a> | 👤 johndamaia</p>
+
+<p>开发者展示了一款名为 Define 的邮件客户端应用，其设计灵感来源于 Arc 浏览器的创新交互理念，旨在为用户提供更现代、更高效的邮件管理体验。</p>
+
+<h3>8. <a href="https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/" target="_blank">五角大楼将采用 Palantir AI 作为美军核心系统</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Pentagon to adopt Palantir AI as core US Military system</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47462491" target="_blank">5 评论</a> | 👤 abawany</p>
+
+<p>据路透社报道，美国国防部计划将 Palantir 的 AI 平台作为美军的核心信息系统。这标志着 AI 技术在军事领域的大规模应用迈出重要一步，也巩固了 Palantir 在国防科技领域的地位。</p>
+
+<h3>9. <a href="https://joonote.com/" target="_blank">Show HN：Joonote —— 在锁屏和通知栏上快速记笔记的应用</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Joonote – A note-taking app on your lock screen and notification panel</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47467671" target="_blank">31 评论</a> | 👤 kilgarenone</p>
+
+<p>Joonote 是一款移动端笔记应用，允许用户直接在手机锁屏界面和通知面板上快速记录笔记，无需解锁手机即可捕捉灵感，极大提升了碎片化记录的便捷性。</p>
+
+<h3>10. <a href="https://github.com/CronusL-1141/AI-company" target="_blank">AI Team OS —— 将 Claude Code 变成自管理的 AI 团队</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: AI Team OS – Turn Claude Code into a Self-Managing AI Team</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47465550" target="_blank">17 评论</a> | 👤 cronus1141</p>
+
+<p>这是一个开源项目，旨在将 Claude Code 组织成一个可自我管理的 AI 团队，通过任务分配和协调机制让多个 AI 代理协同工作，模拟软件开发团队的运作方式。</p>
+
+<h3>11. <a href="https://www.bloomberg.com/news/articles/2026-02-26/ai-coding-agents-like-claude-code-are-fueling-a-productivity-panic-in-tech" target="_blank">Claude Code and the Great Productivity Panic of 2026</a></h3>
+
+<p>🔺 <strong>38</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47467922" target="_blank">13 评论</a> | 👤 muzz</p>
+
+<h3>12. <a href="https://support.claude.com/en/articles/13947068-assign-tasks-to-claude-from-anywhere-in-cowork" target="_blank">Claude Dispatch：从任何地方向 Claude 分配任务</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Claude dispatch: assign tasks to Claude from anywhere</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47461151" target="_blank">1 评论</a> | 👤 mottiden</p>
+
+<p>Anthropic 推出 Claude Dispatch 功能，允许用户在 Cowork 协作环境中从任何位置向 Claude 分配任务，进一步增强了 Claude 作为 AI 助手在工作流中的集成能力。</p>
+
+<h3>13. <a href="https://news.ycombinator.com/item?id=47457472" target="_blank">Launch HN：Sitefire（YC W26）—— 自动化操作提升 AI 可见性</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47457472" target="_blank">26 评论</a> | 👤 vincko</p>
+
+<p>Sitefire 是 Y Combinator 2026 冬季批次的创业公司，专注于通过自动化操作帮助网站和品牌提升在 AI 搜索引擎和大语言模型中的可见性和排名。</p>
+
+<h3>14. <a href="https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922" target="_blank">The Impact of AI on Game Dev Jobs. Open to Work Crisis</a></h3>
+
+<p>🔺 <strong>32</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47471943" target="_blank">8 评论</a> | 👤 hacker_13</p>
+
+<h3>15. <a href="https://github.com/pangon/ai-sdlc-scaffold/" target="_blank">Show HN：AI SDLC Scaffold —— 用于 AI 辅助软件开发的仓库模板</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: AI SDLC Scaffold, repo template for AI-assisted software development</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47466513" target="_blank">6 评论</a> | 👤 pangon</p>
+
+<p>这是一个开源仓库模板项目，为 AI 辅助的软件开发生命周期（SDLC）提供标准化的项目脚手架，帮助团队更好地将 AI 工具集成到需求分析、设计、开发和测试等各个环节。</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
