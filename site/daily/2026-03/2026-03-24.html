@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-03-24 周二</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-03-24 周二</h1>
+
+<blockquote>自动生成于 2026-03-24 09:14 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<h1>AI 每日趋势总览</h1>
+
+<p><strong>Claude Code 正在成为开发者的新操作系统。</strong> 今天的技术社区里，围绕 Claude Code 的讨论几乎无处不在——从 GitHub 上爆火的 everything-claude-code 速查项目，到 Hacker News 上密集涌现的实战分享：如何用它高效编程、如何教它做移动端 QA 测试，开发者们已不再讨论"要不要用 AI 编程"，而是在激烈交流"怎么把它用到极致"。与此同时，Stack Overflow 式的 AI 编程问答平台 Cq 的上线，标志着围绕 AI 编码代理的基础设施正在迅速成形。</p>
+
+<p><strong>另一条主线是 AI Agent 的垂直场景爆发。</strong> 金融交易代理（TradingAgents 及其中文分支）、自动化渗透测试代理（PentAGI）、汽车修理店 AI 前台、浏览器自动化代理——这些项目集中涌现，说明 Agent 技术正从实验室走向真实商业场景，"能干活的 AI"成为当下开发者最大的兴趣所在。</p>
+
+<p><strong>而最具冲击力的信号或许来自硬件端：iPhone 17 Pro 被演示成功运行 4000 亿参数大模型。</strong> 端侧推理能力的跃升，叠加年轻职场人正在主动为"AI 防身"做准备的社会议题，共同勾勒出一幅清晰图景——AI 不再只是云端的能力，它正在渗透到每一台设备、每一个岗位、每一条工作流中。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/affaan-m/everything-claude-code" target="_blank">affaan-m/everything-claude-code</a> <code>Agent</code></h3>
+
+<blockquote>全方位优化 AI 编程代理性能的技能与记忆系统，Claude Code 用户必备。</blockquote>
+
+<p>⭐ <strong>101,978</strong> Stars | 📈 今日 +4458 | 🔤 JavaScript | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个面向 Claude Code、Codex、Opencode、Cursor 等 AI 编程工具的性能优化系统，涵盖技能、本能、记忆、安全和研究优先开发等模块。该项目帮助开发者系统性地提升 AI 编程代理的表现，是当前最热门的 Claude Code 增强资源库。今日新增超过 4400 星，热度极高。</p>
+
+<h3>2. <a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">Crosstalk-Solutions/project-nomad</a> <code>工具</code></h3>
+
+<blockquote>离线生存 AI 计算机，随时随地为你提供关键知识和智能辅助。</blockquote>
+
+<p>⭐ <strong>13,405</strong> Stars | 📈 今日 +4138 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Project N.O.M.A.D 是一个自包含的离线生存计算机项目，集成了关键工具、知识库和 AI 能力，可在无网络环境下提供信息支持和决策辅助。适用于应急准备、野外生存和离线场景，体现了边缘 AI 与实用主义的结合。项目增长迅猛，今日新增超 4100 星。</p>
+
+<h3>3. <a href="https://github.com/bytedance/deer-flow" target="_blank">bytedance/deer-flow</a> <code>Agent</code></h3>
+
+<blockquote>字节跳动出品的开源超级代理框架，研究、编码、创作一站式搞定。</blockquote>
+
+<p>⭐ <strong>39,413</strong> Stars | 📈 今日 +3546 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>字节跳动开源的 DeerFlow 是一个 SuperAgent 框架，支持研究、编码和内容创作，通过沙箱、记忆、工具、技能、子代理和消息网关处理从分钟级到小时级的复杂任务。架构设计完善，适合构建多层级自主代理系统。Python 实现，社区活跃度高。</p>
+
+<h3>4. <a href="https://github.com/TauricResearch/TradingAgents" target="_blank">TauricResearch/TradingAgents</a> <code>Agent</code></h3>
+
+<blockquote>多智能体协作的 LLM 金融交易框架，用 AI 团队模拟专业交易决策。</blockquote>
+
+<p>⭐ <strong>39,331</strong> Stars | 📈 今日 +2530 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>TradingAgents 是一个基于多智能体 LLM 的金融交易框架，通过多个 AI 代理协作完成市场分析、策略制定和交易决策。框架设计模拟真实交易团队的分工协作模式，适合量化交易研究和 AI 金融应用探索。近期热度爆发，今日新增 2500+ 星。</p>
+
+<h3>5. <a href="https://github.com/vxcontrol/pentagi" target="_blank">vxcontrol/pentagi</a> <code>Agent</code></h3>
+
+<blockquote>全自主 AI 渗透测试系统，让安全评估实现真正的智能自动化。</blockquote>
+
+<p>⭐ <strong>13,002</strong> Stars | 📈 今日 +1309 | 🔤 Go | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>PentAGI 是一个完全自主的 AI 渗透测试系统，能够自动执行复杂的安全测试任务。基于 Go 语言开发，集成了多种安全工具和 AI 代理能力，适用于自动化安全评估和漏洞发现场景。将 AI Agent 与网络安全深度结合，具有较高的创新性。</p>
+
+<h3>6. <a href="https://github.com/browser-use/browser-use" target="_blank">browser-use/browser-use</a> <code>Agent</code></h3>
+
+<blockquote>让 AI 代理无障碍操控浏览器，轻松实现网页任务自动化。</blockquote>
+
+<p>⭐ <strong>83,642</strong> Stars | 📈 今日 +1157 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>Browser-Use 让 AI 代理能够像人类一样访问和操作网页，实现在线任务自动化。项目提供了简洁的接口将网站内容转化为 AI 可理解的格式，支持各种浏览器自动化场景。已积累超过 8.3 万星，是 AI 浏览器自动化领域的标杆项目。</p>
+
+<h3>7. <a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">harry0703/MoneyPrinterTurbo</a> <code>工具</code></h3>
+
+<blockquote>AI 一键生成高清短视频，内容创作者的效率神器。</blockquote>
+
+<p>⭐ <strong>51,936</strong> Stars | 📈 今日 +1056 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>MoneyPrinterTurbo 利用 AI 大模型一键生成高清短视频，覆盖文案生成、素材搜集、视频剪辑和配音等全流程。适合内容创作者和短视频运营人员快速批量生产视频内容，降低创作门槛。中文社区热度持续走高，实用性极强。</p>
+
+<h3>8. <a href="https://github.com/NousResearch/hermes-agent" target="_blank">NousResearch/hermes-agent</a> <code>Agent</code></h3>
+
+<blockquote>与你共同成长的 AI 代理，NousResearch 出品的可扩展智能助手。</blockquote>
+
+<p>⭐ <strong>11,572</strong> Stars | 📈 今日 +919 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>Hermes Agent 由 NousResearch 推出，定位为一个能与用户共同成长的 AI 代理。基于 Hermes 模型系列构建，支持工具调用和自主任务执行，强调代理的可扩展性和个性化适配能力。适合希望构建个人化 AI 助手的开发者。</p>
+
+<h3>9. <a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">hsliuping/TradingAgents-CN</a> <code>Agent</code></h3>
+
+<blockquote>TradingAgents 中文增强版，专为中国金融市场打造的多智能体交易框架。</blockquote>
+
+<p>⭐ <strong>20,317</strong> Stars | 📈 今日 +676 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>TradingAgents-CN 是 TradingAgents 的中文增强版，专门针对中国金融市场进行了适配和优化，支持 A 股等中文金融数据源。基于多智能体 LLM 架构，适合国内量化交易研究者和金融 AI 开发者使用。本地化做得扎实，社区增长迅速。</p>
+
+<h3>10. <a href="https://github.com/jingyaogong/minimind" target="_blank">jingyaogong/minimind</a> <code>教程</code></h3>
+
+<blockquote>2 小时从零训练一个小型 GPT，大模型入门最佳实践项目。</blockquote>
+
+<p>⭐ <strong>42,568</strong> Stars | 📈 今日 +487 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>MiniMind 项目展示了如何在 2 小时内从零训练一个 26M 参数的 GPT 模型，是大模型入门学习的优秀教程。代码简洁清晰，覆盖数据处理、模型训练和推理全流程，极大降低了理解大语言模型的门槛。已获超 4.2 万星，深受中文社区欢迎。</p>
+
+<h3>11. <a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">hesreallyhim/awesome-claude-code</a> <code>工具</code></h3>
+
+<blockquote>Claude Code 生态资源大全，技能、插件、命令一网打尽。</blockquote>
+
+<p>⭐ <strong>30,967</strong> Stars | 📈 今日 +429 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>Awesome Claude Code 是一个精心策划的 Claude Code 生态资源列表，收录了技能、钩子、斜杠命令、代理编排器、应用和插件等内容。对于 Claude Code 用户来说是不可或缺的参考资源，帮助快速发现和集成各类增强功能。</p>
+
+<h3>12. <a href="https://github.com/HKUDS/LightRAG" target="_blank">HKUDS/LightRAG</a> <code>论文实现</code></h3>
+
+<blockquote>简单高效的 RAG 框架，EMNLP 2025 论文的开源实现。</blockquote>
+
+<p>⭐ <strong>30,322</strong> Stars | 📈 今日 +355 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>LightRAG 是 EMNLP 2025 收录的论文实现，提供了一种简单快速的检索增强生成方案。相比传统 RAG 方案，LightRAG 在效率和易用性上有显著提升，支持图结构知识索引。适合需要轻量级 RAG 解决方案的研究者和开发者。</p>
+
+<h3>13. <a href="https://github.com/kepano/obsidian-skills" target="_blank">kepano/obsidian-skills</a> <code>工具</code></h3>
+
+<blockquote>为 Obsidian 打造的 AI 代理技能包，让 AI 深度融入你的知识管理流程。</blockquote>
+
+<p>⭐ <strong>16,354</strong> Stars | 📈 今日 +354 | 🔤  | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>Obsidian Skills 为 Obsidian 笔记工具提供 AI 代理技能，教会 AI 代理使用 Markdown、Bases、JSON Canvas 以及 CLI 等功能。让 AI 代理能够深度集成 Obsidian 的工作流，适合重度 Obsidian 用户提升知识管理效率。</p>
+
+<h3>14. <a href="https://github.com/teng-lin/notebooklm-py" target="_blank">teng-lin/notebooklm-py</a> <code>工具</code></h3>
+
+<blockquote>Google NotebookLM 非官方 Python API，解锁 Web 端未开放的隐藏功能。</blockquote>
+
+<p>⭐ <strong>7,235</strong> Stars | 📈 今日 +274 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>notebooklm-py 是 Google NotebookLM 的非官方 Python API，提供完整的编程访问能力，甚至包括 Web UI 未暴露的功能。支持 Python、CLI 和 AI 代理（如 Claude Code、Codex）调用，适合需要程序化操作 NotebookLM 的开发者和研究者。</p>
+
+<h3>15. <a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">czlonkowski/n8n-mcp</a> <code>工具</code></h3>
+
+<blockquote>用 AI 代理自动构建 n8n 工作流，自动化搭建再也不用手动拖拽。</blockquote>
+
+<p>⭐ <strong>16,059</strong> Stars | 📈 今日 +146 | 🔤 TypeScript | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>n8n-mcp 是一个 MCP 服务器，让 Claude Desktop、Claude Code、Windsurf、Cursor 等 AI 工具能够自动构建 n8n 工作流。将自动化工作流搭建与 AI 代理结合，大幅降低 n8n 使用门槛，适合需要快速构建自动化流程的用户。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://twitter.com/anemll/status/2035901335984611412" target="_blank">iPhone 17 Pro 演示运行 4000 亿参数大语言模型</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: iPhone 17 Pro Demonstrated Running a 400B LLM</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47490070" target="_blank">236 评论</a> | 👤 anemll</p>
+
+<p>有开发者展示了在 iPhone 17 Pro 上本地运行 400B 参数的大语言模型，展现了移动端芯片算力的惊人进步，引发了关于端侧 AI 推理可行性的广泛讨论。</p>
+
+<h3>2. <a href="https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284" target="_blank">年轻职场人正在做什么来应对 AI 对职业的冲击</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: What young workers are doing to AI-proof themselves</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47480447" target="_blank">362 评论</a> | 👤 wallflower</p>
+
+<p>《华尔街日报》报道了年轻一代工人如何调整职业规划以应对 AI 带来的就业威胁，包括选择不易被自动化取代的技能方向和职业路径。</p>
+
+<h3>3. <a href="https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/" target="_blank">我为一家汽修店搭建了 AI 前台接待系统</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: I built an AI receptionist for a mechanic shop</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47487536" target="_blank">231 评论</a> | 👤 mooreds</p>
+
+<p>一位开发者为她兄弟经营的汽修店构建了一个 AI 接待员，用于自动接听电话、预约排期等日常前台工作，展示了 AI 在小型实体商户中的实际落地应用。</p>
+
+<h3>4. <a href="https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html" target="_blank">Rust 贡献者和维护者对 AI 的多元观点</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Diverse perspectives on AI from Rust contributors and maintainers</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47482825" target="_blank">81 评论</a> | 👤 weinzierl</p>
+
+<p>Rust 项目负责人 Niko Matsakis 汇总了 Rust 社区贡献者和维护者对 AI 辅助编程的不同看法，涵盖了从积极拥抱到审慎质疑的多种立场。</p>
+
+<h3>5. <a href="https://cc.storyfox.cz" target="_blank">Claude Code 速查手册</a> <code>教程</code></h3>
+
+<p class="italic-note"><em>原标题: Claude Code Cheat Sheet</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47495527" target="_blank">39 评论</a> | 👤 phasE89</p>
+
+<p>一份精心整理的 Claude Code 命令与使用技巧速查表，帮助开发者快速掌握 Claude Code 的常用操作和高效工作流。</p>
+
+<h3>6. <a href="https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html" target="_blank">教 Claude 对移动应用进行 QA 测试</a> <code>教程</code></h3>
+
+<p class="italic-note"><em>原标题: Teaching Claude to QA a mobile app</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47480900" target="_blank">12 评论</a> | 👤 azhenley</p>
+
+<p>开发者分享了如何利用 Claude 对 Android 和 iOS 移动应用进行自动化质量保证测试的实践经验，探索 AI 在软件测试流程中的应用潜力。</p>
+
+<h3>7. <a href="https://neilkakkar.com/productive-with-claude-code.html" target="_blank">我如何高效使用 Claude Code 进行开发</a> <code>教程</code></h3>
+
+<p class="italic-note"><em>原标题: How I'm Productive with Claude Code</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47494890" target="_blank">78 评论</a> | 👤 neilkakkar</p>
+
+<p>开发者 Neil Kakkar 分享了自己使用 Claude Code 提升编程生产力的工作流和实用技巧，包括如何与 AI 编程助手高效协作。</p>
+
+<h3>8. <a href="https://revise.io" target="_blank">Show HN: Revise —— AI 驱动的文档编辑器</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Revise – An AI Editor for Documents</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47477339" target="_blank">66 评论</a> | 👤 artursapek</p>
+
+<p>Revise 是一款基于 AI 的文档编辑工具，旨在帮助用户更高效地修改、润色和优化各类文档内容。</p>
+
+<h3>9. <a href="https://www.asimov.press/p/ai-science" target="_blank">为颠覆性科学发现设计 AI</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Designing AI for Disruptive Science</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47493194" target="_blank">35 评论</a> | 👤 mailyk</p>
+
+<p>文章探讨了如何设计 AI 系统来推动突破性科学发现，而非仅仅做渐进式改进，讨论了当前 AI 科研工具的局限性与未来方向。</p>
+
+<h3>10. <a href="https://blog.mozilla.ai/cq-stack-overflow-for-agents/" target="_blank">Show HN: Cq —— 面向 AI 编程代理的 Stack Overflow</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Cq – Stack Overflow for AI coding agents</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47491466" target="_blank">18 评论</a> | 👤 peteski22</p>
+
+<p>Mozilla AI 团队推出 Cq，一个为 AI 编程代理设计的知识问答平台，类似于 Stack Overflow，帮助 AI 代理在编码过程中查询和共享解决方案。</p>
+
+<h3>11. <a href="https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/" target="_blank">ChatGPT 5.2 无法正确解释德语单词 "geschniegelt"</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Chat GPT 5.2 cannot explain the German word "geschniegelt"</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47495568" target="_blank">9 评论</a> | 👤 doener</p>
+
+<p>用户发现 ChatGPT 5.2 无法准确解释德语单词 "geschniegelt"（意为衣着光鲜、打扮整洁），暴露了大语言模型在小语种词汇理解上仍存在盲区。</p>
+
+<h3>12. <a href="https://github.com/oguzbilgic/agent-kernel" target="_blank">Show HN: Agent Kernel —— 三个 Markdown 文件让任意 AI 代理具备状态管理能力</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47486287" target="_blank">19 评论</a> | 👤 obilgic</p>
+
+<p>Agent Kernel 是一个极简开源项目，通过三个 Markdown 文件为 AI 代理提供状态持久化能力，使其能够在多轮交互中保持上下文和记忆。</p>
+
+<h3>13. <a href="https://littlebird.ai/" target="_blank">Show HN: Littlebird —— 屏幕读取是 AI 的缺失环节</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Littlebird – Screenreading is the missing link in AI</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47492649" target="_blank">18 评论</a> | 👤 delu</p>
+
+<p>Littlebird 提出屏幕内容读取是 AI 代理与用户界面交互中被忽视的关键能力，旨在通过屏幕阅读技术让 AI 更好地理解和操作图形界面。</p>
+
+<h3>14. <a href="https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967" target="_blank">Flipper Zero 获得 AI 功能升级</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Flipper Zero gets an AI upgrade</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47494999" target="_blank">3 评论</a> | 👤 poopcat</p>
+
+<p>备受争议的多功能黑客工具 Flipper Zero 新增了 AI 功能，进一步增强了这款便携设备的自动化和智能化能力。</p>
+
+<h3>15. <a href="https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink" target="_blank">贝莱德 CEO 拉里·芬克警告：AI 繁荣可能加剧贫富分化</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: AI boom risks widening wealth divide, says BlackRock's Larry Fink</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47496583" target="_blank">2 评论</a> | 👤 devonnull</p>
+
+<p>全球最大资管公司贝莱德的 CEO 拉里·芬克表示，AI 技术的快速发展可能导致财富差距进一步扩大，呼吁关注 AI 红利的公平分配问题。</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2603.21094v1" target="_blank">评估基于推理的支架对人机协同标注的影响：ReasonAlign标注协议</a></h3>
+
+<p class="italic-note"><em>Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol</em></p>
+
+<p>📝 Smitha Muthya Sudheendra, Jaideep Srivastava | 📂 <code>cs.CL</code></p>
+
+<p>人工标注是NLP评估的核心，但主观任务中标注者之间往往存在较大差异。本文提出ReasonAlign标注协议，研究大语言模型（LLM）提供的结构化推理如何影响人类标注行为。该研究探讨了LLM推理支架是否能减少标注变异性并提升标注质量，为人机协同标注提供了系统性的评估框架。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究系统性地探索了LLM辅助人类标注的新范式，对提升主观NLP任务的标注一致性具有实际指导意义。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21094v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2603.21084v1" target="_blank">ViCLSR：基于自然语言推理的监督对比学习框架用于自然语言理解任务</a></h3>
+
+<p class="italic-note"><em>ViCLSR: A Supervised Contrastive Learning Framework with Natural Language Inference for Natural Language Understanding Tasks</em></p>
+
+<p>📝 Tin Van Huynh, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen | 📂 <code>cs.CL, cs.AI, cs.LG</code></p>
+
+<p>高质量文本表示对自然语言理解至关重要，但越南语等低资源语言因标注数据有限面临挑战。本文提出ViCLSR框架，结合自然语言推理（NLI）和监督对比学习，增强PhoBERT等预训练模型在越南语NLU任务上的表现，有效缓解了数据稀缺问题。</p>
+
+<p>💡 <strong>为什么重要</strong>: 为低资源语言的文本表示学习提供了可迁移的对比学习方案，对多语言NLP研究有参考价值。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21084v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2603.21078v1" target="_blank">评估神经TTS系统建模辅音诱导基频扰动的能力</a></h3>
+
+<p class="italic-note"><em>Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation</em></p>
+
+<p>📝 Tianle Yang, Chengzhe Sun, Phil Rose et al. | 📂 <code>cs.CL, cs.AI, cs.SD</code></p>
+
+<p>本研究提出一种音段级韵律探测框架，评估神经TTS模型再现辅音诱导基频（F0）扰动的能力。通过比较数千个合成语音与自然语音的实现，揭示了当前TTS系统在精细音段-韵律效应建模上的局限性，为语音合成的精细化评估提供了新视角。</p>
+
+<p>💡 <strong>为什么重要</strong>: 首次系统性地从音段级韵律角度评估TTS模型，填补了语音合成精细评估的空白。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21078v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2603.21108v1" target="_blank">DMMRL：基于变分自编码器的解耦多模态表示学习用于分子性质预测</a></h3>
+
+<p class="italic-note"><em>DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction</em></p>
+
+<p>📝 Long Xu, Junping Guo, Jianbo Zhao et al. | 📂 <code>cs.LG, cs.AI</code></p>
+
+<p>分子性质预测是药物发现和材料科学的基础。本文提出DMMRL方法，利用变分自编码器对多种分子模态（如分子图、SMILES等）进行解耦表示学习，将结构信息和性质相关特征分离，克服了现有方法中表示纠缠的问题，提升了分子性质预测的准确性和可解释性。</p>
+
+<p>💡 <strong>为什么重要</strong>: 通过解耦多模态分子表示，为药物发现中的结构-性质关系建模提供了更可解释、更鲁棒的方案。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21108v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2603.21105v1" target="_blank">ResPrune：基于文本条件子空间重建的大视觉语言模型视觉Token剪枝</a></h3>
+
+<p class="italic-note"><em>ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models</em></p>
+
+<p>📝 Xu Li, Yi Zheng, Yuxuan Liang et al. | 📂 <code>cs.LG</code></p>
+
+<p>大型视觉语言模型（LVLM）依赖密集视觉Token捕获细粒度信息，但推理开销巨大。本文提出ResPrune，一种无需训练的视觉Token剪枝框架，通过文本条件引导的子空间重建识别并保留关键视觉Token，在大幅减少计算和内存开销的同时保持模型性能。</p>
+
+<p>💡 <strong>为什么重要</strong>: 提出了免训练的视觉Token高效剪枝方案，对大型视觉语言模型的实际部署和推理加速具有重要价值。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21105v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2603.21096v1" target="_blank">章节混合：扩展Transformer中的可学习记忆</a></h3>
+
+<p class="italic-note"><em>Mixture of Chapters: Scaling Learnt Memory in Transformers</em></p>
+
+<p>📝 Tasmay Pankaj Tibrewal, Pritish Saha, Ankit Meda et al. | 📂 <code>cs.LG, cs.AI, cs.CL</code></p>
+
+<p>Transformer缺乏显式的知识存储和组织机制。本文引入可学习稀疏记忆库——一组随机初始化并端到端训练的潜在Token，Transformer层通过交叉注意力查询这些记忆以检索存储的知识。该方法有效扩展了模型的记忆容量，同时保持了计算效率。</p>
+
+<p>💡 <strong>为什么重要</strong>: 为Transformer架构引入显式可学习记忆机制，探索了扩展模型知识存储能力的新方向。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21096v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2603.21114v1" target="_blank">CVT-Bench：反事实视角变换揭示多模态大语言模型中不稳定的空间表示</a></h3>
+
+<p class="italic-note"><em>CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs</em></p>
+
+<p>📝 Shanmukha Vellamcheti, Uday Kiran Kothapalli, Disharee Bhowmick et al. | 📂 <code>cs.CV</code></p>
+
+<p>多模态大语言模型在单视角空间推理任务上表现优异，但在视角变换后能否维持稳定的空间表示尚不清楚。本文构建了一个控制性诊断基准，通过反事实视角变换评估模型的关系空间推理一致性，揭示了当前MLLM在空间理解上的脆弱性。</p>
+
+<p>💡 <strong>为什么重要</strong>: 系统性地揭示了多模态LLM空间推理的根本缺陷，为提升模型空间理解能力指明了方向。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21114v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2603.21111v1" target="_blank">频率切换机制：用于参数高效多任务学习的方法</a></h3>
+
+<p class="italic-note"><em>Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning</em></p>
+
+<p>📝 Shih-Wen Liu, Yen-Chang Chen, Wei-Ta Chu et al. | 📂 <code>cs.CV, cs.LG</code></p>
+
+<p>多任务学习旨在让单一模型高效解决多个任务，但当前参数高效微调方法多限于单任务适配。本文提出Free Sinewich框架，利用频率切换机制在频域中实现参数高效的多任务学习，使不同任务能够共享模型参数的同时保持各自的任务特异性。</p>
+
+<p>💡 <strong>为什么重要</strong>: 从频域视角切入多任务参数高效微调，提供了跨任务参数共享与解耦的新思路。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21111v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2603.21100v1" target="_blank">学习渐进式适配用于多模态目标跟踪</a></h3>
+
+<p class="italic-note"><em>Learning Progressive Adaptation for Multi-Modal Tracking</em></p>
+
+<p>📝 He Wang, Tianyang Xu, Zhangyong Tang et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>由于配对多模态数据有限，多模态跟踪器通常基于预训练RGB模型加参数高效微调模块构建。本文提出渐进式适配方法，通过分层自适应策略更好地将RGB预训练模型迁移至多模态场景，有效调节不同模态间的特征融合，提升了多模态跟踪性能。</p>
+
+<p>💡 <strong>为什么重要</strong>: 针对多模态跟踪中预训练模型适配不足的问题，提供了更精细的渐进式迁移策略。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21100v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2603.21095v1" target="_blank">表示级对抗正则化用于临床对齐的多任务甲状腺超声评估</a></h3>
+
+<p class="italic-note"><em>Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment</em></p>
+
+<p>📝 Dina Salama, Mohamed Mahmoud, Nourhan Bayasi et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>甲状腺超声是评估甲状腺结节的一线检查。本文提出表示级对抗正则化方法，联合学习结节轮廓分割和TI-RADS风险分类两个耦合任务，通过对抗训练使特征表示与临床报告流程对齐，提升了多任务超声评估的一致性和临床可靠性。</p>
+
+<p>💡 <strong>为什么重要</strong>: 将多任务学习与临床工作流程深度对齐，对甲状腺超声的自动化报告具有直接的临床应用价值。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21095v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2603.21086v1" target="_blank">DGRNet：基于分歧引导细化的不确定性感知脑肿瘤分割</a></h3>
+
+<p class="italic-note"><em>DGRNet: Disagreement-Guided Refinement for Uncertainty-Aware Brain Tumor Segmentation</em></p>
+
+<p>📝 Bahram Mohammadi, Yanqiu Wu, Vu Minh Hieu Phan et al. | 📂 <code>cs.CV</code></p>
+
+<p>脑肿瘤MRI分割对诊断和治疗至关重要。本文提出DGRNet，通过模型内部预测分歧来引导不确定区域的细化分割，同时提供可靠的不确定性量化。该方法克服了单模型预测缺乏不确定性估计的局限，在不确定区域实现了更准确的分割。</p>
+
+<p>💡 <strong>为什么重要</strong>: 在脑肿瘤分割中同时解决精度和不确定性量化问题，增强了临床决策的可信度。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21086v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2603.21085v1" target="_blank">用方差扩展损失驯服潜扩散模型中的采样扰动</a></h3>
+
+<p class="italic-note"><em>Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models</em></p>
+
+<p>📝 Qifan Li, Xingyu Zhou, Jinhua Zhang et al. | 📂 <code>cs.CV</code></p>
+
+<p>潜扩散模型是高保真图像生成的主流框架，但采样过程中的扰动会导致生成质量不稳定。本文提出方差扩展损失（Variance Expansion Loss），通过优化潜空间中的方差分布来抑制采样扰动，提升生成图像的稳定性和保真度，弥补了以往研究对潜空间方差特性关注的不足。</p>
+
+<p>💡 <strong>为什么重要</strong>: 从潜空间方差角度切入改善扩散模型采样质量，为提升生成模型稳定性提供了新的训练目标。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21085v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2603.21083v1" target="_blank">基于子区域感知提示的分层文本引导脑肿瘤分割</a></h3>
+
+<p class="italic-note"><em>Hierarchical Text-Guided Brain Tumor Segmentation via Sub-Region-Aware Prompts</em></p>
+
+<p>📝 Bahram Mohammadi, Ta Duc Huy, Afrouz Sheikholeslami et al. | 📂 <code>cs.CV</code></p>
+
+<p>脑肿瘤分割因子区域（整体肿瘤、肿瘤核心、增强肿瘤）间视觉边界模糊而具有挑战性。本文提出分层文本引导方法，利用放射学描述文本生成子区域感知提示，通过多层级语义指导提升分割精度，克服了现有多模态方法仅使用全局文本描述的不足。</p>
+
+<p>💡 <strong>为什么重要</strong>: 将放射学文本以分层方式融入分割模型，为医学图像中文本-图像多模态融合提供了更精细的范式。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21083v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2603.21077v1" target="_blank">CoVFT：面向多模态大语言模型的上下文感知视觉微调</a></h3>
+
+<p class="italic-note"><em>CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models</em></p>
+
+<p>📝 Nan Zhou, Huiqun Wang, Yaoyan Zheng et al. | 📂 <code>cs.CV</code></p>
+
+<p>多模态大语言模型在跨模态感知与推理中表现出色，但视觉编码器应冻结还是微调仍是悬而未决的问题。本文提出CoVFT，一种上下文感知的视觉微调方法，根据输入上下文动态调整视觉编码器的适配程度，在多个基准上验证了该策略优于一刀切的冻结或微调方案。</p>
+
+<p>💡 <strong>为什么重要</strong>: 系统性地回答了MLLM视觉编码器微调策略的关键设计问题，为模型架构设计提供了实证指导。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21077v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2603.21071v1" target="_blank">CTFS：基于协作教师框架的极少标签前视声纳图像语义分割</a></h3>
+
+<p class="italic-note"><em>CTFS : Collaborative Teacher Framework for Forward-Looking Sonar Image Semantic Segmentation with Extremely Limited Labels</em></p>
+
+<p>📝 Ping Guo, Chengzhou Li, Guanchen Meng et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>前视声纳图像因散斑噪声、低纹理对比度和声学阴影等特点使传统分割方法失效。本文提出CTFS协作教师框架，在极少标注数据条件下利用多教师协作和半监督学习实现声纳图像的高质量语义分割，有效解决了水下声纳标注稀缺的现实问题。</p>
+
+<p>💡 <strong>为什么重要</strong>: 针对水下声纳这一特殊成像模态的标注稀缺问题提出实用解决方案，对水下感知应用有重要意义。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.21071v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>

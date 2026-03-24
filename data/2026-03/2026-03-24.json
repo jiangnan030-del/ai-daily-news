@@ -1,0 +1,749 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T09:14:18.784355+08:00",
+  "github_trending": [
+    {
+      "name": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 101978,
+      "forks": 13284,
+      "language": "JavaScript",
+      "stars_today": 4458,
+      "source": "github_trending",
+      "summary_cn": "一个面向 Claude Code、Codex、Opencode、Cursor 等 AI 编程工具的性能优化系统，涵盖技能、本能、记忆、安全和研究优先开发等模块。该项目帮助开发者系统性地提升 AI 编程代理的表现，是当前最热门的 Claude Code 增强资源库。今日新增超过 4400 星，热度极高。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "全方位优化 AI 编程代理性能的技能与记忆系统，Claude Code 用户必备。"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 13405,
+      "forks": 1263,
+      "language": "TypeScript",
+      "stars_today": 4138,
+      "source": "github_trending",
+      "summary_cn": "Project N.O.M.A.D 是一个自包含的离线生存计算机项目，集成了关键工具、知识库和 AI 能力，可在无网络环境下提供信息支持和决策辅助。适用于应急准备、野外生存和离线场景，体现了边缘 AI 与实用主义的结合。项目增长迅猛，今日新增超 4100 星。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "离线生存 AI 计算机，随时随地为你提供关键知识和智能辅助。"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 39413,
+      "forks": 4630,
+      "language": "Python",
+      "stars_today": 3546,
+      "source": "github_trending",
+      "summary_cn": "字节跳动开源的 DeerFlow 是一个 SuperAgent 框架，支持研究、编码和内容创作，通过沙箱、记忆、工具、技能、子代理和消息网关处理从分钟级到小时级的复杂任务。架构设计完善，适合构建多层级自主代理系统。Python 实现，社区活跃度高。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "字节跳动出品的开源超级代理框架，研究、编码、创作一站式搞定。"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 39331,
+      "forks": 7316,
+      "language": "Python",
+      "stars_today": 2530,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents 是一个基于多智能体 LLM 的金融交易框架，通过多个 AI 代理协作完成市场分析、策略制定和交易决策。框架设计模拟真实交易团队的分工协作模式，适合量化交易研究和 AI 金融应用探索。近期热度爆发，今日新增 2500+ 星。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "多智能体协作的 LLM 金融交易框架，用 AI 团队模拟专业交易决策。"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 13002,
+      "forks": 1617,
+      "language": "Go",
+      "stars_today": 1309,
+      "source": "github_trending",
+      "summary_cn": "PentAGI 是一个完全自主的 AI 渗透测试系统，能够自动执行复杂的安全测试任务。基于 Go 语言开发，集成了多种安全工具和 AI 代理能力，适用于自动化安全评估和漏洞发现场景。将 AI Agent 与网络安全深度结合，具有较高的创新性。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "全自主 AI 渗透测试系统，让安全评估实现真正的智能自动化。"
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": 83642,
+      "forks": 9732,
+      "language": "Python",
+      "stars_today": 1157,
+      "source": "github_trending",
+      "summary_cn": "Browser-Use 让 AI 代理能够像人类一样访问和操作网页，实现在线任务自动化。项目提供了简洁的接口将网站内容转化为 AI 可理解的格式，支持各种浏览器自动化场景。已积累超过 8.3 万星，是 AI 浏览器自动化领域的标杆项目。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "让 AI 代理无障碍操控浏览器，轻松实现网页任务自动化。"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": 51936,
+      "forks": 7359,
+      "language": "Python",
+      "stars_today": 1056,
+      "source": "github_trending",
+      "summary_cn": "MoneyPrinterTurbo 利用 AI 大模型一键生成高清短视频，覆盖文案生成、素材搜集、视频剪辑和配音等全流程。适合内容创作者和短视频运营人员快速批量生产视频内容，降低创作门槛。中文社区热度持续走高，实用性极强。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "AI 一键生成高清短视频，内容创作者的效率神器。"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 11572,
+      "forks": 1407,
+      "language": "Python",
+      "stars_today": 919,
+      "source": "github_trending",
+      "summary_cn": "Hermes Agent 由 NousResearch 推出，定位为一个能与用户共同成长的 AI 代理。基于 Hermes 模型系列构建，支持工具调用和自主任务执行，强调代理的可扩展性和个性化适配能力。适合希望构建个人化 AI 助手的开发者。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "与你共同成长的 AI 代理，NousResearch 出品的可扩展智能助手。"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": 20317,
+      "forks": 4281,
+      "language": "Python",
+      "stars_today": 676,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents-CN 是 TradingAgents 的中文增强版，专门针对中国金融市场进行了适配和优化，支持 A 股等中文金融数据源。基于多智能体 LLM 架构，适合国内量化交易研究者和金融 AI 开发者使用。本地化做得扎实，社区增长迅速。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "TradingAgents 中文增强版，专为中国金融市场打造的多智能体交易框架。"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!",
+      "stars": 42568,
+      "forks": 5119,
+      "language": "Python",
+      "stars_today": 487,
+      "source": "github_trending",
+      "summary_cn": "MiniMind 项目展示了如何在 2 小时内从零训练一个 26M 参数的 GPT 模型，是大模型入门学习的优秀教程。代码简洁清晰，覆盖数据处理、模型训练和推理全流程，极大降低了理解大语言模型的门槛。已获超 4.2 万星，深受中文社区欢迎。",
+      "score": 9,
+      "category": "教程",
+      "one_liner": "2 小时从零训练一个小型 GPT，大模型入门最佳实践项目。"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "stars": 30967,
+      "forks": 2160,
+      "language": "Python",
+      "stars_today": 429,
+      "source": "github_trending",
+      "summary_cn": "Awesome Claude Code 是一个精心策划的 Claude Code 生态资源列表，收录了技能、钩子、斜杠命令、代理编排器、应用和插件等内容。对于 Claude Code 用户来说是不可或缺的参考资源，帮助快速发现和集成各类增强功能。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "Claude Code 生态资源大全，技能、插件、命令一网打尽。"
+    },
+    {
+      "name": "HKUDS/LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "description": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": 30322,
+      "forks": 4343,
+      "language": "Python",
+      "stars_today": 355,
+      "source": "github_trending",
+      "summary_cn": "LightRAG 是 EMNLP 2025 收录的论文实现，提供了一种简单快速的检索增强生成方案。相比传统 RAG 方案，LightRAG 在效率和易用性上有显著提升，支持图结构知识索引。适合需要轻量级 RAG 解决方案的研究者和开发者。",
+      "score": 8,
+      "category": "论文实现",
+      "one_liner": "简单高效的 RAG 框架，EMNLP 2025 论文的开源实现。"
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "stars": 16354,
+      "forks": 936,
+      "language": "",
+      "stars_today": 354,
+      "source": "github_trending",
+      "summary_cn": "Obsidian Skills 为 Obsidian 笔记工具提供 AI 代理技能，教会 AI 代理使用 Markdown、Bases、JSON Canvas 以及 CLI 等功能。让 AI 代理能够深度集成 Obsidian 的工作流，适合重度 Obsidian 用户提升知识管理效率。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "为 Obsidian 打造的 AI 代理技能包，让 AI 深度融入你的知识管理流程。"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "stars": 7235,
+      "forks": 913,
+      "language": "Python",
+      "stars_today": 274,
+      "source": "github_trending",
+      "summary_cn": "notebooklm-py 是 Google NotebookLM 的非官方 Python API，提供完整的编程访问能力，甚至包括 Web UI 未暴露的功能。支持 Python、CLI 和 AI 代理（如 Claude Code、Codex）调用，适合需要程序化操作 NotebookLM 的开发者和研究者。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "Google NotebookLM 非官方 Python API，解锁 Web 端未开放的隐藏功能。"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": 16059,
+      "forks": 2767,
+      "language": "TypeScript",
+      "stars_today": 146,
+      "source": "github_trending",
+      "summary_cn": "n8n-mcp 是一个 MCP 服务器，让 Claude Desktop、Claude Code、Windsurf、Cursor 等 AI 工具能够自动构建 n8n 工作流。将自动化工作流搭建与 AI 代理结合，大幅降低 n8n 使用门槛，适合需要快速构建自动化流程的用户。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "用 AI 代理自动构建 n8n 工作流，自动化搭建再也不用手动拖拽。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "iPhone 17 Pro Demonstrated Running a 400B LLM",
+      "url": "https://twitter.com/anemll/status/2035901335984611412",
+      "score": 9,
+      "comments": 236,
+      "author": "anemll",
+      "time": "2026-03-23T14:30:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47490070",
+      "source": "hacker_news",
+      "title_cn": "iPhone 17 Pro 演示运行 4000 亿参数大语言模型",
+      "summary_cn": "有开发者展示了在 iPhone 17 Pro 上本地运行 400B 参数的大语言模型，展现了移动端芯片算力的惊人进步，引发了关于端侧 AI 推理可行性的广泛讨论。",
+      "category": "技术突破"
+    },
+    {
+      "title": "What young workers are doing to AI-proof themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "score": 7,
+      "comments": 362,
+      "author": "wallflower",
+      "time": "2026-03-22T18:18:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47480447",
+      "source": "hacker_news",
+      "title_cn": "年轻职场人正在做什么来应对 AI 对职业的冲击",
+      "summary_cn": "《华尔街日报》报道了年轻一代工人如何调整职业规划以应对 AI 带来的就业威胁，包括选择不易被自动化取代的技能方向和职业路径。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "I built an AI receptionist for a mechanic shop",
+      "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
+      "score": 8,
+      "comments": 231,
+      "author": "mooreds",
+      "time": "2026-03-23T10:32:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47487536",
+      "source": "hacker_news",
+      "title_cn": "我为一家汽修店搭建了 AI 前台接待系统",
+      "summary_cn": "一位开发者为她兄弟经营的汽修店构建了一个 AI 接待员，用于自动接听电话、预约排期等日常前台工作，展示了 AI 在小型实体商户中的实际落地应用。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Diverse perspectives on AI from Rust contributors and maintainers",
+      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+      "score": 7,
+      "comments": 81,
+      "author": "weinzierl",
+      "time": "2026-03-22T22:19:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47482825",
+      "source": "hacker_news",
+      "title_cn": "Rust 贡献者和维护者对 AI 的多元观点",
+      "summary_cn": "Rust 项目负责人 Niko Matsakis 汇总了 Rust 社区贡献者和维护者对 AI 辅助编程的不同看法，涵盖了从积极拥抱到审慎质疑的多种立场。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Claude Code Cheat Sheet",
+      "url": "https://cc.storyfox.cz",
+      "score": 7,
+      "comments": 39,
+      "author": "phasE89",
+      "time": "2026-03-23T21:44:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47495527",
+      "source": "hacker_news",
+      "title_cn": "Claude Code 速查手册",
+      "summary_cn": "一份精心整理的 Claude Code 命令与使用技巧速查表，帮助开发者快速掌握 Claude Code 的常用操作和高效工作流。",
+      "category": "教程"
+    },
+    {
+      "title": "Teaching Claude to QA a mobile app",
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+      "score": 8,
+      "comments": 12,
+      "author": "azhenley",
+      "time": "2026-03-22T19:04:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47480900",
+      "source": "hacker_news",
+      "title_cn": "教 Claude 对移动应用进行 QA 测试",
+      "summary_cn": "开发者分享了如何利用 Claude 对 Android 和 iOS 移动应用进行自动化质量保证测试的实践经验，探索 AI 在软件测试流程中的应用潜力。",
+      "category": "教程"
+    },
+    {
+      "title": "How I'm Productive with Claude Code",
+      "url": "https://neilkakkar.com/productive-with-claude-code.html",
+      "score": 7,
+      "comments": 78,
+      "author": "neilkakkar",
+      "time": "2026-03-23T20:49:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47494890",
+      "source": "hacker_news",
+      "title_cn": "我如何高效使用 Claude Code 进行开发",
+      "summary_cn": "开发者 Neil Kakkar 分享了自己使用 Claude Code 提升编程生产力的工作流和实用技巧，包括如何与 AI 编程助手高效协作。",
+      "category": "教程"
+    },
+    {
+      "title": "Show HN: Revise – An AI Editor for Documents",
+      "url": "https://revise.io",
+      "score": 6,
+      "comments": 66,
+      "author": "artursapek",
+      "time": "2026-03-22T13:28:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47477339",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Revise —— AI 驱动的文档编辑器",
+      "summary_cn": "Revise 是一款基于 AI 的文档编辑工具，旨在帮助用户更高效地修改、润色和优化各类文档内容。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Designing AI for Disruptive Science",
+      "url": "https://www.asimov.press/p/ai-science",
+      "score": 8,
+      "comments": 35,
+      "author": "mailyk",
+      "time": "2026-03-23T18:19:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47493194",
+      "source": "hacker_news",
+      "title_cn": "为颠覆性科学发现设计 AI",
+      "summary_cn": "文章探讨了如何设计 AI 系统来推动突破性科学发现，而非仅仅做渐进式改进，讨论了当前 AI 科研工具的局限性与未来方向。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Cq – Stack Overflow for AI coding agents",
+      "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
+      "score": 7,
+      "comments": 18,
+      "author": "peteski22",
+      "time": "2026-03-23T16:11:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47491466",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Cq —— 面向 AI 编程代理的 Stack Overflow",
+      "summary_cn": "Mozilla AI 团队推出 Cq，一个为 AI 编程代理设计的知识问答平台，类似于 Stack Overflow，帮助 AI 代理在编码过程中查询和共享解决方案。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Chat GPT 5.2 cannot explain the German word \"geschniegelt\"",
+      "url": "https://old.reddit.com/r/ChatGPT/comments/1r4goxh/chat_gpt_52_cannot_explain_the_word_geschniegelt/",
+      "score": 5,
+      "comments": 9,
+      "author": "doener",
+      "time": "2026-03-23T21:47:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47495568",
+      "source": "hacker_news",
+      "title_cn": "ChatGPT 5.2 无法正确解释德语单词 \"geschniegelt\"",
+      "summary_cn": "用户发现 ChatGPT 5.2 无法准确解释德语单词 \"geschniegelt\"（意为衣着光鲜、打扮整洁），暴露了大语言模型在小语种词汇理解上仍存在盲区。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Agent Kernel – Three Markdown files that make any AI agent stateful",
+      "url": "https://github.com/oguzbilgic/agent-kernel",
+      "score": 6,
+      "comments": 19,
+      "author": "obilgic",
+      "time": "2026-03-23T07:06:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47486287",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Agent Kernel —— 三个 Markdown 文件让任意 AI 代理具备状态管理能力",
+      "summary_cn": "Agent Kernel 是一个极简开源项目，通过三个 Markdown 文件为 AI 代理提供状态持久化能力，使其能够在多轮交互中保持上下文和记忆。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Littlebird – Screenreading is the missing link in AI",
+      "url": "https://littlebird.ai/",
+      "score": 6,
+      "comments": 18,
+      "author": "delu",
+      "time": "2026-03-23T17:39:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47492649",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Littlebird —— 屏幕读取是 AI 的缺失环节",
+      "summary_cn": "Littlebird 提出屏幕内容读取是 AI 代理与用户界面交互中被忽视的关键能力，旨在通过屏幕阅读技术让 AI 更好地理解和操作图形界面。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Flipper Zero gets an AI upgrade",
+      "url": "https://gizmodo.com/flipper-zero-everyones-favorite-legally-dubious-hacker-tool-gets-an-ai-upgrade-2000736967",
+      "score": 6,
+      "comments": 3,
+      "author": "poopcat",
+      "time": "2026-03-23T20:56:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47494999",
+      "source": "hacker_news",
+      "title_cn": "Flipper Zero 获得 AI 功能升级",
+      "summary_cn": "备受争议的多功能黑客工具 Flipper Zero 新增了 AI 功能，进一步增强了这款便携设备的自动化和智能化能力。",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI boom risks widening wealth divide, says BlackRock's Larry Fink",
+      "url": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+      "score": 7,
+      "comments": 2,
+      "author": "devonnull",
+      "time": "2026-03-23T23:32:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47496583",
+      "source": "hacker_news",
+      "title_cn": "贝莱德 CEO 拉里·芬克警告：AI 繁荣可能加剧贫富分化",
+      "summary_cn": "全球最大资管公司贝莱德的 CEO 拉里·芬克表示，AI 技术的快速发展可能导致财富差距进一步扩大，呼吁关注 AI 红利的公平分配问题。",
+      "category": "行业动态"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Evaluating Reasoning-Based Scaffolds for Human-AI Co-Annotation: The ReasonAlign Annotation Protocol",
+      "authors": [
+        "Smitha Muthya Sudheendra",
+        "Jaideep Srivastava"
+      ],
+      "abstract": "Human annotation is central to NLP evaluation, yet subjective tasks often exhibit substantial variability across annotators. While large language models (LLMs) can provide structured reasoning to support annotation, their influence on human annotation behavior remains unclear. We introduce ReasonAlign, a reasoning-based annotation scaffold that exposes LLM-generated explanations while withholding predicted labels. We frame this as a controlled study of how reasoning affects human annotation behavior, rather than a full evaluation of annotation accuracy. Using a two-pass protocol inspired by Delphi-style revision, annotators first label instances independently and then revise their decisions after viewing model-generated reasoning. We evaluate the approach on sentiment classification and opinion detection tasks, analyzing changes in inter-annotator agreement and revision behavior. To quantify these effects, we introduce the Annotator Effort Proxy (AEP), a metric capturing the proportion of labels revised after exposure to reasoning. Our results show that exposure to reasoning is associated with increased agreement alongside minimal revision, suggesting that reasoning primarily helps resolve ambiguous cases without inducing widespread changes. These findings provide insight into how reasoning explanations shape annotation consistency and highlight reasoning-based scaffolds as a practical mechanism for supporting human-AI annotation workflows.",
+      "url": "http://arxiv.org/abs/2603.21094v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21094v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-22T07:14:27+00:00",
+      "source": "arxiv",
+      "title_cn": "评估基于推理的支架对人机协同标注的影响：ReasonAlign标注协议",
+      "summary_cn": "人工标注是NLP评估的核心，但主观任务中标注者之间往往存在较大差异。本文提出ReasonAlign标注协议，研究大语言模型（LLM）提供的结构化推理如何影响人类标注行为。该研究探讨了LLM推理支架是否能减少标注变异性并提升标注质量，为人机协同标注提供了系统性的评估框架。",
+      "score": 6,
+      "significance": "该研究系统性地探索了LLM辅助人类标注的新范式，对提升主观NLP任务的标注一致性具有实际指导意义。"
+    },
+    {
+      "title": "ViCLSR: A Supervised Contrastive Learning Framework with Natural Language Inference for Natural Language Understanding Tasks",
+      "authors": [
+        "Tin Van Huynh",
+        "Kiet Van Nguyen",
+        "Ngan Luu-Thuy Nguyen"
+      ],
+      "abstract": "High-quality text representations are crucial for natural language understanding (NLU), but low-resource languages like Vietnamese face challenges due to limited annotated data. While pre-trained models like PhoBERT and CafeBERT perform well, their effectiveness is constrained by data scarcity. Contrastive learning (CL) has recently emerged as a promising approach for improving sentence representations, enabling models to effectively distinguish between semantically similar and dissimilar sentences. We propose ViCLSR (Vietnamese Contrastive Learning for Sentence Representations), a novel supervised contrastive learning framework specifically designed to optimize sentence embeddings for Vietnamese, leveraging existing natural language inference (NLI) datasets. Additionally, we propose a process to adapt existing Vietnamese datasets for supervised learning, ensuring compatibility with CL methods. Our experiments demonstrate that ViCLSR significantly outperforms the powerful monolingual pre-trained model PhoBERT on five benchmark NLU datasets such as ViNLI (+6.97% F1), ViWikiFC (+4.97% F1), ViFactCheck (+9.02% F1), UIT-ViCTSD (+5.36% F1), and ViMMRC2.0 (+4.33% Accuracy). ViCLSR shows that supervised contrastive learning can effectively address resource limitations in Vietnamese NLU tasks and improve sentence representation learning for low-resource languages. Furthermore, we conduct an in-depth analysis of the experimental results to uncover the factors contributing to the superior performance of contrastive learning models. ViCLSR is released for research purposes in advancing natural language processing tasks.",
+      "url": "http://arxiv.org/abs/2603.21084v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21084v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-03-22T06:46:26+00:00",
+      "source": "arxiv",
+      "title_cn": "ViCLSR：基于自然语言推理的监督对比学习框架用于自然语言理解任务",
+      "summary_cn": "高质量文本表示对自然语言理解至关重要，但越南语等低资源语言因标注数据有限面临挑战。本文提出ViCLSR框架，结合自然语言推理（NLI）和监督对比学习，增强PhoBERT等预训练模型在越南语NLU任务上的表现，有效缓解了数据稀缺问题。",
+      "score": 5,
+      "significance": "为低资源语言的文本表示学习提供了可迁移的对比学习方案，对多语言NLP研究有参考价值。"
+    },
+    {
+      "title": "Assessing the Ability of Neural TTS Systems to Model Consonant-Induced F0 Perturbation",
+      "authors": [
+        "Tianle Yang",
+        "Chengzhe Sun",
+        "Phil Rose",
+        "Cassandra L. Jacobs",
+        "Siwei Lyu"
+      ],
+      "abstract": "This study proposes a segmental-level prosodic probing framework to evaluate neural TTS models' ability to reproduce consonant-induced f0 perturbation, a fine-grained segmental-prosodic effect that reflects local articulatory mechanisms. We compare synthetic and natural speech realizations for thousands of words, stratified by lexical frequency, using Tacotron 2 and FastSpeech 2 trained on the same speech corpus (LJ Speech). These controlled analyses are then complemented by a large-scale evaluation spanning multiple advanced TTS systems. Results show accurate reproduction for high-frequency words but poor generalization to low-frequency items, suggesting that the examined TTS architectures rely more on lexical-level memorization than on abstract segmental-prosodic encoding. This finding highlights a limitation in such TTS systems' ability to generalize prosodic detail beyond seen data. The proposed probe offers a linguistically informed diagnostic framework that may inform future TTS evaluation methods, and has implications for interpretability and authenticity assessment in synthetic speech.",
+      "url": "http://arxiv.org/abs/2603.21078v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21078v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.SD"
+      ],
+      "published": "2026-03-22T06:06:47+00:00",
+      "source": "arxiv",
+      "title_cn": "评估神经TTS系统建模辅音诱导基频扰动的能力",
+      "summary_cn": "本研究提出一种音段级韵律探测框架，评估神经TTS模型再现辅音诱导基频（F0）扰动的能力。通过比较数千个合成语音与自然语音的实现，揭示了当前TTS系统在精细音段-韵律效应建模上的局限性，为语音合成的精细化评估提供了新视角。",
+      "score": 5,
+      "significance": "首次系统性地从音段级韵律角度评估TTS模型，填补了语音合成精细评估的空白。"
+    },
+    {
+      "title": "DMMRL: Disentangled Multi-Modal Representation Learning via Variational Autoencoders for Molecular Property Prediction",
+      "authors": [
+        "Long Xu",
+        "Junping Guo",
+        "Jianbo Zhao",
+        "Jianbo Lu",
+        "Yuzhong Peng"
+      ],
+      "abstract": "Molecular property prediction constitutes a cornerstone of drug discovery and materials science, necessitating models capable of disentangling complex structure-property relationships across diverse molecular modalities. Existing approaches frequently exhibit entangled representations--conflating structural, chemical, and functional factors--thereby limiting interpretability and transferability. Furthermore, conventional methods inadequately exploit complementary information from graphs, sequences, and geometries, often relying on naive concatenation that neglects inter-modal dependencies. In this work, we propose DMMRL, which employs variational autoencoders to disentangle molecular representations into shared (structure-relevant) and private (modality-specific) latent spaces, enhancing both interpretability and predictive performance. The proposed variational disentanglement mechanism effectively isolates the most informative features for property prediction, while orthogonality and alignment regularizations promote statistical independence and cross-modal consistency. Additionally, a gated attention fusion module adaptively integrates shared representations, capturing complex inter-modal relationships. Experimental validation across seven benchmark datasets demonstrates DMMRL's superior performance relative to state-of-the-art approaches. The code and data underlying this article are freely available at https://github.com/xulong0826/DMMRL.",
+      "url": "http://arxiv.org/abs/2603.21108v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21108v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-03-22T07:53:08+00:00",
+      "source": "arxiv",
+      "title_cn": "DMMRL：基于变分自编码器的解耦多模态表示学习用于分子性质预测",
+      "summary_cn": "分子性质预测是药物发现和材料科学的基础。本文提出DMMRL方法，利用变分自编码器对多种分子模态（如分子图、SMILES等）进行解耦表示学习，将结构信息和性质相关特征分离，克服了现有方法中表示纠缠的问题，提升了分子性质预测的准确性和可解释性。",
+      "score": 7,
+      "significance": "通过解耦多模态分子表示，为药物发现中的结构-性质关系建模提供了更可解释、更鲁棒的方案。"
+    },
+    {
+      "title": "ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models",
+      "authors": [
+        "Xu Li",
+        "Yi Zheng",
+        "Yuxuan Liang",
+        "Zhe Liu",
+        "Xiaolei Chen"
+      ],
+      "abstract": "Large Vision-Language Models (LVLMs) rely on dense visual tokens to capture fine-grained visual information, but processing all these tokens incurs substantial computational and memory overhead during inference. To address this issue, we propose ResPrune, a training-free visual token pruning framework that enables efficient LVLM inference by selecting a compact yet informative subset of visual tokens. ResPrune formulates visual token pruning as a subspace reconstruction problem and employs a greedy subspace expansion strategy guided by residual energy, allowing it to preserve the geometric structure of the original visual token space. To further incorporate cross modal alignment, the selection process is conditioned on textual relevance, encouraging the retention of tokens that are both informative and instruction-relevant. The proposed method is lightweight and model-agnostic, and can be seamlessly integrated into existing LVLM pipelines without retraining or architectural modifications. Extensive experiments on multiple LVLM backbones, including LLaVA-1.5, LLaVA-NeXT, and Qwen2.5-VL, demonstrate that ResPrune consistently outperforms existing pruning approaches across a wide range of benchmarks, while achieving effective reductions in computation, memory consumption, and inference latency.",
+      "url": "http://arxiv.org/abs/2603.21105v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21105v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-03-22T07:44:45+00:00",
+      "source": "arxiv",
+      "title_cn": "ResPrune：基于文本条件子空间重建的大视觉语言模型视觉Token剪枝",
+      "summary_cn": "大型视觉语言模型（LVLM）依赖密集视觉Token捕获细粒度信息，但推理开销巨大。本文提出ResPrune，一种无需训练的视觉Token剪枝框架，通过文本条件引导的子空间重建识别并保留关键视觉Token，在大幅减少计算和内存开销的同时保持模型性能。",
+      "score": 8,
+      "significance": "提出了免训练的视觉Token高效剪枝方案，对大型视觉语言模型的实际部署和推理加速具有重要价值。"
+    },
+    {
+      "title": "Mixture of Chapters: Scaling Learnt Memory in Transformers",
+      "authors": [
+        "Tasmay Pankaj Tibrewal",
+        "Pritish Saha",
+        "Ankit Meda",
+        "Kunal Singh",
+        "Pradeep Moturi"
+      ],
+      "abstract": "Transformers lack an explicit architectural mechanism for storing and organizing knowledge acquired during training. We introduce learnable sparse memory banks: a set of latent tokens, randomly initialized and trained end-to-end, that transformer layers query via cross-attention to retrieve stored knowledge. To scale memory capacity without prohibitive attention costs, we propose chapter-based routing inspired by Mixture-of-Experts architectures, partitioning the memory bank into chapters and training a router to select relevant subsets per input. This enables scaling to 262K memory tokens while maintaining tractable computation. We evaluate our approach against standard transformers (in iso-FLOP settings) on pre-training and instruction fine-tuning across relevant benchmarks. Our models surpass iso-FLOP baselines suggesting scope for a new axis of scaling, demonstrating that explicit associative memory provides complementary capacity to what is captured implicitly in model parameters. Additionally, we observe improved knowledge retention under continued training, with robustness to forgetting when transitioning between training phases (e.g., pretraining to instruction fine-tuning).",
+      "url": "http://arxiv.org/abs/2603.21096v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21096v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-03-22T07:16:58+00:00",
+      "source": "arxiv",
+      "title_cn": "章节混合：扩展Transformer中的可学习记忆",
+      "summary_cn": "Transformer缺乏显式的知识存储和组织机制。本文引入可学习稀疏记忆库——一组随机初始化并端到端训练的潜在Token，Transformer层通过交叉注意力查询这些记忆以检索存储的知识。该方法有效扩展了模型的记忆容量，同时保持了计算效率。",
+      "score": 7,
+      "significance": "为Transformer架构引入显式可学习记忆机制，探索了扩展模型知识存储能力的新方向。"
+    },
+    {
+      "title": "CVT-Bench: Counterfactual Viewpoint Transformations Reveal Unstable Spatial Representations in Multimodal LLMs",
+      "authors": [
+        "Shanmukha Vellamcheti",
+        "Uday Kiran Kothapalli",
+        "Disharee Bhowmick",
+        "Sathyanarayanan N. Aakur"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) achieve strong performance on single-view spatial reasoning tasks, yet it remains unclear whether they maintain stable spatial state representations under counterfactual viewpoint changes. We introduce a controlled diagnostic benchmark that evaluates relational consistency under hypothetical camera orbit transformations without re-rendering images. Across 100 synthetic scenes and 6,000 relational queries, we measure viewpoint consistency, 360° cycle agreement, and relational stability over sequential transformations. Despite high single-view accuracy, state-of-the-art MLLMs exhibit systematic degradation under counterfactual viewpoint changes, with frequent violations of cycle consistency and rapid decay in relational stability. We further evaluate multiple input representations, visual input, textual bounding boxes, and structured scene graphs, and show that increasing representational structure improves stability. Our results suggest that single-view spatial accuracy overestimates the robustness of induced spatial representations and that representation structure plays a critical role in counterfactual spatial reasoning.",
+      "url": "http://arxiv.org/abs/2603.21114v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21114v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-22T08:13:28+00:00",
+      "source": "arxiv",
+      "title_cn": "CVT-Bench：反事实视角变换揭示多模态大语言模型中不稳定的空间表示",
+      "summary_cn": "多模态大语言模型在单视角空间推理任务上表现优异，但在视角变换后能否维持稳定的空间表示尚不清楚。本文构建了一个控制性诊断基准，通过反事实视角变换评估模型的关系空间推理一致性，揭示了当前MLLM在空间理解上的脆弱性。",
+      "score": 7,
+      "significance": "系统性地揭示了多模态LLM空间推理的根本缺陷，为提升模型空间理解能力指明了方向。"
+    },
+    {
+      "title": "Frequency Switching Mechanism for Parameter-E!cient Multi-Task Learning",
+      "authors": [
+        "Shih-Wen Liu",
+        "Yen-Chang Chen",
+        "Wei-Ta Chu",
+        "Fu-En Yang",
+        "Yu-Chiang Frank Wang"
+      ],
+      "abstract": "Multi-task learning (MTL) aims to enable a single model to solve multiple tasks efficiently; however, current parameter-efficient fine-tuning (PEFT) methods remain largely limited to single-task adaptation. We introduce \\textbf{Free Sinewich}, a parameter-efficient multi-task learning framework that enables near-zero-cost weight modulation via frequency switching (\\textbf{Free}). Specifically, a \\textbf{Sine-AWB (Sinewich)} layer combines low-rank factors and convolutional priors into a single kernel, which is then modulated elementwise by a sinusoidal transformation to produce task-specialized weights. A lightweight Clock Net is introduced to produce bounded frequencies that stabilize this modulation during training. Theoretically, sine modulation enhances the rank of low-rank adapters, while frequency separation decorrelates the weights of different tasks. On dense prediction benchmarks, Free Sinewich achieves state-of-the-art performance-efficiency trade-offs (e.g., up to +5.39\\% improvement over single-task fine-tuning with only 6.53M trainable parameters), offering a compact and scalable paradigm based on frequency-based parameter sharing. Project page: \\href{https://casperliuliuliu.github.io/projects/Free-Sinewich/}{https://casperliuliuliu.github.io/projects/Free-Sinewich}.",
+      "url": "http://arxiv.org/abs/2603.21111v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21111v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-03-22T07:57:40+00:00",
+      "source": "arxiv",
+      "title_cn": "频率切换机制：用于参数高效多任务学习的方法",
+      "summary_cn": "多任务学习旨在让单一模型高效解决多个任务，但当前参数高效微调方法多限于单任务适配。本文提出Free Sinewich框架，利用频率切换机制在频域中实现参数高效的多任务学习，使不同任务能够共享模型参数的同时保持各自的任务特异性。",
+      "score": 6,
+      "significance": "从频域视角切入多任务参数高效微调，提供了跨任务参数共享与解耦的新思路。"
+    },
+    {
+      "title": "Learning Progressive Adaptation for Multi-Modal Tracking",
+      "authors": [
+        "He Wang",
+        "Tianyang Xu",
+        "Zhangyong Tang",
+        "Xiao-Jun Wu",
+        "Josef Kittler"
+      ],
+      "abstract": "Due to the limited availability of paired multi-modal data, multi-modal trackers are typically built by adopting pre-trained RGB models with parameter-efficient fine-tuning modules. However, these fine-tuning methods overlook advanced adaptations for applying RGB pre-trained models and fail to modulate a single specific modality, cross-modal interactions, and the prediction head. To address the issues, we propose to perform Progressive Adaptation for Multi-Modal Tracking (PATrack). This innovative approach incorporates modality-dependent, modality-entangled, and task-level adapters, effectively bridging the gap in adapting RGB pre-trained networks to multi-modal data through a progressive strategy. Specifically, modality-specific information is enhanced through the modality-dependent adapter, decomposing the high- and low-frequency components, which ensures a more robust feature representation within each modality. The inter-modal interactions are introduced in the modality-entangled adapter, which implements a cross-attention operation guided by inter-modal shared information, ensuring the reliability of features conveyed between modalities. Additionally, recognising that the strong inductive bias of the prediction head does not adapt to the fused information, a task-level adapter specific to the prediction head is introduced. In summary, our design integrates intra-modal, inter-modal, and task-level adapters into a unified framework. Extensive experiments on RGB+Thermal, RGB+Depth, and RGB+Event tracking tasks demonstrate that our method shows impressive performance against state-of-the-art methods. Code is available at https://github.com/ouha1998/Learning-Progressive-Adaptation-for-Multi-Modal-Tracking.",
+      "url": "http://arxiv.org/abs/2603.21100v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21100v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-03-22T07:25:54+00:00",
+      "source": "arxiv",
+      "title_cn": "学习渐进式适配用于多模态目标跟踪",
+      "summary_cn": "由于配对多模态数据有限，多模态跟踪器通常基于预训练RGB模型加参数高效微调模块构建。本文提出渐进式适配方法，通过分层自适应策略更好地将RGB预训练模型迁移至多模态场景，有效调节不同模态间的特征融合，提升了多模态跟踪性能。",
+      "score": 6,
+      "significance": "针对多模态跟踪中预训练模型适配不足的问题，提供了更精细的渐进式迁移策略。"
+    },
+    {
+      "title": "Representation-Level Adversarial Regularization for Clinically Aligned Multitask Thyroid Ultrasound Assessment",
+      "authors": [
+        "Dina Salama",
+        "Mohamed Mahmoud",
+        "Nourhan Bayasi",
+        "David Liu",
+        "Ilker Hacihaliloglu"
+      ],
+      "abstract": "Thyroid ultrasound is the first-line exam for assessing thyroid nodules and determining whether biopsy is warranted. In routine reporting, radiologists produce two coupled outputs: a nodule contour for measurement and a TI-RADS risk category based on sonographic criteria. Yet both contouring style and risk grading vary across readers, creating inconsistent supervision that can degrade standard learning pipelines. In this paper, we address this workflow with a clinically guided multitask framework that jointly predicts the nodule mask and TI-RADS category within a single model. To ground risk prediction in clinically meaningful evidence, we guide the classification embedding using a compact TI-RADS aligned radiomics target during training, while preserving complementary deep features for discriminative performance. However, under annotator variability, naive multitask optimization often fails not because the tasks are unrelated, but because their gradients compete within the shared representation. To make this competition explicit and controllable, we introduce RLAR, a representation-level adversarial gradient regularizer. Rather than performing parameter-level gradient surgery, RLAR uses each task's normalized adversarial direction in latent space as a geometric probe of task sensitivity and penalizes excessive angular alignment between task-specific adversarial directions. On a public TI-RADS dataset, our clinically guided multitask model with RLAR consistently improves risk stratification while maintaining segmentation quality compared to single-task training and conventional multitask baselines. Code and pretrained models will be released.",
+      "url": "http://arxiv.org/abs/2603.21095v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21095v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-03-22T07:14:43+00:00",
+      "source": "arxiv",
+      "title_cn": "表示级对抗正则化用于临床对齐的多任务甲状腺超声评估",
+      "summary_cn": "甲状腺超声是评估甲状腺结节的一线检查。本文提出表示级对抗正则化方法，联合学习结节轮廓分割和TI-RADS风险分类两个耦合任务，通过对抗训练使特征表示与临床报告流程对齐，提升了多任务超声评估的一致性和临床可靠性。",
+      "score": 6,
+      "significance": "将多任务学习与临床工作流程深度对齐，对甲状腺超声的自动化报告具有直接的临床应用价值。"
+    },
+    {
+      "title": "DGRNet: Disagreement-Guided Refinement for Uncertainty-Aware Brain Tumor Segmentation",
+      "authors": [
+        "Bahram Mohammadi",
+        "Yanqiu Wu",
+        "Vu Minh Hieu Phan",
+        "Sam White",
+        "Minh-Son To"
+      ],
+      "abstract": "Accurate brain tumor segmentation from MRI scans is critical for diagnosis and treatment planning. Despite the strong performance of recent deep learning approaches, two fundamental limitations remain: (1) the lack of reliable uncertainty quantification in single-model predictions, which is essential for clinical deployment because the level of uncertainty may impact treatment decision-making, and (2) the under-utilization of rich information in radiology reports that can guide segmentation in ambiguous regions. In this paper, we propose the Disagreement-Guided Refinement Network (DGRNet), a novel framework that addresses both limitations through multi-view disagreement-based uncertainty estimation and text-conditioned refinement. DGRNet generates diverse predictions via four lightweight view-specific adapters attached to a shared encoder-decoder, enabling efficient uncertainty quantification within a single forward pass. Afterward, we build disagreement maps to identify regions of high segmentation uncertainty, which are then selectively refined according to clinical reports. Moreover, we introduce a diversity-preserving training strategy that combines pairwise similarity penalties and gradient isolation to prevent view collapse. The experimental results on the TextBraTS dataset show that DGRNet favorably improves state-of-the-art segmentation accuracy by 2.4% and 11% in main metrics Dice and HD95, respectively, while providing meaningful uncertainty estimates.",
+      "url": "http://arxiv.org/abs/2603.21086v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21086v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-22T06:56:38+00:00",
+      "source": "arxiv",
+      "title_cn": "DGRNet：基于分歧引导细化的不确定性感知脑肿瘤分割",
+      "summary_cn": "脑肿瘤MRI分割对诊断和治疗至关重要。本文提出DGRNet，通过模型内部预测分歧来引导不确定区域的细化分割，同时提供可靠的不确定性量化。该方法克服了单模型预测缺乏不确定性估计的局限，在不确定区域实现了更准确的分割。",
+      "score": 6,
+      "significance": "在脑肿瘤分割中同时解决精度和不确定性量化问题，增强了临床决策的可信度。"
+    },
+    {
+      "title": "Taming Sampling Perturbations with Variance Expansion Loss for Latent Diffusion Models",
+      "authors": [
+        "Qifan Li",
+        "Xingyu Zhou",
+        "Jinhua Zhang",
+        "Weiyi You",
+        "Shuhang Gu"
+      ],
+      "abstract": "Latent diffusion models have emerged as the dominant framework for high-fidelity and efficient image generation, owing to their ability to learn diffusion processes in compact latent spaces. However, while previous research has focused primarily on reconstruction accuracy and semantic alignment of the latent space, we observe that another critical factor, robustness to sampling perturbations, also plays a crucial role in determining generation quality. Through empirical and theoretical analyses, we show that the commonly used $β$-VAE-based tokenizers in latent diffusion models, tend to produce overly compact latent manifolds that are highly sensitive to stochastic perturbations during diffusion sampling, leading to visual degradation. To address this issue, we propose a simple yet effective solution that constructs a latent space robust to sampling perturbations while maintaining strong reconstruction fidelity. This is achieved by introducing a Variance Expansion loss that counteracts variance collapse and leverages the adversarial interplay between reconstruction and variance expansion to achieve an adaptive balance that preserves reconstruction accuracy while improving robustness to stochastic sampling. Extensive experiments demonstrate that our approach consistently enhances generation quality across different latent diffusion architectures, confirming that robustness in latent space is a key missing ingredient for stable and faithful diffusion sampling.",
+      "url": "http://arxiv.org/abs/2603.21085v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21085v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-22T06:56:12+00:00",
+      "source": "arxiv",
+      "title_cn": "用方差扩展损失驯服潜扩散模型中的采样扰动",
+      "summary_cn": "潜扩散模型是高保真图像生成的主流框架，但采样过程中的扰动会导致生成质量不稳定。本文提出方差扩展损失（Variance Expansion Loss），通过优化潜空间中的方差分布来抑制采样扰动，提升生成图像的稳定性和保真度，弥补了以往研究对潜空间方差特性关注的不足。",
+      "score": 7,
+      "significance": "从潜空间方差角度切入改善扩散模型采样质量，为提升生成模型稳定性提供了新的训练目标。"
+    },
+    {
+      "title": "Hierarchical Text-Guided Brain Tumor Segmentation via Sub-Region-Aware Prompts",
+      "authors": [
+        "Bahram Mohammadi",
+        "Ta Duc Huy",
+        "Afrouz Sheikholeslami",
+        "Qi Chen",
+        "Vu Minh Hieu Phan"
+      ],
+      "abstract": "Brain tumor segmentation remains challenging because the three standard sub-regions, i.e., whole tumor (WT), tumor core (TC), and enhancing tumor (ET), often exhibit ambiguous visual boundaries. Integrating radiological description texts with imaging has shown promise. However, most multimodal approaches typically compress a report into a single global text embedding shared across all sub-regions, overlooking their distinct clinical characteristics. We propose TextCSP (text-modulated soft cascade architecture), a hierarchical text-guided framework that builds on the TextBraTS baseline with three novel components: (1) a text-modulated soft cascade decoder that predicts WT->TC->ET in a coarse-to-fine manner consistent with their anatomical containment hierarchy. (2) sub-region-aware prompt tuning, which uses learnable soft prompts with a LoRA-adapted BioBERT encoder to generate specialized text representations tailored for each sub-region; (3) text-semantic channel modulators that convert the aforementioned representations into channel-wise refinement signals, enabling the decoder to emphasize features aligned with clinically described patterns. Experiments on the TextBraTS dataset demonstrate consistent improvements across all sub-regions against state-of-the-art methods by 1.7% and 6% on the main metrics Dice and HD95.",
+      "url": "http://arxiv.org/abs/2603.21083v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21083v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-22T06:45:02+00:00",
+      "source": "arxiv",
+      "title_cn": "基于子区域感知提示的分层文本引导脑肿瘤分割",
+      "summary_cn": "脑肿瘤分割因子区域（整体肿瘤、肿瘤核心、增强肿瘤）间视觉边界模糊而具有挑战性。本文提出分层文本引导方法，利用放射学描述文本生成子区域感知提示，通过多层级语义指导提升分割精度，克服了现有多模态方法仅使用全局文本描述的不足。",
+      "score": 6,
+      "significance": "将放射学文本以分层方式融入分割模型，为医学图像中文本-图像多模态融合提供了更精细的范式。"
+    },
+    {
+      "title": "CoVFT: Context-aware Visual Fine-tuning for Multimodal Large Language Models",
+      "authors": [
+        "Nan Zhou",
+        "Huiqun Wang",
+        "Yaoyan Zheng",
+        "Di Huang"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) achieve remarkable progress in cross-modal perception and reasoning, yet a fundamental question remains unresolved: should the vision encoder be fine-tuned or frozen? Despite the success of models such as LLaVA and Qwen-VL, inconsistent design choices and heterogeneous training setups hinder a unified understanding of visual fine-tuning (VFT) in MLLMs. Through a configuration-aligned benchmark, we find that existing VFT methods fail to consistently outperform the frozen baseline across multimodal tasks. Our analysis suggests that this instability arises from visual preference conflicts, where the context-agnostic nature of vision encoders induces divergent parameter updates under diverse multimodal context. To address this issue, we propose the Context-aware Visual Fine-tuning (CoVFT) framework, which explicitly incorporates multimodal context into visual adaptation. By integrating a Context Vector Extraction (CVE) and a Contextual Mixture-of-Experts (CoMoE) module, CoVFT decomposes conflicting optimization signals and enables stable, context-sensitive visual updates. Extensive experiments on 12 multimodal benchmarks demonstrate that CoVFT achieves state-of-the-art performance with superior stability. Notably, fine-tuning a 7B MLLM with CoVFT surpasses the average performance of its 13B counterpart, revealing substantial untapped potential in visual encoder optimization within MLLMs.",
+      "url": "http://arxiv.org/abs/2603.21077v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21077v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-22T06:04:44+00:00",
+      "source": "arxiv",
+      "title_cn": "CoVFT：面向多模态大语言模型的上下文感知视觉微调",
+      "summary_cn": "多模态大语言模型在跨模态感知与推理中表现出色，但视觉编码器应冻结还是微调仍是悬而未决的问题。本文提出CoVFT，一种上下文感知的视觉微调方法，根据输入上下文动态调整视觉编码器的适配程度，在多个基准上验证了该策略优于一刀切的冻结或微调方案。",
+      "score": 7,
+      "significance": "系统性地回答了MLLM视觉编码器微调策略的关键设计问题，为模型架构设计提供了实证指导。"
+    },
+    {
+      "title": "CTFS : Collaborative Teacher Framework for Forward-Looking Sonar Image Semantic Segmentation with Extremely Limited Labels",
+      "authors": [
+        "Ping Guo",
+        "Chengzhou Li",
+        "Guanchen Meng",
+        "Qi Jia",
+        "Jinyuan Liu"
+      ],
+      "abstract": "As one of the most important underwater sensing technologies, forward-looking sonar exhibits unique imaging characteristics. Sonar images are often affected by severe speckle noise, low texture contrast, acoustic shadows, and geometric distortions. These factors make it difficult for traditional teacher-student frameworks to achieve satisfactory performance in sonar semantic segmentation tasks under extremely limited labeled data conditions. To address this issue, we propose a Collaborative Teacher Semantic Segmentation Framework for forward-looking sonar images. This framework introduces a multi-teacher collaborative mechanism composed of one general teacher and multiple sonar-specific teachers. By adopting a multi-teacher alternating guidance strategy, the student model can learn general semantic representations while simultaneously capturing the unique characteristics of sonar images, thereby achieving more comprehensive and robust feature modeling. Considering the challenges of sonar images, which can lead teachers to generate a large number of noisy pseudo-labels, we further design a cross-teacher reliability assessment mechanism. This mechanism dynamically quantifies the reliability of pseudo-labels by evaluating the consistency and stability of predictions across multiple views and multiple teachers, thereby mitigating the negative impact caused by noisy pseudo-labels. Notably, on the FLSMD dataset, when only 2% of the data is labeled, our method achieves a 5.08% improvement in mIoU compared to other state-of-the-art approaches.",
+      "url": "http://arxiv.org/abs/2603.21071v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.21071v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-03-22T05:57:36+00:00",
+      "source": "arxiv",
+      "title_cn": "CTFS：基于协作教师框架的极少标签前视声纳图像语义分割",
+      "summary_cn": "前视声纳图像因散斑噪声、低纹理对比度和声学阴影等特点使传统分割方法失效。本文提出CTFS协作教师框架，在极少标注数据条件下利用多教师协作和半监督学习实现声纳图像的高质量语义分割，有效解决了水下声纳标注稀缺的现实问题。",
+      "score": 6,
+      "significance": "针对水下声纳这一特殊成像模态的标注稀缺问题提出实用解决方案，对水下感知应用有重要意义。"
+    }
+  ]
+}
