@@ -1,0 +1,735 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T09:27:52.265937+08:00",
+  "github_trending": [
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 46268,
+      "forks": 5478,
+      "language": "Python",
+      "stars_today": 3787,
+      "source": "github_trending",
+      "summary_cn": "字节跳动开源的 SuperAgent 框架，集成了沙箱、记忆、工具、技能、子代理和消息网关，能够自主完成研究、编码和内容创作等不同复杂度的任务。支持从几分钟到数小时的长时间任务执行，架构设计完整且扩展性强。适合需要构建复杂多步骤 AI 工作流的开发者和团队。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "字节出品的全能型 AI Agent 框架，研究、编码、创作一站搞定。"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "stars": 16644,
+      "forks": 1583,
+      "language": "TypeScript",
+      "stars_today": 1718,
+      "source": "github_trending",
+      "summary_cn": "一款自包含的离线生存计算机项目，内置关键工具、知识库和本地 AI 能力，可在无网络环境下提供信息查询和决策支持。基于 TypeScript 构建，强调完全离线可用和便携性。适合户外探险、应急准备以及对离线 AI 应用感兴趣的极客。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "断网也能用的 AI 生存电脑，离线知识库+AI 随身带。"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 7699,
+      "forks": 718,
+      "language": "Python",
+      "stars_today": 1341,
+      "source": "github_trending",
+      "summary_cn": "一个 AI Agent 技能插件，能自动从 Reddit、X、YouTube、Hacker News、Polymarket 及全网检索任意话题的近期信息，并综合生成有据可查的摘要报告。作为可复用的 Agent Skill 设计，易于集成到现有 Agent 工作流中。适合需要快速了解某一话题近期动态的研究者和信息工作者。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "跨平台全网话题调研技能，30 天热点一键综合摘要。"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 41823,
+      "forks": 7668,
+      "language": "Python",
+      "stars_today": 1249,
+      "source": "github_trending",
+      "summary_cn": "基于多智能体 LLM 的金融交易框架，通过多个专业化 Agent 协作完成市场分析、交易决策等任务。模拟真实交易团队的分工协作模式，将 LLM 能力引入量化交易场景。适合量化交易研究者和对 AI 金融应用感兴趣的开发者。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "多智能体协作的 LLM 量化交易框架，模拟专业交易团队。"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 26229,
+      "forks": 2842,
+      "language": "TypeScript",
+      "stars_today": 1174,
+      "source": "github_trending",
+      "summary_cn": "面向 Claude 的 Agent 编排平台，支持部署多智能体集群、协调自主工作流，并提供分布式群体智能、RAG 集成和 Claude Code/Codex 原生集成。具备企业级架构设计，适合构建复杂的多 Agent 协作系统。面向需要在 Claude 生态中进行大规模 Agent 编排的团队。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "Claude 生态的多智能体编排平台，企业级 Swarm 架构开箱即用。"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 102903,
+      "forks": 11310,
+      "language": "Python",
+      "stars_today": 971,
+      "source": "github_trending",
+      "summary_cn": "Anthropic 官方发布的 Agent Skills 公开仓库，提供可复用的 Agent 技能模块，是 Claude 生态中技能共享和分发的核心基础设施。Star 数超 10 万，社区关注度极高。适合所有使用 Claude 构建 Agent 应用的开发者参考和复用。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "Anthropic 官方 Agent 技能库，Claude 生态的技能商店。"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 13240,
+      "forks": 1591,
+      "language": "Python",
+      "stars_today": 850,
+      "source": "github_trending",
+      "summary_cn": "NousResearch 推出的可成长型 AI Agent，强调随用户使用不断进化和适应的能力。基于 Hermes 模型系列构建，定位为个人化的智能助手框架。适合希望拥有一个能持续学习和成长的个人 AI Agent 的开发者。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "会成长的 AI Agent，用得越多越懂你。"
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "stars": 19223,
+      "forks": 1811,
+      "language": "TypeScript",
+      "stars_today": 810,
+      "source": "github_trending",
+      "summary_cn": "面向 AI 时代的高性能记忆引擎和 API，提供极快的存储和检索速度，具备良好的可扩展性。可作为 AI 应用的外部长期记忆层，解决 LLM 上下文窗口有限的问题。适合需要为 AI Agent 或应用添加持久化记忆能力的开发者。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "AI 时代的记忆引擎，给你的 Agent 装上长期记忆。"
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic",
+      "stars": 32423,
+      "forks": 2258,
+      "language": "Python",
+      "stars_today": 753,
+      "source": "github_trending",
+      "summary_cn": "精选的 Claude Code 生态资源合集，涵盖技能、钩子、斜杠命令、Agent 编排器、应用和插件等。作为社区驱动的 awesome list，是了解和进入 Claude Code 生态的最佳入口。适合所有 Claude Code 用户发现和学习优质资源。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "Claude Code 生态的百宝箱，技能插件一网打尽。"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": 53159,
+      "forks": 7507,
+      "language": "Python",
+      "stars_today": 696,
+      "source": "github_trending",
+      "summary_cn": "利用 AI 大模型一键生成高清短视频的工具，自动完成文案、素材、配音、剪辑等全流程。操作门槛极低，适合内容创作者和自媒体从业者快速批量生产短视频内容。中文社区热度持续走高，实用性极强。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "AI 一键生成高清短视频，自媒体批量出片神器。"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
+      "stars": 43732,
+      "forks": 5250,
+      "language": "Python",
+      "stars_today": 487,
+      "source": "github_trending",
+      "summary_cn": "极简大模型训练教程项目，仅需 2 小时即可从零训练一个 64M 参数的 GPT 模型。代码精简、注释详尽，是理解 Transformer 架构和 LLM 训练流程的绝佳学习材料。非常适合 AI 初学者和希望深入理解大模型原理的开发者。",
+      "score": 9,
+      "category": "教程",
+      "one_liner": "2 小时从零手搓一个 GPT，大模型入门最佳实践。"
+    },
+    {
+      "name": "hsliuping/TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "description": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": 21317,
+      "forks": 4427,
+      "language": "Python",
+      "stars_today": 449,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents 的中文增强版，针对中国金融市场进行了本地化适配，支持中文数据源和 A 股等国内市场。保留了多智能体协作交易的核心架构，降低了国内用户的使用门槛。适合关注国内量化交易和 AI 金融应用的中文开发者。",
+      "score": 7,
+      "category": "Agent",
+      "one_liner": "TradingAgents 中文版，多智能体 AI 量化交易本土化落地。"
+    },
+    {
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "stars": 40658,
+      "forks": 6716,
+      "language": "Python",
+      "stars_today": 301,
+      "source": "github_trending",
+      "summary_cn": "支持 100+ LLM API 统一调用的 Python SDK 和代理网关，兼容 OpenAI 格式，内置成本追踪、限流、负载均衡和日志功能。覆盖 Bedrock、Azure、Anthropic 等主流平台，是多模型管理的事实标准工具。适合需要在生产环境中管理多个 LLM 提供商的团队。",
+      "score": 9,
+      "category": "框架",
+      "one_liner": "一个 SDK 调用 100+ LLM API，多模型管理的瑞士军刀。"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "stars": 21756,
+      "forks": 2303,
+      "language": "Python",
+      "stars_today": 102,
+      "source": "github_trending",
+      "summary_cn": "开源的 AI 安全黑客工具，能自动发现并修复应用中的安全漏洞。将 AI Agent 能力应用于安全攻防场景，降低安全审计的人力成本。适合开发团队在 CI/CD 流程中集成自动化安全检测。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "AI 驱动的自动化安全审计，帮你找漏洞还帮你修。"
+    },
+    {
+      "name": "letta-ai/claude-subconscious",
+      "url": "https://github.com/letta-ai/claude-subconscious",
+      "description": "Give Claude Code a subconscious",
+      "stars": 1456,
+      "forks": 111,
+      "language": "TypeScript",
+      "stars_today": 71,
+      "source": "github_trending"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Goodbye to Sora",
+      "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+      "score": 9,
+      "comments": 799,
+      "author": "mikeocool",
+      "time": "2026-03-24T20:01:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47508246",
+      "source": "hacker_news",
+      "title_cn": "再见了，Sora",
+      "summary_cn": "OpenAI 旗下视频生成工具 Sora 官方账号发布告别消息，暗示该产品可能即将关闭或进行重大调整。此事在社区引发大量讨论，近800条评论反映出用户对AI视频生成领域未来走向的关注。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Is anybody else bored of talking about AI?",
+      "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+      "score": 8,
+      "comments": 511,
+      "author": "jakelsaunders94",
+      "time": "2026-03-24T20:31:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47508745",
+      "source": "hacker_news",
+      "title_cn": "还有人和我一样，已经厌倦了谈论 AI 吗？",
+      "summary_cn": "一位开发者在博客中表达了对 AI 话题过度饱和的疲倦感，质疑当前围绕 AI 的讨论是否已经偏离了实际价值。帖子引发了广泛共鸣，500多条评论显示许多人对 AI 炒作周期感到倦怠。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "score": 9,
+      "comments": 133,
+      "author": "ray__",
+      "time": "2026-03-25T05:00:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47513475",
+      "source": "hacker_news",
+      "title_cn": "TurboQuant：通过极端压缩重新定义 AI 效率",
+      "summary_cn": "Google Research 发布 TurboQuant 技术，通过极端量化压缩大幅提升 AI 模型的运行效率，在保持模型性能的同时显著降低计算和存储开销。这项研究对边缘设备部署大模型具有重要意义。",
+      "category": "技术突破"
+    },
+    {
+      "title": "So where are all the AI apps?",
+      "url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
+      "score": 8,
+      "comments": 404,
+      "author": "tanelpoder",
+      "time": "2026-03-24T14:19:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47503006",
+      "source": "hacker_news",
+      "title_cn": "那些 AI 应用都去哪了？",
+      "summary_cn": "Answer.AI 团队发文探讨一个尖锐问题：尽管 AI 基础模型能力飞速发展，但真正改变用户生活的杀手级 AI 应用却迟迟未大规模涌现。文章分析了从技术到产品之间的鸿沟及其原因。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Gemini can now natively embed video, so I built sub-second video search",
+      "url": "https://github.com/ssrajadh/sentrysearch",
+      "score": 8,
+      "comments": 103,
+      "author": "sohamrj",
+      "time": "2026-03-24T14:58:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47503617",
+      "source": "hacker_news",
+      "title_cn": "Show HN：Gemini 现已原生支持视频嵌入，我用它构建了亚秒级视频搜索",
+      "summary_cn": "开发者利用 Google Gemini 新增的原生视频嵌入能力，构建了一个名为 SentrySearch 的开源项目，可实现亚秒级的视频内容语义搜索，展示了多模态嵌入在实际应用中的潜力。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Ensu – Ente’s Local LLM app",
+      "url": "https://ente.com/blog/ensu/",
+      "score": 7,
+      "comments": 148,
+      "author": "matthiaswh",
+      "time": "2026-03-25T12:49:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47516650",
+      "source": "hacker_news",
+      "title_cn": "Ensu —— Ente 推出的本地 LLM 应用",
+      "summary_cn": "以隐私著称的端到端加密服务 Ente 推出了 Ensu，一款完全在本地运行的 LLM 应用，无需将数据发送到云端。该产品延续了 Ente 一贯的隐私优先理念，为注重数据安全的用户提供了本地 AI 方案。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Updates to GitHub Copilot interaction data usage policy",
+      "url": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
+      "score": 7,
+      "comments": 108,
+      "author": "prefork",
+      "time": "2026-03-25T19:09:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47521799",
+      "source": "hacker_news",
+      "title_cn": "GitHub Copilot 交互数据使用政策更新",
+      "summary_cn": "GitHub 官方博客宣布更新 Copilot 的交互数据使用政策，涉及用户代码数据如何被收集和使用的条款变更。此类政策调整一直是开发者社区高度敏感的话题，评论区讨论热烈。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon",
+      "url": "https://github.com/t8/hypura",
+      "score": 8,
+      "comments": 84,
+      "author": "tatef",
+      "time": "2026-03-24T16:02:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47504695",
+      "source": "hacker_news",
+      "title_cn": "Hypura —— 面向 Apple Silicon 的存储层感知 LLM 推理调度器",
+      "summary_cn": "Hypura 是一个开源项目，专为 Apple Silicon 设计了存储层感知的 LLM 推理调度器，能智能利用内存和 SSD 等不同存储层级来优化大模型在 Mac 上的推理性能。",
+      "category": "开源项目"
+    },
+    {
+      "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "score": 7,
+      "comments": 100,
+      "author": "louiereederson",
+      "time": "2026-03-25T18:16:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47521157",
+      "source": "hacker_news",
+      "title_cn": "90% 与 Claude 相关的代码输出流向了 Star 数不足 2 的 GitHub 仓库",
+      "summary_cn": "一项数据分析显示，绝大多数由 Claude 辅助生成并推送到 GitHub 的代码，都流向了几乎无人关注的仓库。这引发了关于 AI 编程助手是否在制造大量低质量代码的讨论。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+      "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+      "score": 7,
+      "comments": 152,
+      "author": "dabinat",
+      "time": "2026-03-25T10:28:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47515502",
+      "source": "hacker_news",
+      "title_cn": "我试图证明自己不是 AI，但我阿姨不信",
+      "summary_cn": "BBC 报道了一个引人深思的故事：作者试图向亲人证明自己不是 AI 深度伪造，却未能成功说服对方。文章探讨了在 AI 深伪技术泛滥的时代，人际信任面临的全新挑战。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: AI Roundtable – Let 200 models debate your question",
+      "url": "https://opper.ai/ai-roundtable/",
+      "score": 6,
+      "comments": 79,
+      "author": "felix089",
+      "time": "2026-03-24T19:15:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47507666",
+      "source": "hacker_news",
+      "title_cn": "Show HN：AI 圆桌会议 —— 让 200 个模型辩论你的问题",
+      "summary_cn": "Opper.ai 推出了一个有趣的工具，用户可以将问题同时抛给 200 个不同的 AI 模型，让它们围绕同一话题展开辩论，从而获得多元化的观点和答案。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Sandboxing AI agents, 100x faster",
+      "url": "https://blog.cloudflare.com/dynamic-workers/",
+      "score": 7,
+      "comments": 9,
+      "author": "kentonv",
+      "time": "2026-03-24T13:40:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47502448",
+      "source": "hacker_news",
+      "title_cn": "AI Agent 沙箱化，速度提升 100 倍",
+      "summary_cn": "Cloudflare 发布 Dynamic Workers 技术，可将 AI Agent 的沙箱隔离执行速度提升 100 倍，为安全运行不可信的 AI 代理代码提供了高性能的基础设施方案。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Apple Can Create Smaller On-Device AI Models from Google's Gemini",
+      "url": "https://www.macrumors.com/2026/03/25/apple-google-gemini-distill-models/",
+      "score": 7,
+      "comments": 7,
+      "author": "thm",
+      "time": "2026-03-25T17:25:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47520438",
+      "source": "hacker_news",
+      "title_cn": "苹果可从 Google Gemini 蒸馏出更小的端侧 AI 模型",
+      "summary_cn": "据 MacRumors 报道，苹果正在利用知识蒸馏技术从 Google Gemini 大模型中提取能力，创建适合在 iPhone 等设备上本地运行的小型 AI 模型，以增强其端侧 AI 体验。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Claude-Code Automode",
+      "url": "https://claude.com/blog/auto-mode",
+      "score": 7,
+      "comments": 5,
+      "author": "marginalx",
+      "time": "2026-03-24T18:03:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47506708",
+      "source": "hacker_news",
+      "title_cn": "Claude Code 自动模式",
+      "summary_cn": "Anthropic 为 Claude Code 推出自动模式（Auto Mode），允许 Claude 在编码任务中更自主地执行操作，减少人工确认步骤，提升开发者使用 AI 编程助手的效率和流畅度。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+      "url": "https://lab.puga.com.br/cog/",
+      "score": 5,
+      "comments": 8,
+      "author": "marciopuga",
+      "time": "2026-03-25T23:29:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47524704",
+      "source": "hacker_news",
+      "title_cn": "Show HN：一个为 Claude Code 设计的纯文本认知架构",
+      "summary_cn": "开发者分享了一个用纯文本定义的认知架构框架，旨在为 Claude Code 提供结构化的思维和任务管理模式，帮助 AI 编程助手更有条理地处理复杂开发任务。",
+      "category": "开源项目"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Improving Lean4 Autoformalization via Cycle Consistency Fine-tuning",
+      "authors": [
+        "Arsen Shebzukhov"
+      ],
+      "abstract": "Autoformalization - automatically translating natural language mathematical texts into formal proof language such as Lean4 - can help accelerate AI-assisted mathematical research, be it via proof verification or proof search. I fine-tune Qwen3.5-2B with LoRA for natural language to Lean4 formalization on FineLeanCorpus and consider three training regimes: supervised fine-tuning (SFT) with curriculum learning (difficulty 1 to 10), SFT without curriculum ordering, and reinforcement learning using group relative policy optimization (GRPO) with a cycle consistency reward. Cycle consistency measures how well the meaning of a statement is preserved through a NL to Lean4 to NL' loop, computed as cosine similarity of off-the-shelf sentence embeddings. On an unseen subset of FineLeanCorpus (FLC) and on PutnamBench, RL substantially outperforms both SFT variants (mean cycle consistency 0.669 vs. 0.513 on FLC; 0.561 vs. 0.422 on PutnamBench), while increasing cross-entropy loss by only 0.011 nats, with minimal impact on formalization quality. Curriculum ordering provides no measurable benefit over shuffled training.",
+      "url": "http://arxiv.org/abs/2603.24372v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24372v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-25T14:53:48+00:00",
+      "source": "arxiv",
+      "title_cn": "通过循环一致性微调提升 Lean4 自动形式化能力",
+      "summary_cn": "该研究旨在解决将自然语言数学文本自动翻译为 Lean4 形式化语言的难题。研究者通过一种“循环一致性”微调方法（即“自然语言 -> Lean4 -> 自然语言”的闭环训练）来优化一个小型语言模型，从而提升了翻译的准确性和效率。",
+      "score": 8,
+      "significance": "这项工作为利用小型模型实现高效、准确的数学语言自动形式化提供了新思路，有助于加速 AI 辅助数学研究的进程。"
+    },
+    {
+      "title": "GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents",
+      "authors": [
+        "Yunzhe Wang",
+        "Runhui Xu",
+        "Kexin Zheng",
+        "Tianyi Zhang",
+        "Jayavibhav Niranjan Kogundi"
+      ],
+      "abstract": "Multimodal LLMs are increasingly deployed as perceptual backbones for autonomous agents in 3D environments, from robotics to virtual worlds. These applications require agents to perceive rapid state changes, attribute actions to the correct entities, and reason about concurrent multi-agent behaviors from a first-person perspective, capabilities that existing benchmarks do not adequately evaluate. We introduce GameplayQA, a framework for evaluating agentic-centric perception and reasoning through video understanding. Specifically, we densely annotate multiplayer 3D gameplay videos at 1.22 labels/second, with time-synced, concurrent captions of states, actions, and events structured around a triadic system of Self, Other Agents, and the World, a natural decomposition for multi-agent environments. From these annotations, we refined 2.4K diagnostic QA pairs organized into three levels of cognitive complexity, accompanied by a structured distractor taxonomy that enables fine-grained analysis of where models hallucinate. Evaluation of frontier MLLMs reveals a substantial gap from human performance, with common failures in temporal and cross-video grounding, agent-role attribution, and handling the decision density of the game. We hope GameplayQA stimulates future research at the intersection of embodied AI, agentic perception, and world modeling.",
+      "url": "http://arxiv.org/abs/2603.24329v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24329v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-03-25T14:10:45+00:00",
+      "source": "arxiv",
+      "title_cn": "GameplayQA：一个用于评测 3D 虚拟智能体在决策密集、第一人称视角同步多视频场景下理解能力的基准框架",
+      "summary_cn": "随着多模态大模型被用于驱动 3D 环境中的智能体，如何评测其在复杂动态场景下的理解能力成为一个挑战。该研究提出了一个名为 GameplayQA 的新基准框架，通过第一人称视角同步的多视频问答，专门评估智能体对快速状态变化和多智能体行为的推理能力。",
+      "score": 9,
+      "significance": "该基准为评测和推动多模态大模型在复杂、动态 3D 环境中的感知与推理能力设定了新的标准，对机器人和虚拟智能体的发展至关重要。"
+    },
+    {
+      "title": "Samasāmayik: A Parallel Dataset for Hindi-Sanskrit Machine Translation",
+      "authors": [
+        "N J Karthika",
+        "Keerthana Suryanarayanan",
+        "Jahanvi Purohit",
+        "Ganesh Ramakrishnan",
+        "Jitin Singla"
+      ],
+      "abstract": "We release Samasāmayik, a novel, meticulously curated, large-scale Hindi-Sanskrit corpus, comprising 92,196 parallel sentences. Unlike most data available in Sanskrit, which focuses on classical era text and poetry, this corpus aggregates data from diverse sources covering contemporary materials, including spoken tutorials, children's magazines, radio conversations, and instruction materials. We benchmark this new dataset by fine-tuning three complementary models - ByT5, NLLB and IndicTrans-v2, to demonstrate its utility. Our experiments demonstrate that models trained on the Samasamayik corpus achieve significant performance gains on in-domain test data, while achieving comparable performance on other widely used test sets, establishing a strong new performance baseline for contemporary Hindi-Sanskrit translation. Furthermore, a comparative analysis against existing corpora reveals minimal semantic and lexical overlap, confirming the novelty and non-redundancy of our dataset as a robust new resource for low-resource Indic language MT.",
+      "url": "http://arxiv.org/abs/2603.24307v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24307v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-03-25T13:48:34+00:00",
+      "source": "arxiv",
+      "title_cn": "Samasāmayik：一个用于印地语-梵语机器翻译的平行数据集",
+      "summary_cn": "针对印地语与梵语之间机器翻译数据稀缺且多为古典文本的问题，该研究构建并发布了一个名为 Samasāmayik 的大规模平行语料库。该数据集包含超过 9 万个句子对，覆盖了现代题材，极大地丰富了该低资源语言对的训练数据。",
+      "score": 7,
+      "significance": "该数据集填补了现代梵语机器翻译资源的空白，为提升印地语-梵语互译模型的性能和研究提供了宝贵的基础。"
+    },
+    {
+      "title": "CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control",
+      "authors": [
+        "Yifeng Zhang",
+        "Harsh Goel",
+        "Peizhuo Li",
+        "Mehul Damani",
+        "Sandeep Chinchali"
+      ],
+      "abstract": "Adaptive traffic signal control (ATSC) is crucial in alleviating congestion, maximizing throughput and promoting sustainable mobility in ever-expanding cities. Multi-Agent Reinforcement Learning (MARL) has recently shown significant potential in addressing complex traffic dynamics, but the intricacies of partial observability and coordination in decentralized environments still remain key challenges in formulating scalable and efficient control strategies. To address these challenges, we present CoordLight, a MARL-based framework designed to improve intra-neighborhood traffic by enhancing decision-making at individual junctions (agents), as well as coordination with neighboring agents, thereby scaling up to network-level traffic optimization. Specifically, we introduce the Queue Dynamic State Encoding (QDSE), a novel state representation based on vehicle queuing models, which strengthens the agents' capability to analyze, predict, and respond to local traffic dynamics. We further propose an advanced MARL algorithm, named Neighbor-aware Policy Optimization (NAPO). It integrates an attention mechanism that discerns the state and action dependencies among adjacent agents, aiming to facilitate more coordinated decision-making, and to improve policy learning updates through robust advantage calculation. This enables agents to identify and prioritize crucial interactions with influential neighbors, thus enhancing the targeted coordination and collaboration among agents. Through comprehensive evaluations against state-of-the-art traffic signal control methods over three real-world traffic datasets composed of up to 196 intersections, we empirically show that CoordLight consistently exhibits superior performance across diverse traffic networks with varying traffic flows. The code is available at https://github.com/marmotlab/CoordLight",
+      "url": "http://arxiv.org/abs/2603.24366v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24366v1",
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ],
+      "published": "2026-03-25T14:46:31+00:00",
+      "source": "arxiv",
+      "title_cn": "CoordLight：学习去中心化协调以实现全网络交通信号控制",
+      "summary_cn": "为了缓解城市交通拥堵，该研究探索如何通过多智能体强化学习（MARL）实现交通信号灯的智能控制。研究者提出了一个名为 CoordLight 的去中心化协调框架，让各个路口的信号灯智能体能够自主学习并相互协调，从而优化整个交通网络的车流。",
+      "score": 8,
+      "significance": "这项工作为解决大规模城市交通信号控制问题提供了一种可扩展的去中心化智能方案，有望显著提升交通效率。"
+    },
+    {
+      "title": "Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Dogan Urgun",
+        "Gokhan Gungor"
+      ],
+      "abstract": "Designing effective auxiliary rewards for cooperative multi-agent systems remains a precarious task; misaligned incentives risk inducing suboptimal coordination, especially where sparse task feedback fails to provide sufficient grounding. This study introduces an automated reward design framework that leverages large language models to synthesize executable reward programs from environment instrumentation. The procedure constrains candidate programs within a formal validity envelope and evaluates their efficacy by training policies from scratch under a fixed computational budget; selection depends exclusively on the sparse task return. The framework is evaluated across four distinct Overcooked-AI layouts characterized by varied corridor congestion, handoff dependencies, and structural asymmetries. Iterative search generations consistently yield superior task returns and delivery counts, with the most pronounced gains occurring in environments dominated by interaction bottlenecks. Diagnostic analysis of the synthesized shaping components indicates increased interdependence in action selection and improved signal alignment in coordination-intensive tasks. These results demonstrate that the search for objectivegrounded reward programs can mitigate the burden of manual engineering while producing shaping signals compatible with cooperative learning under finite budgets.",
+      "url": "http://arxiv.org/abs/2603.24324v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24324v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "eess.SY"
+      ],
+      "published": "2026-03-25T14:05:59+00:00",
+      "source": "arxiv",
+      "title_cn": "大语言模型引导的激励感知奖励设计：应用于协作式多智能体强化学习",
+      "summary_cn": "在协作式多智能体强化学习中，设计有效的奖励函数是一大挑战。该研究提出一个自动化框架，利用大语言模型（LLM）来生成能够感知和引导智能体协作动机的辅助奖励，从而解决了稀疏奖励下难以有效学习协作策略的问题。",
+      "score": 9,
+      "significance": "该研究开创性地将大语言模型的推理能力用于自动化设计强化学习的奖励函数，为解决复杂的多智能体协作问题提供了强大的新工具。"
+    },
+    {
+      "title": "PP-OCRv5: A Specialized 5M-Parameter Model Rivaling Billion-Parameter Vision-Language Models on OCR Tasks",
+      "authors": [
+        "Cheng Cui",
+        "Yubo Zhang",
+        "Ting Sun",
+        "Xueqing Wang",
+        "Hongen Liu"
+      ],
+      "abstract": "The advent of \"OCR 2.0\" and large-scale vision-language models (VLMs) has set new benchmarks in text recognition. However, these unified architectures often come with significant computational demands, challenges in precise text localization within complex layouts, and a propensity for textual hallucinations. Revisiting the prevailing notion that model scale is the sole path to high accuracy, this paper introduces PP-OCRv5, a meticulously optimized, lightweight OCR system with merely 5 million parameters. We demonstrate that PP-OCRv5 achieves performance competitive with many billion-parameter VLMs on standard OCR benchmarks, while offering superior localization precision and reduced hallucinations. The cornerstone of our success lies not in architectural expansion but in a data-centric investigation. We systematically dissect the role of training data by quantifying three critical dimensions: data difficulty, data accuracy, and data diversity. Our extensive experiments reveal that with a sufficient volume of high-quality, accurately labeled, and diverse data, the performance ceiling for traditional, efficient two-stage OCR pipelines is far higher than commonly assumed. This work provides compelling evidence for the viability of lightweight, specialized models in the large-model era and offers practical insights into data curation for OCR. The source code and models are publicly available at https://github.com/PaddlePaddle/PaddleOCR.",
+      "url": "http://arxiv.org/abs/2603.24373v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24373v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-25T14:54:40+00:00",
+      "source": "arxiv",
+      "title_cn": "PP-OCRv5：一个参数量仅 5M、在 OCR 任务上媲美十亿级视觉语言模型的专用模型",
+      "summary_cn": "针对大型视觉语言模型在光学字符识别（OCR）任务中计算成本高、定位不准等问题，该研究开发了一款名为 PP-OCRv5 的轻量化专用模型。该模型仅有 500 万参数，但在 OCR 任务上的表现却能与十亿参数量的大模型相媲美，实现了高效与高性能的统一。",
+      "score": 9,
+      "significance": "这项工作证明了精心设计的轻量化专用模型在特定任务上可以超越或媲美通用大模型，为追求高效费比的 AI 应用提供了重要范例。"
+    },
+    {
+      "title": "Language-Guided Structure-Aware Network for Camouflaged Object Detection",
+      "authors": [
+        "Min Zhang"
+      ],
+      "abstract": "Camouflaged Object Detection (COD) aims to segment objects that are highly integrated with the background in terms of color, texture, and structure, making it a highly challenging task in computer vision. Although existing methods introduce multi-scale fusion and attention mechanisms to alleviate the above issues, they generally lack the guidance of textual semantic priors, which limits the model's ability to focus on camouflaged regions in complex scenes. To address this issue, this paper proposes a Language-Guided Structure-Aware Network (LGSAN). Specifically, based on the visual backbone PVT-v2, we introduce CLIP to generate masks from text prompts and RGB images, thereby guiding the multi-scale features extracted by PVT-v2 to focus on potential target regions. On this foundation, we further design a Fourier Edge Enhancement Module (FEEM), which integrates multi-scale features with high-frequency information in the frequency domain to extract edge enhancement features. Furthermore, we propose a Structure-Aware Attention Module (SAAM) to effectively enhance the model's perception of object structures and boundaries. Finally, we introduce a Coarse-Guided Local Refinement Module (CGLRM) to enhance fine-grained reconstruction and boundary integrity of camouflaged object regions. Extensive experiments demonstrate that our method consistently achieves highly competitive performance across multiple COD datasets, validating its effectiveness and robustness.",
+      "url": "http://arxiv.org/abs/2603.24355v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24355v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-03-25T14:37:44+00:00",
+      "source": "arxiv",
+      "title_cn": "语言引导的结构感知网络：用于伪装目标检测",
+      "summary_cn": "伪装目标检测因目标与背景高度融合而极具挑战性。该研究提出一种新方法，通过引入自然语言描述作为引导，帮助模型更好地感知和理解物体的细微结构差异，从而更准确地从复杂的背景中分割出伪装目标。",
+      "score": 8,
+      "significance": "该研究展示了多模态（视觉+语言）方法在解决传统计算机视觉难题上的潜力，为高难度的目标检测任务开辟了新思路。"
+    },
+    {
+      "title": "Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens",
+      "authors": [
+        "Ciem Cornelissen",
+        "Sam Leroux",
+        "Pieter Simoens"
+      ],
+      "abstract": "Self-supervised learning has emerged as a powerful paradigm for learning visual representations without manual annotations, yet most methods still operate on a single modality and therefore miss the complementary structure available from heterogeneous sensors. We present Le MuMo JEPA, a self-supervised framework that learns unified representations from RGB images and aligned companion modalities. In our driving experiments, the second modality is camera-aligned LiDAR depth; we also evaluate RGB-thermal training and transfer on the Teledyne FLIR ADAS benchmark. Our approach extends LeJEPA to the multi-modal setting by learning fusion tokens that act as a latent bottleneck between modality-specific patch stems inside a shared transformer. Our default model employs a pruned fusion strategy: after an initial cross-modal attention layer, modality-specific tokens are dropped, forcing cross-modal information into the shared fusion-token grid as an efficient latent bottleneck before Sketched Isotropic Gaussian Regularization (SIGReg) is applied to the joint multimodal CLS embedding. On Waymo, Le MuMo JEPA gives the strongest performance-efficiency trade-off on downstream patch probes among the from-scratch multimodal baselines, improving CenterNet detection and dense depth while remaining competitive on segmentation. Under from-scratch training on nuScenes, Le MuMo JEPA remains the strongest model, and it also gives the best FLIR results, especially after Waymo-initialized fine-tuning. It also retains the best overall accuracy-efficiency balance in our study at substantially lower compute, memory, and estimated training time.",
+      "url": "http://arxiv.org/abs/2603.24327v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24327v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-25T14:09:59+00:00",
+      "source": "arxiv",
+      "title_cn": "Le MuMo JEPA：一种基于可学习融合令牌的多模态自监督表示学习方法",
+      "summary_cn": "现有的自监督学习大多局限于单一模态，无法利用多源传感器的互补信息。该研究提出了一种名为 Le MuMo JEPA 的多模态自监督学习框架，通过引入创新的“可学习融合令牌”，让模型能自动学习如何有效融合不同模态的数据，从而获得更丰富的特征表示。",
+      "score": 9,
+      "significance": "这项工作将前沿的自监督学习架构（JEPA）扩展到多模态领域，为从未标注的多源数据中学习通用、强大的特征表示提供了新的有效途径。"
+    },
+    {
+      "title": "Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing",
+      "authors": [
+        "Cheng Cui",
+        "Ting Sun",
+        "Suyin Liang",
+        "Tingquan Gao",
+        "Zelun Zhang"
+      ],
+      "abstract": "Document parsing is a fine-grained task where image resolution significantly impacts performance. While advanced research leveraging vision-language models benefits from high-resolution input to boost model performance, this often leads to a quadratic increase in the number of vision tokens and significantly raises computational costs. We attribute this inefficiency to substantial visual regions redundancy in document images, like background. To tackle this, we propose PaddleOCR-VL, a novel coarse-to-fine architecture that focuses on semantically relevant regions while suppressing redundant ones, thereby improving both efficiency and performance. Specifically, we introduce a lightweight Valid Region Focus Module (VRFM) which leverages localization and contextual relationship prediction capabilities to identify valid vision tokens. Subsequently, we design and train a compact yet powerful 0.9B vision-language model (PaddleOCR-VL-0.9B) to perform detailed recognition, guided by VRFM outputs to avoid direct processing of the entire large image. Extensive experiments demonstrate that PaddleOCR-VL achieves state-of-the-art performance in both page-level parsing and element-level recognition. It significantly outperforms existing solutions, exhibits strong competitiveness against top-tier VLMs, and delivers fast inference while utilizing substantially fewer vision tokens and parameters, highlighting the effectiveness of targeted coarse-to-fine parsing for accurate and efficient document understanding. The source code and models are publicly available at https://github.com/PaddlePaddle/PaddleOCR.",
+      "url": "http://arxiv.org/abs/2603.24326v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24326v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.IR"
+      ],
+      "published": "2026-03-25T14:08:56+00:00",
+      "source": "arxiv",
+      "title_cn": "通过由粗到精的视觉处理提升文档解析的效率与性能",
+      "summary_cn": "在文档解析任务中，使用高分辨率图像能提升模型性能，但会带来巨大的计算开销。该研究提出一种“由粗到精”的处理策略，模型首先快速处理低分辨率全图以掌握整体布局，再聚焦于关键区域进行高分辨率精细解析，从而在提升性能的同时大幅降低了计算成本。",
+      "score": 9,
+      "significance": "该方法为处理高分辨率图像的视觉语言模型提供了一个通用且高效的加速方案，对文档智能及其他需要精细视觉感知的领域具有重要价值。"
+    },
+    {
+      "title": "Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions",
+      "authors": [
+        "Shiqin Wang",
+        "Haoyang Chen",
+        "Huaizhou Huang",
+        "Yinkan He",
+        "Dongfang Sun"
+      ],
+      "abstract": "The learning order of semantic classes significantly impacts unsupervised domain adaptation for semantic segmentation, especially under adverse weather conditions. Most existing curricula rely on handcrafted heuristics (e.g., fixed uncertainty metrics) and follow a static schedule, which fails to adapt to a model's evolving, high-dimensional training dynamics, leading to category bias. Inspired by Reinforcement Learning, we cast curriculum learning as a sequential decision problem and propose an autonomous class scheduler. This scheduler consists of two components: (i) a high-dimensional state encoder that maps the model's training status into a latent space and distills key features indicative of progress, and (ii) a category-fair policy-gradient objective that ensures balanced improvement across classes. Coupled with mixed source-target supervision, the learned class rankings direct the network's focus to the most informative classes at each stage, enabling more adaptive and dynamic learning. It is worth noting that our method achieves state-of-the-art performance on three widely used benchmarks (e.g., ACDC, Dark Zurich, and Nighttime Driving) and shows generalization ability in synthetic-to-real semantic segmentation.",
+      "url": "http://arxiv.org/abs/2603.24322v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24322v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-25T14:01:55+00:00",
+      "source": "arxiv",
+      "title_cn": "启发式自步学习：用于恶劣条件下的领域自适应语义分割",
+      "summary_cn": "在无监督领域自适应任务中（如模型从晴天图像适应到雨天图像），学习不同类别物体的顺序会影响最终效果。该研究提出一种“启发式自步学习”方法，让模型能够根据自身的学习进度动态地、由易到难地安排学习内容，从而在恶劣天气等挑战性场景下取得了更好的分割效果。",
+      "score": 8,
+      "significance": "该研究将课程学习从静态调度推向动态自适应，为解决计算机视觉中的领域漂移问题（尤其是在自动驾驶等安全关键领域）提供了更智能的学习策略。"
+    },
+    {
+      "title": "Refining time-space traffic diagrams: A neighborhood-adaptive linear regression method",
+      "authors": [
+        "Zhihong Yao",
+        "Yi Yu",
+        "Yunxia Wu",
+        "Hao Li",
+        "Yangsheng Jiang"
+      ],
+      "abstract": "The time-space (TS) traffic diagram serves as a crucial tool for characterizing the dynamic evolution of traffic flow, with its resolution directly influencing the effectiveness of traffic theory research and engineering applications. However, constrained by monitoring precision and sampling frequency, existing TS traffic diagrams commonly suffer from low resolution. To address this issue, this paper proposes a refinement method for TS traffic diagrams based on neighborhood-adaptive linear regression. Introducing the concept of neighborhood embedding into TS diagram refinement, the method leverages local pattern similarity in TS diagrams, adaptively identifies neighborhoods similar to target cells, and fits the low-to-high resolution mapping within these neighborhoods for refinement. It avoids the over-smoothing tendency of the traditional global linear model, allows the capture of unique traffic wave propagation and congestion evolution characteristics, and outperforms the traditional neighborhood embedding method in terms of local information utilization to achieve target cell refinement. Validation on two real datasets across multiple scales and upscaling factors shows that, compared to benchmark methods, the proposed method achieves improvements of 9.16%, 8.16%, 1.86%, 3.89%, and 5.83% in metrics including MAE, MAPE, CMJS, SSIM, and GMSD, respectively. Furthermore, the proposed method exhibits strong generalization and robustness in cross-day and cross-scenario validations. In summary, requiring only a minimal amount of paired high- and low-resolution training data, the proposed method features a concise formulation, providing a foundation for the low-cost, fine-grained refinement of low-sampling-rate traffic data.",
+      "url": "http://arxiv.org/abs/2603.24312v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24312v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-03-25T13:51:34+00:00",
+      "source": "arxiv",
+      "title_cn": "优化时空交通图：一种邻域自适应线性回归方法",
+      "summary_cn": "时空交通图是分析交通流动态演变的关键工具，但其分辨率常受限于监测设备精度。该研究提出一种“邻域自适应线性回归”方法，利用交通流的局部时空关联性来智能地重建和增强时空图的分辨率，从而为交通研究提供更精细的数据基础。",
+      "score": 7,
+      "significance": "这项工作为提升交通流数据的质量和分辨率提供了一种有效的计算工具，有助于更精确地分析和理解复杂的交通现象。"
+    },
+    {
+      "title": "Adaptive decision-making for stochastic service network design",
+      "authors": [
+        "Javier Duran Micco",
+        "Bilge Atasoy"
+      ],
+      "abstract": "This paper addresses the Service Network Design (SND) problem for a logistics service provider (LSP) operating in a multimodal freight transport network, considering uncertain travel times and limited truck fleet availability. A two-stage optimization approach is proposed, which combines metaheuristics, simulation and machine learning components. This solution framework integrates tactical decisions, such as transport request acceptance and capacity booking for scheduled services, with operational decisions, including dynamic truck allocation, routing, and re-planning in response to disruptions. A simulated annealing (SA) metaheuristic is employed to solve the tactical problem, supported by an adaptive surrogate model trained using a discrete-event simulation model that captures operational complexities and cascading effects of uncertain travel times. The performance of the proposed method is evaluated using benchmark instances. First, the SA is tested on a deterministic version of the problem and compared to state-of-the-art results, demonstrating it can improve the solution quality and significantly reduce the computational time. Then, the proposed SA is applied to the more complex stochastic problem. Compared to a benchmark algorithm that executes a full simulation for each solution evaluation, the learning-based SA generates high quality solutions while significantly reducing computational effort, achieving only a 5% difference in objective function value while cutting computation time by up to 20 times. These results demonstrate the strong performance of the proposed algorithm in solving complex versions of the SND. Moreover, they highlight the effectiveness of integrating diverse modeling and optimization techniques, and the potential of such approaches to efficiently address freight transport planning challenges.",
+      "url": "http://arxiv.org/abs/2603.24369v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24369v1",
+      "categories": [
+        "math.OC",
+        "cs.LG"
+      ],
+      "published": "2026-03-25T14:51:57+00:00",
+      "source": "arxiv",
+      "title_cn": "随机服务网络设计中的自适应决策",
+      "summary_cn": "该研究旨在解决物流服务网络设计中的不确定性问题，如运输时间波动和车队可用性有限。研究者提出一个两阶段优化方法，该方法能够进行自适应决策，在规划阶段就考虑未来的各种不确定性，从而设计出更具鲁棒性和经济性的物流网络。",
+      "score": 7,
+      "significance": "该研究为在充满不确定性的现实世界中设计高效的物流网络提供了先进的优化模型，对提升供应链的韧性和效率具有直接的商业价值。"
+    },
+    {
+      "title": "LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control",
+      "authors": [
+        "Yifeng Zhang",
+        "Peizhuo Li",
+        "Tingguang Zhou",
+        "Mingfeng Fan",
+        "Guillaume Sartoretti"
+      ],
+      "abstract": "Adaptive Traffic Signal Control (ATSC) aims to optimize traffic flow and minimize delays by adjusting traffic lights in real time. Recent advances in Multi-agent Reinforcement Learning (MARL) have shown promise for ATSC, yet existing approaches still suffer from limited representational capacity, often leading to suboptimal performance and poor generalization in complex and dynamic traffic environments. On the other hand, Large Language Models (LLMs) excel at semantic representation, reasoning, and analysis, yet their propensity for hallucination and slow inference speeds often hinder their direct application to decision-making tasks. To address these challenges, we propose a novel learning paradigm named LATS that integrates LLMs and MARL, leveraging the former's strong prior knowledge and inductive abilities to enhance the latter's decision-making process. Specifically, we introduce a plug-and-play teacher-student learning module, where a trained embedding LLM serves as a teacher to generate rich semantic features that capture each intersection's topology structures and traffic dynamics. A much simpler (student) neural network then learns to emulate these features through knowledge distillation in the latent space, enabling the final model to operate independently from the LLM for downstream use in the RL decision-making process. This integration significantly enhances the overall model's representational capacity across diverse traffic scenarios, thus leading to more efficient and generalizable control strategies. Extensive experiments across diverse traffic datasets empirically demonstrate that our method enhances the representation learning capability of RL models, thereby leading to improved overall performance and generalization over both traditional RL and LLM-only approaches. [...]",
+      "url": "http://arxiv.org/abs/2603.24361v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24361v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-03-25T14:42:32+00:00",
+      "source": "arxiv",
+      "title_cn": "LATS：一个用于交通信号控制中多智能体强化学习的大语言模型辅助师生框架",
+      "summary_cn": "针对现有交通信号控制方法在复杂场景下推理能力不足的问题，该研究提出了一个名为 LATS 的师生学习框架。该框架利用大语言模型（LLM）作为“教师”进行分析和推理，并指导部署在各个路口的轻量级“学生”智能体执行更优的控制策略。",
+      "score": 9,
+      "significance": "该工作巧妙地将大语言模型的宏观规划能力与强化学习的实时决策能力相结合，为解决复杂的现实世界控制问题（如交通管理）提供了一个全新的、更强大的范式。"
+    },
+    {
+      "title": "A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection",
+      "authors": [
+        "Mohammadreza Jamalifard",
+        "Yaxiong Lei",
+        "Parasto Azizinezhad",
+        "Javier Fumanal-Idocin",
+        "Javier Andreu-Perez"
+      ],
+      "abstract": "We propose a neuro-symbolic architecture that learns four interpretable physiological concepts, oculomotor dynamics, gaze stability, prefrontal hemodynamics, and multimodal, from eye-tracking and neural hemodynamics, functional near-infrared spectroscopy, (fNIRS) windows using attention-based encoders, and combines them with differentiable approximate reasoning rules using learned weights and soft thresholds, to address both rigid hand-crafted rules and the lack of subject-level alignment diagnostics. We apply this system to fatigue classification from multimodal physiological signals, a domain that requires models that are accurate and interpretable, with internal reasoning that can be inspected for safety-critical use. In leave-one-subject-out evaluation on 18 participants (560 samples), the method achieves 72.1% +/- 12.3% accuracy, comparable to tuned baselines while exposing concept activations and rule firing strengths. Ablations indicate gains from participant-specific calibration (+5.2 pp), a modest drop without the fNIRS concept (-1.2 pp), and slightly better performance with Lukasiewicz operators than product (+0.9 pp). We also introduce concept fidelity, an offline per-subject audit metric from held-out labels, which correlates strongly with per-subject accuracy (r=0.843, p < 0.0001).",
+      "url": "http://arxiv.org/abs/2603.24358v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24358v1",
+      "categories": [
+        "cs.HC",
+        "cs.LG"
+      ],
+      "published": "2026-03-25T14:41:02+00:00",
+      "source": "arxiv",
+      "title_cn": "一个用于可解释多模态生理信号融合的人类疲劳检测神经符号系统",
+      "summary_cn": "为了在检测人类疲劳时兼顾准确性与可解释性，该研究设计了一个神经符号系统。该系统首先从眼动和脑功能近红外光谱（fNIRS）等信号中学习出可解释的生理学概念，然后基于这些概念进行符号推理，最终做出既准确又易于理解的疲劳判断。",
+      "score": 9,
+      "significance": "该研究为融合多模态生理信号并提供可解释的决策依据提供了一个范例，推动了可信赖 AI 在健康监测和人机交互领域的应用。"
+    },
+    {
+      "title": "A Sensorless, Inherently Compliant Anthropomorphic Musculoskeletal Hand Driven by Electrohydraulic Actuators",
+      "authors": [
+        "Misato Sonoda",
+        "Ronan Hinchet",
+        "Amirhossein Kazemipour",
+        "Yasunori Toshimitsu",
+        "Robert K. Katzschmann"
+      ],
+      "abstract": "Robotic manipulation in unstructured environments requires end-effectors that combine high kinematic dexterity with physical compliance. While traditional rigid hands rely on complex external sensors for safe interaction, electrohydraulic actuators offer a promising alternative. This paper presents the design, control, and evaluation of a novel musculoskeletal robotic hand architecture powered entirely by remote Peano-HASEL actuators, specifically optimized for safe manipulation. By relocating the actuators to the forearm, we functionally isolate the grasping interface from electrical hazards while maintaining a slim, human-like profile. To address the inherently limited linear contraction of these soft actuators, we integrate a 1:2 pulley routing mechanism that mechanically amplifies tendon displacement. The resulting system prioritizes compliant interaction over high payload capacity, leveraging the intrinsic force-limiting characteristics of the actuators to provide a high level of inherent safety. Furthermore, this physical safety is augmented by the self-sensing nature of the HASEL actuators. By simply monitoring the operating current, we achieve real-time grasp detection and closed-loop contact-aware control without relying on external force transducers or encoders. Experimental results validate the system's dexterity and inherent safety, demonstrating the successful execution of various grasp taxonomies and the non-destructive grasping of highly fragile objects, such as a paper balloon. These findings highlight a significant step toward simplified, inherently compliant soft robotic manipulation.",
+      "url": "http://arxiv.org/abs/2603.24357v1",
+      "pdf_url": "https://arxiv.org/pdf/2603.24357v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-03-25T14:40:49+00:00",
+      "source": "arxiv",
+      "title_cn": "一款由电液驱动、无传感器、本质柔顺的拟人化肌肉骨骼机械手",
+      "summary_cn": "为了让机械手兼具灵巧性和与环境交互的安全性，该研究设计并展示了一款新型的拟人化机械手。该机械手采用肌肉骨骼结构和新颖的电液驱动器，使其无需复杂的外部传感器就能实现“本质柔顺”（即物理上的柔软和安全），在与物体或人交互时更加安全可靠。",
+      "score": 10,
+      "significance": "这项工作在机器人硬件设计上取得了重大进展，其本质柔顺的设计理念为开发能够安全地在非结构化环境中与人协作的下一代机器人铺平了道路。"
+    }
+  ]
+}
