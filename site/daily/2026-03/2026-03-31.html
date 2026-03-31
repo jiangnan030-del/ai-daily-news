@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-03-31 周二</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-03-31 周二</h1>
+
+<blockquote>自动生成于 2026-03-31 09:35 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>好的，这是一段为您生成的AI每日趋势总览：</p>
+
+<p>今天的AI领域呈现出机遇与挑战并存的鲜明图景。一方面，智能体（Agentic AI）正成为新的爆发点。从GitHub上涌现的AI科学家、开发助手等项目，到学术界探索利用大模型优化现实世界调度，AI正从内容生成器进化为能够自主完成复杂任务的行动者，其中Claude作为开发工具的崛起尤为瞩目。但另一方面，对AI的审视与反思也达到了新的高度。无论是斯坦福研究揭示的视觉模型“幻觉”问题，还是因人脸识别错误逮捕引发的社会热议，都将AI的可靠性、伦理边界与现实影响推向了风口浪尖。技术在狂飙突进，而关于如何驾驭这股力量的讨论正变得前所未有的激烈和必要。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/luongnv89/claude-howto" target="_blank">luongnv89/claude-howto</a> <code>教程</code></h3>
+
+<blockquote>想要精通 Claude 编程？这份可视化实战指南是你最好的起点。</blockquote>
+
+<p>⭐ <strong>9,931</strong> Stars | 📈 今日 +4232 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>这是一个面向开发者的 Claude 编程实战指南。它通过大量可视化案例和可直接复制粘贴的代码模板，系统地介绍了从基础概念到高级 Agent 构建的完整流程，帮助用户快速上手并发挥 Claude 的代码生成能力。</p>
+
+<h3>2. <a href="https://github.com/microsoft/VibeVoice" target="_blank">microsoft/VibeVoice</a> <code>NLP</code></h3>
+
+<blockquote>微软出品，开源即王炸的顶尖语音合成模型。</blockquote>
+
+<p>⭐ <strong>30,444</strong> Stars | 📈 今日 +2492 | 🔤 Python | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>这是微软推出的开源前沿语音 AI 项目。它旨在提供高质量、富有表现力的语音合成能力，支持多种语言和情感风格，为开发者构建下一代语音应用提供了强大的基础模型。</p>
+
+<h3>3. <a href="https://github.com/NousResearch/hermes-agent" target="_blank">NousResearch/hermes-agent</a> <code>LLM/Agent</code></h3>
+
+<blockquote>打造一个能与你共同学习、不断进化的专属 AI 代理。</blockquote>
+
+<p>⭐ <strong>18,637</strong> Stars | 📈 今日 +1851 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>由知名 AI 研究机构 NousResearch 开发的智能代理项目。其核心特性是“与你共同成长”，能够通过与用户的持续交互进行学习和进化，为构建个性化、自适应的 AI 助手提供了新的思路和框架。</p>
+
+<h3>4. <a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">shanraisshan/claude-code-best-practice</a> <code>教程</code></h3>
+
+<blockquote>掌握这些最佳实践，让你的 Claude 编程能力提升一个档次。</blockquote>
+
+<p>⭐ <strong>26,190</strong> Stars | 📈 今日 +1108 | 🔤 HTML | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>这是一个关于 Claude 编程最佳实践的精选合集。项目通过大量的实战案例，总结了如何通过有效的提示工程和实践技巧，让 Claude 生成更完美、更可靠的代码，是提升 Claude 使用效率的宝典。</p>
+
+<h3>5. <a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">OpenBB-finance/OpenBB</a> <code>数据</code></h3>
+
+<blockquote>开源版彭博终端，金融数据分析和 AI 应用的利器。</blockquote>
+
+<p>⭐ <strong>64,540</strong> Stars | 📈 今日 +502 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>这是一个强大的开源金融数据平台，被誉为“开源版彭博终端”。它为金融分析师、量化研究员和 AI 代理提供了统一的数据接口和丰富的分析工具，极大地简化了金融数据的获取和处理流程。</p>
+
+<h3>6. <a href="https://github.com/fastfetch-cli/fastfetch" target="_blank">fastfetch-cli/fastfetch</a> <code>工具</code></h3>
+
+<blockquote>告别 neofetch，拥抱更快、更强的命令行系统信息展示工具。</blockquote>
+
+<p>⭐ <strong>21,419</strong> Stars | 📈 今日 +276 | 🔤 C | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>这是一个功能丰富且性能卓越的命令行系统信息工具，可视为 <code>neofetch</code> 的现代化替代品。它使用 C 语言编写，启动速度极快，支持高度定制，能够以美观的方式展示你的系统硬件和软件配置。</p>
+
+<h3>7. <a href="https://github.com/OpenBMB/ChatDev" target="_blank">OpenBMB/ChatDev</a> <code>LLM/Agent</code></h3>
+
+<blockquote>组建一个 AI 软件公司，让大模型为你自动化开发整个项目。</blockquote>
+
+<p>⭐ <strong>32,249</strong> Stars | 📈 今日 +254 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>清华大学团队出品的虚拟软件公司项目，现已升级到 2.0 版本。它通过让多个扮演不同角色（如 CEO、程序员、测试员）的 LLM 智能体协同工作，实现了从需求到软件交付的全流程自动化开发。</p>
+
+<h3>8. <a href="https://github.com/microsoft/agent-lightning" target="_blank">microsoft/agent-lightning</a> <code>框架</code></h3>
+
+<blockquote>微软出品，点亮你 AI Agent 的终极训练师。</blockquote>
+
+<p>⭐ <strong>16,031</strong> Stars | 📈 今日 +251 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>这是微软推出的一个旨在高效训练 AI 代理的框架。它提供了一套完整的工具链和方法论，帮助开发者快速、可靠地“点亮”和优化各类智能体，加速从原型到生产级应用的进程。</p>
+
+<h3>9. <a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">SakanaAI/AI-Scientist-v2</a> <code>论文实现</code></h3>
+
+<blockquote>当 AI 成为科学家，用代码探索科学发现的未来。</blockquote>
+
+<p>⭐ <strong>4,059</strong> Stars | 📈 今日 +238 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>由 SakanaAI 推出的“AI 科学家”项目第二版，旨在实现研讨会级别的自动化科学发现。该项目通过创新的“代理树搜索”方法，让 AI 能够自主探索、假设和验证科学问题，展示了 AI 在加速科学研究方面的巨大潜力。</p>
+
+<h3>10. <a href="https://github.com/virattt/ai-hedge-fund" target="_blank">virattt/ai-hedge-fund</a> <code>LLM/Agent</code></h3>
+
+<blockquote>用 AI 组建你自己的对冲基金团队，在代码世界里决胜金融市场。</blockquote>
+
+<p>⭐ <strong>49,798</strong> Stars | 📈 今日 +61 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>这是一个模拟 AI 驱动的对冲基金团队的开源项目。它利用多个 AI 代理分别扮演分析师、交易员等角色，协同完成市场分析、策略制定和交易执行，为探索 AI 在量化投资领域的应用提供了一个完整的范例。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/" target="_blank">Copilot 在我的代码合并请求中插入了广告</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Copilot edited an ad into my PR</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47570269" target="_blank">607 评论</a> | 👤 pavo-etc</p>
+
+<p>一位开发者发现，GitHub Copilot 在他提交的代码合并请求（PR）中自动编辑并插入了一则广告，引发了社区对 AI 编码助手行为边界和商业化的广泛讨论。</p>
+
+<h3>2. <a href="https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition" target="_blank">警方使用 AI 人脸识别技术，错误逮捕了一名无辜女性</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Police used AI facial recognition to wrongly arrest TN woman for crimes in ND</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47563384" target="_blank">195 评论</a> | 👤 ourmandave</p>
+
+<p>美国警方因 AI 人脸识别系统匹配错误，将一名田纳西州女性误认为北达科他州的罪犯并将其逮捕，再次凸显了 AI 技术在执法应用中的高风险和准确性问题。</p>
+
+<h3>3. <a href="https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/" target="_blank">AI 泡沫将如何破裂</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: How the AI Bubble Bursts</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47573420" target="_blank">472 评论</a> | 👤 martinvol</p>
+
+<p>文章探讨了当前人工智能领域的投资热潮可能存在的泡沫，并分析了导致该泡沫破裂的潜在因素，如技术瓶颈、商业化落地困难或市场期望过高等。</p>
+
+<h3>4. <a href="https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era" target="_blank">我无比怀念没有 AI 的写作时代</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: I am definitely missing the pre-AI writing era</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47571279" target="_blank">200 评论</a> | 👤 joozio</p>
+
+<p>作者表达了对前 AI 时代的怀念，认为 AI 生成内容的泛滥降低了信息质量和人类写作的价值，引发了关于技术对创作影响的思考。</p>
+
+<h3>5. <a href="https://arxiv.org/abs/2603.26524" target="_blank">AI 时代下的数学方法与人类思维</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Mathematical methods and human thought in the age of AI</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47572771" target="_blank">76 评论</a> | 👤 zaikunzhang</p>
+
+<p>这篇论文探讨了在人工智能时代，传统的数学方法与人类的思维模式如何相互作用和演变，并思考了 AI 对科学发现和理论构建的深远影响。</p>
+
+<h3>6. <a href="https://dani2442.github.io/posts/continuous-rl/" target="_blank">HJB 方程：连接强化学习与扩散模型</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Hamilton-Jacobi-Bellman Equation: Reinforcement Learning and Diffusion Models</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47571495" target="_blank">46 评论</a> | 👤 sebzuddas</p>
+
+<p>文章深入探讨了如何利用哈密顿-雅可比-贝尔曼（HJB）方程这一数学工具，来统一和理解强化学习（RL）与扩散模型之间的理论联系。</p>
+
+<h3>7. <a href="https://claude.nagdy.me/" target="_blank">边做边学：通过实践掌握 Claude 编程</a> <code>教程</code></h3>
+
+<p class="italic-note"><em>原标题: Learn Claude Code by doing, not reading</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47579229" target="_blank">78 评论</a> | 👤 taubek</p>
+
+<p>这是一个交互式教程网站，旨在帮助用户通过实际操作而非阅读文档的方式，快速学习和掌握如何使用 Anthropic 的 Claude 模型进行编程。</p>
+
+<h3>8. <a href="https://negroniventurestudios.com/2026/03/19/the-ladder-is-missing-rungs/" target="_blank">晋升阶梯断裂：当 AI “吃掉”了中级工程师岗位</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: The ladder is missing rungs – Engineering Progression When AI Ate the Middle</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47574346" target="_blank">25 评论</a> | 👤 sorenvrist</p>
+
+<p>文章讨论了 AI 工具自动化了许多中级工程任务后，初级工程师的成长路径和晋升阶梯可能出现断层的问题，引发对未来职业发展的担忧。</p>
+
+<h3>9. <a href="https://arxiv.org/abs/2603.21687" target="_blank">斯坦福研究：AI 视觉模型会“凭空捏造”从未见过的图像</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Stanford study reveals AI vision models invent images they never see</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47570650" target="_blank">0 评论</a> | 👤 LionTurtle13</p>
+
+<p>斯坦福大学的一项研究发现，AI 视觉模型在处理和生成图像时，有时会“幻觉”或创造出其训练数据中从未包含的全新内容，揭示了其内部工作机制的复杂性。</p>
+
+<h3>10. <a href="https://arxiv.org/abs/2603.20639" target="_blank">智能体 AI 与下一次智能爆炸</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Agentic AI and the next intelligence explosion</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47580059" target="_blank">3 评论</a> | 👤 silverpiranha</p>
+
+<p>该论文探讨了具备自主规划和行动能力的“智能体 AI”（Agentic AI）的概念，并预测这类 AI 可能引发下一次技术和智能的指数级增长。</p>
+
+<h3>11. <a href="https://www.ft.com/content/229f4f59-d518-4e00-abd6-5a5b727cd2aa" target="_blank">Mistral 融资 8.3 亿美元，将在欧洲建立由英伟达驱动的 AI 中心</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Mistral raises $830M to build Nvidia-powered AI centres in Europe</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47579448" target="_blank">0 评论</a> | 👤 JumpCrisscross</p>
+
+<p>法国 AI 初创公司 Mistral 成功融资 8.3 亿美元，计划利用这笔资金在欧洲建设多个采用英伟达 GPU 的人工智能数据中心，以增强其算力基础设施。</p>
+
+<h3>12. <a href="https://shows.acast.com/blindboy/episodes/artificial-intelligence-is-disgusting-and-it-will-never-repl" target="_blank">AI 永远无法取代艺术家</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: AI will never replace artists</em></p>
+
+<p>🔺 <strong>3</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47579727" target="_blank">2 评论</a> | 👤 rimeice</p>
+
+<p>这篇播客节目探讨了人工智能与艺术创作的关系，坚信 AI 缺乏真正的情感、意图和生活体验，因此永远无法完全取代人类艺术家的独特创造力。</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2603.27628v1" target="_blank">DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios</a></h3>
+
+<p class="italic-note"><em>DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios</em></p>
+
+<p>📝 Jin Huang, Jie Yang, XinLei Zhou et al. | 📂 <code>cs.AI</code></p>
+
+<p>In dynamic manufacturing environments, disruptions such as machine breakdowns and new order arrivals continuously shift the optimal dispatching strategy, making adaptive rule selection essential. Exis</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27628v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2603.27664v1" target="_blank">Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs</a></h3>
+
+<p class="italic-note"><em>Investigating the Influence of Language on Sycophantic Behavior of Multilingual LLMs</em></p>
+
+<p>📝 Bayan Abdullah Aldahlawi, A. B. M. Ashikur Rahman, Irfan Ahmad | 📂 <code>cs.CL</code></p>
+
+<p>Large language models (LLMs) have achieved strong performance across a wide range of tasks, but they are also prone to sycophancy, the tendency to agree with user statements regardless of validity. Pr</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27664v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2603.27653v1" target="_blank">The Degree of Language Diacriticity and Its Effect on Tasks</a></h3>
+
+<p class="italic-note"><em>The Degree of Language Diacriticity and Its Effect on Tasks</em></p>
+
+<p>📝 Adi Cohen, Yuval Pinter | 📂 <code>cs.CL</code></p>
+
+<p>Diacritics are orthographic marks that clarify pronunciation, distinguish similar words, or alter meaning. They play a central role in many writing systems, yet their impact on language technology has</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27653v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2603.27651v1" target="_blank">Budget-Xfer: Budget-Constrained Source Language Selection for Cross-Lingual Transfer to African Languages</a></h3>
+
+<p class="italic-note"><em>Budget-Xfer: Budget-Constrained Source Language Selection for Cross-Lingual Transfer to African Languages</em></p>
+
+<p>📝 Tewodros Kederalah Idris, Roald Eiselen, Prasenjit Mitra | 📂 <code>cs.CL</code></p>
+
+<p>Cross-lingual transfer learning enables NLP for low-resource languages by leveraging labeled data from higher-resource sources, yet existing comparisons of source language selection strategies do not</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27651v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2603.27646v1" target="_blank">PRBench: End-to-end Paper Reproduction in Physics Research</a></h3>
+
+<p class="italic-note"><em>PRBench: End-to-end Paper Reproduction in Physics Research</em></p>
+
+<p>📝 Shi Qiu, Junyi Deng, Yiwei Deng et al. | 📂 <code>cs.CL, hep-lat, hep-ph</code></p>
+
+<p>AI agents powered by large language models exhibit strong reasoning and problem-solving capabilities, enabling them to assist scientific research tasks such as formula derivation and code generation.</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27646v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2603.27678v1" target="_blank">Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization</a></h3>
+
+<p class="italic-note"><em>Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization</em></p>
+
+<p>📝 Canran Xiao, Liwei Hou | 📂 <code>cs.LG</code></p>
+
+<p>Continual web personalization is essential for engagement, yet real-world non-stationarity and privacy constraints make it hard to adapt quickly without forgetting long-term preferences. We target thi</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27678v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2603.27631v1" target="_blank">On the Asymptotics of Self-Supervised Pre-training: Two-Stage M-Estimation and Representation Symmetry</a></h3>
+
+<p class="italic-note"><em>On the Asymptotics of Self-Supervised Pre-training: Two-Stage M-Estimation and Representation Symmetry</em></p>
+
+<p>📝 Mohammad Tinati, Stephen Tu | 📂 <code>cs.LG, stat.ML</code></p>
+
+<p>Self-supervised pre-training, where large corpora of unlabeled data are used to learn representations for downstream fine-tuning, has become a cornerstone of modern machine learning. While a growing b</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27631v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2603.27666v1" target="_blank">Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers</a></h3>
+
+<p class="italic-note"><em>Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers</em></p>
+
+<p>📝 Yuhe Liu, Zhenxiong Tan, Yujia Hu et al. | 📂 <code>cs.CV</code></p>
+
+<p>Recent advances in diffusion-based controllable visual generation have led to remarkable improvements in image quality. However, these powerful models are typically deployed on cloud servers due to th</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27666v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2603.27665v1" target="_blank">Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling</a></h3>
+
+<p class="italic-note"><em>Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling</em></p>
+
+<p>📝 Minh-Tuan Tran, Xuan-May Le, Quan Hung Tran et al. | 📂 <code>cs.CV, cs.LG</code></p>
+
+<p>Existing generative models, such as diffusion and auto-regressive networks, are inherently static, relying on a fixed set of pretrained parameters to handle all inputs. In contrast, humans flexibly ad</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27665v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2603.27663v1" target="_blank">LiDAR for Crowd Management: Applications, Benefits, and Future Directions</a></h3>
+
+<p class="italic-note"><em>LiDAR for Crowd Management: Applications, Benefits, and Future Directions</em></p>
+
+<p>📝 Abdullah Khanfor, Chaima Zaghouani, Hakim Ghazzai et al. | 📂 <code>cs.CV</code></p>
+
+<p>Light Detection and Ranging (LiDAR) technology offers significant advantages for effective crowd management. This article presents LiDAR technology and highlights its primary advantages over other mon</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27663v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2603.27662v1" target="_blank">A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos</a></h3>
+
+<p class="italic-note"><em>A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos</em></p>
+
+<p>📝 David Miranda Paredes, Jose M. Saavedra, Marcelo Pizarro | 📂 <code>cs.CV</code></p>
+
+<p>News videos are among the most prevalent content types produced by television stations and online streaming platforms, yet generating textual descriptions to facilitate indexing and retrieval largely</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27662v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2603.27661v1" target="_blank">Amped: Adaptive Multi-stage Non-edge Pruning for Edge Detection</a></h3>
+
+<p class="italic-note"><em>Amped: Adaptive Multi-stage Non-edge Pruning for Edge Detection</em></p>
+
+<p>📝 Yuhan Gao, Xinqing Li, Xin He et al. | 📂 <code>cs.CV</code></p>
+
+<p>Edge detection is a fundamental image analysis task that underpins numerous high-level vision applications. Recent advances in Transformer architectures have significantly improved edge quality by cap</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27661v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2603.27650v1" target="_blank">V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models</a></h3>
+
+<p class="italic-note"><em>V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models</em></p>
+
+<p>📝 Xinying Lin, Xuyang Liu, Yiyu Wang et al. | 📂 <code>cs.CV</code></p>
+
+<p>Video large language models (VideoLLMs) show strong capability in video understanding, yet long-context inference is still dominated by massive redundant visual tokens in the prefill stage. We revisit</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27650v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2603.27645v1" target="_blank">OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery</a></h3>
+
+<p class="italic-note"><em>OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery</em></p>
+
+<p>📝 Qi Guo, Jue Wang, Yinhe Liu et al. | 📂 <code>cs.CV</code></p>
+
+<p>Open-vocabulary change detection (OVCD) seeks to recognize arbitrary changes of interest by enabling generalization beyond a fixed set of predefined classes. We reformulate OVCD as a two-stage pipelin</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27645v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2603.27637v1" target="_blank">OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation</a></h3>
+
+<p class="italic-note"><em>OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation</em></p>
+
+<p>📝 Sanghyeon Lee, Minwoo Lee, Euijin Shin et al. | 📂 <code>cs.CV</code></p>
+
+<p>We introduce a parameter-efficient adaptation method for panel-aware in-context image generation with pre-trained diffusion transformers. The key idea is to compose learnable, panel-specific orthogona</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2603.27637v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
