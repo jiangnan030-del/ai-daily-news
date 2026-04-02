@@ -1,0 +1,749 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T09:24:11.085248+08:00",
+  "github_trending": [
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 100996,
+      "forks": 15610,
+      "language": "Shell",
+      "stars_today": 10749,
+      "source": "github_trending",
+      "summary_cn": "这是一款由 Anthropic 推出的 AI 编程智能体工具，可以直接在终端中使用。它能理解整个代码库，通过自然语言命令帮助开发者执行日常编码任务、解释复杂代码以及处理 Git 工作流，从而显著提升编程效率。",
+      "score": 10,
+      "category": "LLM/Agent",
+      "one_liner": "终端里的 AI 编程大师，用自然语言搞定代码一切。"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 15625,
+      "forks": 1799,
+      "language": "Python",
+      "stars_today": 3301,
+      "source": "github_trending",
+      "summary_cn": "这是一个为 Claude Code 量身打造的可视化、实例驱动的指南。它涵盖了从基础概念到高级智能体应用的全部内容，并提供了大量可直接复制粘贴的代码模板，帮助用户快速上手并发挥 Claude Code 的强大功能。",
+      "score": 9,
+      "category": "教程",
+      "one_liner": "Claude Code 最佳入门手册，从小白到高手的必备指南。"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 71746,
+      "forks": 10035,
+      "language": "Rust",
+      "stars_today": 2390,
+      "source": "github_trending",
+      "summary_cn": "这是由 OpenAI 官方推出的轻量级编码智能体，同样在终端环境中运行。该项目使用 Rust 编写以追求极致性能，旨在提供一个高效、快速的编程助手，帮助开发者在命令行中完成编码任务。",
+      "score": 10,
+      "category": "LLM/Agent",
+      "one_liner": "OpenAI 出品，在终端运行的轻量级编码神器。"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 34459,
+      "forks": 3921,
+      "language": "Python",
+      "stars_today": 1685,
+      "source": "github_trending",
+      "summary_cn": "微软推出的开源前沿语音 AI 项目。它旨在提供一套顶尖的语音合成（TTS）、声音克隆和转换等功能，让开发者能够构建出具有高度真实感和丰富情感表现力的语音应用。",
+      "score": 9,
+      "category": "NLP",
+      "one_liner": "微软开源的前沿语音 AI，让你的应用开口说话。"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 21638,
+      "forks": 2679,
+      "language": "Python",
+      "stars_today": 1538,
+      "source": "github_trending",
+      "summary_cn": "来自知名 AI 研究机构 NousResearch 的一款智能体项目。其核心理念是“与你共同成长”，意味着该智能体能够通过与用户的交互不断学习和进化，提供越来越个性化和智能化的辅助。",
+      "score": 8,
+      "category": "LLM/Agent",
+      "one_liner": "一个能与你共同成长的智能体，越用越懂你。"
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 74610,
+      "forks": 10153,
+      "language": "Python",
+      "stars_today": 686,
+      "source": "github_trending",
+      "summary_cn": "百度飞桨团队出品的一款强大而轻量的 OCR 工具包，能将图片或 PDF 文档转换为结构化数据。它支持超过100种语言，是打通图像/PDF 与大语言模型之间信息鸿沟的关键桥梁，非常适用于文档自动化处理和智能分析场景。",
+      "score": 9,
+      "category": "CV",
+      "one_liner": "超强多语言 OCR 开源库，轻松提取图片和 PDF 中的文本。"
+    },
+    {
+      "name": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "stars": 156034,
+      "forks": 20487,
+      "language": "HTML",
+      "stars_today": 398,
+      "source": "github_trending",
+      "summary_cn": "一个免费开源的提示词（Prompt）分享与发现平台，前身为知名的“Awesome ChatGPT Prompts”。用户可以在这里发现、分享和收集来自社区的优秀提示词，并且支持私有化部署，以确保企业内部使用时的数据隐私。",
+      "score": 8,
+      "category": "数据",
+      "one_liner": "你的私人提示词宝库，激发 AI 无限潜能。"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 12139,
+      "forks": 1001,
+      "language": "Python",
+      "stars_today": 380,
+      "source": "github_trending",
+      "summary_cn": "这是谷歌研究院发布的一款预训练时间序列基础模型（TimesFM）。它专门为时间序列预测任务而设计，利用基础模型的强大能力来处理和预测各种时间相关数据，适用于金融、气象、物联网等领域。",
+      "score": 9,
+      "category": "论文实现",
+      "one_liner": "谷歌出品的时间序列预测基础模型，让时序分析进入 AI 新纪元。"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "stars": 50538,
+      "forks": 22884,
+      "language": "Python",
+      "stars_today": 258,
+      "source": "github_trending",
+      "summary_cn": "一款 AI 驱动的舆情监控与热点追踪工具，它能聚合多平台信息源和 RSS 订阅。该项目利用 AI 进行智能筛选、翻译和摘要分析，并将结果推送到微信、钉钉等多个渠道，帮助用户告别信息过载。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "你的 AI 舆情监控助手，全自动追踪全网热点。"
+    },
+    {
+      "name": "OpenBMB/ChatDev",
+      "url": "https://github.com/OpenBMB/ChatDev",
+      "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+      "stars": 32552,
+      "forks": 4012,
+      "language": "Python",
+      "stars_today": 247,
+      "source": "github_trending",
+      "summary_cn": "一个基于大语言模型的多智能体协作框架，它模拟一个完整的软件开发团队（如 CEO、程序员、测试员等）来自动化软件开发流程。用户只需提出需求，这个“虚拟公司”就能通过智能体间的协作，完成从设计、编码到测试的全过程。",
+      "score": 9,
+      "category": "LLM/Agent",
+      "one_liner": "组建一个 AI 软件公司，让智能体为你开发软件。"
+    },
+    {
+      "name": "yusufkaraaslan/Skill_Seekers",
+      "url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "description": "Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection",
+      "stars": 11891,
+      "forks": 1184,
+      "language": "Python",
+      "stars_today": 237,
+      "source": "github_trending",
+      "summary_cn": "该工具能自动将文档网站、GitHub 仓库和 PDF 文件转换成 Claude AI 可以使用的“技能”。它通过解析这些信息源，让 AI 能够掌握特定领域的知识，极大地简化了为 AI 智能体定制知识库的过程。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "轻松将任何文档或代码库，一键转化为 Claude AI 的专属技能。"
+    },
+    {
+      "name": "Huanshere/VideoLingo",
+      "url": "https://github.com/Huanshere/VideoLingo",
+      "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+      "stars": 16433,
+      "forks": 1717,
+      "language": "Python",
+      "stars_today": 74,
+      "source": "github_trending",
+      "summary_cn": "一个全自动的 AI 视频翻译和配音工具，堪称“AI 字幕组”。它能实现 Netflix 级别的字幕切割、翻译、时间轴对齐，甚至可以生成配音，帮助用户一键完成视频的跨语言本地化。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "AI 视频字幕组，一键搞定视频翻译、字幕和配音。"
+    },
+    {
+      "name": "allenai/OLMo-core",
+      "url": "https://github.com/allenai/OLMo-core",
+      "description": "PyTorch building blocks for the OLMo ecosystem",
+      "stars": 1083,
+      "forks": 213,
+      "language": "Python",
+      "stars_today": 66,
+      "source": "github_trending",
+      "summary_cn": "来自艾伦人工智能研究所（AI2）的开源项目，为 OLMo（开放语言模型）生态系统提供了核心的 PyTorch 构建模块。它包含了训练、微调和评估开放语言模型所需的关键代码和工具，旨在推动语言模型研究的开放性。",
+      "score": 7,
+      "category": "框架",
+      "one_liner": "AI2 出品的开放语言模型核心库，构建你自己的 OLMo。"
+    },
+    {
+      "name": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "description": "Supercharge Your LLM with the Fastest KV Cache Layer",
+      "stars": 7831,
+      "forks": 1056,
+      "language": "Python",
+      "stars_today": 30,
+      "source": "github_trending",
+      "summary_cn": "一个旨在为大语言模型（LLM）推理提供极致加速的 KV 缓存层。通过优化键值缓存的管理和访问，该项目能够显著提升 LLM 的推理速度和吞吐量，降低长文本处理时的延迟。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "最快的 LLM KV 缓存层，为你的大模型推理插上翅膀。"
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, pruning, distillation, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 2318,
+      "forks": 328,
+      "language": "Python",
+      "stars_today": 25,
+      "source": "github_trending",
+      "summary_cn": "NVIDIA 官方推出的统一模型优化库，集成了量化、剪枝、蒸馏、推测解码等一系列前沿优化技术。它旨在压缩深度学习模型，以便在 TensorRT-LLM 等下游框架上高效部署，从而最大化推理速度。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "NVIDIA 官方出品，一站式搞定模型压缩与推理加速。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Claude Code Unpacked : A visual guide",
+      "url": "https://ccunpacked.dev/",
+      "score": 10,
+      "comments": 361,
+      "author": "autocracy101",
+      "time": "2026-04-01T05:15:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47597085",
+      "source": "hacker_news",
+      "title_cn": "Claude Code 解密：一份可视化指南",
+      "summary_cn": "这篇文章通过可视化的方式，深入解析了 Anthropic 的 Claude Code 模型的工作原理和内部结构，为开发者提供了直观的理解。",
+      "category": "教程"
+    },
+    {
+      "title": "Microsoft: Copilot is for entertainment purposes only",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+      "score": 9,
+      "comments": 196,
+      "author": "lpcvoid",
+      "time": "2026-03-31T14:25:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47587866",
+      "source": "hacker_news",
+      "title_cn": "微软：Copilot 仅供娱乐",
+      "summary_cn": "微软在其官方使用条款中明确指出，其 Copilot 服务仅供娱乐目的，这一声明引发了社区关于 AI 工具责任和定位的广泛讨论。",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "score": 9,
+      "comments": 480,
+      "author": "surprisetalk",
+      "time": "2026-03-31T20:07:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47592755",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 完成新一轮融资，估值达 8520 亿美元",
+      "summary_cn": "据报道，OpenAI 已完成新一轮融资，公司估值飙升至 8520 亿美元，标志着 AI 行业投资热潮的新高峰。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Claude wrote a full FreeBSD remote kernel RCE with root shell",
+      "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+      "score": 8,
+      "comments": 97,
+      "author": "ishqdehlvi",
+      "time": "2026-04-01T05:21:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47597119",
+      "source": "hacker_news",
+      "title_cn": "Claude 编写出完整的 FreeBSD 内核远程代码执行漏洞利用程序",
+      "summary_cn": "研究人员展示了 Claude 模型成功编写出一个针对 FreeBSD 内核的远程代码执行（RCE）漏洞利用程序，并获得了 root shell，凸显了 AI 在网络安全领域的强大能力。",
+      "category": "技术突破"
+    },
+    {
+      "title": "The OpenAI graveyard: All the deals and products that haven't happened",
+      "url": "https://www.forbes.com/sites/phoebeliu/2026/03/31/openai-graveyard-deals-and-products-havent-happened-openai/",
+      "score": 7,
+      "comments": 186,
+      "author": "dherls",
+      "time": "2026-04-01T15:55:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47602565",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 的“墓地”：盘点那些未能实现的产品与合作",
+      "summary_cn": "本文盘点了 OpenAI 历史上那些曾被寄予厚望但最终未能落地或被终止的产品和合作项目，揭示了其发展道路上的波折。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Ask HN: Who is hiring? (April 2026)",
+      "url": "https://news.ycombinator.com/item?id=47601859",
+      "score": 6,
+      "comments": 159,
+      "author": "whoishiring",
+      "time": "2026-04-01T15:01:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47601859",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: 谁在招人？(2026年4月)",
+      "summary_cn": "Hacker News 每月一次的招聘主题帖，汇集了全球各地科技公司的招聘信息，是开发者寻找新工作机会的重要渠道。",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+      "url": "https://github.com/timescale/pg_textsearch",
+      "score": 7,
+      "comments": 56,
+      "author": "tjgreen",
+      "time": "2026-03-31T16:29:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47589856",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 用于 BM25 相关性排序全文搜索的 Postgres 扩展",
+      "summary_cn": "开发者发布了一个新的 PostgreSQL 扩展，它实现了 BM25 算法，为数据库提供了更先进的相关性排序全文搜索能力。",
+      "category": "开源项目"
+    },
+    {
+      "title": "AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "score": 6,
+      "comments": 107,
+      "author": "latchkey",
+      "time": "2026-04-01T17:17:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47603737",
+      "source": "hacker_news",
+      "title_cn": "AI 技术助力美国本土水泥和混凝土生产",
+      "summary_cn": "Meta 工程团队分享了如何利用 AI 技术优化美国本土水泥和混凝土的生产流程，以支持其数据中心建设并减少碳足迹。",
+      "category": "技术突破"
+    },
+    {
+      "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-01/openai-demand-sinks-on-secondary-market-as-anthropic-runs-hot",
+      "score": 7,
+      "comments": 58,
+      "author": "helsinkiandrew",
+      "time": "2026-04-01T14:26:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47601405",
+      "source": "hacker_news",
+      "title_cn": "二级市场上 OpenAI 股票需求降温，Anthropic 持续火热",
+      "summary_cn": "彭博社报道，随着竞争对手 Anthropic 的崛起，OpenAI 在二级市场的股票需求有所下降，反映出 AI 领域的竞争格局正在发生变化。",
+      "category": "行业动态"
+    },
+    {
+      "title": "The AI Marketing BS Index",
+      "url": "https://bastian.rieck.me/blog/2026/bs/",
+      "score": 6,
+      "comments": 18,
+      "author": "speckx",
+      "time": "2026-04-01T17:55:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47604218",
+      "source": "hacker_news",
+      "title_cn": "AI 营销“废话”指数",
+      "summary_cn": "作者创建了一个“AI 营销废话指数”，用于评估和讽刺当前 AI 领域中普遍存在的过度营销和空洞宣传。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "What Is Copilot Exactly?",
+      "url": "https://idiallo.com/blog/what-is-copilot-exactly",
+      "score": 5,
+      "comments": 58,
+      "author": "WhyNotHugo",
+      "time": "2026-04-01T16:39:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47603231",
+      "source": "hacker_news",
+      "title_cn": "Copilot 究竟是什么？",
+      "summary_cn": "本文深入探讨了 Copilot 的技术本质和工作原理，试图解释它不仅仅是一个简单的代码补全工具，而是一个更复杂的系统。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Real-time dashboard for Claude Code agent teams",
+      "url": "https://github.com/simple10/agents-observe",
+      "score": 5,
+      "comments": 23,
+      "author": "simple10",
+      "time": "2026-04-01T16:24:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47602986",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 用于 Claude Code AI 代理团队的实时仪表盘",
+      "summary_cn": "开发者展示了一个开源项目，可以为基于 Claude Code 的多个 AI 代理（Agent）团队提供一个实时监控仪表盘。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Show HN: Baton – A desktop app for developing with AI agents",
+      "url": "https://getbaton.dev/",
+      "score": 5,
+      "comments": 49,
+      "author": "tordrt",
+      "time": "2026-04-01T12:11:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47599771",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Baton – 一款用于与 AI 代理协作开发的桌面应用",
+      "summary_cn": "Baton 是一款新发布的桌面应用程序，旨在帮助开发者更方便地与 AI 代理进行交互和协同开发。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Ask HN: Client took over development by vibe coding. What to do?",
+      "url": "https://news.ycombinator.com/item?id=47599303",
+      "score": 4,
+      "comments": 32,
+      "author": "piscator",
+      "time": "2026-04-01T11:09:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47599303",
+      "source": "hacker_news",
+      "title_cn": "Ask HN：客户开始“凭感觉”接管开发，我该怎么办？",
+      "summary_cn": "一位开发者在 Hacker News 上求助，询问当客户无视技术规范、仅凭个人感觉和喜好主导项目开发时，应如何应对。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Claude Code rewritten as a bash script",
+      "url": "https://github.com/jdcodes1/claude-sh",
+      "score": 4,
+      "comments": 12,
+      "author": "rpst",
+      "time": "2026-03-31T23:24:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47594804",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 使用 Bash 脚本重写的 Claude Code",
+      "summary_cn": "一个有趣的实验性项目，作者使用纯 Bash 脚本重新实现了 Claude Code 的部分核心功能。",
+      "category": "开源项目"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "PsychAgent: An Experience-Driven Lifelong Learning Agent for Self-Evolving Psychological Counselor",
+      "authors": [
+        "Yutao Yang",
+        "Junsong Li",
+        "Qianjun Pan",
+        "Jie Zhou",
+        "Kai Chen"
+      ],
+      "abstract": "Existing methods for AI psychological counselors predominantly rely on supervised fine-tuning using static dialogue datasets. However, this contrasts with human experts, who continuously refine their proficiency through clinical practice and accumulated experience. To bridge this gap, we propose an Experience-Driven Lifelong Learning Agent (\\texttt{PsychAgent}) for psychological counseling. First, we establish a Memory-Augmented Planning Engine tailored for longitudinal multi-session interactions, which ensures therapeutic continuity through persistent memory and strategic planning. Second, to support self-evolution, we design a Skill Evolution Engine that extracts new practice-grounded skills from historical counseling trajectories. Finally, we introduce a Reinforced Internalization Engine that integrates the evolved skills into the model via rejection fine-tuning, aiming to improve performance across diverse scenarios. Comparative analysis shows that our approach achieves higher scores than strong general LLMs (e.g., GPT-5.4, Gemini-3) and domain-specific baselines across all reported evaluation dimensions. These results suggest that lifelong learning can improve the consistency and overall quality of multi-session counseling responses.",
+      "url": "http://arxiv.org/abs/2604.00931v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00931v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-01T14:08:49+00:00",
+      "source": "arxiv",
+      "title_cn": "PsychAgent：一种用于自我进化心理咨询师的经验驱动终身学习智能体",
+      "summary_cn": "现有AI心理咨询师依赖静态数据训练，无法像人类专家一样持续进步。本文提出了PsychAgent，一个能通过模拟临床实践和经验积累进行终身学习的智能体框架，使其能够自我进化和提升咨询能力。",
+      "score": 9,
+      "significance": "它为构建能像人类专家一样不断学习和成长的AI心理咨询师提供了新思路。"
+    },
+    {
+      "title": "Uncertainty-Aware Variational Reward Factorization via Probabilistic Preference Bases for LLM Personalization",
+      "authors": [
+        "Gyuseok Lee",
+        "Wonbin Kweon",
+        "Zhenrui Yue",
+        "SeongKu Kang",
+        "Jiawei Han"
+      ],
+      "abstract": "Reward factorization personalizes large language models (LLMs) by decomposing rewards into shared basis functions and user-specific weights. Yet, existing methods estimate user weights from scarce data in isolation and as deterministic points, leading to inaccurate and unreliable inference. We introduce Variational Reward Factorization (VRF), an uncertainty-aware framework that represents each user's preferences as a variational distribution in a shared preference space. VRF infers user distributions via a variational encoder, derives weights through Wasserstein distance matching with shared probabilistic bases, and downweights uncertain estimates through a variance-attenuated loss. On three benchmarks, VRF outperforms all baselines across seen and unseen users, few-shot scenarios, and varying uncertainty levels, with gains extending to downstream alignment.",
+      "url": "http://arxiv.org/abs/2604.00997v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00997v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-01T14:58:51+00:00",
+      "source": "arxiv",
+      "title_cn": "通过概率性偏好基实现不确定性感知的变分奖励分解，用于大语言模型个性化",
+      "summary_cn": "当前大模型个性化方法在用户数据稀少时，对偏好的估计不准且不可靠。该研究提出一种新方法，通过概率性地建模用户偏好并考虑不确定性，从而更准确、更可靠地实现大语言模型的个性化。",
+      "score": 8,
+      "significance": "该研究通过更可靠地捕捉用户偏好，提升了大语言模型个性化推荐与交互的准确性。"
+    },
+    {
+      "title": "Multimodal Analysis of State-Funded News Coverage of the Israel-Hamas War on YouTube Shorts",
+      "authors": [
+        "Daniel Miehling",
+        "Sandra Kuebler"
+      ],
+      "abstract": "YouTube Shorts have become central to news consumption on the platform, yet research on how geopolitical events are represented in this format remains limited. To address this gap, we present a multimodal pipeline that combines automatic transcription, aspect-based sentiment analysis (ABSA), and semantic scene classification. The pipeline is first assessed for feasibility and then applied to analyze short-form coverage of the Israel-Hamas war by state-funded outlets. Using over 2,300 conflict-related Shorts and more than 94,000 visual frames, we systematically examine war reporting across major international broadcasters. Our findings reveal that the sentiment expressed in transcripts regarding specific aspects differs across outlets and over time, whereas scene-type classifications reflect visual cues consistent with real-world events. Notably, smaller domain-adapted models outperform large transformers and even LLMs for sentiment analysis, underscoring the value of resource-efficient approaches for humanities research. The pipeline serves as a template for other short-form platforms, such as TikTok and Instagram, and demonstrates how multimodal methods, combined with qualitative interpretation, can characterize sentiment patterns and visual cues in algorithmically driven video environments.",
+      "url": "http://arxiv.org/abs/2604.00994v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00994v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.SI"
+      ],
+      "published": "2026-04-01T14:55:58+00:00",
+      "source": "arxiv",
+      "title_cn": "对YouTube Shorts上官方资助媒体关于“以哈战争”报道的多模态分析",
+      "summary_cn": "YouTube短视频已成为新闻消费的重要渠道，但相关研究有限。本文构建了一个多模态分析流程，结合自动转录、情感分析等技术，研究了官方资助媒体如何在短视频中报道“以哈战争”这一地缘政治事件。",
+      "score": 7,
+      "significance": "它揭示了短视频这一新兴媒体形态如何被用于塑造地缘政治事件的公众舆论。"
+    },
+    {
+      "title": "Dual Optimal: Make Your LLM Peer-like with Dignity",
+      "authors": [
+        "Xiangqi Wang",
+        "Yue Huang",
+        "Haomin Zhuang",
+        "Kehan Guo",
+        "Xiangliang Zhang"
+      ],
+      "abstract": "Current aligned language models exhibit a dual failure mode we term the Evasive Servant: they sycophantically validate flawed user beliefs while deflecting responsibility with boilerplate disclaimers. We propose the Dignified Peer framework, which counters servility with anti-sycophancy and trustworthiness, and mitigates evasiveness through empathy and creativity. Realizing this agent requires overcoming significant challenges in data supervision, objective collapse, and evaluation bias. We address these issues by introducing the PersonaKnob dataset which features a compositional partial order structure of multiple persona preference. This data is utilized alongside a tolerant constrained Lagrangian DPO algorithm that dynamically balances all persona dimensions to prevent behavioral collapse. Additionally, we employ a psychometrically calibrated Item Response Theory evaluation protocol to disentangle latent model persona capability from confounders like judge biases. Extensive empirical studies demonstrate that our approach successfully build a LLM agent with both dignity and peer.",
+      "url": "http://arxiv.org/abs/2604.00979v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00979v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-04-01T14:48:44+00:00",
+      "source": "arxiv",
+      "title_cn": "双重优化：让你的大语言模型成为一个有尊严的同伴",
+      "summary_cn": "现有大语言模型存在一种“回避型仆人”的失败模式：既盲目附和用户的错误观点，又用免责声明推卸责任。该研究提出了“有尊严的同伴”框架，通过反谄媚和建立信任感来对抗这种模式，使模型表现得更像一个正直的伙伴。",
+      "score": 9,
+      "significance": "该研究为解决大模型“谄媚”和“不负责任”的问题提供了新的方向，旨在培养更值得信赖的AI。"
+    },
+    {
+      "title": "Phase transition on a context-sensitive random language model with short range interactions",
+      "authors": [
+        "Yuma Toji",
+        "Jun Takahashi",
+        "Vwani Roychowdhury",
+        "Hideyuki Miyahara"
+      ],
+      "abstract": "Since the random language model was proposed by E. DeGiuli [Phys. Rev. Lett. 122, 128301], language models have been investigated intensively from the viewpoint of statistical mechanics. Recently, the existence of a Berezinskii--Kosterlitz--Thouless transition was numerically demonstrated in models with long-range interactions between symbols. In statistical mechanics, it has long been known that long-range interactions can induce phase transitions. Therefore, it has remained unclear whether phase transitions observed in language models originate from genuinely linguistic properties that are absent in conventional spin models. In this study, we construct a random language model with short-range interactions and numerically investigate its statistical properties. Our model belongs to the class of context-sensitive grammars in the Chomsky hierarchy and allows explicit reference to contexts. We find that a phase transition occurs even when the model refers only to contexts whose length remains constant with respect to the sentence length. This result indicates that finite-temperature phase transitions in language models are genuinely induced by the intrinsic nature of language, rather than by long-range interactions.",
+      "url": "http://arxiv.org/abs/2604.00947v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00947v1",
+      "categories": [
+        "cs.CL",
+        "cond-mat.stat-mech",
+        "stat.ML"
+      ],
+      "published": "2026-04-01T14:19:11+00:00",
+      "source": "arxiv",
+      "title_cn": "具有短程交互的上下文敏感随机语言模型中的相变现象",
+      "summary_cn": "该研究从统计力学的视角探索语言模型，深入研究了模型中的相变行为。研究者在一个具有上下文敏感性和短程交互的随机语言模型中，通过数值模拟证明了特定类型相变（BKT相变）的存在。",
+      "score": 7,
+      "significance": "它将统计物理学中的相变理论应用于语言模型，为从根本上理解模型复杂行为和能力涌现提供了新视角。"
+    },
+    {
+      "title": "Flow-based Policy With Distributional Reinforcement Learning in Trajectory Optimization",
+      "authors": [
+        "Ruijie Hao",
+        "Longfei Zhang",
+        "Yang Dai",
+        "Yang Ma",
+        "Xingxing Liang"
+      ],
+      "abstract": "Reinforcement Learning (RL) has proven highly effective in addressing complex control and decision-making tasks. However, in most traditional RL algorithms, the policy is typically parameterized as a diagonal Gaussian distribution, which constrains the policy from capturing multimodal distributions, making it difficult to cover the full range of optimal solutions in multi-solution problems, and the return is reduced to a mean value, losing its multimodal nature and thus providing insufficient guidance for policy updates. In response to these problems, we propose a RL algorithm termed flow-based policy with distributional RL (FP-DRL). This algorithm models the policy using flow matching, which offers both computational efficiency and the capacity to fit complex distributions. Additionally, it employs a distributional RL approach to model and optimize the entire return distribution, thereby more effectively guiding multimodal policy updates and improving agent performance. Experimental trails on MuJoCo benchmarks demonstrate that the FP-DRL algorithm achieves state-of-the-art (SOTA) performance in most MuJoCo control tasks while exhibiting superior representation capability of the flow policy.",
+      "url": "http://arxiv.org/abs/2604.00977v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00977v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-01T14:47:41+00:00",
+      "source": "arxiv",
+      "title_cn": "在轨迹优化中结合基于流的策略与分布式强化学习",
+      "summary_cn": "传统强化学习算法的策略通常被限制为简单的对角高斯分布，难以捕捉复杂任务所需的多模态行为。该研究将能建模复杂分布的“流模型”策略与分布式强化学习相结合，从而在轨迹优化任务中实现了更强大的决策能力。",
+      "score": 8,
+      "significance": "该研究通过提升策略网络的表达能力，使得强化学习能够解决更复杂的、具有多种可行解的控制问题。"
+    },
+    {
+      "title": "Differentially Private Manifold Denoising",
+      "authors": [
+        "Jiaqi Wu",
+        "Yiqing Sun",
+        "Zhigang Yao"
+      ],
+      "abstract": "We introduce a differentially private manifold denoising framework that allows users to exploit sensitive reference datasets to correct noisy, non-private query points without compromising privacy. The method follows an iterative procedure that (i) privately estimates local means and tangent geometry using the reference data under calibrated sensitivity, (ii) projects query points along the privately estimated subspace toward the local mean via corrective steps at each iteration, and (iii) performs rigorous privacy accounting across iterations and queries using $(\\varepsilon,δ)$-differential privacy (DP). Conceptually, this framework brings differential privacy to manifold methods, retaining sufficient geometric signal for downstream tasks such as embedding, clustering, and visualization, while providing formal DP guarantees for the reference data. Practically, the procedure is modular and scalable, separating DP-protected local geometry (means and tangents) from budgeted query-point updates, with a simple scheduler allocating privacy budget across iterations and queries. Under standard assumptions on manifold regularity, sampling density, and measurement noise, we establish high-probability utility guarantees showing that corrected queries converge toward the manifold at a non-asymptotic rate governed by sample size, noise level, bandwidth, and the privacy budget. Simulations and case studies demonstrate accurate signal recovery under moderate privacy budgets, illustrating clear utility-privacy trade-offs and providing a deployable DP component for manifold-based workflows in regulated environments without reengineering privacy systems.",
+      "url": "http://arxiv.org/abs/2604.00942v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00942v1",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "math.ST"
+      ],
+      "published": "2026-04-01T14:13:59+00:00",
+      "source": "arxiv",
+      "title_cn": "差分隐私流形去噪",
+      "summary_cn": "如何在不泄露隐私的情况下，利用一个敏感的参考数据集来修正另一个有噪声的非隐私数据集？本文提出了一个差分隐私流形去噪框架，通过迭代式地私有估计局部几何结构，来安全地为查询数据点降噪。",
+      "score": 8,
+      "significance": "它提供了一种在保护敏感数据隐私的同时，利用其来提升其他数据质量的有效方法。"
+    },
+    {
+      "title": "WARP: Guaranteed Inner-Layer Repair of NLP Transformers",
+      "authors": [
+        "Hsin-Ling Hsu",
+        "Min-Yu Chen",
+        "Nai-Chia Chen",
+        "Yan-Ru Chen",
+        "Yi-Ling Chang"
+      ],
+      "abstract": "Transformer-based NLP models remain vulnerable to adversarial perturbations, yet existing repair methods face a fundamental trade-off: gradient-based approaches offer flexibility but lack verifiability and often overfit; methods that do provide repair guarantees are restricted to the final layer or small networks, significantly limiting the parameter search space available for repair. We present WARP (Weight-Adjusted Repair with Provability), a constraint-based repair framework that extends repair beyond the last layer of Transformer models. WARP formulates repair as a convex quadratic program derived from a first-order linearization of the logit gap, enabling tractable optimization over a high-dimensional parameter space. Under the condition that the first-order approximation holds, this formulation induces three per-sample guarantees: (i) a positive margin constraint ensuring correct classification on repaired inputs, (ii) preservation constraints over a designated remain set, and (iii) a certified robustness radius derived from Lipschitz continuity. To ensure feasibility across varying model architectures, we introduce a sensitivity-based preprocessing step that conditions the optimization landscape accordingly. We further show that the iterative optimization procedure converges to solutions satisfying all repair constraints under mild assumptions. Empirical evaluation on encoder-only Transformers with varying layer architectures validates that these guarantees hold in practice while improving robustness to adversarial inputs. Our results demonstrate that guaranteed, generalizable Transformer repair is achievable through principled constraint-based optimization.",
+      "url": "http://arxiv.org/abs/2604.00938v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00938v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-01T14:12:49+00:00",
+      "source": "arxiv",
+      "title_cn": "WARP：对NLP Transformer模型内部层进行可保证的修复",
+      "summary_cn": "现有修复NLP模型漏洞的方法，要么无法提供安全保证，要么只能修复最后一层，限制了效果。本文提出WARP方法，首次实现了对Transformer模型内部层进行可验证、有保证的修复，从而更有效地抵御对抗性攻击。",
+      "score": 9,
+      "significance": "该研究在可验证的AI安全领域取得突破，为构建更稳健、更可靠的NLP模型提供了强有力的工具。"
+    },
+    {
+      "title": "Maximizing T2-Only Prostate Cancer Localization from Expected Diffusion Weighted Imaging",
+      "authors": [
+        "Weixi Yi",
+        "Yipei Wang",
+        "Wen Yan",
+        "Hanyuan Zhang",
+        "Natasha Thorley"
+      ],
+      "abstract": "Multiparametric MRI is increasingly recommended as a first-line noninvasive approach to detect and localize prostate cancer, requiring at minimum diffusion-weighted (DWI) and T2-weighted (T2w) MR sequences. Early machine learning attempts using only T2w images have shown promising diagnostic performance in segmenting radiologist-annotated lesions. Such uni-modal T2-only approaches deliver substantial clinical benefits by reducing costs and expertise required to acquire other sequences. This work investigates an arguably more challenging application using only T2w at inference, but to localize individual cancers based on independent histopathology labels. We formulate DWI images as a latent modality (readily available during training) to classify cancer presence at local Barzell zones, given only T2w images as input. In the resulting expectation-maximization algorithm, a latent modality generator (implemented using a flow matching-based generative model) approximates the latent DWI image posterior distribution in the E-steps, while in M-steps a cancer localizer is simultaneously optimized with the generative model to maximize the expected likelihood of cancer presence. The proposed approach provides a novel theoretical framework for learning from a privileged DWI modality, yielding superior cancer localization performance compared to approaches that lack training DWI images or existing frameworks for privileged learning and incomplete modalities. The proposed T2-only methods perform competitively or better than baseline methods using multiple input sequences (e.g., improving the patient-level F1 score by 14.4\\% and zone-level QWK by 5.3\\% over the T2w+DWI baseline). We present quantitative evaluations using internal and external datasets from 4,133 prostate cancer patients with histopathology-verified labels.",
+      "url": "http://arxiv.org/abs/2604.00985v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00985v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:50:18+00:00",
+      "source": "arxiv",
+      "title_cn": "从期望的弥散加权成像中最大化仅T2加权图像的前列腺癌定位效果",
+      "summary_cn": "前列腺癌检测通常需要昂贵且耗时的多参数MRI扫描。该研究探索仅使用更常见的T2加权图像进行诊断，通过一种新方法来模拟并利用其他扫描序列的信息，显著提升了仅T2图像的癌症定位准确率。",
+      "score": 8,
+      "significance": "该技术有望降低前列腺癌筛查的成本和复杂性，使高质量的AI辅助诊断更加普及。"
+    },
+    {
+      "title": "ACT Now: Preempting LVLM Hallucinations via Adaptive Context Integration",
+      "authors": [
+        "Bei Yan",
+        "Yuecong Min",
+        "Jie Zhang",
+        "Shiguang Shan",
+        "Xilin Chen"
+      ],
+      "abstract": "Large Vision-Language Models (LVLMs) frequently suffer from severe hallucination issues. Existing mitigation strategies predominantly rely on isolated, single-step states to enhance visual focus or suppress strong linguistic priors. However, these static approaches neglect dynamic context changes across the generation process and struggles to correct inherited information loss. To address this limitation, we propose Adaptive Context inTegration (ACT), a training-free inference intervention method that mitigates hallucination through the adaptive integration of contextual information. Specifically, we first propose visual context exploration, which leverages spatio-temporal profiling to adaptively amplify attention heads responsible for visual exploration. To further facilitate vision-language alignment, we propose semantic context aggregation that marginalizes potential semantic queries to effectively aggregate visual evidence, thereby resolving the information loss caused by the discrete nature of token prediction. Extensive experiments across diverse LVLMs demonstrate that ACT significantly reduces hallucinations and achieves competitive results on both discriminative and generative benchmarks, acting as a robust and highly adaptable solution without compromising fundamental generation capabilities.",
+      "url": "http://arxiv.org/abs/2604.00983v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00983v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:49:50+00:00",
+      "source": "arxiv",
+      "title_cn": "ACT Now：通过自适应上下文集成立即预防大视觉语言模型的幻觉",
+      "summary_cn": "大视觉语言模型（LVLM）经常产生幻觉，而现有缓解方法大多是静态的，忽略了动态变化的上下文。本文提出ACT框架，通过在多个步骤中自适应地整合上下文信息，来主动预防和抑制模型产生幻觉。",
+      "score": 8,
+      "significance": "它为解决多模态大模型的幻觉问题提供了一种更动态、更主动的解决方案。"
+    },
+    {
+      "title": "DLWM: Dual Latent World Models enable Holistic Gaussian-centric Pre-training in Autonomous Driving",
+      "authors": [
+        "Yiyao Zhu",
+        "Ying Xue",
+        "Haiming Zhang",
+        "Guangfeng Jiang",
+        "Wending Zhou"
+      ],
+      "abstract": "Vision-based autonomous driving has gained much attention due to its low costs and excellent performance. Compared with dense BEV (Bird's Eye View) or sparse query models, Gaussian-centric method is a comprehensive yet sparse representation by describing scene with 3D semantic Gaussians. In this paper, we introduce DLWM, a novel paradigm with Dual Latent World Models specifically designed to enable holistic gaussian-centric pre-training in autonomous driving using two stages. In the first stage, DLWM predicts 3D Gaussians from queries by self-supervised reconstructing multi-view semantic and depth images. Equipped with fine-grained contextual features, in the second stage, two latent world models are trained separately for temporal feature learning, including Gaussian-flow-guided latent prediction for downstream occupancy perception and forecasting tasks, and ego-planning-guided latent prediction for motion planning. Extensive experiments in SurroundOcc and nuScenes benchmarks demonstrate that DLWM shows significant performance gains across Gaussian-centric 3D occupancy perception, 4D occupancy forecasting and motion planning tasks.",
+      "url": "http://arxiv.org/abs/2604.00969v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00969v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:41:21+00:00",
+      "source": "arxiv",
+      "title_cn": "DLWM：双重潜在世界模型赋能自动驾驶中以高斯为中心的整体预训练",
+      "summary_cn": "在自动驾驶领域，如何用稀疏而全面的方式表示场景是一个挑战。该研究提出了一种名为DLWM的双重潜在世界模型，专为以3D高斯为中心的场景表示方法设计，通过整体预训练来更有效地理解和预测驾驶环境。",
+      "score": 8,
+      "significance": "该研究为基于视觉的自动驾驶系统构建更高效、更全面的世界模型提供了新的预训练范式。"
+    },
+    {
+      "title": "Enhancing Gradient Inversion Attacks in Federated Learning via Hierarchical Feature Optimization",
+      "authors": [
+        "Hao Fang",
+        "Wenbo Yu",
+        "Bin Chen",
+        "Xuan Wang",
+        "Shu-Tao Xia"
+      ],
+      "abstract": "Federated Learning (FL) has emerged as a compelling paradigm for privacy-preserving distributed machine learning, allowing multiple clients to collaboratively train a global model by transmitting locally computed gradients to a central server without exposing their private data. Nonetheless, recent studies find that the gradients exchanged in the FL system are also vulnerable to privacy leakage, e.g., an attacker can invert shared gradients to reconstruct sensitive data by leveraging pre-trained generative adversarial networks (GAN) as prior knowledge. However, existing attacks simply perform gradient inversion in the latent space of the GAN model, which limits their expression ability and generalizability. To tackle these challenges, we propose \\textbf{G}radient \\textbf{I}nversion over \\textbf{F}eature \\textbf{D}omains (GIFD), which disassembles the GAN model and searches the hierarchical features of the intermediate layers. Instead of optimizing only over the initial latent code, we progressively change the optimized layer, from the initial latent space to intermediate layers closer to the output images. In addition, we design a regularizer to avoid unreal image generation by adding a small ${l_1}$ ball constraint to the searching range. We also extend GIFD to the out-of-distribution (OOD) setting, which weakens the assumption that the training sets of GANs and FL tasks obey the same data distribution. Furthermore, we consider the challenging OOD scenario of label inconsistency and propose a label mapping technique as an effective solution. Extensive experiments demonstrate that our method can achieve pixel-level reconstruction and outperform competitive baselines across a variety of FL scenarios.",
+      "url": "http://arxiv.org/abs/2604.00955v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00955v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:32:15+00:00",
+      "source": "arxiv",
+      "title_cn": "通过分层特征优化增强联邦学习中的梯度反演攻击",
+      "summary_cn": "联邦学习旨在保护数据隐私，但并非绝对安全，攻击者可通过梯度反演恢复出用户的私有数据。该研究提出一种新的分层特征优化攻击方法，能更精确地从梯度中重建原始图像，进一步揭示了联邦学习的隐私风险。",
+      "score": 7,
+      "significance": "通过展示更强大的攻击手段，该研究警示了现有联邦学习框架的隐私漏洞，推动了更强隐私保护技术的发展。"
+    },
+    {
+      "title": "YieldSAT: A Multimodal Benchmark Dataset for High-Resolution Crop Yield Prediction",
+      "authors": [
+        "Miro Miranda",
+        "Deepak Pathak",
+        "Patrick Helber",
+        "Benjamin Bischke",
+        "Hiba Najjar"
+      ],
+      "abstract": "Crop yield prediction requires substantial data to train scalable models. However, creating yield prediction datasets is constrained by high acquisition costs, heterogeneous data quality, and data privacy regulations. Consequently, existing datasets are scarce, low in quality, or limited to regional levels or single crop types, hindering the development of scalable data-driven solutions. In this work, we release YieldSAT, a large, high-quality, and multimodal dataset for high-resolution crop yield prediction. YieldSAT spans various climate zones across multiple countries, including Argentina, Brazil, Uruguay, and Germany, and includes major crop types, including corn, rapeseed, soybeans, and wheat, across 2,173 expert-curated fields. In total, over 12.2 million yield samples are available, each with a spatial resolution of 10 m. Each field is paired with multispectral satellite imagery, resulting in 113,555 labeled satellite images, complemented by auxiliary environmental data. We demonstrate the potential of large-scale and high-resolution crop yield prediction as a pixel regression task by comparing various deep learning models and data fusion architectures. Furthermore, we highlight open challenges arising from severe distribution shifts in the ground truth data under real-world conditions. To mitigate this, we explore a domain-informed Deep Ensemble approach that exhibits significant performance gains. The dataset is available at https://yieldsat.github.io/.",
+      "url": "http://arxiv.org/abs/2604.00940v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00940v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:13:23+00:00",
+      "source": "arxiv",
+      "title_cn": "YieldSAT：一个用于高分辨率作物产量预测的多模态基准数据集",
+      "summary_cn": "精准的作物产量预测需要大量数据，但现有数据集稀缺、质量不一且受隐私限制。本文发布了YieldSAT，一个大规模、高质量、多模态的公开基准数据集，旨在推动和评测更精准的作物产量预测模型。",
+      "score": 8,
+      "significance": "它为农业AI领域提供了一个宝贵的公开基准资源，将极大促进作物产量预测技术的发展。"
+    },
+    {
+      "title": "EmoScene: A Dual-space Dataset for Controllable Affective Image Generation",
+      "authors": [
+        "Li He",
+        "Longtai Zhang",
+        "Wenqiang Zhang",
+        "Yan Wang",
+        "Lizhe Qi"
+      ],
+      "abstract": "Text-to-image diffusion models have achieved high visual fidelity, yet precise control over scene semantics and fine-grained affective tone remains challenging. Human visual affect arises from the rapid integration of contextual meaning, including valence, arousal, and dominance, with perceptual cues such as color harmony, luminance contrast, texture variation, curvature, and spatial layout. However, current text-to-image models rarely represent affective and perceptual factors within a unified representation, which limits their ability to synthesize scenes with coherent and nuanced emotional intent. To address this gap, we construct EmoScene, a large-scale dual-space emotion dataset that jointly encodes affective dimensions and perceptual attributes, with contextual semantics provided as supporting annotations. EmoScene contains 1.2M images across more than three hundred real-world scene categories, each annotated with discrete emotion labels, continuous VAD values, perceptual descriptors and textual captions. Multi-space analyses reveal how discrete emotions occupy the VAD space and how affect systematically correlates with scene-level perceptual factors. To benchmark EmoScene, we provide a lightweight reference baseline that injects dual-space controls into a frozen diffusion backbone via shallow cross-attention modulation, serving as a reproducible probe of affect controllability enabled by dual-space supervision.",
+      "url": "http://arxiv.org/abs/2604.00933v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00933v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-01T14:10:23+00:00",
+      "source": "arxiv",
+      "title_cn": "EmoScene：一个用于可控情感图像生成的双空间数据集",
+      "summary_cn": "当前的文生图模型虽然效果逼真，但难以精确控制生成图像的精细情感氛围。该研究创建了EmoScene数据集，它将情感的上下文意义与视觉感知线索分离开来，旨在实现对生成图像情感的更精准控制。",
+      "score": 8,
+      "significance": "该数据集为训练能够理解并生成具有特定、细腻情感的图像模型提供了基础。"
+    },
+    {
+      "title": "Autoregressive Appearance Prediction for 3D Gaussian Avatars",
+      "authors": [
+        "Michael Steiner",
+        "Zhang Chen",
+        "Alexander Richard",
+        "Vasu Agrawal",
+        "Markus Steinberger"
+      ],
+      "abstract": "A photorealistic and immersive human avatar experience demands capturing fine, person-specific details such as cloth and hair dynamics, subtle facial expressions, and characteristic motion patterns. Achieving this requires large, high-quality datasets, which often introduce ambiguities and spurious correlations when very similar poses correspond to different appearances. Models that fit these details during training can overfit and produce unstable, abrupt appearance changes for novel poses. We propose a 3D Gaussian Splatting avatar model with a spatial MLP backbone that is conditioned on both pose and an appearance latent. The latent is learned during training by an encoder, yielding a compact representation that improves reconstruction quality and helps disambiguate pose-driven renderings. At driving time, our predictor autoregressively infers the latent, producing temporally smooth appearance evolution and improved stability. Overall, our method delivers a robust and practical path to high-fidelity, stable avatar driving.",
+      "url": "http://arxiv.org/abs/2604.00928v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.00928v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-04-01T14:07:14+00:00",
+      "source": "arxiv",
+      "title_cn": "用于3D高斯化身的外观自回归预测",
+      "summary_cn": "创建逼真的数字人化身需要捕捉布料、头发动态等精细细节，但训练数据中的模糊性是一大挑战。该研究提出一种自回归预测方法，用于处理3D高斯化身的外观，能更好地学习和生成随时间变化的、具有个人特性的动态细节。",
+      "score": 9,
+      "significance": "它为创建具有逼真动态效果（如衣物和头发飘动）的下一代数字人化身技术提供了关键方案。"
+    }
+  ]
+}
