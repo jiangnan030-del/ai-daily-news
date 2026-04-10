@@ -1,0 +1,751 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-10T09:29:26.848025+08:00",
+  "github_trending": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 44620,
+      "forks": 5738,
+      "language": "Python",
+      "stars_today": 6485,
+      "source": "github_trending",
+      "summary_cn": "一个开源的 AI 智能体框架，其设计理念是让智能体能够通过与用户的交互和反馈不断学习和进化。它旨在模拟人类的认知过程，通过记忆、学习和推理能力，成为一个能与你共同成长的个性化助手。该项目因其新颖的“成长型”智能体概念和巨大的潜力而备受关注。",
+      "score": 10,
+      "category": "Agent",
+      "one_liner": "一个能与你共同成长的开源智能体，让 AI 协作更上一层楼。"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 143775,
+      "forks": 12288,
+      "language": "Shell",
+      "stars_today": 2299,
+      "source": "github_trending",
+      "summary_cn": "一个旨在解决当前 AI 智能体开发混乱现状的框架和软件开发方法论。它提出了一套名为“Agentic Skills Framework”的规范，帮助开发者构建更可靠、可预测和可维护的智能体系统。对于希望将 AI 智能体应用于严肃软件工程项目的团队来说，这是一个极具价值的参考。",
+      "score": 10,
+      "category": "框架",
+      "one_liner": "一套旨在让 AI 智能体开发变得可靠、可控的全新软件开发方法论。"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 10488,
+      "forks": 703,
+      "language": "",
+      "stars_today": 1364,
+      "source": "github_trending",
+      "summary_cn": "该项目将 AI 大神 Andrej Karpathy 关于大型语言模型（LLM）在编码时常见陷阱的观察，提炼成一个单独的 CLAUDE.md 文件。通过将其作为上下文提供给 Claude，可以显著改善其代码生成行为，避免常见错误。这是一个简单、巧妙且极其有效的提示工程实践，适用于所有使用 Claude 进行编程的开发者。",
+      "score": 9,
+      "category": "教程",
+      "one_liner": "借鉴 Karpathy 的经验，用一个文件教会 Claude 如何更专业地写代码。"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 14900,
+      "forks": 1990,
+      "language": "Python",
+      "stars_today": 1310,
+      "source": "github_trending",
+      "summary_cn": "由香港大学数据科学学院推出的“智能体原生个性化学习助理”。该项目利用 AI 智能体技术，为学生提供量身定制的学习计划、内容讲解和问题解答，旨在实现真正的因材施教。它展示了 AI Agent 在教育领域的巨大应用潜力，是 AI+教育方向的标杆性项目。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "港大出品，专为个人打造的 AI 智能体学习助手，实现真正的个性化教育。"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 13813,
+      "forks": 1157,
+      "language": "Java",
+      "stars_today": 1124,
+      "source": "github_trending",
+      "summary_cn": "一个专为 AI 应用设计的开源 PDF 解析工具，旨在解决从 PDF 中提取高质量、结构化数据的难题。它能自动化处理复杂的 PDF 文档，将其转换为 AI 模型易于使用的格式，是构建 RAG（检索增强生成）系统和数据处理流水线的关键组件。对于需要处理大量文档的 AI 开发者来说非常实用。",
+      "score": 9,
+      "category": "数据",
+      "one_liner": "开源的 PDF 解析利器，能自动将复杂的 PDF 转换为 AI 可用的结构化数据。"
+    },
+    {
+      "name": "TheCraigHewitt/seomachine",
+      "url": "https://github.com/TheCraigHewitt/seomachine",
+      "description": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.",
+      "stars": 5213,
+      "forks": 759,
+      "language": "Python",
+      "stars_today": 725,
+      "source": "github_trending",
+      "summary_cn": "一个专门为 Claude 模型打造的 SEO 内容创作工作空间。它将内容研究、写作、分析和优化等步骤系统化，帮助用户高效生成符合 SEO 标准的长篇博客文章。该项目为内容创作者和营销人员提供了一套完整的 AI 辅助工作流，是 LLM 在垂直领域应用的优秀范例。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "专为 Claude 设计的 SEO 内容创作工作台，自动化生成高质量、高排名的博客文章。"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "description": "An AI Hedge Fund Team",
+      "stars": 50958,
+      "forks": 8831,
+      "language": "Python",
+      "stars_today": 428,
+      "source": "github_trending",
+      "summary_cn": "一个雄心勃勃的项目，旨在利用 AI 构建一个完整的对冲基金团队。该项目通过多个 AI 智能体分别扮演分析师、交易员、风控官等角色，协同完成市场分析、策略制定和交易执行。它为探索 AI 在金融量化交易领域的应用提供了一个有趣的开源实现。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "用 AI 组建一个完整的对冲基金团队，探索算法交易的未来。"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "stars": 130968,
+      "forks": 18565,
+      "language": "Python",
+      "stars_today": 220,
+      "source": "github_trending",
+      "summary_cn": "一个非常受欢迎的开源 AI Web 界面，以其友好的用户体验和强大的兼容性著称。它支持 Ollama、OpenAI API 等多种后端，让用户可以轻松地在本地或云端部署和管理自己的大模型聊天应用。对于希望拥有一个私有化、可定制的 ChatGPT 界面的用户来说，这是一个绝佳选择。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "最好用的本地 AI 模型 Web 界面之一，轻松管理和使用 Ollama 等多种大模型。"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "stars": 38042,
+      "forks": 3398,
+      "language": "Python",
+      "stars_today": 214,
+      "source": "github_trending",
+      "summary_cn": "微软官方发布的 1-bit 大语言模型推理框架。该项目是 BitNet 论文的官方实现，旨在将 LLM 的权重参数量化到 1-bit，从而极大地降低模型的内存占用和计算成本，让在资源受限设备上运行高性能大模型成为可能。这是 LLM 模型效率优化的一个重要里程碑。",
+      "score": 10,
+      "category": "LLM",
+      "one_liner": "微软官方出品，让 1-bit 大语言模型的高效推理成为现实。"
+    },
+    {
+      "name": "atilaahmettaner/tradingview-mcp",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Open-source AI trading infrastructure.",
+      "stars": 1471,
+      "forks": 328,
+      "language": "Python",
+      "stars_today": 201,
+      "source": "github_trending",
+      "summary_cn": "一个功能强大的开源 AI 交易基础设施，集成了实时加密货币和股票筛选、高级技术指标分析等功能。该项目亮点是原生集成了 Claude 桌面版，利用 AI 进行市场分析和策略生成，并支持币安、KuCoin 等多个交易所。它为量化交易爱好者提供了一套完整的现代化工具链。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "集成了 Claude 的开源 AI 交易基础设施，为量化交易者赋能。"
+    },
+    {
+      "name": "YishenTu/claudian",
+      "url": "https://github.com/YishenTu/claudian",
+      "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": 6842,
+      "forks": 401,
+      "language": "TypeScript",
+      "stars_today": 200,
+      "source": "github_trending",
+      "summary_cn": "一款将 Claude Code 无缝嵌入到知名笔记软件 Obsidian 中的插件。它让用户可以在自己的知识库中直接与 Claude 互动，将其作为一个强大的 AI 协作者，用于写作、编程、研究和头脑风暴。这个项目极大地增强了 Obsidian 的能力，是知识工作者的效率神器。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "将 Claude 无缝嵌入 Obsidian，让你的知识库拥有一个强大的 AI 协作者。"
+    },
+    {
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "stars": 14429,
+      "forks": 2465,
+      "language": "TypeScript",
+      "stars_today": 185,
+      "source": "github_trending",
+      "summary_cn": "首个开源的 AI 编码“束具”（harness）构建器，旨在解决 AI 代码生成中的不确定性和不可复现性问题。通过定义确定性的流程和约束，Archon 可以引导 AI 更可靠地完成复杂的编码任务。这对于将 AI 编程能力集成到自动化软件开发流程中至关重要。",
+      "score": 9,
+      "category": "框架",
+      "one_liner": "首个开源 AI 编码束具构建器，让 AI 生成的代码可预测、可复现。"
+    },
+    {
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 961,
+      "forks": 62,
+      "language": "Python",
+      "stars_today": 115,
+      "source": "github_trending",
+      "summary_cn": "一种针对大模型推理加速的新技术，结合了块扩散（Block Diffusion）和闪存推测解码（Flash Speculative Decoding）。该项目是相关论文的实现，旨在通过并行化和优化的解码策略，进一步提升 LLM 的生成速度。对于追求极致推理性能的研究者和工程师来说，这是一个值得关注的前沿技术。",
+      "score": 8,
+      "category": "论文实现",
+      "one_liner": "通过块扩散和闪存推测解码技术，为大模型推理再次提速。"
+    },
+    {
+      "name": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+      "stars": 44987,
+      "forks": 16845,
+      "language": "Python",
+      "stars_today": 30,
+      "source": "github_trending",
+      "summary_cn": "一个非常成熟和强大的开源工作流自动化平台，由 Apache 基金会维护。它允许用户以编程方式（通常是 Python）来创建、调度和监控复杂的数据管道和工作流。作为数据工程领域的基石之一，Airflow 在企业级数据处理和 ETL 任务中被广泛应用。",
+      "score": 7,
+      "category": "框架",
+      "one_liner": "久经考验的工作流自动化平台，以编程方式定义、调度和监控复杂任务。"
+    },
+    {
+      "name": "huggingface/skills",
+      "url": "https://github.com/huggingface/skills",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "stars": 10123,
+      "forks": 626,
+      "language": "Python",
+      "stars_today": 25,
+      "source": "github_trending",
+      "summary_cn": "Hugging Face 官方推出的项目，旨在为 AI 智能体赋予使用 Hugging Face 生态系统中海量模型和工具的能力。通过这个“技能”库，开发者可以轻松地让自己的 Agent 调用各种模型来完成特定任务（如图像生成、文本摘要等）。这是扩展 Agent 能力、构建更强大 AI 应用的关键一步。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "Hugging Face 官方出品，让你的智能体轻松调用海量模型和工具。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Show HN: Is Hormuz open yet?",
+      "url": "https://www.ishormuzopenyet.com/",
+      "score": 9,
+      "comments": 197,
+      "author": "anonfunction",
+      "time": "2026-04-08T21:33:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47696562",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 霍尔木兹海峡现在开放了吗？",
+      "summary_cn": "一位开发者创建了一个网站，用于实时追踪关键航运要道——霍尔木兹海峡的通行状态，该项目在当前地缘政治背景下引发了广泛关注。",
+      "category": "开源项目"
+    },
+    {
+      "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+      "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+      "score": 8,
+      "comments": 194,
+      "author": "nickvec",
+      "time": "2026-04-08T17:44:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47693679",
+      "source": "hacker_news",
+      "title_cn": "我等了一个多月，Anthropic 仍未回应我的账单问题",
+      "summary_cn": "一位用户发文抱怨，其账单问题提交给 Anthropic 一个多月后仍未得到解决，引发了社区对大型 AI 公司客户支持缺失的激烈讨论。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Claude mixes up who said what",
+      "url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
+      "score": 9,
+      "comments": 324,
+      "author": "sixhobbits",
+      "time": "2026-04-09T09:25:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47701233",
+      "source": "hacker_news",
+      "title_cn": "Claude 模型混淆对话者身份，这可不是小问题",
+      "summary_cn": "有用户发现，Anthropic 的 Claude 模型在处理对话时会搞错谁说了什么，这暴露了其在理解上下文和区分说话者方面的严重缺陷。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Muse Spark: Scaling towards personal superintelligence",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+      "score": 10,
+      "comments": 366,
+      "author": "chabons",
+      "time": "2026-04-08T16:01:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47692043",
+      "source": "hacker_news",
+      "title_cn": "Meta 发布 Muse Spark：向个人化超级智能迈进",
+      "summary_cn": "Meta AI 团队发布了名为 Muse Spark 的新项目，旨在通过扩展模型能力，探索实现个人化超级智能的路径。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Reallocating $100/Month Claude Code Spend to Zed and OpenRouter",
+      "url": "https://braw.dev/blog/2026-04-06-reallocating-100-month-claude-spend/",
+      "score": 7,
+      "comments": 199,
+      "author": "kisamoto",
+      "time": "2026-04-09T08:55:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47700972",
+      "source": "hacker_news",
+      "title_cn": "我把每月 100 美元的 Claude 编程预算，转投给了 Zed 和 OpenRouter",
+      "summary_cn": "一位开发者分享了自己停止使用 Claude 进行编程，并将其每月 100 美元的预算重新分配给 Zed 编辑器和 OpenRouter 的决策过程与理由。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "The Vercel plugin on Claude Code wants to read your prompts",
+      "url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+      "score": 7,
+      "comments": 101,
+      "author": "akshay2603",
+      "time": "2026-04-09T15:17:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47704881",
+      "source": "hacker_news",
+      "title_cn": "Claude Code 中的 Vercel 插件想要读取你的提示词",
+      "summary_cn": "有开发者发现，集成在 Claude Code 中的 Vercel 插件会收集用户的提示词（Prompts），引发了关于代码和数据隐私的担忧。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Claude Managed Agents",
+      "url": "https://claude.com/blog/claude-managed-agents",
+      "score": 6,
+      "comments": 83,
+      "author": "adocomplete",
+      "time": "2026-04-08T17:04:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47693047",
+      "source": "hacker_news",
+      "title_cn": "Anthropic 推出 Claude Managed Agents",
+      "summary_cn": "Anthropic 公司发布了名为“Claude Managed Agents”的新产品，旨在为企业提供可管理的、用于执行特定任务的 AI 智能体。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Show HN: CSS Studio. Design by hand, code by agent",
+      "url": "https://cssstudio.ai",
+      "score": 6,
+      "comments": 94,
+      "author": "SirHound",
+      "time": "2026-04-09T11:23:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47702196",
+      "source": "hacker_news",
+      "title_cn": "Show HN: CSS Studio - 手动设计，AI 智能体生成代码",
+      "summary_cn": "CSS Studio 是一个新工具，它允许设计师通过可视化操作进行界面设计，然后由 AI 智能体自动生成相应的 CSS 代码。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Ask HN: What are you building that's not AI related?",
+      "url": "https://news.ycombinator.com/item?id=47700460",
+      "score": 5,
+      "comments": 140,
+      "author": "meander_water",
+      "time": "2026-04-09T07:39:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47700460",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: 除了 AI，你还在开发什么？",
+      "summary_cn": "在 AI 热潮之下，Hacker News 社区发起讨论，询问开发者们正在从事哪些与 AI 无关的项目，展示了科技领域的多元化创新。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "score": 7,
+      "comments": 42,
+      "author": "_tk_",
+      "time": "2026-04-09T20:10:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47709130",
+      "source": "hacker_news",
+      "title_cn": "逆向工程 Gemini 的 SynthID 检测机制",
+      "summary_cn": "一个 GitHub 开源项目分享了对谷歌 Gemini 模型中用于检测 AI 生成内容的 SynthID 水印技术的逆向工程分析。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "score": 5,
+      "comments": 42,
+      "author": "stopachka",
+      "time": "2026-04-09T18:30:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47707632",
+      "source": "hacker_news",
+      "title_cn": "Instant 1.0：一个为 AI 编码应用设计的后端",
+      "summary_cn": "Instant 1.0 发布，这是一个专为 AI 辅助或 AI 生成代码的应用而设计的后端服务，文章详细介绍了其架构理念。",
+      "category": "产品发布"
+    },
+    {
+      "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+      "url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
+      "score": 6,
+      "comments": 73,
+      "author": "gardaani",
+      "time": "2026-04-09T03:51:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47699086",
+      "source": "hacker_news",
+      "title_cn": "AI 编码工具兴起，App Store 新应用数量激增 84%",
+      "summary_cn": "报告显示，随着 AI 编码工具的普及，苹果 App Store 的新应用提交量飙升了 84%，表明 AI 正在显著降低开发门槛。",
+      "category": "行业动态"
+    },
+    {
+      "title": "OpenAI puts Stargate UK on ice, blames energy costs and red tape",
+      "url": "https://www.theregister.com/2026/04/09/openai_puts_stargate_uk_on/",
+      "score": 5,
+      "comments": 34,
+      "author": "Bender",
+      "time": "2026-04-09T19:29:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47708593",
+      "source": "hacker_news",
+      "title_cn": "因能源成本和繁琐程序，OpenAI 搁置英国“星际之门”项目",
+      "summary_cn": "据报道，OpenAI 已暂停其在英国的“星际之门”超级计算机项目，主要原因是高昂的能源成本和当地的官僚主义。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+      "url": "https://github.com/onesuper/tui-use",
+      "score": 6,
+      "comments": 37,
+      "author": "dreamsome",
+      "time": "2026-04-08T16:41:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47692661",
+      "source": "hacker_news",
+      "title_cn": "Show HN: TUI-use - 让 AI 智能体控制交互式终端程序",
+      "summary_cn": "TUI-use 是一个新的开源工具，它能让 AI 智能体像人类一样操作和控制终端中的文本用户界面（TUI）程序。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
+      "url": "https://www.relvy.ai",
+      "score": 4,
+      "comments": 22,
+      "author": "behat",
+      "time": "2026-04-09T12:11:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47702647",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Relvy (YC F24) - 自动化 On-call 应急手册",
+      "summary_cn": "Y Combinator 孵化的初创公司 Relvy 发布其产品，该产品可以为技术团队自动化生成和执行 On-call 应急预案（Runbooks）。",
+      "category": "产品发布"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "ProMedical: Hierarchical Fine-Grained Criteria Modeling for Medical LLM Alignment via Explicit Injection",
+      "authors": [
+        "He Geng",
+        "Yangmin Huang",
+        "Lixian Lai",
+        "Qianyun Du",
+        "Hui Chu"
+      ],
+      "abstract": "Aligning Large Language Models (LLMs) with high-stakes medical standards remains a significant challenge, primarily due to the dissonance between coarse-grained preference signals and the complex, multi-dimensional nature of clinical protocols. To bridge this gap, we introduce ProMedical, a unified alignment framework grounded in fine-grained clinical criteria. We first construct ProMedical-Preference-50k, a dataset generated via a human-in-the-loop pipeline that augments medical instructions with rigorous, physician-derived rubrics. Leveraging this corpus, we propose the Explicit Criteria Injection paradigm to train a multi-dimensional reward model. Unlike traditional scalar reward models, our approach explicitly disentangles safety constraints from general proficiency, enabling precise guidance during reinforcement learning. To rigorously validate this framework, we establish ProMedical-Bench, a held-out evaluation suite anchored by double-blind expert adjudication. Empirical evaluations demonstrate that optimizing the Qwen3-8B base model via ProMedical-RM-guided GRPO yields substantial gains, improving overall accuracy by 22.3% and safety compliance by 21.7%, effectively rivaling proprietary frontier models. Furthermore, the aligned policy generalizes robustly to external benchmarks, demonstrating performance comparable to state-of-the-art models on UltraMedical. We publicly release our datasets, reward models, and benchmarks to facilitate reproducible research in safety-aware medical alignment.",
+      "url": "http://arxiv.org/abs/2604.08326v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08326v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-09T14:57:33+00:00",
+      "source": "arxiv",
+      "title_cn": "ProMedical：通过显式注入实现分层细粒度标准建模，以对齐医疗大语言模型",
+      "summary_cn": "医疗大模型的输出常与复杂的临床标准不符，因为其收到的反馈信号过于粗略。该研究提出了 ProMedical 框架，通过构建分层、细粒度的医疗标准，并将其显式注入模型中，从而更精确地引导模型对齐，提升其在医疗领域的可靠性。",
+      "score": 9,
+      "significance": "该研究为解决大模型在医疗等高风险领域“胡说八道”的问题提供了新思路，有望提升AI医生的专业性和安全性。"
+    },
+    {
+      "title": "U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations",
+      "authors": [
+        "Angeliki Dimitriou",
+        "Nikolaos Chaidos",
+        "Maria Lymperaiou",
+        "Giorgos Filandrianos",
+        "Giorgos Stamou"
+      ],
+      "abstract": "As AI models grow more complex, explainability is essential for building trust, yet concept-based counterfactual methods still face a trade-off between expressivity and efficiency. Representing underlying concepts as atomic sets is fast but misses relational context, whereas full graph representations are more faithful but require solving the NP-hard Graph Edit Distance (GED) problem. We propose U-CECE, a unified, model-agnostic multi-resolution framework for conceptual counterfactual explanations that adapts to data regime and compute budget. U-CECE spans three levels of expressivity: atomic concepts for broad explanations, relational sets-of-sets for simple interactions, and structural graphs for full semantic structure. At the structural level, both a precision-oriented transductive mode based on supervised Graph Neural Networks (GNNs) and a scalable inductive mode based on unsupervised graph autoencoders (GAEs) are supported. Experiments on the structurally divergent CUB and Visual Genome datasets characterize the efficiency-expressivity trade-off across levels, while human surveys and LVLM-based evaluation show that the retrieved structural counterfactuals are semantically equivalent to, and often preferred over, exact GED-based ground-truth explanations.",
+      "url": "http://arxiv.org/abs/2604.08295v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08295v1",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:30:00+00:00",
+      "source": "arxiv",
+      "title_cn": "U-CECE：一个用于概念反事实解释的通用多分辨率框架",
+      "summary_cn": "当前AI模型的可解释性方法难以兼顾解释的丰富性和效率。该研究提出了 U-CECE 框架，它通过多分辨率的方式来生成基于概念的反事实解释，旨在平衡解释的深度和计算速度，让人们更容易理解AI的决策逻辑。",
+      "score": 8,
+      "significance": "它为开发既高效又深刻的AI可解释性工具提供了新的框架，有助于增强我们对复杂模型的信任。"
+    },
+    {
+      "title": "SeLaR: Selective Latent Reasoning in Large Language Models",
+      "authors": [
+        "Renyu Fu",
+        "Guibo Luo"
+      ],
+      "abstract": "Chain-of-Thought (CoT) has become a cornerstone of reasoning in large language models, yet its effectiveness is constrained by the limited expressiveness of discrete token sampling. Recent latent reasoning approaches attempt to alleviate this limitation by replacing discrete tokens with soft embeddings (probability-weighted mixtures of token embeddings) or hidden states, but they commonly suffer from two issues: (1) global activation injects perturbations into high-confidence steps, impairing reasoning stability; and (2) soft embeddings quickly collapse toward the highest-probability token, limiting exploration of alternative trajectories. To address these challenges, we propose SeLaR (Selective Latent Reasoning), a lightweight and training-free framework. SeLaR introduces an entropy-gated mechanism that activates soft embeddings only at low-confidence steps, while preserving discrete decoding at high-confidence steps. Additionally, we propose an entropy-aware contrastive regularization that pushes soft embeddings away from the dominant (highest-probability) token's direction, encouraging sustained exploration of multiple latent reasoning paths. Experiments on five reasoning benchmarks demonstrate that SeLaR consistently outperforms standard CoT and state-of-the-art training-free methods.",
+      "url": "http://arxiv.org/abs/2604.08299v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08299v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T14:32:07+00:00",
+      "source": "arxiv",
+      "title_cn": "SeLaR：大语言模型中的选择性潜在推理",
+      "summary_cn": "传统“思维链”方法受限于离散的文本生成，限制了模型的推理能力。该研究提出 SeLaR 方法，通过在模型的“潜在空间”中进行选择性推理，而不是直接生成文本步骤，试图让模型进行更灵活、更深度的思考。",
+      "score": 9,
+      "significance": "该研究探索了超越“思维链”的下一代推理范式，可能从根本上提升大模型的复杂推理能力。"
+    },
+    {
+      "title": "Distributed Multi-Layer Editing for Rule-Level Knowledge in Large Language Models",
+      "authors": [
+        "Yating Wang",
+        "Wenting Zhao",
+        "Yaqi Zhao",
+        "Yongshun Gong",
+        "Yilong Yin"
+      ],
+      "abstract": "Large language models store not only isolated facts but also rules that support reasoning across symbolic expressions, natural language explanations, and concrete instances. Yet most model editing methods are built for fact-level knowledge, assuming that a target edit can be achieved through a localized intervention. This assumption does not hold for rule-level knowledge, where a single rule must remain consistent across multiple interdependent forms. We investigate this problem through a mechanistic study of rule-level knowledge editing. To support this study, we extend the RuleEdit benchmark from 80 to 200 manually verified rules spanning mathematics and physics. Fine-grained causal tracing reveals a form-specific organization of rule knowledge in transformer layers: formulas and descriptions are concentrated in earlier layers, while instances are more associated with middle layers. These results suggest that rule knowledge is not uniformly localized, and therefore cannot be reliably edited by a single-layer or contiguous-block intervention. Based on this insight, we propose Distributed Multi-Layer Editing (DMLE), which applies a shared early-layer update to formulas and descriptions and a separate middle-layer update to instances. While remaining competitive on standard editing metrics, DMLE achieves substantially stronger rule-level editing performance. On average, it improves instance portability and rule understanding by 13.91 and 50.19 percentage points, respectively, over the strongest baseline across GPT-J-6B, Qwen2.5-7B, Qwen2-7B, and LLaMA-3-8B. The code is available at https://github.com/Pepper66/DMLE.",
+      "url": "http://arxiv.org/abs/2604.08284v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08284v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T14:22:19+00:00",
+      "source": "arxiv",
+      "title_cn": "针对大语言模型中规则级知识的分布式多层编辑",
+      "summary_cn": "当前的模型编辑技术善于修改孤立事实，但难以修正更复杂的推理规则。该研究提出一种分布式多层编辑方法，它不再只修改模型的局部，而是在模型的多个层级上协同修改，从而更有效地更新和泛化规则类知识。",
+      "score": 8,
+      "significance": "它让实时“修正”大模型的逻辑和推理能力成为可能，是模型可维护性和可靠性的关键一步。"
+    },
+    {
+      "title": "When to Trust Tools? Adaptive Tool Trust Calibration For Tool-Integrated Math Reasoning",
+      "authors": [
+        "Ruotao Xu",
+        "Yixin Ji",
+        "Yu Luo",
+        "Jinpeng Li",
+        "Dong Li"
+      ],
+      "abstract": "Large reasoning models (LRMs) have achieved strong performance enhancement through scaling test time computation, but due to the inherent limitations of the underlying language models, they still have shortcomings in tasks that require precise computation and extensive knowledge reserves. Tool-Integrated Reasoning (TIR) has emerged as a promising paradigm that incorporates tool call and execution within the reasoning trajectory. Although recent works have released some powerful open-source TIR models, our analysis reveals that these models still suffer from critical deficiencies. We find that when the reasoning of the model conflicts with the tool results, the model tends to believe in its own reasoning. And there are cases where the tool results are correct but are ignored by the model, resulting in incorrect answers, which we define as \"Tool Ignored''. This indicates that the model does not know when to trust or ignore the tool. To overcome these limitations, We introduce Adaptive Tool Trust Calibration (ATTC), a novel framework that guides the model to adaptively choose to trust or ignore the tool results based on the confidence score of generated code blocks. The experimental results from various open-source TIR models of different sizes and across multiple datasets demonstrate that ATTC effectively reduces the \"Tool Ignored\" issue, resulting in a performance increase of 4.1% to 7.5%.",
+      "url": "http://arxiv.org/abs/2604.08281v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08281v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-09T14:14:37+00:00",
+      "source": "arxiv",
+      "title_cn": "何时信任工具？面向工具集成数学推理的自适应工具信任校准",
+      "summary_cn": "大模型在解决数学问题时常需借助计算器等外部工具，但它并不总能明智地决定何时使用工具。该研究提出一种自适应的工具信任校准机制，旨在教会模型动态判断何时应该依赖自身推理，何时应该求助于工具，从而提高解题的准确率。",
+      "score": 9,
+      "significance": "该研究解决了“AI+工具”协作中的核心信任问题，是让AI更智能、更可靠地使用外部工具的关键。"
+    },
+    {
+      "title": "DMax: Aggressive Parallel Decoding for dLLMs",
+      "authors": [
+        "Zigeng Chen",
+        "Gongfan Fang",
+        "Xinyin Ma",
+        "Ruonan Yu",
+        "Xinchao Wang"
+      ],
+      "abstract": "We present DMax, a new paradigm for efficient diffusion language models (dLLMs). It mitigates error accumulation in parallel decoding, enabling aggressive decoding parallelism while preserving generation quality. Unlike conventional masked dLLMs that decode through a binary mask-to-token transition, DMax reformulates decoding as a progressive self-refinement from mask embeddings to token embeddings. At the core of our approach is On-Policy Uniform Training, a novel training strategy that efficiently unifies masked and uniform dLLMs, equipping the model to recover clean tokens from both masked inputs and its own erroneous predictions. Building on this foundation, we further propose Soft Parallel Decoding. We represent each intermediate decoding state as an interpolation between the predicted token embedding and the mask embedding, enabling iterative self-revising in embedding space. Extensive experiments across a variety of benchmarks demonstrate the effectiveness of DMax. Compared with the original LLaDA-2.0-mini, our method improves TPF on GSM8K from 2.04 to 5.47 while preserving accuracy. On MBPP, it increases TPF from 2.71 to 5.86 while maintaining comparable performance. On two H200 GPUs, our model achieves an average of 1,338 TPS at batch size 1. Code is available at: https://github.com/czg1225/DMax",
+      "url": "http://arxiv.org/abs/2604.08302v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08302v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T14:35:42+00:00",
+      "source": "arxiv",
+      "title_cn": "DMax：用于扩散语言模型（dLLM）的激进并行解码",
+      "summary_cn": "扩散语言模型在并行解码时容易累积错误，导致生成速度和质量难以兼顾。该研究提出了 DMax 这一新解码范式，它通过改进解码机制，有效抑制了错误累积，从而可以在不牺牲生成质量的前提下，实现更“激进”的并行解码，大幅提升生成速度。",
+      "score": 8,
+      "significance": "它为非自回归的扩散语言模型解决了关键的解码效率问题，可能为大模型架构的未来发展开辟新路径。"
+    },
+    {
+      "title": "Lost in the Hype: Revealing and Dissecting the Performance Degradation of Medical Multimodal Large Language Models in Image Classification",
+      "authors": [
+        "Xun Zhu",
+        "Fanbin Mo",
+        "Xi Chen",
+        "Kaili Zheng",
+        "Shaoshuai Yang"
+      ],
+      "abstract": "The rise of multimodal large language models (MLLMs) has sparked an unprecedented wave of applications in the field of medical imaging analysis. However, as one of the earliest and most fundamental tasks integrated into this paradigm, medical image classification reveals a sobering reality: state-of-the-art medical MLLMs consistently underperform compared to traditional deep learning models, despite their overwhelming advantages in pre-training data and model parameters. This paradox prompts a critical rethinking: where exactly does the performance degradation originate? In this paper, we conduct extensive experiments on 14 open-source medical MLLMs across three representative image classification datasets. Moving beyond superficial performance benchmarking, we employ feature probing to track the information flow of visual features module-by-module and layer-by-layer throughout the entire MLLM pipeline, enabling explicit visualization of where and how classification signals are distorted, diluted, or overridden. As the first attempt to dissect classification performance degradation in medical MLLMs, our findings reveal four failure modes: 1) quality limitation in visual representation, 2) fidelity loss in connector projection, 3) comprehension deficit in LLM reasoning, and 4) misalignment of semantic mapping. Meanwhile, we introduce quantitative scores that characterize the healthiness of feature evolution, enabling principled comparisons across diverse MLLMs and datasets. Furthermore, we provide insightful discussions centered on the critical barriers that prevent current medical MLLMs from fulfilling their promised clinical potential. We hope that our work provokes rethinking within the community-highlighting that the road from high expectations to clinically deployable MLLMs remains long and winding.",
+      "url": "http://arxiv.org/abs/2604.08333v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08333v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-04-09T15:07:26+00:00",
+      "source": "arxiv",
+      "title_cn": "迷失在炒作中：揭示并剖析医疗多模态大模型在图像分类任务中的性能退化现象",
+      "summary_cn": "尽管医疗多模态大模型备受追捧，但在基础的医学图像分类任务上，其表现却不尽如人意，甚至出现性能退化。该研究通过深入分析，揭示了这一“反常”现象，并剖析了导致其性能下降的深层原因，为该领域敲响了警钟。",
+      "score": 9,
+      "significance": "它戳破了医疗多模态大模型的“泡沫”，促使研究界更清醒地认识当前模型的局限性并寻找真正有效的解决方案。"
+    },
+    {
+      "title": "Fundus-R1: Training a Fundus-Reading MLLM with Knowledge-Aware Reasoning on Public Data",
+      "authors": [
+        "Yuchuan Deng",
+        "Qijie Wei",
+        "Kaiheng Qian",
+        "Jiazhen Liu",
+        "Zijie Xin"
+      ],
+      "abstract": "Fundus imaging such as CFP, OCT and UWF is crucial for the early detection of retinal anomalies and diseases. Fundus image understanding, due to its knowledge-intensive nature, poses a challenging vision-language task. An emerging approach to addressing the task is to post-train a generic multimodal large language model (MLLM), either by supervised finetuning (SFT) or by reinforcement learning with verifiable rewards (RLVR), on a considerable amount of in-house samples paired with high-quality clinical reports. However, these valuable samples are not publicly accessible, which not only hinders reproducibility but also practically limits research to few players. To overcome the barrier, we make a novel attempt to train a reasoning-enhanced fundus-reading MLLM, which we term Fundus-R1, using exclusively public datasets, wherein over 94\\% of the data are annotated with only image-level labels. Our technical contributions are two-fold. First, we propose a RAG-based method for composing image-specific, knowledge-aware reasoning traces. Such auto-generated traces link visual findings identified by a generic MLLM to the image labels in terms of ophthalmic knowledge. Second, we enhance RLVR with a process reward that encourages self-consistency of the generated reasoning trace in each rollout. Extensive experiments on three fundus-reading benchmarks, i.e., FunBench, Omni-Fundus and GMAI-Fundus, show that Fundus-R1 clearly outperforms multiple baselines, including its generic counterpart (Qwen2.5-VL) and a stronger edition post-trained without using the generated traces. This work paves the way for training powerful fundus-reading MLLMs with publicly available data.",
+      "url": "http://arxiv.org/abs/2604.08322v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08322v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:55:22+00:00",
+      "source": "arxiv",
+      "title_cn": "Fundus-R1：基于公共数据和知识感知推理训练一个眼底读图多模态大模型",
+      "summary_cn": "解读眼底图像需要大量的专业知识，对AI模型构成了巨大挑战。该研究通过在公开数据集上对通用多模态模型进行二次训练，并融入“知识感知推理”能力，开发出专门用于眼底读图的 Fundus-R1 模型，旨在提升AI在眼科诊断中的准确性和可解释性。",
+      "score": 8,
+      "significance": "该研究展示了如何利用现有资源打造专业的医疗AI助手，为AI在特定专科领域的落地提供了范例。"
+    },
+    {
+      "title": "Weakly-Supervised Lung Nodule Segmentation via Training-Free Guidance of 3D Rectified Flow",
+      "authors": [
+        "Richard Petersen",
+        "Fredrik Kahl",
+        "Jennifer Alvén"
+      ],
+      "abstract": "Dense annotations, such as segmentation masks, are expensive and time-consuming to obtain, especially for 3D medical images where expert voxel-wise labeling is required. Weakly supervised approaches aim to address this limitation, but often rely on attribution-based methods that struggle to accurately capture small structures such as lung nodules. In this paper, we propose a weakly-supervised segmentation method for lung nodules by combining pretrained state-of-the-art rectified flow and predictor models in a plug-and-play manner. Our approach uses training-free guidance of a 3D rectified flow model, requiring only fine-tuning of the predictor using image-level labels and no retraining of the generative model. The proposed method produces improved-quality segmentations for two separate predictors, consistently detecting lung nodules of varying size and shapes. Experiments on LUNA16 demonstrate improvements over baseline methods, highlighting the potential of generative foundation models as tools for weakly supervised 3D medical image segmentation.",
+      "url": "http://arxiv.org/abs/2604.08313v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08313v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:46:14+00:00",
+      "source": "arxiv",
+      "title_cn": "基于3D校正流的免训练引导实现弱监督肺结节分割",
+      "summary_cn": "为3D医学图像（如肺部CT）进行像素级精准标注成本高昂。该研究提出一种新的弱监督分割方法，它利用“3D校正流”的免训练引导技术，仅需少量粗略标注就能生成精确的肺结节分割结果，大大降低了数据标注的门槛。",
+      "score": 9,
+      "significance": "它为解决医学影像AI“数据荒”的困境提供了新武器，有望加速AI辅助诊断技术的研发与应用。"
+    },
+    {
+      "title": "GroundingAnomaly: Spatially-Grounded Diffusion for Few-Shot Anomaly Synthesis",
+      "authors": [
+        "Yishen Liu",
+        "Hongcang Chen",
+        "Pengcheng Zhao",
+        "Yunfan Bao",
+        "Yuxi Tian"
+      ],
+      "abstract": "The performance of visual anomaly inspection in industrial quality control is often constrained by the scarcity of real anomalous samples. Consequently, anomaly synthesis techniques have been developed to enlarge training sets and enhance downstream inspection. However, existing methods either suffer from poor integration caused by inpainting or fail to provide accurate masks. To address these limitations, we propose GroundingAnomaly, a novel few-shot anomaly image generation framework. Our framework introduces a Spatial Conditioning Module that leverages per-pixel semantic maps to enable precise spatial control over the synthesized anomalies. Furthermore, a Gated Self-Attention Module is designed to inject conditioning tokens into a frozen U-Net via gated attention layers. This carefully preserves pretrained priors while ensuring stable few-shot adaptation. Extensive evaluations on the MVTec AD and VisA datasets demonstrate that GroundingAnomaly generates high-quality anomalies and achieves state-of-the-art performance across multiple downstream tasks, including anomaly detection, segmentation, and instance-level detection.",
+      "url": "http://arxiv.org/abs/2604.08301v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08301v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:34:50+00:00",
+      "source": "arxiv",
+      "title_cn": "GroundingAnomaly：用于小样本异常合成的空间定位扩散模型",
+      "summary_cn": "工业质检中的异常样本稀少，难以训练有效的检测模型。该研究提出 GroundingAnomaly 方法，利用一种可空间定位的扩散模型来合成异常样本，不仅能生成逼真的瑕疵，还能精确控制瑕疵出现的位置和形态，从而有效扩充训练数据。",
+      "score": 8,
+      "significance": "它解决了工业AI质检中“巧妇难为无米之炊”的难题，通过高质量数据合成提升了自动化检测的可靠性。"
+    },
+    {
+      "title": "Can Vision Language Models Judge Action Quality? An Empirical Evaluation",
+      "authors": [
+        "Miguel Monte e Freitas",
+        "Rui Henriques",
+        "Ricardo Rei",
+        "Pedro Henrique Martins"
+      ],
+      "abstract": "Action Quality Assessment (AQA) has broad applications in physical therapy, sports coaching, and competitive judging. Although Vision Language Models (VLMs) hold considerable promise for AQA, their actual performance in this domain remains largely uncharacterised. We present a comprehensive evaluation of state-of-the-art VLMs across activity domains (e.g. fitness, figure skating, diving), tasks, representations, and prompting strategies. Baseline results reveal that Gemini 3.1 Pro, Qwen3-VL and InternVL3.5 models perform only marginally above random chance, and although strategies such as incorporation of skeleton information, grounding instructions, reasoning structures and in-context learning lead to isolated gains, none is consistently effective. Analysis of prediction distributions uncovers two systematic biases: a tendency to predict correct execution regardless of visual evidence, and a sensitivity to superficial linguistic framing. Reformulating tasks contrastively to mitigate these biases yields minimal improvement, suggesting that the models' limitations go beyond these biases, pointing to a fundamental difficulty with fine-grained movement quality assessment. Our findings establish a rigorous baseline for future VLM-based AQA research and provide an actionable outline for failure modes requiring mitigation prior to reliable real-world deployment.",
+      "url": "http://arxiv.org/abs/2604.08294v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08294v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-09T14:29:19+00:00",
+      "source": "arxiv",
+      "title_cn": "视觉语言模型能判断动作质量吗？一项实证评估",
+      "summary_cn": "视觉语言模型（VLM）在体育、康复等领域的动作质量评估（AQA）方面潜力巨大，但其真实能力尚不明确。该研究进行了一项全面的实证评估，系统地测试了现有VLM在评判动作好坏方面的表现，揭示了它们在这一新兴应用领域的实际水平和局限。",
+      "score": 8,
+      "significance": "该研究首次系统性地检验了通用VLM在专业动作评估任务上的能力，为该技术从“看懂”到“看好”的跨越指明了方向。"
+    },
+    {
+      "title": "CAMotion: A High-Quality Benchmark for Camouflaged Moving Object Detection in the Wild",
+      "authors": [
+        "Siyuan Yao",
+        "Hao Sun",
+        "Ruiqi Yu",
+        "Xiwei Jiang",
+        "Wenqi Ren"
+      ],
+      "abstract": "Discovering camouflaged objects is a challenging task in computer vision due to the high similarity between camouflaged objects and their surroundings. While the problem of camouflaged object detection over sequential video frames has received increasing attention, the scale and diversity of existing video camouflaged object detection (VCOD) datasets are greatly limited, which hinders the deeper analysis and broader evaluation of recent deep learning-based algorithms with data-hungry training strategy. To break this bottleneck, in this paper, we construct CAMotion, a high-quality benchmark covers a wide range of species for camouflaged moving object detection in the wild. CAMotion comprises various sequences with multiple challenging attributes such as uncertain edge, occlusion, motion blur, and shape complexity, etc. The sequence annotation details and statistical distribution are presented from various perspectives, allowing CAMotion to provide in-depth analyses on the camouflaged object's motion characteristics in different challenging scenarios. Additionally, we conduct a comprehensive evaluation of existing SOTA models on CAMotion, and discuss the major challenges in VCOD task. The benchmark is available at https://www.camotion.focuslab.net.cn, we hope that our CAMotion can lead to further advancements in the research community.",
+      "url": "http://arxiv.org/abs/2604.08287v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08287v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:23:46+00:00",
+      "source": "arxiv",
+      "title_cn": "CAMotion：一个用于野外伪装移动物体检测的高质量基准数据集",
+      "summary_cn": "在视频中检测与环境融为一体的移动物体（如动物捕食）是一项极具挑战性的任务，但现有数据集规模和多样性不足。该研究发布了一个名为 CAMotion 的全新高质量基准数据集，旨在提供更丰富、更复杂的场景，以推动伪装移动物体检测技术的发展。",
+      "score": 7,
+      "significance": "它为计算机视觉领域一个极具挑战性的“找茬”任务提供了新的“考卷”，将催生更强大的动态伪装目标检测算法。"
+    },
+    {
+      "title": "Revisiting Radar Perception With Spectral Point Clouds",
+      "authors": [
+        "Hamza Alsharif",
+        "Jing Gu",
+        "Pavol Jancura",
+        "Satish Ravindran",
+        "Gijs Dubbelman"
+      ],
+      "abstract": "Radar perception models are trained with different inputs, from range-Doppler spectra to sparse point clouds. Dense spectra are assumed to outperform sparse point clouds, yet they can vary considerably across sensors and configurations, which hinders transfer. In this paper, we provide alternatives for incorporating spectral information into radar point clouds and show that, point clouds need not underperform compared to spectra. We introduce the spectral point cloud paradigm, where point clouds are treated as sparse, compressed representations of the radar spectra, and argue that, when enriched with spectral information, they serve as strong candidates for a unified input representation that is more robust against sensor-specific differences. We develop an experimental framework that compares spectral point cloud (PC) models at varying densities against a dense range-Doppler (RD) benchmark, and report the density levels where the PC configurations meet the performance of the RD benchmark. Furthermore, we experiment with two basic spectral enrichment approaches, that inject additional target-relevant information into the point clouds. Contrary to the common belief that the dense RD approach is superior, we show that point clouds can do just as well, and can surpass the RD benchmark when enrichment is applied. Spectral point clouds can therefore serve as strong candidates for unified radar perception, paving the way for future radar foundation models.",
+      "url": "http://arxiv.org/abs/2604.08282v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08282v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T14:19:09+00:00",
+      "source": "arxiv",
+      "title_cn": "使用谱点云重新审视雷达感知",
+      "summary_cn": "自动驾驶等领域的雷达感知模型常因输入数据格式（如密集频谱或稀疏点云）不同而难以通用。该研究提出一种名为“谱点云”的新型雷达数据表示方法，旨在结合不同输入的优点，以期在不牺牲性能的同时，提升雷达感知模型在不同传感器间的迁移能力。",
+      "score": 8,
+      "significance": "它为解决自动驾驶中雷达算法“水土不服”的问题提供了新思路，有助于开发更具普适性的感知系统。"
+    },
+    {
+      "title": "Multi-Modal Learning meets Genetic Programming: Analyzing Alignment in Latent Space Optimization",
+      "authors": [
+        "Benjamin Léger",
+        "Kazem Meidani",
+        "Christian Gagné"
+      ],
+      "abstract": "Symbolic regression (SR) aims to discover mathematical expressions from data, a task traditionally tackled using Genetic Programming (GP) through combinatorial search over symbolic structures. Latent Space Optimization (LSO) methods use neural encoders to map symbolic expressions into continuous spaces, transforming the combinatorial search into continuous optimization. SNIP (Meidani et al., 2024), a contrastive pre-training model inspired by CLIP, advances LSO by introducing a multi-modal approach: aligning symbolic and numeric encoders in a shared latent space to learn the phenotype-genotype mapping, enabling optimization in the numeric space to implicitly guide symbolic search. However, this relies on fine-grained cross-modal alignment, whereas literature on similar models like CLIP reveals that such an alignment is typically coarse-grained. In this paper, we investigate whether SNIP delivers on its promise of effective bi-modal optimization for SR. Our experiments show that: (1) cross-modal alignment does not improve during optimization, even as fitness increases, and (2) the alignment learned by SNIP is too coarse to efficiently conduct principled search in the symbolic space. These findings reveal that while multi-modal LSO holds significant potential for SR, effective alignment-guided optimization remains unrealized in practice, highlighting fine-grained alignment as a critical direction for future work.",
+      "url": "http://arxiv.org/abs/2604.08324v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08324v1",
+      "categories": [
+        "cs.NE",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T14:55:36+00:00",
+      "source": "arxiv",
+      "title_cn": "当多模态学习遇上遗传编程：分析潜在空间优化中的对齐问题",
+      "summary_cn": "符号回归（从数据中发现数学公式）是AI的一个经典难题，传统方法和新兴方法各有优劣。该研究将这个问题视为一个多模态学习任务，深入分析了神经网络构建的连续潜在空间与符号表达式的离散结构空间之间的“对齐”程度，试图融合二者之长。",
+      "score": 7,
+      "significance": "它在连接神经网络与符号推理两种范式上进行了探索，为实现更强大、更可解释的科学发现AI铺平了道路。"
+    },
+    {
+      "title": "HistDiT: A Structure-Aware Latent Conditional Diffusion Model for High-Fidelity Virtual Staining in Histopathology",
+      "authors": [
+        "Aasim Bin Saleem",
+        "Amr Ahmed",
+        "Ardhendu Behera",
+        "Hafeezullah Amin",
+        "Iman Yi Liao"
+      ],
+      "abstract": "Immunohistochemistry (IHC) is essential for assessing specific immune biomarkers like Human Epidermal growth-factor Receptor 2 (HER2) in breast cancer. However, the traditional protocols of obtaining IHC stains are resource-intensive, time-consuming, and prone to structural damages. Virtual staining has emerged as a scalable alternative, but it faces significant challenges in preserving fine-grained cellular structures while accurately translating biochemical expressions. Current state-of-the-art methods still rely on Generative Adversarial Networks (GANs) or standard convolutional U-Net diffusion models that often struggle with \"structure and staining trade-offs\". The generated samples are either structurally relevant but blurry, or texturally realistic but have artifacts that compromise their diagnostic use. In this paper, we introduce HistDiT, a novel latent conditional Diffusion Transformer (DiT) architecture that establishes a new benchmark for visual fidelity in virtual histological staining. The novelty introduced in this work is, a) the Dual-Stream Conditioning strategy that explicitly maintains a balance between spatial constraints via VAE-encoded latents and semantic phenotype guidance via UNI embeddings; b) the multi-objective loss function that contributes to sharper images with clear morphological structure; and c) the use of the Structural Correlation Metric (SCM) to focus on the core morphological structure for precise assessment of sample quality. Consequently, our model outperforms existing baselines, as demonstrated through rigorous quantitative and qualitative evaluations.",
+      "url": "http://arxiv.org/abs/2604.08305v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08305v1",
+      "categories": [
+        "eess.IV",
+        "cs.AI",
+        "cs.CV",
+        "cs.ET",
+        "cs.LG",
+        "q-bio.QM"
+      ],
+      "published": "2026-04-09T14:39:37+00:00",
+      "source": "arxiv",
+      "title_cn": "HistDiT：一种用于组织病理学高保真虚拟染色的结构感知潜在条件扩散模型",
+      "summary_cn": "传统的病理切片免疫组化（IHC）染色流程繁琐且昂贵。该研究提出 HistDiT 模型，利用先进的扩散模型技术进行“虚拟染色”，即通过计算将普通切片图像“染”成IHC染色图像，其“结构感知”特性确保了生成图像的高度保真和医学可用性。",
+      "score": 9,
+      "significance": "它有望用AI“虚拟染色”替代部分传统且昂贵的病理染色流程，是计算病理学领域的一大突破。"
+    }
+  ]
+}
