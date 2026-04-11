@@ -1,0 +1,744 @@
+{
+  "date": "2026-04-11",
+  "generated_at": "2026-04-11T09:24:14.926246+08:00",
+  "github_trending": [
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 52080,
+      "forks": 6772,
+      "language": "Python",
+      "stars_today": 7671,
+      "source": "github_trending",
+      "summary_cn": "Hermes Agent 是一个旨在与用户共同成长的个性化 AI 代理。它通过持续学习和适应用户的偏好与工作流，提供越来越智能和贴合需求的服务，适用于构建高级个人助理或自动化复杂任务。",
+      "score": 10,
+      "category": "Agent",
+      "one_liner": "打造你的专属进化型 AI 代理，让它与你一同成长。"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 145767,
+      "forks": 12497,
+      "language": "Shell",
+      "stars_today": 2150,
+      "source": "github_trending",
+      "summary_cn": "Superpowers 是一个面向 AI 代理的技能框架和软件开发方法论。它旨在将 AI 代理的能力系统化、标准化，使其能够更可靠、高效地参与到软件开发流程中，为开发者提供了一套可行的 AI 协作范式。",
+      "score": 9,
+      "category": "框架",
+      "one_liner": "一套让 AI 代理成为高效软件开发伙伴的实战方法论。"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "stars": 6110,
+      "forks": 751,
+      "language": "TypeScript",
+      "stars_today": 1506,
+      "source": "github_trending",
+      "summary_cn": "Multica 是一个开源的 AI 代理管理平台，旨在将独立的编码代理转变为协同工作的团队。用户可以通过该平台分配任务、跟踪进度并沉淀代理的技能，从而实现更复杂的软件工程自动化。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "将 AI 编码代理组成团队，像管理真人一样管理它们。"
+    },
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 11751,
+      "forks": 774,
+      "language": "",
+      "stars_today": 1450,
+      "source": "github_trending",
+      "summary_cn": "该项目是一个精炼的 CLAUDE.md 文件，它总结了 AI 大牛 Andrej Karpathy 关于大语言模型在编码时常见陷阱的观察。通过将这些经验注入到提示词中，可以显著改善 Claude 等模型在代码生成任务中的行为和质量。",
+      "score": 8,
+      "category": "教程",
+      "one_liner": "吸收 Karpathy 的编程心法，一键提升你的 Claude 编码能力。"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": 15989,
+      "forks": 2103,
+      "language": "Python",
+      "stars_today": 1424,
+      "source": "github_trending",
+      "summary_cn": "DeepTutor 是由香港大学团队开发的、基于 AI 代理技术的个性化学习助手。它旨在模拟一位深度导师，根据学生的学习进度和风格提供定制化的辅导和内容，开创了 AI 驱动的教育新模式。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "AI 变身私人深层导师，为你量身打造学习路径。"
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": 14801,
+      "forks": 1249,
+      "language": "Java",
+      "stars_today": 1306,
+      "source": "github_trending",
+      "summary_cn": "这是一个专为 AI 应用设计的开源 PDF 解析工具，致力于将复杂的 PDF 文档自动化地转换为结构化、可供模型使用的“AI-ready”数据。它解决了从非结构化文档中提取信息的痛点，尤其适用于构建 RAG 系统。",
+      "score": 8,
+      "category": "数据",
+      "one_liner": "轻松解锁 PDF 数据宝库，为你的 AI 模型提供高质量“食粮”。"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "description": "practice made claude perfect",
+      "stars": 35791,
+      "forks": 3373,
+      "language": "HTML",
+      "stars_today": 1251,
+      "source": "github_trending",
+      "summary_cn": "该项目是一份关于如何让 Claude 模型在编码任务中表现更出色的最佳实践指南。它通过大量的实例和技巧展示，帮助用户掌握与 Claude 高效协作的艺术，从而获得更高质量的代码输出。",
+      "score": 8,
+      "category": "教程",
+      "one_liner": "通过刻意练习，将 Claude 调教成你的编程“神队友”。"
+    },
+    {
+      "name": "coleam00/Archon",
+      "url": "https://github.com/coleam00/Archon",
+      "description": "The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.",
+      "stars": 15641,
+      "forks": 2548,
+      "language": "TypeScript",
+      "stars_today": 756,
+      "source": "github_trending",
+      "summary_cn": "Archon 是首个用于 AI 编码的开源“挽具”构建器，旨在解决 AI 生成代码的随机性和不可复现性问题。它通过提供一个结构化的测试和执行环境，让 AI 编码过程变得确定和可重复，是 AI 代理工程化的关键一步。",
+      "score": 9,
+      "category": "框架",
+      "one_liner": "给你的 AI 编码代理套上“挽具”，让代码生成不再“随心所欲”。"
+    },
+    {
+      "name": "rowboatlabs/rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "Open-source AI coworker, with memory",
+      "stars": 11740,
+      "forks": 1093,
+      "language": "TypeScript",
+      "stars_today": 507,
+      "source": "github_trending",
+      "summary_cn": "Rowboat 是一个具备记忆能力的开源 AI 同事。它能够记住过去的交互和上下文，从而在长期协作中提供更连贯、更有深度的帮助，旨在成为团队中一个真正有用的虚拟成员。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "一个拥有长期记忆的 AI 同事，再也不会忘记你说过的话。"
+    },
+    {
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
+      "stars": 60932,
+      "forks": 5248,
+      "language": "Python",
+      "stars_today": 292,
+      "source": "github_trending",
+      "summary_cn": "Unsloth Studio 提供了一个用户友好的 Web 界面，让用户可以在本地轻松训练和运行 Gemma 4、Qwen3.5 等主流开源大模型。它以其出色的内存优化和训练加速而闻名，极大地降低了个人开发者微调大模型的门槛。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "在你的电脑上，用图形界面轻松玩转大模型微调和推理。"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
+      "stars": 46434,
+      "forks": 5722,
+      "language": "Python",
+      "stars_today": 183,
+      "source": "github_trending",
+      "summary_cn": "Minimind 是一个教学项目，它展示了如何在短短 2 小时内，完全从零开始训练一个 6400 万参数的小型 GPT 模型。该项目通过简洁的代码和清晰的步骤，揭开了大模型训练的神秘面纱，非常适合想动手实践的初学者。",
+      "score": 8,
+      "category": "教程",
+      "one_liner": "2小时从零训练一个GPT，让你亲手体验创造“大模型”的乐趣。"
+    },
+    {
+      "name": "atilaahmettaner/tradingview-mcp",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
+      "description": "Real-time crypto & stock screening, advanced technical indicators, Bollinger Bands intelligence, candlestick patterns + native Claude Desktop integration. Multi-exchange (Binance, KuCoin, Bybit+). Open-source AI trading infrastructure.",
+      "stars": 1605,
+      "forks": 343,
+      "language": "Python",
+      "stars_today": 135,
+      "source": "github_trending",
+      "summary_cn": "这是一个开源的 AI 交易基础设施，集成了实时加密货币和股票筛选、高级技术指标分析以及与 Claude 桌面的原生集成。它支持多个主流交易所，为量化交易者和分析师提供了一套强大的 AI 辅助决策工具。",
+      "score": 7,
+      "category": "工具",
+      "one_liner": "集成 Claude 智能的开源量化交易工具，助你在市场中运筹帷幄。"
+    },
+    {
+      "name": "FloatingPragma/observer-patch-holography",
+      "url": "https://github.com/FloatingPragma/observer-patch-holography",
+      "description": "OPH is an active research program aiming to construct a fundamental theory of physics from observer consistency.",
+      "stars": 423,
+      "forks": 49,
+      "language": "Python",
+      "stars_today": 129,
+      "source": "github_trending",
+      "summary_cn": "这是一个旨在从“观察者一致性”出发，构建基本物理理论的前沿研究项目。它利用 Python 代码来探索和模拟其核心概念——“观察者补丁全息”（OPH），是计算机科学与理论物理交叉领域的一次大胆尝试。",
+      "score": 7,
+      "category": "论文实现",
+      "one_liner": "用代码探索宇宙的终极奥秘，一个关于物理学基本理论的研究项目。"
+    },
+    {
+      "name": "feast-dev/feast",
+      "url": "https://github.com/feast-dev/feast",
+      "description": "The Open Source Feature Store for AI/ML",
+      "stars": 6941,
+      "forks": 1294,
+      "language": "Python",
+      "stars_today": 16,
+      "source": "github_trending",
+      "summary_cn": "Feast 是一个领先的开源特征存储库，是 MLOps 领域的关键基础设施。它帮助团队管理、发现、共享和提供机器学习模型的特征数据，解决了从开发到生产环境中特征一致性的核心问题。",
+      "score": 7,
+      "category": "框架",
+      "one_liner": "专业的开源特征商店，管好你的机器学习“原料库”。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "score": 10,
+      "comments": 309,
+      "author": "smurda",
+      "time": "2026-04-10T13:08:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47717587",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 支持伊利诺伊州法案，旨在限制 AI 实验室的责任范围",
+      "summary_cn": "OpenAI 正在推动一项立法，该法案将为 AI 公司提供法律保护，使其在模型造成损害时免于承担责任，此举引发了关于 AI 责任和监管的激烈讨论。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Instant 1.0, a backend for AI-coded apps",
+      "url": "https://www.instantdb.com/essays/architecture",
+      "score": 8,
+      "comments": 110,
+      "author": "stopachka",
+      "time": "2026-04-09T18:30:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47707632",
+      "source": "hacker_news",
+      "title_cn": "Instant 1.0 发布：一个专为 AI 编码应用设计的后端",
+      "summary_cn": "Instant 1.0 是一个新型后端解决方案，旨在简化和加速由 AI 生成代码的应用的开发过程，其官网文章详细介绍了其架构设计。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Molotov cocktail is hurled at home of Sam Altman",
+      "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "score": 9,
+      "comments": 460,
+      "author": "enraged_camel",
+      "time": "2026-04-10T18:48:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47722096",
+      "source": "hacker_news",
+      "title_cn": "Sam Altman 住所遭人投掷莫洛托夫鸡尾酒",
+      "summary_cn": "OpenAI CEO Sam Altman 的家遭到暴力袭击，袭击者投掷了燃烧瓶。这一事件凸显了围绕 AI 发展的极端情绪和安全担忧。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Reverse engineering Gemini's SynthID detection",
+      "url": "https://github.com/aloshdenny/reverse-SynthID",
+      "score": 8,
+      "comments": 53,
+      "author": "_tk_",
+      "time": "2026-04-09T20:10:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47709130",
+      "source": "hacker_news",
+      "title_cn": "逆向工程解析 Gemini 的 SynthID 检测机制",
+      "summary_cn": "这是一个 GitHub 开源项目，旨在通过逆向工程来理解和复现谷歌 Gemini 模型用于检测 AI 生成内容的 SynthID 水印技术。",
+      "category": "技术突破"
+    },
+    {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "score": 9,
+      "comments": 123,
+      "author": "hmokiguess",
+      "time": "2026-04-10T18:35:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47721953",
+      "source": "hacker_news",
+      "title_cn": "Linux 内核社区发布关于使用 AI 助手贡献代码的指南",
+      "summary_cn": "Linux 内核项目在其官方文档中增加了新章节，明确了贡献者在使用 AI 编程助手（如 Copilot）时应遵循的规则和期望。",
+      "category": "开源项目"
+    },
+    {
+      "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+      "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+      "score": 8,
+      "comments": 91,
+      "author": "ascold",
+      "time": "2026-04-10T13:47:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47718114",
+      "source": "hacker_news",
+      "title_cn": "美国召集银行高管，商讨 Anthropic 最新 AI 模型带来的网络安全风险",
+      "summary_cn": "美国政府机构召集了各大银行的负责人，讨论由 Anthropic 公司最新 AI 模型可能引发的网络安全威胁，并评估其对金融系统的潜在影响。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: A WYSIWYG word processor in Python",
+      "url": "https://codeberg.org/chrisecker/miniword",
+      "score": 6,
+      "comments": 26,
+      "author": "chrisecker",
+      "time": "2026-04-10T18:40:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47722011",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 一个用 Python 实现的所见即所得文字处理器",
+      "summary_cn": "开发者展示了一个名为 miniword 的开源项目，这是一个使用 Python 构建的轻量级所见即所得（WYSIWYG）文字处理器。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "url": "https://twill.ai",
+      "score": 7,
+      "comments": 46,
+      "author": "danoandco",
+      "time": "2026-04-10T16:22:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47720418",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Twill.ai (YC S25) - 将任务委托给云端 AI 代理，自动生成代码合并请求 (PR)",
+      "summary_cn": "YC 孵化的初创公司 Twill.ai 发布其产品，提供一个能将开发任务委托给云端 AI 代理的服务，这些代理会自动完成编码并以 PR 的形式返回结果。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Why do we tell ourselves scary stories about AI?",
+      "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+      "score": 7,
+      "comments": 91,
+      "author": "lschueller",
+      "time": "2026-04-10T14:35:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47718812",
+      "source": "hacker_news",
+      "title_cn": "我们为何要给自己讲述关于 AI 的恐怖故事？",
+      "summary_cn": "这篇文章探讨了人类社会中普遍存在的对人工智能的恐惧心理，分析了这些“恐怖故事”背后的文化、心理和历史根源。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Anthropic's Claude Mythos isn't a sentient super-hacker, it's a sales pitch",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-claude-mythos-isnt-a-sentient-super-hacker-its-a-sales-pitch-claims-of-thousands-of-severe-zero-days-rely-on-just-198-manual-reviews",
+      "score": 6,
+      "comments": 20,
+      "author": "edwardsrobbie",
+      "time": "2026-04-10T13:49:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47718155",
+      "source": "hacker_news",
+      "title_cn": "Anthropic 的 Claude Mythos 并非有感知的超级黑客，而是一场营销宣传",
+      "summary_cn": "评论文章指出，Anthropic 对其 Claude Mythos 模型能力的描述可能存在夸大，本质上是一种旨在吸引客户的营销策略。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "score": 5,
+      "comments": 4,
+      "author": "Brajeshwar",
+      "time": "2026-04-10T18:53:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47722136",
+      "source": "hacker_news",
+      "title_cn": "微软开始从 Windows 11 应用中移除 Copilot 按钮",
+      "summary_cn": "报道称，微软正在更新 Windows 11 的部分原生应用并移除了集成的 Copilot 按钮，这可能反映了其产品策略的调整。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: Eve – Managed OpenClaw for work",
+      "url": "https://eve.new/login",
+      "score": 4,
+      "comments": 23,
+      "author": "zachdive",
+      "time": "2026-04-10T17:31:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47721255",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Eve - 面向工作的托管式 OpenClaw 服务",
+      "summary_cn": "开发者展示了一个名为 Eve 的新服务，它为开源 AI 模型 OpenClaw 提供了托管解决方案，旨在简化其在工作环境中的部署和使用。",
+      "category": "产品发布"
+    },
+    {
+      "title": "Show HN: QVAC SDK, a universal JavaScript SDK for building local AI applications",
+      "url": "https://news.ycombinator.com/item?id=47708697",
+      "score": 5,
+      "comments": 9,
+      "author": "qvac",
+      "time": "2026-04-09T19:38:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47708697",
+      "source": "hacker_news",
+      "title_cn": "Show HN: QVAC SDK - 用于构建本地 AI 应用的通用 JavaScript SDK",
+      "summary_cn": "开发者发布了一个名为 QVAC 的通用 JavaScript SDK，旨在帮助开发者更轻松地构建和部署在本地设备上运行的 AI 应用程序。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+      "url": "https://www.reuters.com/world/us/suspect-arrested-after-molotov-cocktail-attack-openai-ceo-sam-altmans-home-2026-04-10/",
+      "score": 3,
+      "comments": 1,
+      "author": "helloplanets",
+      "time": "2026-04-10T20:54:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47723539",
+      "source": "hacker_news",
+      "title_cn": "OpenAI CEO Sam Altman 住所遭莫洛托夫鸡尾酒袭击",
+      "summary_cn": "路透社报道，OpenAI CEO Sam Altman 的住所遭到燃烧瓶袭击，嫌疑人已被逮捕。该事件引发了对 AI 领域领军人物人身安全的担忧。",
+      "category": "行业动态"
+    },
+    {
+      "title": "We're running out of benchmarks to upper bound AI capabilities",
+      "url": "https://www.lesswrong.com/posts/gfkJp8Mr9sBm83Rcz/we-re-actually-running-out-of-benchmarks-to-upper-bound-ai",
+      "score": 6,
+      "comments": 7,
+      "author": "gmays",
+      "time": "2026-04-10T20:16:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47723146",
+      "source": "hacker_news",
+      "title_cn": "我们快要没有足够的基准来衡量 AI 能力的上限了",
+      "summary_cn": "文章认为，随着 AI 能力的飞速发展，现有的评测基准（benchmarks）正逐渐失效，难以准确衡量和界定顶尖 AI 模型的真实能力上限。",
+      "category": "观点讨论"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Ads in AI Chatbots? An Analysis of How Large Language Models Navigate Conflicts of Interest",
+      "authors": [
+        "Addison J. Wu",
+        "Ryan Liu",
+        "Shuyue Stella Li",
+        "Yulia Tsvetkov",
+        "Thomas L. Griffiths"
+      ],
+      "abstract": "Today's large language models (LLMs) are trained to align with user preferences through methods such as reinforcement learning. Yet models are beginning to be deployed not merely to satisfy users, but also to generate revenue for the companies that created them through advertisements. This creates the potential for LLMs to face conflicts of interest, where the most beneficial response to a user may not be aligned with the company's incentives. For instance, a sponsored product may be more expensive but otherwise equal to another; in this case, what does (and should) the LLM recommend to the user? In this paper, we provide a framework for categorizing the ways in which conflicting incentives might lead LLMs to change the way they interact with users, inspired by literature from linguistics and advertising regulation. We then present a suite of evaluations to examine how current models handle these tradeoffs. We find that a majority of LLMs forsake user welfare for company incentives in a multitude of conflict of interest situations, including recommending a sponsored product almost twice as expensive (Grok 4.1 Fast, 83%), surfacing sponsored options to disrupt the purchasing process (GPT 5.1, 94%), and concealing prices in unfavorable comparisons (Qwen 3 Next, 24%). Behaviors also vary strongly with levels of reasoning and users' inferred socio-economic status. Our results highlight some of the hidden risks to users that can emerge when companies begin to subtly incentivize advertisements in chatbots.",
+      "url": "http://arxiv.org/abs/2604.08525v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08525v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ],
+      "published": "2026-04-09T17:57:50+00:00",
+      "source": "arxiv",
+      "title_cn": "AI 聊天机器人中的广告？大型语言模型如何应对利益冲突的分析",
+      "summary_cn": "随着公司开始利用AI聊天机器人投放广告来创收，用户利益和商业利益之间出现了冲突。本研究分析了现有的大型语言模型在面对这种利益冲突时的行为模式，揭示了它们在多大程度上会优先考虑广告商而非用户。",
+      "score": 9,
+      "significance": "首次系统性地探讨了AI商业化带来的利益冲突问题，对未来AI的伦理规范和监管至关重要。"
+    },
+    {
+      "title": "Demystifying OPD: Length Inflation and Stabilization Strategies for Large Language Models",
+      "authors": [
+        "Feng Luo",
+        "Yu-Neng Chuang",
+        "Guanchu Wang",
+        "Zicheng Xu",
+        "Xiaotian Han"
+      ],
+      "abstract": "On-policy distillation (OPD) trains student models under their own induced distribution while leveraging supervision from stronger teachers. We identify a failure mode of OPD: as training progresses, on-policy rollouts can undergo abrupt length inflation, causing truncated trajectories to dominate the training data. This truncation collapse coincides with abrupt repetition saturation and induces biased gradient signals, leading to severe training instability and sharp degradation in validation performance. We attribute this problem to the interaction between student-induced data collection and the distillation objective, which implicitly favors long and repetitive rollouts. To address this issue, we propose StableOPD, a stabilized OPD framework that combines a reference-based divergence constraint with rollout mixture distillation. These together mitigate repetition-induced length inflation and further stabilize OPD training. Across multiple math reasoning datasets, our approach prevents truncation collapse, stabilizes training dynamics, and improves performance by 7.2% on average.",
+      "url": "http://arxiv.org/abs/2604.08527v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08527v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-04-09T17:58:02+00:00",
+      "source": "arxiv",
+      "title_cn": "解密在策略蒸馏（OPD）：大型语言模型的长度膨胀与稳定化策略",
+      "summary_cn": "本文揭示了在策略蒸馏（OPD）训练方法中的一个关键缺陷：模型生成的文本会随着训练进行而突然变得过长，导致训练不稳定。研究人员识别了这一“长度膨胀”现象，并提出了相应的稳定化策略来解决该问题。",
+      "score": 8,
+      "significance": "解决了模型蒸馏过程中的一个关键技术难题，有助于训练出更稳定、高效的小型语言模型。"
+    },
+    {
+      "title": "Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding",
+      "authors": [
+        "Mu Nan",
+        "Muquan Yu",
+        "Weijian Mai",
+        "Jacob S. Prince",
+        "Hossein Adeli"
+      ],
+      "abstract": "Visual decoding from brain signals is a key challenge at the intersection of computer vision and neuroscience, requiring methods that bridge neural representations and computational models of vision. A field-wide goal is to achieve generalizable, cross-subject models. A major obstacle towards this goal is the substantial variability in neural representations across individuals, which has so far required training bespoke models or fine-tuning separately for each subject. To address this challenge, we introduce a meta-optimized approach for semantic visual decoding from fMRI that generalizes to novel subjects without any fine-tuning. By simply conditioning on a small set of image-brain activation examples from the new individual, our model rapidly infers their unique neural encoding patterns to facilitate robust and efficient visual decoding. Our approach is explicitly optimized for in-context learning of the new subject's encoding model and performs decoding by hierarchical inference, inverting the encoder. First, for multiple brain regions, we estimate the per-voxel visual response encoder parameters by constructing a context over multiple stimuli and responses. Second, we construct a context consisting of encoder parameters and response values over multiple voxels to perform aggregated functional inversion. We demonstrate strong cross-subject and cross-scanner generalization across diverse visual backbones without retraining or fine-tuning. Moreover, our approach requires neither anatomical alignment nor stimulus overlap. This work is a critical step towards a generalizable foundation model for non-invasive brain decoding.",
+      "url": "http://arxiv.org/abs/2604.08537v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08537v1",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ],
+      "published": "2026-04-09T17:59:32+00:00",
+      "source": "arxiv",
+      "title_cn": "元学习与上下文学习相结合，实现免训练的跨被试大脑信号解码",
+      "summary_cn": "从大脑信号中解码看到的图像是一大挑战，尤其难以构建一个无需为每个新用户重新训练就能通用的模型。该研究提出一种结合元学习和上下文学习的新方法，成功实现了免训练的跨被试大脑视觉信号解码。",
+      "score": 9,
+      "significance": "为构建通用的脑机接口模型提供了一条新路径，让“读心术”离跨个体通用化更近了一步。"
+    },
+    {
+      "title": "GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
+      "authors": [
+        "Jiaxin Wang",
+        "Dongxin Lyu",
+        "Zeyu Cai",
+        "Zhiyang Dou",
+        "Cheng Lin"
+      ],
+      "abstract": "Free-form bones, that conform closely to the surface, can effectively capture non-rigid deformations, but lack a kinematic structure necessary for intuitive control. Thus, we propose a Scaffold-Skin Rigging System, termed \"Skelebones\", with three key steps: (1) Bones: compress temporally-consistent deformable Gaussians into free-form bones, approximating non-rigid surface deformations; (2) Skeleton: extract a Mean Curvature Skeleton from canonical Gaussians and refine it temporally, ensuring a category-agnostic, motion-adaptive, and topology-correct kinematic structure; (3) Binding: bind the skeleton and bones via non-parametric partwise motion matching (PartMM), synthesizing novel bone motions by matching, retrieving, and blending existing ones. Collectively, these three steps enable us to compress the Level of Dynamics of 4D shapes into compact skelebones that are both controllable and expressive. We validate our approach on both synthetic and real-world datasets, achieving significant improvements in reanimation performance across unseen poses-with 17.3% PSNR gains over Linear Blend Skinning (LBS) and 21.7% over Bag-of-Bones (BoB)-while maintaining excellent reconstruction fidelity, particularly for characters exhibiting complex non-rigid surface dynamics. Our Partwise Motion Matching algorithm demonstrates strong generalization to both Gaussian and mesh representations, especially under low-data regime (~1000 frames), achieving 48.4% RMSE improvement over robust LBS and outperforming GRU- and MLP-based learning methods by >20%. Code will be made publicly available for research purposes at cookmaker.cn/gaussianimate.",
+      "url": "http://arxiv.org/abs/2604.08547v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08547v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-04-09T17:59:59+00:00",
+      "source": "arxiv",
+      "title_cn": "GaussiAnimate：利用动态层级重建和绑定可动画对象类别",
+      "summary_cn": "传统方法难以兼顾动画绑定中对非刚性形变的精细捕捉和直观的控制。本文提出名为“Skelebones”的支架-皮肤绑定系统，通过新颖的骨骼生成方式，实现了对一类物体（如动物）进行自动化重建和绑定。",
+      "score": 8,
+      "significance": "提出了一种新颖的自动化绑定技术，有望简化3D可动物体的创建流程，尤其适用于新兴的三维表示方法。"
+    },
+    {
+      "title": "ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
+      "authors": [
+        "Xiaoben Li",
+        "Jingyi Wu",
+        "Zeyu Cai",
+        "Yu Siyuan",
+        "Boqian Li"
+      ],
+      "abstract": "Human body fitting, which aligns parametric body models such as SMPL to raw 3D point clouds of clothed humans, serves as a crucial first step for downstream tasks like animation and texturing. An effective fitting method should be both locally expressive-capturing fine details such as hands and facial features-and globally robust to handle real-world challenges, including clothing dynamics, pose variations, and noisy or partial inputs. Existing approaches typically excel in only one aspect, lacking an all-in-one solution.We upgrade ETCH to ETCH-X, which leverages a tightness-aware fitting paradigm to filter out clothing dynamics (\"undress\"), extends expressiveness with SMPL-X, and replaces explicit sparse markers (which are highly sensitive to partial data) with implicit dense correspondences (\"dense fit\") for more robust and fine-grained body fitting. Our disentangled \"undress\" and \"dense fit\" modular stages enable separate and scalable training on composable data sources, including diverse simulated garments (CLOTH3D), large-scale full-body motions (AMASS), and fine-grained hand gestures (InterHand2.6M), improving outfit generalization and pose robustness of both bodies and hands. Our approach achieves robust and expressive fitting across diverse clothing, poses, and levels of input completeness, delivering a substantial performance improvement over ETCH on both: 1) seen data, such as 4D-Dress (MPJPE-All, 33.0% ) and CAPE (V2V-Hands, 35.8% ), and 2) unseen data, such as BEDLAM2.0 (MPJPE-All, 80.8% ; V2V-All, 80.5% ). Code and models will be released at https://xiaobenli00.github.io/ETCH-X/.",
+      "url": "http://arxiv.org/abs/2604.08548v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08548v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:59+00:00",
+      "source": "arxiv",
+      "title_cn": "ETCH-X：利用可组合数据集增强对穿着衣物人体的精细化身体拟合",
+      "summary_cn": "将参数化人体模型精确地拟合到穿着衣物的人体3D点云上是一个挑战，需要模型既能捕捉手部、面部等细节，又能不受衣物干扰。该研究提出了ETCH-X框架，通过构建可组合的数据集，显著提升了在复杂穿着情况下人体模型拟合的鲁棒性和精细度。",
+      "score": 8,
+      "significance": "提升了从3D扫描中创建逼真数字人的第一步——模型拟合的准确性，为后续的动画和虚拟试衣等应用奠定了坚实基础。"
+    },
+    {
+      "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
+      "authors": [
+        "Zhengyang Sun",
+        "Yu Chen",
+        "Xin Zhou",
+        "Xiaofan Li",
+        "Xiwu Chen"
+      ],
+      "abstract": "Text-to-video diffusion models have enabled open-ended video synthesis, but often struggle with generating the correct number of objects specified in a prompt. We introduce NUMINA , a training-free identify-then-guide framework for improved numerical alignment. NUMINA identifies prompt-layout inconsistencies by selecting discriminative self- and cross-attention heads to derive a countable latent layout. It then refines this layout conservatively and modulates cross-attention to guide regeneration. On the introduced CountBench, NUMINA improves counting accuracy by up to 7.4% on Wan2.1-1.3B, and by 4.9% and 5.5% on 5B and 14B models, respectively. Furthermore, CLIP alignment is improved while maintaining temporal consistency. These results demonstrate that structural guidance complements seed search and prompt enhancement, offering a practical path toward count-accurate text-to-video diffusion. The code is available at https://github.com/H-EmbodVis/NUMINA.",
+      "url": "http://arxiv.org/abs/2604.08546v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08546v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:57+00:00",
+      "source": "arxiv",
+      "title_cn": "当数字说话：在文生视频扩散模型中对齐文本数字与视觉实例",
+      "summary_cn": "当前的文生视频模型常常无法根据文本提示生成正确数量的物体。本研究提出了一个名为NUMINA的免训练框架，它能首先识别出生成内容与提示在数量上的不一致，然后在生成过程中进行引导和修正，从而显著提升了数量生成的准确性。",
+      "score": 9,
+      "significance": "解决了生成模型一个核心的可控性难题——“数数”问题，让AI能更精确地遵循指令进行创作。"
+    },
+    {
+      "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
+      "authors": [
+        "Shilin Yan",
+        "Jintao Tong",
+        "Hongwei Xue",
+        "Xiaojun Tang",
+        "Yangyang Wang"
+      ],
+      "abstract": "The advent of agentic multimodal models has empowered systems to actively interact with external environments. However, current agents suffer from a profound meta-cognitive deficit: they struggle to arbitrate between leveraging internal knowledge and querying external utilities. Consequently, they frequently fall prey to blind tool invocation, resorting to reflexive tool execution even when queries are resolvable from the raw visual context. This pathological behavior precipitates severe latency bottlenecks and injects extraneous noise that derails sound reasoning. Existing reinforcement learning protocols attempt to mitigate this via a scalarized reward that penalizes tool usage. Yet, this coupled formulation creates an irreconcilable optimization dilemma: an aggressive penalty suppresses essential tool use, whereas a mild penalty is entirely subsumed by the variance of the accuracy reward during advantage normalization, rendering it impotent against tool overuse. To transcend this bottleneck, we propose HDPO, a framework that reframes tool efficiency from a competing scalar objective to a strictly conditional one. By eschewing reward scalarization, HDPO maintains two orthogonal optimization channels: an accuracy channel that maximizes task correctness, and an efficiency channel that enforces execution economy exclusively within accurate trajectories via conditional advantage estimation. This decoupled architecture naturally induces a cognitive curriculum-compelling the agent to first master task resolution before refining its self-reliance. Extensive evaluations demonstrate that our resulting model, Metis, reduces tool invocations by orders of magnitude while simultaneously elevating reasoning accuracy.",
+      "url": "http://arxiv.org/abs/2604.08545v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08545v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T17:59:57+00:00",
+      "source": "arxiv",
+      "title_cn": "智慧行动：在多模态智能体模型中培养元认知工具使用能力",
+      "summary_cn": "当前的AI智能体存在一个“元认知”缺陷，即它们难以判断何时应该依赖自身知识，何时应该求助于外部工具。该研究提出了一种新方法，旨在培养智能体的这种判断能力，让它们能更“智慧”地决定是否以及如何使用工具，从而提高任务完成效率。",
+      "score": 9,
+      "significance": "推动AI智能体从“会用工具”向“会思考何时用工具”转变，是实现更高级别自主智能的关键一步。"
+    },
+    {
+      "title": "E-3DPSM: A State Machine for Event-Based Egocentric 3D Human Pose Estimation",
+      "authors": [
+        "Mayur Deshmukh",
+        "Hiroyasu Akada",
+        "Helge Rhodin",
+        "Christian Theobalt",
+        "Vladislav Golyanik"
+      ],
+      "abstract": "Event cameras offer multiple advantages in monocular egocentric 3D human pose estimation from head-mounted devices, such as millisecond temporal resolution, high dynamic range, and negligible motion blur. Existing methods effectively leverage these properties, but suffer from low 3D estimation accuracy, insufficient in many applications (e.g., immersive VR/AR). This is due to the design not being fully tailored towards event streams (e.g., their asynchronous and continuous nature), leading to high sensitivity to self-occlusions and temporal jitter in the estimates. This paper rethinks the setting and introduces E-3DPSM, an event-driven continuous pose state machine for event-based egocentric 3D human pose estimation. E-3DPSM aligns continuous human motion with fine-grained event dynamics; it evolves latent states and predicts continuous changes in 3D joint positions associated with observed events, which are fused with direct 3D human pose predictions, leading to stable and drift-free final 3D pose reconstructions. E-3DPSM runs in real-time at 80 Hz on a single workstation and sets a new state of the art in experiments on two benchmarks, improving accuracy by up to 19% (MPJPE) and temporal stability by up to 2.7x. See our project page for the source code and trained models.",
+      "url": "http://arxiv.org/abs/2604.08543v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08543v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:52+00:00",
+      "source": "arxiv",
+      "title_cn": "E-3DPSM：一种用于基于事件的自我中心视角3D人体姿态估计的状态机",
+      "summary_cn": "使用头戴式事件相机进行3D人体姿态估计具有高时间分辨率、无运动模糊等优点，但现有方法的3D精度不高。本文提出了一种基于状态机的新方法E-3DPSM，它能有效利用事件数据的特性，同时显著提升了从第一视角进行3D人体姿态估计的准确性。",
+      "score": 8,
+      "significance": "结合了事件相机和状态机的优势，为AR/VR等场景下高精度、高动态的实时人体姿态追踪提供了新的技术方案。"
+    },
+    {
+      "title": "Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction",
+      "authors": [
+        "Tao Xie",
+        "Peishan Yang",
+        "Yudong Jin",
+        "Yingfeng Cai",
+        "Wei Yin"
+      ],
+      "abstract": "This paper addresses the task of large-scale 3D scene reconstruction from long video sequences. Recent feed-forward reconstruction models have shown promising results by directly regressing 3D geometry from RGB images without explicit 3D priors or geometric constraints. However, these methods often struggle to maintain reconstruction accuracy and consistency over long sequences due to limited memory capacity and the inability to effectively capture global contextual cues. In contrast, humans can naturally exploit the global understanding of the scene to inform local perception. Motivated by this, we propose a novel neural global context representation that efficiently compresses and retains long-range scene information, enabling the model to leverage extensive contextual cues for enhanced reconstruction accuracy and consistency. The context representation is realized through a set of lightweight neural sub-networks that are rapidly adapted during test time via self-supervised objectives, which substantially increases memory capacity without incurring significant computational overhead. The experiments on multiple large-scale benchmarks, including the KITTI Odometry~\\cite{Geiger2012CVPR} and Oxford Spires~\\cite{tao2025spires} datasets, demonstrate the effectiveness of our approach in handling ultra-large scenes, achieving leading pose accuracy and state-of-the-art 3D reconstruction accuracy while maintaining efficiency. Code is available at https://zju3dv.github.io/scal3r.",
+      "url": "http://arxiv.org/abs/2604.08542v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08542v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "Scal3R：用于大规模3D重建的可扩展测试时训练",
+      "summary_cn": "从长视频序列中重建大规模三维场景是一个难题，现有方法在处理长视频时往往会产生不一致或不准确的结果。该研究提出了一种名为Scal3R的可扩展“测试时训练”方法，它在处理新视频时会进行实时微调和优化，从而显著提升了大规模场景重建的质量和一致性。",
+      "score": 8,
+      "significance": "提出了一种在推理阶段优化模型的方法，有效解决了从长视频重建3D场景时的累积误差和不一致性问题。"
+    },
+    {
+      "title": "Seeing but Not Thinking: Routing Distraction in Multimodal Mixture-of-Experts",
+      "authors": [
+        "Haolei Xu",
+        "Haiwen Hong",
+        "Hongxing Li",
+        "Rui Zhou",
+        "Yang Zhang"
+      ],
+      "abstract": "Multimodal Mixture-of-Experts (MoE) models have achieved remarkable performance on vision-language tasks. However, we identify a puzzling phenomenon termed Seeing but Not Thinking: models accurately perceive image content yet fail in subsequent reasoning, while correctly solving identical problems presented as pure text. Through systematic analysis, we first verify that cross-modal semantic sharing exists in MoE architectures, ruling out semantic alignment failure as the sole explanation. We then reveal that visual experts and domain experts exhibit layer-wise separation, with image inputs inducing significant routing divergence from text inputs in middle layers where domain experts concentrate. Based on these findings, we propose the Routing Distraction hypothesis: when processing visual inputs, the routing mechanism fails to adequately activate task-relevant reasoning experts. To validate this hypothesis, we design a routing-guided intervention method that enhances domain expert activation. Experiments on three multimodal MoE models across six benchmarks demonstrate consistent improvements, with gains of up to 3.17% on complex visual reasoning tasks. Our analysis further reveals that domain expert identification locates cognitive functions rather than sample-specific solutions, enabling effective transfer across tasks with different information structures.",
+      "url": "http://arxiv.org/abs/2604.08541v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08541v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-09T17:59:44+00:00",
+      "source": "arxiv",
+      "title_cn": "视而不思：解决多模态混合专家模型中的注意力分散问题",
+      "summary_cn": "研究发现，强大的多模态混合专家（MoE）模型存在一种“视而不思”的奇怪现象：模型能准确识别图像内容，但在后续的推理步骤中却会失败。本文指出这是因为任务被错误地分配给了不相关的“专家”模块，并提出了一种新的路由机制来解决此问题。",
+      "score": 9,
+      "significance": "揭示了当前热门的MoE模型架构中的一个深层缺陷，为设计更鲁棒、更可靠的多模态推理系统指明了方向。"
+    },
+    {
+      "title": "AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation",
+      "authors": [
+        "Ziwei Zhou",
+        "Zeyuan Lai",
+        "Rui Wang",
+        "Yifan Yang",
+        "Zhen Xing"
+      ],
+      "abstract": "Text-to-Audio-Video (T2AV) generation is rapidly becoming a core interface for media creation, yet its evaluation remains fragmented. Existing benchmarks largely assess audio and video in isolation or rely on coarse embedding similarity, failing to capture the fine-grained joint correctness required by realistic prompts. We introduce AVGen-Bench, a task-driven benchmark for T2AV generation featuring high-quality prompts across 11 real-world categories. To support comprehensive assessment, we propose a multi-granular evaluation framework that combines lightweight specialist models with Multimodal Large Language Models (MLLMs), enabling evaluation from perceptual quality to fine-grained semantic controllability. Our evaluation reveals a pronounced gap between strong audio-visual aesthetics and weak semantic reliability, including persistent failures in text rendering, speech coherence, physical reasoning, and a universal breakdown in musical pitch control. Code and benchmark resources are available at http://aka.ms/avgenbench.",
+      "url": "http://arxiv.org/abs/2604.08540v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08540v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-09T17:59:39+00:00",
+      "source": "arxiv",
+      "title_cn": "AVGen-Bench：一个用于文本到音视频生成的多粒度评估的任务驱动基准",
+      "summary_cn": "当前对文生音视频（T2AV）模型的评估方法存在缺陷，往往孤立地评判音频和视频，无法衡量音视频同步和内容的联合准确性。为此，研究者推出了AVGen-Bench，这是一个新的评测基准，能够从多个粒度上对T2AV模型的综合能力进行更全面的评估。",
+      "score": 8,
+      "significance": "为快速发展的音视频生成领域提供了一个急需的、更科学的“考纲”和“排行榜”，将引导该领域向更高质量、更同步的方向发展。"
+    },
+    {
+      "title": "OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks",
+      "authors": [
+        "Wenbo Hu",
+        "Xin Chen",
+        "Yan Gao-Tian",
+        "Yihe Deng",
+        "Nanyun Peng"
+      ],
+      "abstract": "Group Relative Policy Optimization (GRPO) has emerged as the de facto Reinforcement Learning (RL) objective driving recent advancements in Multimodal Large Language Models. However, extending this success to open-source multimodal generalist models remains heavily constrained by two primary challenges: the extreme variance in reward topologies across diverse visual tasks, and the inherent difficulty of balancing fine-grained perception with multi-step reasoning capabilities. To address these issues, we introduce Gaussian GRPO (G$^2$RPO), a novel RL training objective that replaces standard linear scaling with non-linear distributional matching. By mathematically forcing the advantage distribution of any given task to strictly converge to a standard normal distribution, $\\mathcal{N}(0,1)$, G$^2$RPO theoretically ensures inter-task gradient equity, mitigates vulnerabilities to heavy-tail outliers, and offers symmetric update for positive and negative rewards. Leveraging the enhanced training stability provided by G$^2$RPO, we introduce two task-level shaping mechanisms to seamlessly balance perception and reasoning. First, response length shaping dynamically elicits extended reasoning chains for complex queries while enforce direct outputs to bolster visual grounding. Second, entropy shaping tightly bounds the model's exploration zone, effectively preventing both entropy collapse and entropy explosion. Integrating these methodologies, we present OpenVLThinkerV2, a highly robust, general-purpose multimodal model. Extensive evaluations across 18 diverse benchmarks demonstrate its superior performance over strong open-source and leading proprietary frontier models.",
+      "url": "http://arxiv.org/abs/2604.08539v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08539v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-09T17:59:39+00:00",
+      "source": "arxiv",
+      "title_cn": "OpenVLThinkerV2：一个用于多领域视觉任务的通用多模态推理模型",
+      "summary_cn": "尽管摘要内容似乎有误，但从标题和关键词推断，该研究旨在构建一个强大的开源多模态通用模型OpenVLThinkerV2。它可能利用了先进的强化学习技术来提升模型在各种视觉任务上的推理能力，以追赶顶尖的闭源模型。",
+      "score": 7,
+      "significance": "致力于缩小开源社区与顶级闭源模型在多模态通用能力上的差距，推动AI技术的开放和普及。"
+    },
+    {
+      "title": "ParseBench: A Document Parsing Benchmark for AI Agents",
+      "authors": [
+        "Boyang Zhang",
+        "Sebastián G. Acosta",
+        "Preston Carlson",
+        "Sacha Bron",
+        "Pierre-Loïc Doulcet"
+      ],
+      "abstract": "AI agents are changing the requirements for document parsing. What matters is \\emph{semantic correctness}: parsed output must preserve the structure and meaning needed for autonomous decisions, including correct table structure, precise chart data, semantically meaningful formatting, and visual grounding. Existing benchmarks do not fully capture this setting for enterprise automation, relying on narrow document distributions and text-similarity metrics that miss agent-critical failures. We introduce \\textbf{ParseBench}, a benchmark of ${\\sim}2{,}000$ human-verified pages from enterprise documents spanning insurance, finance, and government, organized around five capability dimensions: tables, charts, content faithfulness, semantic formatting, and visual grounding. Across 14 methods spanning vision-language models, specialized document parsers, and LlamaParse, the benchmark reveals a fragmented capability landscape: no method is consistently strong across all five dimensions. LlamaParse Agentic achieves the highest overall score at \\agenticoverall\\%, and the benchmark highlights the remaining capability gaps across current systems. Dataset and evaluation code are available on \\href{https://huggingface.co/datasets/llamaindex/ParseBench}{HuggingFace} and \\href{https://github.com/run-llama/ParseBench}{GitHub}.",
+      "url": "http://arxiv.org/abs/2604.08538v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08538v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:36+00:00",
+      "source": "arxiv",
+      "title_cn": "ParseBench：一个面向AI智能体的文档解析基准",
+      "summary_cn": "传统的文档解析评测已不适用于AI智能体，因为智能体需要的是“语义正确”的解析结果，即保留表格结构、图表数据和视觉分组等深层含义。为此，研究者提出了ParseBench，这是一个全新的评测基准，专门用于衡量文档解析技术是否能满足AI智能体进行自主决策的需求。",
+      "score": 8,
+      "significance": "重新定义了文档解析的“好坏”标准，将其从简单的文本提取提升到满足AI智能体决策需求的语义理解层面。"
+    },
+    {
+      "title": "RewardFlow: Generate Images by Optimizing What You Reward",
+      "authors": [
+        "Onkar Susladkar",
+        "Dong-Hwan Jang",
+        "Tushar Prakash",
+        "Adheesh Juvekar",
+        "Vedant Shah"
+      ],
+      "abstract": "We introduce RewardFlow, an inversion-free framework that steers pretrained diffusion and flow-matching models at inference time through multi-reward Langevin dynamics. RewardFlow unifies complementary differentiable rewards for semantic alignment, perceptual fidelity, localized grounding, object consistency, and human preference, and further introduces a differentiable VQA-based reward that provides fine-grained semantic supervision through language-vision reasoning. To coordinate these heterogeneous objectives, we design a prompt-aware adaptive policy that extracts semantic primitives from the instruction, infers edit intent, and dynamically modulates reward weights and step sizes throughout sampling. Across several image editing and compositional generation benchmarks, RewardFlow delivers state-of-the-art edit fidelity and compositional alignment.",
+      "url": "http://arxiv.org/abs/2604.08536v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08536v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-04-09T17:59:19+00:00",
+      "source": "arxiv",
+      "title_cn": "RewardFlow：通过优化你所奖励的目标来生成图像",
+      "summary_cn": "如何在不重新训练模型的情况下，引导预训练好的扩散模型生成更符合复杂要求的图像？本文提出了RewardFlow框架，它在推理阶段巧妙地结合多种可微的“奖励”信号（如语义对齐、图像质量等），通过动态优化来引导图像生成过程，从而实现对生成结果的精细控制。",
+      "score": 9,
+      "significance": "提供了一种通用且灵活的“后期指挥”框架，让用户可以在生成图像的最后阶段精调各种属性，极大地增强了生成模型的可控性。"
+    },
+    {
+      "title": "Self-Improving 4D Perception via Self-Distillation",
+      "authors": [
+        "Nan Huang",
+        "Pengcheng Yu",
+        "Weijia Zeng",
+        "James M. Rehg",
+        "Angjoo Kanazawa"
+      ],
+      "abstract": "Large-scale multi-view reconstruction models have made remarkable progress, but most existing approaches still rely on fully supervised training with ground-truth 3D/4D annotations. Such annotations are expensive and particularly scarce for dynamic scenes, limiting scalability. We propose SelfEvo, a self-improving framework that continually improves pretrained multi-view reconstruction models using unlabeled videos. SelfEvo introduces a self-distillation scheme using spatiotemporal context asymmetry, enabling self-improvement for learning-based 4D perception without external annotations. We systematically study design choices that make self-improvement effective, including loss signals, forms of asymmetry, and other training strategies. Across eight benchmarks spanning diverse datasets and domains, SelfEvo consistently improves pretrained baselines and generalizes across base models (e.g. VGGT and $π^3$), with significant gains on dynamic scenes. Overall, SelfEvo achieves up to 36.5% relative improvement in video depth estimation and 20.1% in camera estimation, without using any labeled data. Project Page: https://self-evo.github.io/.",
+      "url": "http://arxiv.org/abs/2604.08532v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.08532v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-09T17:59:04+00:00",
+      "source": "arxiv",
+      "title_cn": "通过自蒸馏实现自我提升的4D感知",
+      "summary_cn": "训练能够理解动态三维场景（4D感知）的模型需要大量昂贵的标注数据，这限制了其发展。本研究提出了一种名为SelfEvo的自提升方法，模型能从自己过去的、更优的预测中进行“自蒸馏”学习，从而在缺少真值标注的情况下不断进化和提升性能。",
+      "score": 9,
+      "significance": "提出了一种让4D感知模型“自我进化”的训练方法，极大地降低了对昂贵标注数据的依赖，为大规模部署动态场景理解技术铺平了道路。"
+    }
+  ]
+}
