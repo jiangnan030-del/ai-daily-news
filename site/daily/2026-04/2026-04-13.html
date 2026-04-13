@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-04-13 周一</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-04-13 周一</h1>
+
+<blockquote>自动生成于 2026-04-13 09:49 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日AI领域，焦点无疑落在了Anthropic的Claude模型上，但呈现出冰火两重天的态势。一方面，开发者社区热情高涨，围绕其代码生成和记忆能力的新工具在GitHub上广受欢迎；另一方面，Hacker News热议其Opus模型在关键幻觉基准测试中出现显著的准确性下滑，引发对其可靠性的担忧。</p>
+
+<p>另一大趋势是对AI Agent能力的“祛魅”。尽管新的Agent框架不断涌现，但关于主流基准测试可被轻易“利用”的深度剖析引发了行业警醒，促使我们重新审视其真实效能。总体而言，从模型可靠性争议到Agent能力反思，再到印度“节俭AI”模式的讨论，今日的动态标志着AI正从狂热的“军备竞赛”迈向更注重实际效用与可靠性的审慎发展阶段。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/NousResearch/hermes-agent" target="_blank">NousResearch/hermes-agent</a> <code>LLM/Agent</code></h3>
+
+<blockquote>一个能与你共同成长的智能体，重新定义人机协作的未来。</blockquote>
+
+<p>⭐ <strong>67,224</strong> Stars | 📈 今日 +7454 | 🔤 Python | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>一个旨在与用户共同成长的 AI 智能体项目，它可能具备长期记忆和持续学习的能力，从而在交互中不断进化。该项目基于 Python 构建，其惊人的热度表明它在 AI 智能体领域可能带来了突破性的概念或实现。</p>
+
+<h3>2. <a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">forrestchang/andrej-karpathy-skills</a> <code>教程</code></h3>
+
+<blockquote>Andrej Karpathy 亲授，一份 MD 文件让你手中的 Claude 编程能力飙升。</blockquote>
+
+<p>⭐ <strong>17,019</strong> Stars | 📈 今日 +2369 | 🔤  | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>该项目将传奇 AI 学者 Andrej Karpathy 对大型语言模型（LLM）在编码时常见陷阱的观察，提炼成一个 CLAUDE.md 文件。这是一个高质量的 Prompt 工程指南，旨在通过优化指令来显著改善 Claude 模型的代码生成行为和质量。</p>
+
+<h3>3. <a href="https://github.com/multica-ai/multica" target="_blank">multica-ai/multica</a> <code>LLM/Agent</code></h3>
+
+<blockquote>开源的 AI 智能体管理平台，将编码智能体打造成你的高效虚拟团队。</blockquote>
+
+<p>⭐ <strong>9,471</strong> Stars | 📈 今日 +1609 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一个开源的 AI 智能体管理平台，旨在将独立的编码智能体转变为协同工作的“虚拟团队成员”。用户可以给智能体分配任务、跟踪进度，并让它们在工作中积累和复用技能，适用于构建复杂的自动化软件开发工作流。</p>
+
+<h3>4. <a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">shanraisshan/claude-code-best-practice</a> <code>教程</code></h3>
+
+<blockquote>让 Claude 成为完美编程伙伴的实战宝典，汇集了大量最佳实践。</blockquote>
+
+<p>⭐ <strong>39,139</strong> Stars | 📈 今日 +1548 | 🔤 HTML | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一个广受欢迎的 Claude 编程最佳实践集合，通过大量实例和技巧展示了如何更有效地利用 Claude 进行编码。该项目证明了通过正确的提问和交互方式，可以极大提升 Claude 作为编程助手的表现，是 Claude 用户的必备参考。</p>
+
+<h3>5. <a href="https://github.com/thedotmack/claude-mem" target="_blank">thedotmack/claude-mem</a> <code>LLM/Agent</code></h3>
+
+<blockquote>给 Claude 装上“记忆海马体”，让它记住你所有的编码历史。</blockquote>
+
+<p>⭐ <strong>50,161</strong> Stars | 📈 今日 +753 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>一个为 Claude 设计的“记忆”插件，它能自动捕获和压缩你在编码过程中的所有交互上下文。在未来的会话中，它会将相关的历史信息智能地注入，有效解决了大模型缺乏长期记忆的痛点，极大地提升了编码的连续性和效率。</p>
+
+<h3>6. <a href="https://github.com/HKUDS/DeepTutor" target="_blank">HKUDS/DeepTutor</a> <code>论文实现</code></h3>
+
+<blockquote>来自港大的 AI 私人导师，为你打造原生于智能体的个性化学习体验。</blockquote>
+
+<p>⭐ <strong>17,274</strong> Stars | 📈 今日 +670 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>由香港大学团队开发的“智能体原生个性化学习助理”项目，旨在利用 AI 智能体技术打造一个深度个性化的教育辅导工具。它代表了 AI Agent 在教育领域的创新应用，致力于为每个学习者提供量身定制的辅导体验。</p>
+
+<h3>7. <a href="https://github.com/virattt/ai-hedge-fund" target="_blank">virattt/ai-hedge-fund</a> <code>LLM/Agent</code></h3>
+
+<blockquote>用 AI 组建你自己的对冲基金团队，探索智能金融的无限可能。</blockquote>
+
+<p>⭐ <strong>52,206</strong> Stars | 📈 今日 +663 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一个雄心勃勃的项目，旨在构建一个由 AI 驱动的对冲基金团队。该项目探索如何利用 AI 智能体进行市场分析、策略制定和交易决策，为对量化交易和 AI 金融应用感兴趣的开发者提供了一个极具吸引力的范例。</p>
+
+<h3>8. <a href="https://github.com/coleam00/Archon" target="_blank">coleam00/Archon</a> <code>框架</code></h3>
+
+<blockquote>为 AI 编码构建确定性“安全带”，让智能体开发过程可控可复现。</blockquote>
+
+<p>⭐ <strong>17,086</strong> Stars | 📈 今日 +612 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>首个开源的 AI 编码“挽具”构建器，致力于解决 AI 编码过程中随机性和不可复现的问题。通过该框架，开发者可以构建确定性和可重复的 AI 编码工作流，这对于在生产环境中可靠地使用 AI 智能体至关重要。</p>
+
+<h3>9. <a href="https://github.com/snarktank/ralph" target="_blank">snarktank/ralph</a> <code>LLM/Agent</code></h3>
+
+<blockquote>AI 界的“项目经理”Ralph，能自动读取 PRD 并持续工作直至任务完成。</blockquote>
+
+<p>⭐ <strong>15,972</strong> Stars | 📈 今日 +463 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个名为 Ralph 的自主 AI 智能体，它被设计成一个循环执行的系统，直到完成产品需求文档（PRD）中的所有任务。这是一个目标驱动型智能体的经典实现，特别适用于自动化软件开发流程中的需求实现阶段。</p>
+
+<h3>10. <a href="https://github.com/ahujasid/blender-mcp" target="_blank">ahujasid/blender-mcp</a> <code>工具</code></h3>
+
+<blockquote>一个强大的 Blender 扩展工具，为你的 3D 创作流程带来新可能。</blockquote>
+
+<p>⭐ <strong>19,167</strong> Stars | 📈 今日 +215 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>虽然项目描述缺失，但从名称 <code>blender-mcp</code> 和语言 Python 推断，这很可能是一个用于 3D 建模软件 Blender 的插件或工具集。它可能与运动捕捉（Motion Capture）或 Minecraft 内容创作等相关，为 3D 艺术家和开发者提供特定功能。</p>
+
+<h3>11. <a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">ZhuLinsen/daily_stock_analysis</a> <code>LLM/Agent</code></h3>
+
+<blockquote>零成本白嫖的 LLM 炒股神器，帮你智能分析 A/H/美股市场动态。</blockquote>
+
+<p>⭐ <strong>29,527</strong> Stars | 📈 今日 +188 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个由 LLM 驱动的 A/H/美股智能分析系统，它整合了多数据源行情、实时新闻，并生成决策仪表盘。该项目主打“零成本”和自动化，可以定时运行并将分析结果推送到多渠道，是个人投资者的理想量化分析工具。</p>
+
+<h3>12. <a href="https://github.com/rustfs/rustfs" target="_blank">rustfs/rustfs</a> <code>框架</code></h3>
+
+<blockquote>基于 Rust 构建的 S3 兼容对象存储，性能号称超越 MinIO，为你的数据存储提速。</blockquote>
+
+<p>⭐ <strong>25,255</strong> Stars | 📈 今日 +182 | 🔤 Rust | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个基于 Rust 开发的高性能、S3 兼容的对象存储系统，在小对象（4KB）负载下性能号称比 MinIO 快 2.3 倍。它支持从 MinIO 和 Ceph 等平台迁移和共存，是寻求极致性能和可靠性的存储解决方案的绝佳选择。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/" target="_blank">揭秘主流 AI Agent 基准测试的漏洞与利用</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Exploiting the most prominent AI agent benchmarks</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47733217" target="_blank">128 评论</a> | 👤 Anon84</p>
+
+<p>加州大学伯克利分校的研究人员发现，当前主流的 AI Agent 基准测试存在严重缺陷，容易被模型“过拟合”利用，从而夸大其真实能力。</p>
+
+<h3>2. <a href="https://github.com/anthropics/claude-code/issues/46829" target="_blank">Anthropic 于 3 月 6 日下调了其 API 缓存的 TTL（生存时间）</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Anthropic downgraded cache TTL on March 6th</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47736476" target="_blank">369 评论</a> | 👤 lsdmtme</p>
+
+<p>开发者在 GitHub 上指出，Anthropic 悄悄降低了其 API 缓存的 TTL，这可能导致 API 响应变慢、成本增加，并引发了社区关于其服务稳定性和透明度的激烈讨论。</p>
+
+<h3>3. <a href="https://news.ycombinator.com/item?id=47739305" target="_blank">用户反馈：OpenAI 悄然移除了 ChatGPT 的“学习模式”</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Tell HN: OpenAI silently removed Study Mode from ChatGPT</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47739305" target="_blank">69 评论</a> | 👤 smokel</p>
+
+<p>Hacker News 用户发帖称，OpenAI 在未作任何通知的情况下，从 ChatGPT 中移除了“学习模式”功能，引发了用户对产品功能迭代和透明度的讨论。</p>
+
+<h3>4. <a href="https://europe.mistral.ai/" target="_blank">欧洲 AI 的制胜之道：一份行动手册</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: European AI. A playbook to own it</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47743700" target="_blank">88 评论</a> | 👤 hjouneau</p>
+
+<p>法国 AI 巨头 Mistral AI 发布了一份战略手册，阐述了欧洲应如何通过支持开源、培养人才和制定明智的法规来建立自己的 AI 主权。</p>
+
+<h3>5. <a href="https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels" target="_blank">科技公司估值已回落至 AI 热潮前水平</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Tech valuations are back to pre-AI boom levels</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47745120" target="_blank">19 评论</a> | 👤 akyuu</p>
+
+<p>金融机构 Apollo 的分析报告指出，尽管 AI 领域持续火热，但更广泛的科技行业公司估值已经从高点回落，恢复到本轮 AI 热潮兴起之前的水平。</p>
+
+<h3>6. <a href="https://github.com/halfwhey/claudraband" target="_blank">Show HN: Claudraband - 专为高级用户打造的 Claude 代码工具</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Claudraband – Claude Code for the Power User</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47741889" target="_blank">30 评论</a> | 👤 halfwhey</p>
+
+<p>Claudraband 是一个开源项目，旨在为 Claude 的代码生成功能提供更强大的工作流和用户体验，以满足高级开发者的需求。</p>
+
+<h3>7. <a href="https://nerdy.dev/why-ai-sucks-at-front-end" target="_blank">为什么 AI 在前端开发领域表现糟糕？</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Why AI Sucks at Front End</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47738864" target="_blank">74 评论</a> | 👤 tobr</p>
+
+<p>文章探讨了当前 AI 工具在前端开发中的局限性，指出 AI 难以处理复杂的 UI/UX 逻辑、像素级精确的布局以及不断变化的前端生态系统。</p>
+
+<h3>8. <a href="https://github.com/imbue-ai/bouncer" target="_blank">Bouncer：使用 AI 屏蔽你 X 信息流中的“加密货币”、“愤怒政治”等内容</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Bouncer: Block "crypto", "rage politics", and more from your X feed using AI</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47741531" target="_blank">51 评论</a> | 👤 steveharing1</p>
+
+<p>Bouncer 是一个开源工具，它利用 AI 模型来帮助用户自动过滤 X (Twitter) 时间线上的不良内容，以改善浏览体验。</p>
+
+<h3>9. <a href="https://twitter.com/bridgemindai/status/2043321284113670594" target="_blank">BridgeBench 测试显示：Claude Opus 模型幻觉测试准确率从 83% 降至 68%</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47743077" target="_blank">7 评论</a> | 👤 bratao</p>
+
+<p>根据 BridgeBench 基准测试发布的数据，Anthropic 的旗舰模型 Claude Opus 在一项幻觉测试中的准确率出现大幅下滑，引发了对模型更新后性能衰退的担忧。</p>
+
+<h3>10. <a href="https://restofworld.org/2026/india-frugal-ai-sarvam-krutrim-sovereign/" target="_blank">印度的“节俭型” AI 模型：为资源有限的国家提供发展蓝图</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: India's frugal AI models are a blueprint for resource-strapped nations</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47744905" target="_blank">3 评论</a> | 👤 i7l</p>
+
+<p>文章介绍了印度如何通过开发低成本、高效率的“节俭型” AI 模型来构建自主 AI 生态，这一模式可为其他发展中国家提供参考。</p>
+
+<h3>11. <a href="https://twitter.com/lessin/status/2043370537280532771" target="_blank">AI 带来的不是劳动危机，而是意义危机</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: AI Is Not a Labor Crisis. It Is a Meaning Crisis</em></p>
+
+<p>🔺 <strong>3</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47744544" target="_blank">2 评论</a> | 👤 jger15</p>
+
+<p>该观点认为，人工智能对社会的最大冲击并非取代工作岗位，而是挑战了人类工作的意义和价值感，我们将面临一场深刻的“意义危机”。</p>
+
+<h3>12. <a href="https://news.ycombinator.com/item?id=47739653" target="_blank">提问 HN：我们都忘记了 AI 公司做过的哪些坏事？</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Ask HN: What are all the bad things that AI companies have done which we forgot</em></p>
+
+<p>🔺 <strong>2</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47739653" target="_blank">0 评论</a> | 👤 Imustaskforhelp</p>
+
+<p>一位 Hacker News 用户发起提问，希望社区成员共同回顾和列举过去 AI 公司所做的、但可能已被公众遗忘的负面事件或不当行为。</p>
+
+<h3>13. <a href="https://github.com/bullseye2d/bullseye2d" target="_blank">Show HN: Bullseye2D - 一个用于跨平台 2D 游戏的 Dart 库</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Bullseye2D – A Dart library for cross-platform 2D games</em></p>
+
+<p>🔺 <strong>1</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47737387" target="_blank">0 评论</a> | 👤 joemanaco</p>
+
+<p>Bullseye2D 是一个新发布的开源库，它使用 Dart 语言，旨在帮助开发者轻松构建可跨多个平台运行的 2D 游戏。</p>
+
+<h3>14. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6525800" target="_blank">人工智能与人类的法律推理</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Artificial Intelligence and Human Legal Reasoning</em></p>
+
+<p>🔺 <strong>2</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47742652" target="_blank">0 评论</a> | 👤 paulpauper</p>
+
+<p>这篇学术论文探讨了人工智能在法律领域的应用，分析了 AI 系统如何模拟或辅助人类的法律推理过程，以及其带来的机遇与挑战。</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
