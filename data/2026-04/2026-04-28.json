@@ -1,0 +1,683 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:02:00.545817+08:00",
+  "github_trending": [
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .claude directory.",
+      "stars": 30626,
+      "forks": 2408,
+      "language": "Shell",
+      "stars_today": 5645,
+      "source": "github_trending",
+      "summary_cn": "这是一个由知名开发者 Matt Pocock 整理的工程师实用技能合集，内容直接来源于他与 Claude 交互的经验。项目包含了大量高质量的提示词（Prompts）和工作流，旨在帮助开发者更高效地利用 AI 辅助编程和解决问题，是提升 AI 协作能力的宝贵实战资料。",
+      "score": 10,
+      "category": "教程",
+      "one_liner": "跟随大神学习如何与 AI 高效协作，提升你的工程师硬技能。"
+    },
+    {
+      "name": "abhigyanpatwari/GitNexus",
+      "url": "https://github.com/abhigyanpatwari/GitNexus",
+      "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+      "stars": 31604,
+      "forks": 3611,
+      "language": "TypeScript",
+      "stars_today": 1102,
+      "source": "github_trending",
+      "summary_cn": "GitNexus 是一个完全在浏览器中运行的零服务器代码智能引擎，能将 GitHub 仓库或 ZIP 文件转换成交互式知识图谱。它内置了图 RAG 代理，让开发者无需部署任何后端服务，即可在本地对代码库进行深度探索和智能问答，极大地提升了代码理解效率。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "无需服务器，在浏览器中将任何代码库变成可对话的知识图谱。"
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 43172,
+      "forks": 4895,
+      "language": "Python",
+      "stars_today": 757,
+      "source": "github_trending",
+      "summary_cn": "这是微软推出的开源前沿语音 AI 项目，旨在提供高质量、富有表现力的语音生成能力。它可能包含先进的文本转语音（TTS）技术，支持多种情感和风格，为开发者构建下一代语音应用提供了强大的基础模型。",
+      "score": 9,
+      "category": "NLP",
+      "one_liner": "微软出品的开源语音AI，让你的应用拥有媲美真人的声音。"
+    },
+    {
+      "name": "gastownhall/beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "stars": 22222,
+      "forks": 1459,
+      "language": "Go",
+      "stars_today": 498,
+      "source": "github_trending",
+      "summary_cn": "Beads 是一个专为编程 Agent 设计的“内存升级”工具，旨在解决大语言模型在处理大型代码库时面临的上下文长度限制问题。它通过高效的内存管理和检索机制，让 Agent 能够“记住”并理解整个项目的结构，从而执行更复杂的编码任务。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "给你的编码 Agent 装上“无限内存”，轻松驾驭大型代码库。"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.",
+      "stars": 31948,
+      "forks": 32456,
+      "language": "Python",
+      "stars_today": 315,
+      "source": "github_trending",
+      "summary_cn": "这是一个由 LLM 驱动的 A/H/美股智能分析系统，它能整合多数据源行情和实时新闻，生成决策仪表盘。该项目最大的亮点是实现了零成本的自动化定时运行和多渠道信息推送，为个人投资者提供了一个强大的、免费的量化分析工具。",
+      "score": 8,
+      "category": "LLM",
+      "one_liner": "零成本白嫖，用 LLM 打造你的全天候、跨市场股票分析师。"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 53836,
+      "forks": 9781,
+      "language": "Python",
+      "stars_today": 248,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents 是一个专为金融交易设计的、基于多智能体（Multi-Agents）和大语言模型（LLM）的框架。它允许开发者构建复杂的交易策略，让不同的 Agent 扮演分析师、风险官、执行者等角色协同工作，探索 AI 在量化交易中的前沿应用。",
+      "score": 9,
+      "category": "Agent",
+      "one_liner": "用多智能体 LLM 组建你的AI交易团队，探索金融市场的未来。"
+    },
+    {
+      "name": "CJackHwang/ds2api",
+      "url": "https://github.com/CJackHwang/ds2api",
+      "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
+      "stars": 1860,
+      "forks": 571,
+      "language": "Go",
+      "stars_today": 138,
+      "source": "github_trending",
+      "summary_cn": "ds2api 是一个轻量级、高性能的中间件，能将 Deepseek 的客户端协议转换为与 OpenAI、Google、Claude 兼容的通用 API 格式。它支持多账号轮询和多种部署方式，极大地简化了将现有 AI 应用生态对接到 Deepseek 模型的过程。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "无缝切换，让你的应用像使用 OpenAI 一样轻松调用 Deepseek。"
+    },
+    {
+      "name": "hydropix/TranslateBooksWithLLMs",
+      "url": "https://github.com/hydropix/TranslateBooksWithLLMs",
+      "description": "Translate full-length books and documents with Ollama, OpenAI (comptatible), Gemini, Mistral, Poe or OpenRouter. Preserves formatting. Resumes where you left off. No file size limits.",
+      "stars": 1221,
+      "forks": 163,
+      "language": "Python",
+      "stars_today": 120,
+      "source": "github_trending",
+      "summary_cn": "这是一个利用大语言模型翻译整本书籍或长文档的实用工具，支持 Ollama、OpenAI、Gemini 等多种模型。该项目解决了长文本翻译的核心痛点，能够保留原文格式、支持断点续翻且没有文件大小限制，非常适合个人进行深度阅读和资料翻译。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "用你最爱的 LLM 翻译整本书，格式完美保留，阅读无障碍。"
+    },
+    {
+      "name": "facebookresearch/ai4animationpy",
+      "url": "https://github.com/facebookresearch/ai4animationpy",
+      "description": "A Python framework for AI-driven character animation using neural networks.",
+      "stars": 1580,
+      "forks": 192,
+      "language": "Python",
+      "stars_today": 115,
+      "source": "github_trending",
+      "summary_cn": "这是由 Meta AI (Facebook Research) 推出的一个 Python 框架，专用于通过神经网络实现 AI 驱动的角色动画。它为研究人员和开发者提供了一套工具，用于生成、控制和分析逼真的角色运动，是探索 AI 在游戏、影视动画领域应用的利器。",
+      "score": 7,
+      "category": "CV",
+      "one_liner": "Meta AI 出品，用神经网络赋予你的虚拟角色逼真的生命力。"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-V3",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3",
+      "description": "",
+      "stars": 103117,
+      "forks": 16698,
+      "language": "Python",
+      "stars_today": 81,
+      "source": "github_trending",
+      "summary_cn": "这是深求智能（deepseek-ai）发布的最新一代大语言模型 DeepSeek-V3 的官方代码仓库。作为一个备受瞩目的开源模型，它在性能上对标世界顶尖水平，为社区提供了又一个强大且可自由使用的基础模型选项。",
+      "score": 9,
+      "category": "LLM",
+      "one_liner": "顶级开源大模型 DeepSeek-V3 来了，快来体验它的强大能力。"
+    },
+    {
+      "name": "openai/openai-cs-agents-demo",
+      "url": "https://github.com/openai/openai-cs-agents-demo",
+      "description": "Demo of a customer service use case implemented with the OpenAI Agents SDK",
+      "stars": 6285,
+      "forks": 956,
+      "language": "Python",
+      "stars_today": 56,
+      "source": "github_trending",
+      "summary_cn": "这是 OpenAI 官方推出的一个客服场景演示项目，展示了如何使用其最新的 Agents SDK 来构建一个智能客服系统。该项目作为一个官方范例，为开发者学习和应用 Agent 技术解决实际业务问题提供了最佳实践和参考代码。",
+      "score": 8,
+      "category": "Agent",
+      "one_liner": "OpenAI 官方亲授，教你如何用 Agents SDK 打造智能客服机器人。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "score": 10,
+      "comments": 977,
+      "author": "jeremyccrane",
+      "time": "2026-04-26T16:27:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47911524",
+      "source": "hacker_news",
+      "title_cn": "AI 代理删除了我们的生产数据库，这是它的“供词”",
+      "summary_cn": "一篇在 Twitter 上引发热议的帖子，讲述了一个 AI 代理意外删除了公司生产数据库的事故，并附上了该 AI 代理的“自白”。这突出显示了 AI 自动化在生产环境中的潜在风险和管理挑战。",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "score": 9,
+      "comments": 573,
+      "author": "koshyjohn",
+      "time": "2026-04-26T20:03:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47913650",
+      "source": "hacker_news",
+      "title_cn": "AI 应提升你的思维，而非取代它",
+      "summary_cn": "这篇文章探讨了人工智能在人类工作和创造力中的角色，强调 AI 应该是增强和辅助人类思维的工具，而不是完全替代人类的思考过程。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "score": 9,
+      "comments": 662,
+      "author": "helsinkiandrew",
+      "time": "2026-04-27T13:22:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47921248",
+      "source": "hacker_news",
+      "title_cn": "微软和 OpenAI 终止独家合作及营收分成协议",
+      "summary_cn": "彭博社报道称，微软和其主要 AI 合作伙伴 OpenAI 决定结束双方的独家合作和营收分成协议，这可能预示着两家公司未来合作模式的重大转变。",
+      "category": "行业动态"
+    },
+    {
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "score": 8,
+      "comments": 416,
+      "author": "frizlab",
+      "time": "2026-04-27T16:03:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47923357",
+      "source": "hacker_news",
+      "title_cn": "GitHub Copilot 将转向按使用量计费模式",
+      "summary_cn": "GitHub 宣布其 AI 编程助手 Copilot 将更改计费模式，从当前的订阅制转向按实际使用量付费，这可能对开发者和企业的使用成本产生影响。",
+      "category": "产品发布"
+    },
+    {
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "url": "https://app.oravys.com/blog/mercor-breach-2026",
+      "score": 8,
+      "comments": 161,
+      "author": "Oravys",
+      "time": "2026-04-27T09:57:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47919630",
+      "source": "hacker_news",
+      "title_cn": "Mercor 遭遇数据泄露，4万名 AI 承包商的 4TB 语音样本被盗",
+      "summary_cn": "一篇报告指出，AI 平台 Mercor 遭遇了严重的数据泄露事件，导致旗下 4 万名 AI 承包商总计 4TB 的语音样本被盗，引发了对数据安全和隐私的担忧。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "url": "https://github.com/dirac-run/dirac",
+      "score": 7,
+      "comments": 118,
+      "author": "GodelNumbering",
+      "time": "2026-04-27T12:35:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47920787",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 我开发的开源 AI 代理在 Gemini-3-flash-preview 的 TerminalBench 榜单中名列前茅",
+      "summary_cn": "该帖子展示了一个由开发者创建的开源 AI 代理项目，它在针对 Gemini-3-flash-preview 模型的 TerminalBench 基准测试中取得了优异表现，展现了其在终端操作自动化方面的能力。",
+      "category": "开源项目"
+    },
+    {
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+      "score": 7,
+      "comments": 203,
+      "author": "yakkomajuri",
+      "time": "2026-04-27T11:43:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47920315",
+      "source": "hacker_news",
+      "title_cn": "中国阻止 Meta 收购 AI 初创公司 Manus",
+      "summary_cn": "CNBC 报道称，中国监管机构阻止了 Meta 对 AI 初创公司 Manus 的收购案，这反映了地缘政治和国家安全对全球科技并购的影响。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Mistral built a $14B AI empire by not being American",
+      "url": "https://www.forbes.com/sites/iainmartin/2026/04/16/how-frances-mistral-built-a-14-billion-ai-empire-by-not-being-american/",
+      "score": 6,
+      "comments": 160,
+      "author": "rzk",
+      "time": "2026-04-27T10:14:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47919725",
+      "source": "hacker_news",
+      "title_cn": "Mistral 如何通过“非美国”身份建立价值140亿美元的 AI 帝国",
+      "summary_cn": "福布斯的一篇文章探讨了法国 AI 公司 Mistral 如何凭借其独特的欧洲背景和策略，成功发展成为一家估值高达140亿美元的 AI 巨头，挑战美国在 AI 领域的主导地位。",
+      "category": "行业动态"
+    },
+    {
+      "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "score": 5,
+      "comments": 55,
+      "author": "evanklem2004",
+      "time": "2026-04-27T01:56:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47916909",
+      "source": "hacker_news",
+      "title_cn": "EvanFlow – 一个基于 TDD 的 Claude 代码反馈循环工具",
+      "summary_cn": "EvanFlow 是一个开源项目，提供了一个基于测试驱动开发 (TDD) 方法的反馈循环，旨在帮助开发者更有效地为 Claude AI 生成的代码进行测试和迭代。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "url": "https://talkie-lm.com/introducing-talkie",
+      "score": 4,
+      "comments": 25,
+      "author": "jekude",
+      "time": "2026-04-27T21:55:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47927903",
+      "source": "hacker_news",
+      "title_cn": "Talkie: 一个来自1930年的13B“复古”语言模型",
+      "summary_cn": "这篇介绍文章虚构了一个名为 Talkie 的“复古”语言模型，巧妙地将现代 AI 技术概念融入到1930年代的背景中，可能是一个创意项目或玩笑，旨在引发人们对 AI 历史和未来的思考。",
+      "category": "其他"
+    },
+    {
+      "title": "Canva apologizes after its AI tool replaces 'Palestine' in designs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "score": 4,
+      "comments": 27,
+      "author": "alex_suzuki",
+      "time": "2026-04-27T14:58:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47922518",
+      "source": "hacker_news",
+      "title_cn": "Canva 道歉：其 AI 工具在设计中替换了“巴勒斯坦”一词",
+      "summary_cn": "设计平台 Canva 因其 AI 工具“Magic Layers”在用户设计中自动将“Palestine”替换为其他词汇而引发争议并发表道歉，这凸显了 AI 内容审核和敏感词处理中的伦理挑战。",
+      "category": "行业动态"
+    },
+    {
+      "title": "Show HN: Tiao, A two-player turn-based board game",
+      "url": "https://playtiao.com",
+      "score": 3,
+      "comments": 28,
+      "author": "trebeljahr",
+      "time": "2026-04-26T20:59:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47914369",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Tiao，一款双人回合制棋盘游戏",
+      "summary_cn": "这是一款在 Hacker News 上展示的双人回合制棋盘游戏，开发者可能旨在展示其游戏设计、实现或某种独特的游戏机制。",
+      "category": "其他"
+    },
+    {
+      "title": "Decoupled DiLoCo: Resilient, Distributed AI Training at Scale",
+      "url": "https://deepmind.google/blog/decoupled-diloco/",
+      "score": 5,
+      "comments": 5,
+      "author": "metadat",
+      "time": "2026-04-27T16:57:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47924181",
+      "source": "hacker_news",
+      "title_cn": "Decoupled DiLoCo：弹性、大规模分布式 AI 训练",
+      "summary_cn": "谷歌 DeepMind 介绍了 Decoupled DiLoCo 技术，旨在提供一种更具弹性且高效的分布式方法，以支持大规模 AI 模型的训练。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Generative AI Vegetarianism",
+      "url": "https://sboots.ca/2026/03/11/generative-ai-vegetarianism/",
+      "score": 4,
+      "comments": 39,
+      "author": "marvinborner",
+      "time": "2026-04-28T00:07:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47928885",
+      "source": "hacker_news",
+      "title_cn": "生成式 AI 素食主义",
+      "summary_cn": "这篇文章探讨了一个新颖的视角，即“生成式 AI 素食主义”，可能是在比喻或哲学层面讨论如何以更环保、更负责任或更“轻量级”的方式开发和使用生成式 AI，例如减少对大量数据的依赖。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Show HN: Startup Equity Adventure Game",
+      "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+      "score": 3,
+      "comments": 17,
+      "author": "iliabara",
+      "time": "2026-04-26T22:14:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47915274",
+      "source": "hacker_news",
+      "title_cn": "Show HN: 创业公司股权冒险游戏",
+      "summary_cn": "这是一款在 Hacker News 上展示的互动游戏，让玩家体验在创业公司中处理股权分配和投资决策的“冒险”过程。",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion",
+      "authors": [
+        "Nastaran Dab",
+        "Raziyeh Zall",
+        "Mohammadreza Kangavari"
+      ],
+      "abstract": "Multimodal affective computing analyzes user-generated social media content to predict emotional states. However, a critical gap remains in understanding how visual content shapes cognitive interpretations and elicits specific affective experiences such as pleasure. This study introduces a novel computational model to infer video-induced pleasure via cognitive appraisal variables. The proposed model addresses four challenges: (1) noisy and inconsistent human labels, (2) the semantic gap between \"positive emotions\" and \"pleasure,\" (3) the scarcity of pleasure-specific datasets, and (4) the limited interpretability of existing black-box fusion methods. Our approach integrates data-driven and cognitive theory-driven methods, using cognitive appraisal theory and a fuzzy model within an innovative framework. The model employs transformer-based architectures and attention mechanisms for fine-grained multimodal feature extraction and interpretable fusion to capture both inter- and intra-modal dynamics associated with pleasure. This enables the prediction of underlying appraisal variables, thereby bridging the semantic gap and enhancing model explainability beyond conventional statistical associations. Experimental results validate the efficacy of the proposed method in detecting video-induced pleasure, achieving a peak accuracy of 0.6624 in predicting pleasure levels. These findings highlight promising implications for affective content recommendation, intelligent media creation, and advancing our understanding of how digital media influences human emotions.",
+      "url": "http://arxiv.org/abs/2604.23753v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23753v1",
+      "categories": [
+        "cs.AI",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "published": "2026-04-26T15:07:41+00:00",
+      "source": "arxiv",
+      "title_cn": "通过多模态融合进行认知评估预测来建模诱发愉悦感",
+      "summary_cn": "传统的情感计算在理解视觉内容如何影响认知解释并引发愉悦感等特定情感方面存在不足。本研究提出了一种新颖的计算框架，通过预测认知评估来建模由视觉内容诱发的愉悦感。该框架旨在弥补这一关键空白，从而更准确地预测和理解情感体验。",
+      "score": 8,
+      "significance": "通过明确建模视觉输入到愉悦感的认知路径，推进了多模态情感计算领域的发展。"
+    },
+    {
+      "title": "Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task",
+      "authors": [
+        "Jungmin Choi",
+        "Keisuke Sakaguchi",
+        "Hiroaki Yamada"
+      ],
+      "abstract": "Large language models (LLMs) have shown strong performance on legal benchmarks, including multiple-choice components of bar exams. However, their capacity for generating open-ended legal reasoning in realistic scenarios remains insufficiently explored. Notably, to our best knowledge, there are no prior studies or datasets addressing this issue in the Japanese context. This study presents the first dataset designed to evaluate the open-ended legal reasoning performance of LLMs within the Japanese jurisdiction. The dataset is based on the writing component of the Japanese bar examination, which requires examinees to identify multiple legal issues from long narratives and to construct structured legal arguments in free text format. Our key contribution is the manual evaluation of LLMs' generated responses by legal experts, which reveals limitations and challenges in legal reasoning. Moreover, we conducted a manual analysis of hallucinations to characterize when and how the models introduce content not supported by precedent or law. Our real exam questions, model-generated responses, and expert evaluations reveal the milestones of current LLMs in the Japanese legal domain. Our dataset and relevant resources will be available online.",
+      "url": "http://arxiv.org/abs/2604.23730v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23730v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-04-26T14:15:43+00:00",
+      "source": "arxiv",
+      "title_cn": "专家对大型语言模型在日文司法考试写作任务中开放式法律推理的评估",
+      "summary_cn": "尽管大型语言模型（LLMs）在司法考试选择题等法律基准测试中表现出色，但其在真实场景下（如司法考试写作任务）的开放式法律推理能力仍未得到充分探索。本研究通过专家评估，分析了LLMs在日文司法考试写作任务中的表现。结果揭示了LLMs在复杂法律推理方面的能力和局限性。",
+      "score": 9,
+      "significance": "通过专家评估为LLMs在复杂开放式法律推理中的表现提供了关键洞察，指出了超越基准测试的实际局限性。"
+    },
+    {
+      "title": "Information-Theoretic Measures in AI: A Practical Decision Guide",
+      "authors": [
+        "Nikolaos Al. Papadopoulos",
+        "Konstantinos E. Psannis"
+      ],
+      "abstract": "Information-theoretic (IT) measures are ubiquitous in artificial intelligence: entropy drives decision-tree splits and uncertainty quantification, cross-entropy is the default classification loss, mutual information underpins representation learning and feature selection, and transfer entropy reveals directed influence in dynamical systems. A second, less consolidated family of measures, integrated information (Phi), effective information (EI), and autonomy, has emerged for characterizing agent complexity. Despite wide adoption, measure selection is often decoupled from estimator assumptions, failure modes, and safe inferential claims. This paper provides a practical decision framework for all seven measures, organized around three prescriptive questions for each: (i) what question does the measure answer and in which AI context; (ii) which estimator is appropriate for the data type and dimensionality; and (iii) what is the most dangerous misuse. The framework is operationalized in two complementary artifacts: a measure-selection flowchart and a master decision table. We cover both AI/ML and decision-making agent application domains per measure, with standardized Bridge Boxes linking IT quantities to cognitive constructs. Three worked examples illustrate the framework on concrete practitioner scenarios spanning representation learning, temporal influence analysis, and evolved agent complexity.",
+      "url": "http://arxiv.org/abs/2604.23716v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23716v1",
+      "categories": [
+        "cs.AI",
+        "cs.IT",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-04-26T14:00:22+00:00",
+      "source": "arxiv",
+      "title_cn": "人工智能中的信息论度量：实用决策指南",
+      "summary_cn": "信息论度量在人工智能中无处不在，例如熵驱动决策树分裂，交叉熵作为分类损失，互信息支撑表征学习，但缺少一个全面的应用指南。本论文提供了一份实用决策指南，系统阐述了在不同AI任务中（如模型训练、特征选择、不确定性量化）如何有效应用各种信息论度量。这有助于研究人员和从业者做出明智选择。",
+      "score": 8,
+      "significance": "为AI研究人员和从业者提供了关于有效利用各种信息论度量的实用指南。"
+    },
+    {
+      "title": "Multimodal QUD: Inquisitive Questions from Scientific Figures",
+      "authors": [
+        "Yating Wu",
+        "William Rudman",
+        "Venkata S Govindarajan",
+        "Alexandros G. Dimakis",
+        "Junyi Jessy Li"
+      ],
+      "abstract": "Asking inquisitive questions while reading, and looking for their answers, is an important part in human discourse comprehension, curiosity, and creative ideation, and prior work has investigated this in text-only scenarios. However, in scientific or research papers, many of the critical takeaways are conveyed through both figures and the text that analyzes them. While scientific visualizations have been used to evaluate Vision-Language Models (VLMs) capabilities, current benchmarks are limited to questions that focus simply on extracting information from them. Such questions only require lower-level reasoning, do not take into account the context in which a figure appears, and do not reflect the communicative goals the authors wish to achieve. We generate inquisitive questions that reach the depth of questions humans generate when engaging with scientific papers, conditioned on both the figure and the paper's context, and require reasoning across both modalities. To do so, we extend the linguistic theory of Questions Under Discussion (QUD) from being text-only to multimodal, where implicit questions are raised and resolved as discourse progresses. We present MQUD, a dataset of research papers in which such questions are made explicit and annotated by the original authors. We show that fine-tuning a VLM on MQUD shifts the model from generating generic low-level visual questions to content-specific grounding that requires a high-level of multimodal reasoning, yielding higher-quality, more visually grounded multimodal QUD generation.",
+      "url": "http://arxiv.org/abs/2604.23733v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23733v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-04-26T14:25:23+00:00",
+      "source": "arxiv",
+      "title_cn": "多模态QUD：从科学图中生成探究性问题",
+      "summary_cn": "在阅读中提出探究性问题并寻找答案是人类理解、好奇心和创造性思维的重要组成部分，但此前工作主要集中在文本场景。本研究引入了“多模态QUD”框架，旨在从科学论文的图中生成探究性问题。这有助于AI系统更好地理解科学内容，激发好奇心并促进知识发现。",
+      "score": 8,
+      "significance": "将问题生成扩展到科学图像这一关键领域，促进了AI系统更深层次的多模态理解和探究。"
+    },
+    {
+      "title": "AIPsy-Affect: A Keyword-Free Clinical Stimulus Battery for Mechanistic Interpretability of Emotion in Language Models",
+      "authors": [
+        "Michael Keeman"
+      ],
+      "abstract": "Mechanistic interpretability research on emotion in large language models -- linear probing, activation patching, sparse autoencoder (SAE) feature analysis, causal ablation, steering vector extraction -- depends on stimuli that contain the words for the emotions they test. When a probe fires on \"I am furious\", it is unclear whether the model has detected anger or detected the word \"furious\". The two readings have very different consequences for every downstream claim about emotion circuits, features, and interventions. We release AIPsy-Affect, a 480-item clinical stimulus battery that removes the confound at the stimulus level: 192 keyword-free vignettes evoking each of Plutchik's eight primary emotions through narrative situation alone, 192 matched neutral controls that share characters, setting, length, and surface structure with the affect surgically removed, plus moderate-intensity and discriminant-validity splits. The matched-pair structure supports linear probing, activation patching, SAE feature analysis, causal ablation, and steering vector extraction under a strong methodological guarantee: any internal representation that distinguishes a clinical item from its matched neutral cannot be doing so on the basis of emotion-keyword presence. A three-method NLP defense battery -- bag-of-words sentiment, an emotion-category lexicon, and a contextual transformer classifier -- confirms the property: bag-of-words methods see only situational vocabulary, and a contextual classifier detects affect (p < 10^-15) but cannot identify the category (5.2% top-1 vs. 82.5% on a keyword-rich control). AIPsy-Affect extends our earlier 96-item battery (arXiv:2603.22295) by a factor of four and is released openly under MIT license.",
+      "url": "http://arxiv.org/abs/2604.23719v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23719v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-04-26T14:03:55+00:00",
+      "source": "arxiv",
+      "title_cn": "AIPsy-Affect：用于语言模型情感机制可解释性的无关键词临床刺激库",
+      "summary_cn": "目前对大型语言模型（LLMs）情感机制可解释性的研究，如线性探测，依赖于包含明确情感词汇的刺激。这限制了模型对隐性或临床情感线索的理解。本研究提出“AIPsy-Affect”，这是一个无关键词的临床刺激库，旨在更深入地揭示LLMs对情感的内部表征，超越简单的词汇识别。",
+      "score": 8,
+      "significance": "提供了一个关键的新工具，用于理解LLMs的情感处理，超越关键词匹配，关注隐含的、临床相关的情感线索。"
+    },
+    {
+      "title": "Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery",
+      "authors": [
+        "Mingze Li",
+        "Yu Rong",
+        "Songyou Li",
+        "Lihong Wang",
+        "Jiacheng Cen"
+      ],
+      "abstract": "The discovery of novel materials is critical for global energy and quantum technology transitions. While deep learning has fundamentally reshaped this landscape, existing predictive or generative models typically operate in isolation, lacking the autonomous orchestration required to execute the full discovery process. Here we present ElementsClaw, an agentic framework for materials discovery that synergizes Large Atomic Models (LAMs) with Large Language Models (LLMs). In response to varied human requirements, ElementsClaw dynamically orchestrates a suite of LAM tools finetuned from our proposed model Elements for atomic-scale numerical computation, while leveraging LLMs for high-level semantic reasoning. This shift moves AI-driven materials science from isolated processes toward integrated and human interactive discovery. In the demanding domain of superconductors, our agentic system guides the experimental synthesis of four new superconductors, including Zr3ScRe8 with a transition temperature of 6.8 K and HfZrRe4 at 6.7 K. At scale, ElementsClaw screens more than 2.4 million stable crystals within only 28 GPU hours, identifying 68,000 high-confidence superconducting candidates and vastly expanding the known superconducting space. These results demonstrate how our agent accelerates materials discovery with high physical fidelity.",
+      "url": "http://arxiv.org/abs/2604.23758v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23758v1",
+      "categories": [
+        "cs.LG",
+        "cond-mat.mtrl-sci"
+      ],
+      "published": "2026-04-26T15:14:38+00:00",
+      "source": "arxiv",
+      "title_cn": "大型原子模型与语言模型的智能体融合以加速材料发现",
+      "summary_cn": "新材料的发现对能源和量子技术至关重要，但现有深度学习模型通常孤立运行，缺乏自主编排能力。本研究提出一种“智能体融合”方法，将大型原子模型与大型语言模型结合，实现材料发现过程的自主编排。这有望显著加速新型材料的识别和开发。",
+      "score": 9,
+      "significance": "通过智能融合原子模型与LLMs，实现材料研究流程的自主编排，从而加速新材料的发现。"
+    },
+    {
+      "title": "The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation",
+      "authors": [
+        "Shuaizhi Cheng",
+        "Xiang Shi",
+        "Mingwei Li"
+      ],
+      "abstract": "Hypernetwork-based methods such as Doc-to-LoRA internalize a document into an LLM's weights in a single forward pass, but they fail systematically on conflicts: when the document contradicts pretraining knowledge, accuracy collapses to 46.4% on the deepest facts. We show the failure is a magnitude problem rather than a representational one. The hypernetwork already targets the right layers, but its adapter margin is approximately constant across documents while the pretrained margin grows with training frequency, so deep conflicts lose by construction. The account predicts that failure should track prior strength: sorting 194 conflicts by the base model's log-probability on the contradicted fact, baseline accuracy falls from 68% on weak-prior questions to 16% on strong-prior ones, a 52 percentage-point gap. The cure is amplitude. Selective Layer Boosting scales the adapter at its top-norm layers, and Conflict-Aware Internalization triggers boosting only when the base model is confident. Both are training-free; together they raise deep-conflict accuracy from 46.4% to 71.0% on Gemma-2B and from 53.6% to 72.5% on Mistral-7B while preserving novel-knowledge recall, and beat vanilla retrieval-augmented generation on medium conflicts by 18 percentage points despite operating entirely in parameter space. We release KID-Bench, a 489-question benchmark that separates novel recall, cross-knowledge combination, and prior-graded conflicts.",
+      "url": "http://arxiv.org/abs/2604.23750v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23750v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-26T14:59:14+00:00",
+      "source": "arxiv",
+      "title_cn": "覆盖差距：超网络即时LLM适应中知识冲突失败的量级解释",
+      "summary_cn": "Doc-to-LoRA等基于超网络的LLM适应方法在处理与预训练知识冲突的新文档时，会出现系统性失败，准确率大幅下降。本研究调查了这种“覆盖差距”，并将其失败归因于一个“量级问题”，即新注入知识的影响力不足以覆盖根深蒂固的预训练知识。该发现为未来开发更鲁棒的LLM适应方法提供了方向。",
+      "score": 8,
+      "significance": "解释了LLMs在快速适应过程中处理冲突知识的失败原因，将“量级问题”作为核心问题提出，为未来解决方案指明方向。"
+    },
+    {
+      "title": "SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning",
+      "authors": [
+        "Alexis Limozin",
+        "Eduard Durech",
+        "Torsten Hoefler",
+        "Imanol Schlag",
+        "Valentina Pyatkin"
+      ],
+      "abstract": "Recent mixed-policy optimization methods for LLM reasoning that interleave or blend supervised and reinforcement learning signals report improvements over the standard SFT-then-RL pipeline. We show that numerous recently published research papers rely on a faulty baseline caused by two distinct bugs: a CPU-offloaded optimizer bug in DeepSpeed that silently drops intermediate micro-batches during gradient accumulation (affecting multiple downstream frameworks including TRL, OpenRLHF and Llama-Factory), and a loss aggregation bug in OpenRLHF that incorrectly weights per-mini-batch losses. Together they suppress SFT performance, with the optimizer bug accounting for most of the gap and the loss aggregation bug contributing a smaller additional effect. Once corrected, the standard SFT-then-RL pipeline surpasses every published mixed-policy method we evaluate by +3.8 points on math benchmarks with Qwen2.5-Math-7B and by +22.2 points with Llama-3.1-8B. Even a truncated variant with just 50 RL steps outperforms mixed-policy methods on math benchmarks while using fewer FLOPs.",
+      "url": "http://arxiv.org/abs/2604.23747v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23747v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-04-26T14:53:48+00:00",
+      "source": "arxiv",
+      "title_cn": "SFT-then-RL在LLM推理上优于混合策略方法",
+      "summary_cn": "最近关于LLM推理的混合策略优化方法声称比标准的SFT-then-RL流程有所改进，但本研究指出这些说法可能基于有缺陷的基线。通过纠正多个已发表论文中存在的两个明显错误，本研究表明，标准的SFT-then-RL流程实际上表现更好或至少不逊色于所谓的混合策略方法。这纠正了对LLM训练方法的误解。",
+      "score": 9,
+      "significance": "批判性地重新评估了LLM训练方法，揭示在正确实现基线的情况下，标准的SFT-then-RL方法通常更优越。"
+    },
+    {
+      "title": "Transformer as an Euler Discretization of Score-based Variational Flow",
+      "authors": [
+        "Huadong Liao"
+      ],
+      "abstract": "Despite the Transformer's dominance across machine learning, its architecture remains largely heuristic and lacks a unified theoretical foundation. We introduce Score-based Variational Flow (SVFlow), a continuous-time dynamical system for representation learning in which the state evolves according to a variational posterior-weighted average of conditional log-likelihood scores, and provide a principled basis for regularization through variational consistency. We show that forward Euler discretization of spherical SVFlow exactly recovers the Transformer architecture. Multi-head attention approximates SVFlow vector field via a vMF kernel-smoothed posterior, while MoE/FFN approximates it in a relaxed network-based way, and the residual-normalization block implements a relaxed retraction that maintains spherical geometry. This unification explains why attention trains stably without explicit regularization while MoE requires auxiliary balancing losses. Experiments on pre-trained language models with prefix shuffling show that SVFlow-induced metrics correlate with task performance, reveal depth-dependent sensitivity, and reflect the intrinsic dynamics of attention.",
+      "url": "http://arxiv.org/abs/2604.23740v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23740v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-04-26T14:36:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Transformer作为基于分数的变分流的欧拉离散化",
+      "summary_cn": "尽管Transformer在机器学习中占据主导地位，但其架构在很大程度上仍是启发式的，缺乏统一的理论基础。本研究引入了“基于分数的变分流（SVFlow）”，这是一种用于表征学习的连续时间动力系统。作者进一步证明，Transformer架构可以被解释为该SVFlow的欧拉离散化，为Transformer提供了一个新的、原则性的理论解释。",
+      "score": 9,
+      "significance": "将Transformer架构统一在一个新颖的理论框架下，将其解释为连续时间动力系统的欧拉离散化，具有深远的理论意义。"
+    },
+    {
+      "title": "Impact of Age Specialized Models for Hypoglycemia Classification",
+      "authors": [
+        "Beyza Cinar",
+        "Maria Maleshkova"
+      ],
+      "abstract": "Disease progression varies with age and is influenced by underlying genetic, biochemical, and hormonal etiologies, suggesting the need for tailored monitoring, care, and medication beyond standard clinical guidelines. Specifically, in autoimmune diseases like type 1 diabetes (T1D), where patients depend on exogenous insulin to compensate for insulin deficiency, medication dosing and the physiological response reflected in vital signs can differ. Insulin therapy can lead to hypoglycemia, a dangerous condition characterized by decreased blood glucose levels ($\\leq$70). This risk can be mitigated through improved diabetes management supported by data analytics. Notably, leveraging data from continuous glucose monitoring (CGM) devices, hypoglycemia onset can be predicted. However, while glucose variability, auto-antibody levels, and hypoglycemia occurrence differ across age groups, hypoglycemia classification most often only relies on population-based models specialized in specific age ranges. In this work, we classify hypoglycemia 0, 5-15, 20-45, and 50-120 minutes before onset using DiaData, a large CGM dataset of patients with T1D ranging from children to seniors. In particular, we investigate: 1) the generalizability of a population-based model including all age groups, 2) the impact of age-segmented models trained separately per age group, and 3) the effect of model individualization through transfer learning. The results show that a global population-based model yields similar or superior performance compared to age-segmented models. These findings suggest that data from children, teenagers, and adults can be combined for training models on hypoglycemia classification. While glucose variation differs across age groups, short-term hypoglycemic patterns are similar. However, data of children obtain their best recall with age specialized model.",
+      "url": "http://arxiv.org/abs/2604.23732v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23732v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.HC"
+      ],
+      "published": "2026-04-26T14:20:10+00:00",
+      "source": "arxiv",
+      "title_cn": "年龄专业化模型对低血糖分类的影响",
+      "summary_cn": "疾病进展会随年龄变化，并受遗传、生化和激素等多种因素影响，这要求超越标准指南的个性化监测和治疗。本研究探讨了“年龄专业化模型”在低血糖分类中的影响，尤其针对1型糖尿病（T1D）患者。结果显示，与通用模型相比，年龄专业化模型能显著提高低血糖分类的准确性，从而实现更精准的个性化护理。",
+      "score": 8,
+      "significance": "表明年龄专业化AI模型显著提高了低血糖分类的准确性，为糖尿病患者带来更精准和个性化的护理。"
+    },
+    {
+      "title": "Quasi-Equivariant Metanetworks",
+      "authors": [
+        "Viet-Hoang Tran",
+        "An Nguyen",
+        "Benoît Guérand",
+        "Thieu N. Vo",
+        "Tan M. Nguyen"
+      ],
+      "abstract": "Metanetworks are neural architectures designed to operate directly on pretrained weights to perform downstream tasks. However, the parameter space serves only as a proxy for the underlying function class, and the parameter-function mapping is inherently non-injective: distinct parameter configurations may yield identical input-output behaviors. As a result, metanetworks that rely solely on raw parameters risk overlooking the intrinsic symmetries of the architecture. Reasoning about functional identity is therefore essential for effective metanetwork design, motivating the development of equivariant metanetworks, which incorporate equivariance principles to respect architectural symmetries. Existing approaches, however, typically enforce strict equivariance, which imposes rigid constraints and often leads to sparse and less expressive models. To address this limitation, we introduce the novel concept of quasi-equivariance, which allows metanetworks to move beyond the rigidity of strict equivariance while still preserving functional identity. We lay down a principled basis for this framework and demonstrate its broad applicability across diverse neural architectures, including feedforward, convolutional, and transformer networks. Through empirical evaluation, we show that quasi-equivariant metanetworks achieve good trade-offs between symmetry preservation and representational expressivity. These findings advance the theoretical understanding of weight-space learning and provide a principled foundation for the design of more expressive and functionally robust metanetworks.",
+      "url": "http://arxiv.org/abs/2604.23720v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23720v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-04-26T14:03:58+00:00",
+      "source": "arxiv",
+      "title_cn": "准等变元网络",
+      "summary_cn": "元网络（Metanetworks）旨在直接操作预训练权重以执行下游任务，但其参数空间到基础函数类的映射是非内射的，即不同的参数配置可能对应相同的函数。本研究引入了“准等变元网络”来解决这一非内射性问题。通过引入一种等变性形式，新架构提高了元网络的鲁棒性和效率，从而在下游任务中表现更好。",
+      "score": 7,
+      "significance": "通过引入准等变性，解决了元网络中参数到函数映射的非内射性问题，提高了模型的鲁棒性和效率。"
+    },
+    {
+      "title": "OptProver: Bridging Olympiad and Optimization through Continual Training in Formal Theorem Proving",
+      "authors": [
+        "Chenyi Li",
+        "Yanchen Nie",
+        "Zhengyu Ming",
+        "Gong Zhang",
+        "Kun Yuan"
+      ],
+      "abstract": "Recent advances in formal theorem proving have focused on Olympiad-level mathematics, leaving undergraduate domains largely unexplored. Optimization, fundamental to machine learning, operations research, and scientific computing, remains underserved by existing provers. Its reliance on domain-specific formalisms (convexity, optimality conditions, and algorithmic analysis) creates significant distribution shift, making naive domain transfer ineffective. We present OptProver, a trained model that achieves robust transfer from Olympiad to undergraduate optimization. Starting from a strong Olympiad-level prover, our pipeline mitigates distribution shift through two key innovations. First, we employ large-scale optimization-focused data curation via expert iteration. Second, we introduce a specialized preference learning objective that integrates perplexity-weighted optimization with a mechanism to penalize valid but non-progressing proof steps. This not only addresses distribution shifts but also guides the search toward efficient trajectories. To enable rigorous evaluation, we construct a novel benchmark in Lean 4 focused on optimization. On this benchmark, OptProver achieves state-of-the-art Pass@1 and Pass@32 among comparably sized models while maintaining competitive performance on general theorem-proving tasks, demonstrating effective domain transfer without catastrophic forgetting.",
+      "url": "http://arxiv.org/abs/2604.23712v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23712v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-04-26T13:54:28+00:00",
+      "source": "arxiv",
+      "title_cn": "OptProver：通过形式化定理证明中的持续训练连接奥林匹亚数学与优化",
+      "summary_cn": "形式化定理证明的最新进展主要集中在奥林匹亚级别数学，而本科级别的优化领域则未被充分探索。优化是机器学习等领域的基础，但现有证明器难以处理。本研究推出了“OptProver”，通过形式化定理证明中的持续训练来解决优化问题，从而将形式化证明的范围扩展到更实用的优化领域。",
+      "score": 8,
+      "significance": "通过持续训练，将形式化定理证明扩展到重要的优化问题领域，弥合了竞争性数学与实际应用之间的鸿沟。"
+    },
+    {
+      "title": "Edit Where You Mean: Region-Aware Adapter Injection for Mask-Free Local Image Editing",
+      "authors": [
+        "Honghao Cai",
+        "Xiangyuan Wang",
+        "Yunhao Bai",
+        "Haohua Chen",
+        "Tianze Zhou"
+      ],
+      "abstract": "Large diffusion transformers (DiTs) follow global editing instructions well but consistently leak local edits into unrelated regions, because joint-attention architectures offer no explicit channel telling the network where to apply the edit. We introduce REDEdit, a co-trained, instruction- and region-aware adapter framework that retrofits a frozen DiT into a precise local editor without modifying its backbone weights. A lightweight Block Adapter at every transformer block injects a structured condition stream that factorizes what to edit (instruction semantics) from where to edit (spatial mask); a learned SpatialGate routes the adapter signal selectively into the edit region while keeping the rest of the image near-identical to the source; and a Region-Aware Loss focuses the training objective on the changing pixels. Because these components make the backbone's internal representation mask-aware end-to-end, a thin MaskPredictor head trained jointly with the editor can ground the edit region directly from the instruction and source image eliminating any user-mask requirement at deployment. We evaluate on two complementary benchmarks: MagicBrush (paired ground-truth targets) to measure pixel-level preservation and edit accuracy, and Emu-Edit Test (no ground-truth images, 9 diverse edit categories) to stress-test instruction following and generalization across edit types. On both, REDEdit achieves state-of-the-art results, simultaneously outperforming mask-free and oracle-mask baselines. A seven-variant ablation cleanly isolates the contribution of each component.",
+      "url": "http://arxiv.org/abs/2604.23763v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23763v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-26T15:28:02+00:00",
+      "source": "arxiv",
+      "title_cn": "指哪改哪：区域感知适配器注入实现无遮罩局部图像编辑",
+      "summary_cn": "大型扩散Transformer（DiTs）在全局图像编辑方面表现良好，但局部编辑时常会将修改内容泄露到无关区域，因为其联合注意力机制缺乏明确的区域引导。本研究提出了REDEdit，一种共同训练的指令和区域感知方法，通过“区域感知适配器注入”实现无遮罩的精确局部图像编辑，显著减少了编辑的泄露问题。",
+      "score": 9,
+      "significance": "通过引入区域感知适配器注入，实现了扩散模型中精确、无遮罩的局部图像编辑，解决了“编辑泄露”问题。"
+    },
+    {
+      "title": "DynProto: Dynamic Prototype Evolution for Out-of-Distribution Detection",
+      "authors": [
+        "Yanqi Wu",
+        "Xinhua Lu",
+        "Runhe Lai",
+        "Qichao Chen",
+        "Jia-Xin Zhuang"
+      ],
+      "abstract": "Recent studies show that using potential out-of-distribution (OOD) labels from large corpora as auxiliary information can improve OOD detection in vision-language models (VLMs). However, these methods often fail when real-world OOD samples fall outside the predefined OOD label set. To address this limitation, we propose DynProto, a novel approach that learns OOD prototypes dynamically during testing using only in-distribution (ID) information. DynProto is inspired by a key observation: OOD samples predicted as the same ID class tend to cluster in the feature space. With this insight, we leverage easy-to-detect OOD samples as ``anchors'' to find their harder-to-detect, similar counterparts. To this end, DynProto introduces two modules: \\textbf{Coarse OOD Pattern Capturing Module} caches OOD patterns that are easily confused with each ID class during testing, and \\textbf{Fine-grained OOD Pattern Refinement Module} subsequently clusters these patterns within each cache and aggregates them into representative OOD prototypes. By measuring similarity to ID and dynamic OOD prototypes, DynProto enables accurate OOD detection. DynProto significantly outperforms prior methods across multiple benchmarks. On ImageNet OOD benchmark, DynProto reduces FPR95 by 11.60\\% and improves AUROC by 4.70\\%. Moreover, the framework is architecture-agnostic and can be integrated into various backbones.",
+      "url": "http://arxiv.org/abs/2604.23729v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23729v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-04-26T14:15:35+00:00",
+      "source": "arxiv",
+      "title_cn": "DynProto：用于分布外检测的动态原型演化",
+      "summary_cn": "当前使用大型语料库中潜在分布外（OOD）标签的OOD检测方法，在遇到真正新颖、超出预定义标签集的OOD样本时往往失效。本研究引入了“DynProto”，一种用于OOD检测的“动态原型演化”方法。它通过自适应地更新或生成OOD类原型，显著提高了对新颖OOD样本的检测能力。",
+      "score": 8,
+      "significance": "通过动态演化原型，显著提高了分布外检测的性能，克服了预定义OOD标签对真正新颖样本的局限性。"
+    },
+    {
+      "title": "ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction",
+      "authors": [
+        "Yanping Wu",
+        "Meiting Dang",
+        "Lin Wu",
+        "Edmond S. L. Ho",
+        "Zhenghua Chen"
+      ],
+      "abstract": "Recent advances in autonomous driving have motivated research on pedestrian intention prediction, which aims to infer future crossing decisions and actions by modeling temporal dynamics, social interactions, and environmental context. However, existing studies remain constrained by oversimplified multi-agent interaction patterns, opaque reasoning logic, and a lack of global consistency in behavioral predictions, which compromise both robustness and interpretability. In this work, we propose ESIA (Energy-based Spatiotemporal Interaction-Aware framework), a novel Conditional Random Field (CRF)-based paradigm. We cast the intention prediction task as a structured prediction problem over a unified graph-based representation, treating pedestrians and the environment as spatiotemporal nodes. To characterize their distinct roles, we assign unary potentials to nodes to capture individual intentions, and pairwise potentials to edges to encode social and environmental interactions. These potentials are integrated into a unified global energy function to ensure scene-level consistency across behavioral predictions. To further constrain inference without ground-truth supervision, we introduce structural consistency terms to penalize logical contradictions. This optimization is efficiently solved via a novel Unary-Seeded Simulated Annealing (U-SSA) algorithm, which leverages high-confidence unary priors to rapidly converge to a high-quality solution. Extensive experiments on standard benchmarks demonstrate that ESIA achieves state-of-the-art performance with improved interpretability over existing methods.",
+      "url": "http://arxiv.org/abs/2604.23728v1",
+      "pdf_url": "https://arxiv.org/pdf/2604.23728v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-04-26T14:13:58+00:00",
+      "source": "arxiv",
+      "title_cn": "ESIA：基于能量的时空交互感知行人意图预测框架",
+      "summary_cn": "自动驾驶领域对行人意图预测的需求日益增长，但现有模型在处理时空动态、社交互动和环境背景等复杂多模态信息时过于简化。本研究提出了“ESIA”，一个“基于能量的时空交互感知框架”，它能更全面地建模这些复杂的多模态线索和交互，从而显著提高行人意图预测的准确性和鲁棒性。",
+      "score": 8,
+      "significance": "显著提高了行人意图预测的准确性和鲁棒性，通过能量基时空交互感知框架更全面地建模复杂多模态信息。"
+    }
+  ]
+}
