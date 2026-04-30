@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-04-30 周四</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-04-30 周四</h1>
+
+<blockquote>自动生成于 2026-04-30 10:04 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>好的，这是一段为您生成的 AI 每日趋势总览：</p>
+
+<p>今日 AI 领域的焦点，正从单纯的模型竞赛转向激烈的平台生态博弈。OpenAI 携手亚马逊 AWS，将其模型引入 Bedrock 平台，此举不仅重塑了云服务商的竞争格局，也标志着顶级 AI 能力正加速成为无处不在的基础设施。与此同时，竞争对手 Mistral 发布新模型，进一步加剧了这场白热化的市场争夺。</p>
+
+<p>而在宏大战略之下，AI 的“现实骨感”也日益凸显。一方面，从 AI 增强终端到自动化演示文稿，开发者的创新工具在 GitHub 上层出不穷，展示了强大的落地潜力。但另一方面，关于 Claude 服务中断、模型输出结果不一致，以及其高昂经济成本的讨论也异常激烈。这表明，行业正进入一个关键阶段：在追逐商业版图和应用爆发的同时，必须直面并解决可靠性、一致性与可持续性的核心挑战。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/warpdotdev/warp" target="_blank">warpdotdev/warp</a> <code>工具</code></h3>
+
+<blockquote>重新定义终端体验，内置 AI 智能体的下一代命令行工具。</blockquote>
+
+<p>⭐ <strong>44,364</strong> Stars | 📈 今日 +12822 | 🔤 Rust | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>Warp 是一款基于 Rust 开发的现代化终端工具，它将 AI 智能体（Agent）能力深度集成到开发环境中。它不仅提供了传统终端的功能，还通过 AI 赋能，旨在革新开发者的命令行工作流，提升代码编写、调试和执行效率。</p>
+
+<h3>2. <a href="https://github.com/mattpocock/skills" target="_blank">mattpocock/skills</a> <code>教程</code></h3>
+
+<blockquote>跟随顶尖工程师，学习如何与 AI 协作解决实际工程难题。</blockquote>
+
+<p>⭐ <strong>44,972</strong> Stars | 📈 今日 +7280 | 🔤 Shell | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>这是一个由知名工程师 Matt Pocock 整理的实用工程技能合集，内容直接来源于他与 Claude AI 的交互记录。该项目以脚本和文档的形式，分享了解决真实世界工程问题的思路、技巧和最佳实践，为开发者提供了宝贵的学习资源。</p>
+
+<h3>3. <a href="https://github.com/microsoft/VibeVoice" target="_blank">microsoft/VibeVoice</a> <code>LLM</code></h3>
+
+<blockquote>微软出品，定义下一代开源语音 AI 的标杆之作。</blockquote>
+
+<p>⭐ <strong>45,719</strong> Stars | 📈 今日 +1690 | 🔤 Python | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>VibeVoice 是微软开源的尖端语音 AI 项目，旨在提供前沿的语音合成与处理能力。它可能包含高质量的文本到语音（TTS）、语音转换等技术，为开发者和研究者构建下一代语音应用提供了强大的开源工具。</p>
+
+<h3>4. <a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a> <code>框架</code></h3>
+
+<blockquote>为你的 AI 智能体赋予“超能力”的实用开发框架与方法论。</blockquote>
+
+<p>⭐ <strong>173,199</strong> Stars | 📈 今日 +1653 | 🔤 Shell | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>Superpowers 是一个备受关注的智能体技能框架和软件开发方法论。它提供了一套行之有效的原则和工具，帮助开发者构建、组织和管理 AI 智能体的各项“技能”，从而更高效地完成复杂的软件开发任务。</p>
+
+<h3>5. <a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">abhigyanpatwari/GitNexus</a> <code>工具</code></h3>
+
+<blockquote>浏览器里的代码知识图谱，无需服务器即可深度探索任何代码库。</blockquote>
+
+<p>⭐ <strong>33,368</strong> Stars | 📈 今日 +774 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>GitNexus 是一个完全在浏览器中运行的零服务器代码智能引擎。用户只需拖入 GitHub 仓库或代码压缩包，它就能在本地生成一个交互式代码知识图谱，并内置了图 RAG 智能体，极大地便利了代码库的探索和理解。</p>
+
+<h3>6. <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">EbookFoundation/free-programming-books</a> <code>数据</code></h3>
+
+<blockquote>程序员的免费数字图书馆，你想要的编程好书这里都有。</blockquote>
+
+<p>⭐ <strong>387,209</strong> Stars | 📈 今日 +604 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>这是一个极其详尽的免费编程电子书索引项目，汇集了全球范围内涵盖各种编程语言和技术领域的免费书籍资源。它由社区共同维护，为程序员和学习者提供了一个宝贵的、合法的知识宝库，是自学者的福音。</p>
+
+<h3>7. <a href="https://github.com/CJackHwang/ds2api" target="_blank">CJackHwang/ds2api</a> <code>工具</code></h3>
+
+<blockquote>无缝桥接 Deepseek 与 OpenAI 生态，一个 API 调用所有大模型。</blockquote>
+
+<p>⭐ <strong>2,738</strong> Stars | 📈 今日 +465 | 🔤 Go | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>ds2api 是一个轻量级、高性能的中间件，能将 Deepseek 等模型的客户端协议转换为通用的 API 格式（兼容 OpenAI/Claude/Google）。它支持多账户轮询、多种部署方式，方便开发者将不同模型无缝集成到现有应用中。</p>
+
+<h3>8. <a href="https://github.com/hugohe3/ppt-master" target="_blank">hugohe3/ppt-master</a> <code>LLM</code></h3>
+
+<blockquote>AI 一键生成真正可编辑的 PPT，告别手动排版和截图。</blockquote>
+
+<p>⭐ <strong>9,576</strong> Stars | 📈 今日 +414 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>ppt-master 是一款创新的 AI 工具，能够将任意文档内容直接生成为原生可编辑的 PowerPoint（PPTX）文件。其核心亮点是生成真实的形状和文本框而非图片，让用户无需设计技能也能快速创建可二次修改的专业演示文稿。</p>
+
+<h3>9. <a href="https://github.com/1jehuang/jcode" target="_blank">1jehuang/jcode</a> <code>框架</code></h3>
+
+<blockquote>打造和评测编码智能体的专业“马具”，检验 AI 程序员的真正实力。</blockquote>
+
+<p>⭐ <strong>1,400</strong> Stars | 📈 今日 +411 | 🔤 Rust | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>jcode 是一个使用 Rust 编写的编码智能体（Coding Agent）开发与评测框架。它为开发者提供了一套标准化的工具和环境，用于构建、测试和评估 AI 编码智能体的性能，推动自动化编程技术的发展。</p>
+
+<h3>10. <a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">lukilabs/craft-agents-oss</a> <code>Agent</code></h3>
+
+<blockquote>用 TypeScript 精心打造你的 AI 智能体团队。</blockquote>
+
+<p>⭐ <strong>5,360</strong> Stars | 📈 今日 +393 | 🔤 TypeScript | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>这是一个用于构建和编排 AI 智能体（Agent）的开源框架，使用 TypeScript 开发。从其命名和热度来看，它提供了一套工具和抽象，帮助开发者“精心打造”复杂的、可协同工作的智能体系统，适用于 Web 和 Node.js 环境。</p>
+
+<h3>11. <a href="https://github.com/TauricResearch/TradingAgents" target="_blank">TauricResearch/TradingAgents</a> <code>Agent</code></h3>
+
+<blockquote>让 AI 智能体团队为你驰骋金融市场，探索量化交易新范式。</blockquote>
+
+<p>⭐ <strong>55,839</strong> Stars | 📈 今日 +386 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>TradingAgents 是一个专为金融交易设计的、基于多智能体和大型语言模型（LLM）的开源框架。它旨在模拟和执行复杂的交易策略，通过多个 AI 智能体（如分析师、策略师）的协作，探索 AI 在量化交易领域的应用潜力。</p>
+
+<h3>12. <a href="https://github.com/ZhuLinsen/daily_stock_analysis" target="_blank">ZhuLinsen/daily_stock_analysis</a> <code>LLM</code></h3>
+
+<blockquote>你的零成本 AI 股票分析师，每日自动分析全球市场动态。</blockquote>
+
+<p>⭐ <strong>32,822</strong> Stars | 📈 今日 +294 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>这是一个由 LLM 驱动的股票智能分析系统，覆盖 A 股、港股和美股市场。项目整合了多数据源行情、实时新闻，利用大模型生成决策仪表盘，并能通过多渠道推送分析结果，旨在为个人投资者提供一个零成本、自动化的智能投研助手。</p>
+
+<h3>13. <a href="https://github.com/soxoj/maigret" target="_blank">soxoj/maigret</a> <code>工具</code></h3>
+
+<blockquote>强大的网络侦探，根据一个用户名就能搜遍全网找到你。</blockquote>
+
+<p>⭐ <strong>20,280</strong> Stars | 📈 今日 +79 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Maigret 是一款强大的开源情报（OSINT）工具，能够根据一个用户名在超过 3000 个网站上进行搜索，收集关联账户信息，并生成一份详细的个人档案。它被广泛用于网络安全侦察、数字足迹分析和背景调查等领域。</p>
+
+<h3>14. <a href="https://github.com/shaxiu/XianyuAutoAgent" target="_blank">shaxiu/XianyuAutoAgent</a> <code>Agent</code></h3>
+
+<blockquote>你的 AI 闲鱼小管家，24 小时自动回复、智能砍价，轻松做掌柜。</blockquote>
+
+<p>⭐ <strong>7,314</strong> Stars | 📈 今日 +48 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>这是一个专为闲鱼平台设计的智能客服机器人系统，旨在为卖家提供 7x24 小时的自动化值守服务。该系统利用 AI 智能体技术，支持多专家模型协同决策、智能议价和上下文感知对话，有效提升沟通效率和交易成功率。</p>
+
+<h3>15. <a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank">deepseek-ai/DeepSeek-V3</a> <code>LLM</code></h3>
+
+<blockquote>顶级开源大模型 DeepSeek-V3 震撼发布，AI 社区的又一重磅基石。</blockquote>
+
+<p>⭐ <strong>103,299</strong> Stars | 📈 今日 +37 | 🔤 Python | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>这是深求科技（DeepSeek AI）发布的最新一代开源大语言模型 DeepSeek-V3 的官方代码库。作为一个备受期待的顶级模型，它在性能上实现了新的突破，为 AI 社区提供了更强大、更高效的基础模型选择。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5" target="_blank">Mistral 发布新模型 Mistral Medium 3.5</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Mistral Medium 3.5</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47949642" target="_blank">198 评论</a> | 👤 meetpateltech</p>
+
+<p>法国 AI 公司 Mistral AI 发布其最新模型 Mistral Medium 3.5，该模型在性能上对标 GPT-4，并引入了新的 Agent 功能。</p>
+
+<h3>2. <a href="https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/" target="_blank">OpenAI 模型将登陆亚马逊 Bedrock：专访 OpenAI 与 AWS CEO</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47939320" target="_blank">107 评论</a> | 👤 translocator</p>
+
+<p>Stratechery 专访了 OpenAI CEO Sam Altman 和 AWS CEO Matt Garman，探讨了 OpenAI 模型集成到亚马逊云服务 Bedrock 平台的重要合作。</p>
+
+<h3>3. <a href="https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal" target="_blank">报道称谷歌与五角大楼达成协议，允许 AI 用于“任何合法”目的</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Google and Pentagon reportedly agree on deal for 'any lawful' use of AI</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47936156" target="_blank">275 评论</a> | 👤 granzymes</p>
+
+<p>据报道，谷歌与美国国防部达成一项新协议，允许其 AI 技术被用于任何合法的军事目的，引发了关于 AI 伦理和军事应用的讨论。</p>
+
+<h3>4. <a href="https://status.claude.com/incidents/9l93x2ht4s5w" target="_blank">Claude.ai 网站及 API 服务出现大规模中断</a> <code>其他</code></h3>
+
+<p class="italic-note"><em>原标题: Claude.ai unavailable and elevated errors on the API</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47938097" target="_blank">250 评论</a> | 👤 shorsher</p>
+
+<p>Anthropic 公司的状态页面显示，其 Claude.ai 网站和 API 接口出现服务不可用和错误率飙升的问题，导致服务大规模中断。</p>
+
+<h3>5. <a href="https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them" target="_blank">为什么 AI 公司希望你对它们心存畏惧？</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Why AI companies want you to be afraid of them</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47949750" target="_blank">207 评论</a> | 👤 rolph</p>
+
+<p>BBC 的一篇文章探讨了 AI 公司可能通过渲染“AI 威胁论”来获取监管优势和市场关注的动机。</p>
+
+<h3>6. <a href="https://github.com/anthropics/claude-code/issues/49363" target="_blank">回归问题：Claude 模型因过度警惕恶意软件而拒绝执行正常指令</a> <code>其他</code></h3>
+
+<p class="italic-note"><em>原标题: Regression: malware reminder on every read still causes subagent refusals</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47942492" target="_blank">142 评论</a> | 👤 thomashobohm</p>
+
+<p>GitHub 上的一个 issue 指出，Claude 模型因其内置的恶意软件提示过于敏感，导致其拒绝执行一些正常的代码相关请求。</p>
+
+<h3>7. <a href="https://www.diabettech.com/i-asked-ai-to-count-my-carbs-27000-times-it-couldnt-give-me-the-same-answer-twice/" target="_blank">他让 AI 计算碳水化合物 27000 次，却没有得到两次相同的答案</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: He asked AI to count carbs 27000 times. It couldn't give the same answer twice</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47947490" target="_blank">295 评论</a> | 👤 sarusso</p>
+
+<p>一位用户通过大量测试发现，AI 在计算碳水化合物这类看似确定的任务上表现出极大的不稳定性，揭示了当前大模型在精确性和一致性方面的局限。</p>
+
+<h3>8. <a href="https://www.wheresyoured.at/ais-economics-dont-make-sense/" target="_blank">AI 的经济学模型站不住脚</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: AI's economics don't make sense</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47936867" target="_blank">186 评论</a> | 👤 spking</p>
+
+<p>这篇文章分析了当前 AI 行业高昂的计算成本和不明确的盈利模式，认为其商业经济模型存在根本性问题，难以持续。</p>
+
+<h3>9. <a href="https://github.com/trycua/cua" target="_blank">Show HN: 在后台驱动任何 macOS 应用，且不影响鼠标光标</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Drive any macOS app in the background without stealing the cursor</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47936312" target="_blank">40 评论</a> | 👤 frabonacci</p>
+
+<p>Cua 是一个开源项目，它允许用户在 macOS 后台自动化操作任何应用程序，而不会抢占当前用户的鼠标和键盘焦点。</p>
+
+<h3>10. <a href="https://www.anthropic.com/news/claude-for-creative-work" target="_blank">Anthropic 推出 Claude 创意工作流</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Claude for Creative Work</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47942386" target="_blank">110 评论</a> | 👤 elsewhen</p>
+
+<p>Anthropic 公司发布了针对创意工作场景的 Claude 新功能，旨在帮助作家、设计师等创意专业人士进行头脑风暴和内容迭代。</p>
+
+<h3>11. <a href="https://migrainebrain.bearblog.dev/people-who-dont-use-ai-will-be-left-behind/" target="_blank">观点：“不使用 AI 的人将被时代抛弃”</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: "People who don't use AI will be left behind"</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47953011" target="_blank">200 评论</a> | 👤 speckx</p>
+
+<p>这篇博客文章探讨了“不使用 AI 就会落后”这一流行观点，分析了其背后的焦虑以及个人应如何理性看待并适应 AI 浪潮。</p>
+
+<h3>12. <a href="https://blog.jeffschomay.com/letting-ai-play-my-game" target="_blank">让 AI 玩我的游戏：构建 Agent 测试框架以辅助游戏测试</a> <code>教程</code></h3>
+
+<p class="italic-note"><em>原标题: Letting AI play my game – building an agentic test harness to help play-testing</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47947525" target="_blank">29 评论</a> | 👤 jschomay</p>
+
+<p>一位开发者分享了自己构建 AI Agent 测试框架的经验，该框架能自动进行游戏试玩，以帮助发现 bug 和评估游戏可玩性。</p>
+
+<h3>13. <a href="https://github.com/rocky-data/rocky" target="_blank">Show HN: Rocky - 一个支持分支、重放和列级血缘的 Rust SQL 引擎</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Rocky – Rust SQL engine with branches, replay, column lineage</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47935246" target="_blank">46 评论</a> | 👤 hugocorreia90</p>
+
+<p>Rocky 是一个用 Rust 编写的新型 SQL 引擎，其特色是支持类似 Git 的数据分支、查询重放和列级血缘追踪等数据版本管理功能。</p>
+
+<h3>14. <a href="https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials" target="_blank">安全警报：Ramp 的表格 AI 功能存在数据泄露风险</a> <code>其他</code></h3>
+
+<p class="italic-note"><em>原标题: Ramp's Sheets AI Exfiltrates Financials</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47951786" target="_blank">34 评论</a> | 👤 takira</p>
+
+<p>一份安全报告指出，金融科技公司 Ramp 的表格 AI 功能存在安全漏洞，可能导致公司财务数据通过提示注入攻击被泄露。</p>
+
+<h3>15. <a href="https://status.claude.com/incidents/2gf1jpyty350" target="_blank">Claude.ai 网站及 API 服务再次中断</a> <code>其他</code></h3>
+
+<p class="italic-note"><em>原标题: Claude.ai and API Unavailable</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47956895" target="_blank">65 评论</a> | 👤 rob</p>
+
+<p>Anthropic 公司的状态页再次更新，显示其 Claude.ai 服务和 API 接口出现中断问题，这是近期发生的又一次服务故障。</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
