@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-05-01 周五</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-05-01 周五</h1>
+
+<blockquote>自动生成于 2026-05-01 10:06 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>当AI浪潮席卷全球，今日科技圈内，其创新与争议并行，安全与效率的博弈尤为突出。一方面，<strong>AI的安全与信任危机</strong>正成为焦点。Hacker News热帖揭示，Claude Code拒绝处理带有特定关键词的请求，凸显了AI审查与商业利益的隐忧；同时，开源社区如Zig项目对AI生成代码的抵制，反映了对代码质量和贡献伦理的深层担忧。更令人警醒的是，PyTorch Lightning库中发现的恶意软件和Ramp平台AI泄露财务数据事件，无疑敲响了AI系统在数据安全和供应链风险方面的警钟。</p>
+
+<p>另一方面，<strong>AI赋能开发者生产力与智能体（Agent）概念的崛起</strong>势不可挡。GitHub Trending榜单上，<code>warpdotdev/warp</code>这类AI增强型终端和<code>1jehuang/jcode</code>智能代码工具，正迅速成为开发者提升效率的新宠。特别是<code>lukilabs/craft-agents-oss</code>和Hacker News上的<code>Pu.sh</code>项目，清晰地描绘了AI从辅助工具向能自主规划并执行复杂任务的智能代理演进的趋势。这些项目预示着，AI正从被动响应升级为主动协作，深刻改变软件开发乃至各行各业的工作模式。今日的AI世界，在技术与伦理的博弈中不断前行，信任与效率的权衡，正成为这场变革的核心命题。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/warpdotdev/warp" target="_blank">warpdotdev/warp</a> <code>LLM/Agent</code></h3>
+
+<blockquote>融合AI代理能力的现代化Rust终端，大幅提升开发效率！</blockquote>
+
+<p>⭐ <strong>49,325</strong> Stars | 📈 今日 +8399 | 🔤 Rust | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>Warp是一个基于Rust编写的代理式开发环境，它将传统的终端体验与前沿的AI代理能力深度融合，旨在大幅提升开发者的编程效率和工作流智能化。通过提供智能辅助功能，Warp让终端不再只是命令执行器，而是更具交互性和生产力的智能伙伴。</p>
+
+<h3>2. <a href="https://github.com/mattpocock/skills" target="_blank">mattpocock/skills</a> <code>LLM/Agent</code></h3>
+
+<blockquote>为Claude AI代理赋能的工程技能库，助你打造更强智能应用！</blockquote>
+
+<p>⭐ <strong>49,615</strong> Stars | 📈 今日 +6187 | 🔤 Shell | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>该项目提供了一系列专为AI代理（特别是Claude）设计的实用技能和工具集，旨在赋能AI执行更复杂、更贴近实际工程师需求的任务。它有助于开发者构建更专业、更智能的AI应用，拓展AI在软件工程领域的应用边界。</p>
+
+<h3>3. <a href="https://github.com/TauricResearch/TradingAgents" target="_blank">TauricResearch/TradingAgents</a> <code>LLM/Agent</code></h3>
+
+<blockquote>基于LLM的多智能体金融交易框架，开启AI量化投资新纪元！</blockquote>
+
+<p>⭐ <strong>57,826</strong> Stars | 📈 今日 +2023 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>TradingAgents是一个基于多智能体大型语言模型（LLM）的金融交易框架。它利用多个AI代理协同工作，旨在进行智能化的金融市场分析和交易决策，为量化交易和AI投资研究提供强大且灵活的工具。</p>
+
+<h3>4. <a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a> <code>LLM/Agent</code></h3>
+
+<blockquote>赋能AI代理的软件开发方法论与技能框架，让开发更智能高效！</blockquote>
+
+<p>⭐ <strong>174,632</strong> Stars | 📈 今日 +1632 | 🔤 Shell | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>Superpowers是一个实用的代理式技能框架和一套行之有效的软件开发方法论，旨在通过集成AI代理能力来优化整个软件开发流程。它提供系统化的方法和工具，帮助开发者更高效、更智能地构建和管理软件项目。</p>
+
+<h3>5. <a href="https://github.com/soxoj/maigret" target="_blank">soxoj/maigret</a> <code>工具</code></h3>
+
+<blockquote>🕵️‍♂️ 输入用户名，一键从3000+网站搜集个人信息，OSINT利器！</blockquote>
+
+<p>⭐ <strong>20,861</strong> Stars | 📈 今日 +730 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>Maigret是一个强大的开源情报（OSINT）工具，能够通过用户名从全球3000多个网站收集个人信息，并生成详细的用户档案。它在网络侦查、安全研究和背景调查等领域具有广泛且实用的应用价值。</p>
+
+<h3>6. <a href="https://github.com/1jehuang/jcode" target="_blank">1jehuang/jcode</a> <code>LLM/Agent</code></h3>
+
+<blockquote>基于Rust的编码代理框架，为构建高性能AI编程助手提供强大支持！</blockquote>
+
+<p>⭐ <strong>1,905</strong> Stars | 📈 今日 +675 | 🔤 Rust | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>jcode是一个用Rust编写的编码代理框架，旨在为开发和管理AI编程助手提供坚实的基础。它提供了一套高性能的工具和接口，帮助开发者构建能够理解、生成和优化代码的智能代理，从而提升开发效率。</p>
+
+<h3>7. <a href="https://github.com/microsoft/VibeVoice" target="_blank">microsoft/VibeVoice</a> <code>NLP</code></h3>
+
+<blockquote>微软出品，前沿开源语音AI，为构建高质量语音应用提供强大支持！</blockquote>
+
+<p>⭐ <strong>46,085</strong> Stars | 📈 今日 +561 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>VibeVoice是微软推出的一款前沿开源语音AI项目，致力于提供先进的语音识别、合成及处理能力。它旨在推动语音AI技术的发展，为开发者提供构建高质量、自然流畅语音交互应用的强大工具和技术支持。</p>
+
+<h3>8. <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">EbookFoundation/free-programming-books</a> <code>教程</code></h3>
+
+<blockquote>📚 海量免费编程书籍，程序员自学和进阶的知识宝库！</blockquote>
+
+<p>⭐ <strong>387,439</strong> Stars | 📈 今日 +442 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>这是一个汇集了海量免费编程书籍的宝库，涵盖了多种编程语言、技术和领域，是全球开发者获取学习资源的理想平台。它为自学编程、深入研究特定技术和持续提升技能提供了丰富且易于访问的知识储备。</p>
+
+<h3>9. <a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">lukilabs/craft-agents-oss</a> <code>LLM/Agent</code></h3>
+
+<blockquote>开源TypeScript智能体构建框架，助你轻松打造各类AI Agent！</blockquote>
+
+<p>⭐ <strong>5,584</strong> Stars | 📈 今日 +319 | 🔤 TypeScript | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>craft-agents-oss是一个开源的智能体（Agent）构建框架，基于TypeScript语言开发。尽管项目描述为空，但其命名明确指出其旨在帮助开发者轻松设计、实现和部署各类AI代理，预示着其在Agent开发领域的重要潜力。</p>
+
+<h3>10. <a href="https://github.com/google/langextract" target="_blank">google/langextract</a> <code>LLM/Agent</code></h3>
+
+<blockquote>谷歌出品，基于LLM的Python库，精准从文本中提取结构化信息！</blockquote>
+
+<p>⭐ <strong>36,312</strong> Stars | 📈 今日 +86 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>langextract是谷歌发布的一个Python库，专注于利用大型语言模型（LLM）从非结构化文本中精准提取结构化信息。它强调精确的来源定位和交互式可视化功能，为信息抽取和数据处理提供了高效且可解释的解决方案。</p>
+
+<h3>11. <a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">hsliuping/TradingAgents-CN</a> <code>LLM/Agent</code></h3>
+
+<blockquote>中文版LLM多智能体金融交易框架，专为中国市场量化投资打造！</blockquote>
+
+<p>⭐ <strong>25,200</strong> Stars | 📈 今日 +79 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>TradingAgents-CN是TauricResearch/TradingAgents项目的中文增强版，它是一个基于多智能体大型语言模型（LLM）的中文金融交易框架。该项目特别优化了中文语境下的市场分析和交易策略，旨在为中国市场的AI量化交易者提供强大的本地化工具。</p>
+
+<h3>12. <a href="https://github.com/browserbase/skills" target="_blank">browserbase/skills</a> <code>LLM/Agent</code></h3>
+
+<blockquote>Claude代理SDK，集成网页浏览能力，拓展AI探索互联网边界！</blockquote>
+
+<p>⭐ <strong>852</strong> Stars | 📈 今日 +69 | 🔤 JavaScript | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>这是一个为Claude AI代理设计的SDK，它集成了强大的网络浏览工具，使得Claude能够更有效地与互联网进行互动和信息获取。该项目为开发者提供了构建具备网页浏览和数据抓取能力的智能代理的便捷解决方案。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://twitter.com/theo/status/2049645973350363168" target="_blank">Claude Code 被曝审查 Commit 信息，提及 “OpenClaw” 将被拒或额外收费</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Claude Code refuses requests or charges extra if your commits mention "OpenClaw"</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47963204" target="_blank">538 评论</a> | 👤 elmean</p>
+
+<p>开发者发现，Anthropic 的编程助手 Claude Code 会审查用户的 Git commit 信息，若包含特定关键词（如 “OpenClaw”），服务请求可能被拒绝或产生额外费用，引发社区对 AI 审查和透明度的热议。</p>
+
+<h3>2. <a href="https://simonwillison.net/2026/Apr/30/zig-anti-ai/" target="_blank">Zig 项目阐述其“反 AI 贡献”政策的背后逻辑</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: The Zig project's rationale for their anti-AI contribution policy</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47957294" target="_blank">427 评论</a> | 👤 lumpa</p>
+
+<p>Zig 编程语言项目公开解释其为何禁止使用 AI 生成的代码进行贡献，旨在确保代码质量、版权清晰及维护社区开发文化，引发了关于 AI 在开源项目中角色的广泛讨论。</p>
+
+<h3>3. <a href="https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5" target="_blank">Mistral AI 发布 Mistral Medium 3.5 模型</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: Mistral Medium 3.5</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47949642" target="_blank">227 评论</a> | 👤 meetpateltech</p>
+
+<p>法国 AI 公司 Mistral AI 正式发布其最新模型 Mistral Medium 3.5，该模型在性能和效率上均有提升，并可能伴随新的 Agent 功能一同推出。</p>
+
+<h3>4. <a href="https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/" target="_blank">PyTorch Lightning AI 训练库中发现以《沙丘》为主题的恶意软件 “Shai-Hulud”</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47964617" target="_blank">111 评论</a> | 👤 j12y</p>
+
+<p>安全研究人员在流行的 AI 训练库 PyTorch Lightning 的一个依赖项中发现了一款名为 “Shai-Hulud” 的恶意软件，凸显了 AI/ML 供应链面临的日益增长的安全风险。</p>
+
+<h3>5. <a href="https://mikeoss.com/" target="_blank">Mike：一个开源的法律 AI 项目</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Mike: open-source legal AI</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47956739" target="_blank">95 评论</a> | 👤 noleary</p>
+
+<p>Mike 是一个新推出的开源项目，旨在提供法律领域的 AI 辅助功能，致力于让普通人也能使用 AI 处理法律相关任务。</p>
+
+<h3>6. <a href="https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials" target="_blank">报告称 Ramp 的 Sheets AI 功能存在财务数据泄露风险</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Ramp's Sheets AI Exfiltrates Financials</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47951786" target="_blank">50 评论</a> | 👤 takira</p>
+
+<p>一份安全报告指出，金融科技公司 Ramp 的 Sheets AI 功能在处理过程中可能会泄露敏感的财务数据，引发了对 AI 应用中数据隐私和安全性的担忧。</p>
+
+<h3>7. <a href="https://datacenter.fm/" target="_blank">DataCenter.FM：一个模拟“AI 泡沫”时期数据中心噪音的背景音应用</a> <code>其他</code></h3>
+
+<p class="italic-note"><em>原标题: DataCenter.FM – background noise app featuring the sound of the AI bubble</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47959513" target="_blank">24 评论</a> | 👤 louisbarclay</p>
+
+<p>DataCenter.FM 是一个新奇的网站应用，它播放数据中心服务器运行的背景噪音，并戏称其为“AI 泡沫之声”，以幽默的方式反映了当前 AI 领域的热潮。</p>
+
+<h3>8. <a href="https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study" target="_blank">研究发现：让 AI 聊天机器人更“友好”反而会导致其犯错和支持阴谋论</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Making AI chatbots friendly leads to mistakes and support of conspiracy theories</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47949538" target="_blank">73 评论</a> | 👤 Cynddl</p>
+
+<p>一项新研究表明，过度强调 AI 聊天机器人的友好和乐于助人特性，可能会降低其回答的准确性，甚至使其更容易传播错误信息和支持阴谋论。</p>
+
+<h3>9. <a href="https://deepmind.google/research/publications/231971/" target="_blank">抽象谬误：为何 AI 只能模拟意识，而无法真正拥有意识</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47951582" target="_blank">124 评论</a> | 👤 joshus</p>
+
+<p>这篇来自 Google DeepMind 的论文探讨了“抽象谬误”的概念，论证了当前 AI 技术虽然能出色地模拟人类行为，但在根本上无法实例化（instantiate）真正的意识。</p>
+
+<h3>10. <a href="https://pu.dev/" target="_blank">Show HN: Pu.sh - 仅用 400 行 Shell 脚本实现的全功能编程 Agent 框架</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47968112" target="_blank">21 评论</a> | 👤 nahimn</p>
+
+<p>Pu.sh 是一个轻量级的开源项目，它用短短 400 行 Shell 脚本构建了一个完整的编码智能体（Coding Agent）框架，展示了如何用极简的方式驱动 AI 完成编程任务。</p>
+
+<h3>11. <a href="https://news.ycombinator.com/item?id=47958353" target="_blank">Tell HN: VS Code 新版会自动将 GitHub Copilot 添加为 Git 提交的共同作者</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47958353" target="_blank">31 评论</a> | 👤 adithyassekhar</p>
+
+<p>用户反映，新版 VS Code 会在使用 GitHub Copilot 时，自动将其添加为 Git commit 的共同作者（co-author），引发了关于代码归属和工具行为的讨论。</p>
+
+<h3>12. <a href="https://interfaze.ai/blog/introducing-structured-output-benchmark" target="_blank">Show HN: 用于测试 LLM 确定性输出的新基准</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: A new benchmark for testing LLMs for deterministic outputs</em></p>
+
+<p>🔺 <strong>4</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47950283" target="_blank">24 评论</a> | 👤 khurdula</p>
+
+<p>该项目发布了一个新的基准测试，专门用于评估大语言模型（LLM）生成结构化和确定性输出的能力，这对于需要可靠、可预测 AI 输出的应用至关重要。</p>
+
+<h3>13. <a href="https://github.com/carlovalenti/TRiP" target="_blank">Show HN: TRiP - 个人从零开始用 C 语言构建的完整 Transformer 引擎</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: TRiP – a complete transformer engine in C built from scratch just by me</em></p>
+
+<p>🔺 <strong>3</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47965161" target="_blank">6 评论</a> | 👤 carlovalenti</p>
+
+<p>TRiP 是一个个人开发者从零开始、完全使用 C 语言编写的 Transformer 引擎，展示了在没有大型框架依赖的情况下实现核心深度学习架构的可能性。</p>
+
+<h3>14. <a href="https://mastodon.social/@firefoxwebdevs/116492853483021978" target="_blank">Firefox 开发者反对 Chrome 即将推出的 LLM Prompt API</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Chrome looks set to ship an LLM Prompt API to the web. We oppose this API</em></p>
+
+<p>🔺 <strong>3</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47960033" target="_blank">1 评论</a> | 👤 Vinnl</p>
+
+<p>据称 Chrome 计划向 Web 平台推出一个内置的 LLM Prompt API，但 Firefox 开发者团队公开表示反对，可能担心该 API 会带来隐私、安全或开放网络标准化等问题。</p>
+
+<h3>15. <a href="https://contralabs.com/research/human-creativity-benchmark" target="_blank">人类创造力基准：一个评估生成式 AI 创意工作能力的新标准</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: The Human Creativity Benchmark – Evaluating Generative AI in Creative Work</em></p>
+
+<p>🔺 <strong>2</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=47966484" target="_blank">2 评论</a> | 👤 0bytematt</p>
+
+<p>该研究提出了一个名为“人类创造力基准”的评估框架，旨在更全面地衡量生成式 AI 在需要真正创造力的任务上的表现，而不仅仅是模仿。</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
