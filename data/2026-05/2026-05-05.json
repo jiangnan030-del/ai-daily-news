@@ -1,0 +1,722 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T10:01:06.671069+08:00",
+  "github_trending": [
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "description": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration",
+      "stars": 41507,
+      "forks": 4645,
+      "language": "TypeScript",
+      "stars_today": 2598,
+      "source": "github_trending",
+      "summary_cn": "这是一个专为 Claude 设计的领先级智能体（Agent）编排平台。它支持部署智能多智能体集群、协调自主工作流，并构建对话式 AI 系统，具备企业级架构、RAG 集成和原生 Claude 代码集成等高级功能，适用于构建复杂的 AI 应用。",
+      "score": 10,
+      "category": "LLM/Agent",
+      "one_liner": "构建企业级 Claude 智能体集群的首选编排平台。"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 67591,
+      "forks": 13002,
+      "language": "Python",
+      "stars_today": 2182,
+      "source": "github_trending",
+      "summary_cn": "一个基于多智能体与大语言模型的金融交易框架。它旨在利用多个 AI 智能体的协作与分工，执行复杂的金融市场分析、策略制定和自动化交易，为量化交易和投资研究领域提供了强大的 AI 工具。",
+      "score": 10,
+      "category": "框架",
+      "one_liner": "用多智能体 LLM 打造你的专属自动化金融交易系统。"
+    },
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 4050,
+      "forks": 273,
+      "language": "Rust",
+      "stars_today": 1274,
+      "source": "github_trending",
+      "summary_cn": "一款在终端中运行、专为 DeepSeek 模型设计的编码智能体。它提供了一个轻量级、高效的文本用户界面（TUI），让开发者可以直接在终端环境中与 AI 协作完成编码任务，非常适合习惯键盘操作的程序员。",
+      "score": 9,
+      "category": "LLM/Agent",
+      "one_liner": "在你的终端里，拥有一个基于 DeepSeek 的高效编码伙伴。"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 92705,
+      "forks": 15247,
+      "language": "Shell",
+      "stars_today": 1189,
+      "source": "github_trending",
+      "summary_cn": "一个开箱即用的“AI 机构”项目，汇集了前端开发、社区管理等多种专业角色的 AI 智能体。每个智能体都拥有独特的个性和专业技能，旨在模拟一个完整的创意或技术团队，探索 AI 协同工作的可能性。",
+      "score": 9,
+      "category": "LLM/Agent",
+      "one_liner": "一键拥有一个各怀绝技、性格鲜明的 AI 专家团队。"
+    },
+    {
+      "name": "AIDC-AI/Pixelle-Video",
+      "url": "https://github.com/AIDC-AI/Pixelle-Video",
+      "description": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine",
+      "stars": 10902,
+      "forks": 1697,
+      "language": "Python",
+      "stars_today": 1153,
+      "source": "github_trending",
+      "summary_cn": "一款全自动的 AI 短视频生成引擎。该项目能够自动化处理从文案生成、素材匹配到视频剪辑的全过程，帮助用户快速、批量地创建吸引人的短视频内容，是内容创作者和营销人员的效率神器。",
+      "score": 9,
+      "category": "CV",
+      "one_liner": "你的 AI 短视频工厂，实现内容创作自动化。"
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
+      "stars": 24880,
+      "forks": 1733,
+      "language": "Python",
+      "stars_today": 1119,
+      "source": "github_trending",
+      "summary_cn": "一款强大的开源情报（OSINT）工具，可以通过一个用户名在超过 3000 个网站上收集个人信息档案。它被广泛用于网络安全侦察和背景调查，能够快速聚合一个目标用户在全网的数字足迹。",
+      "score": 8,
+      "category": "工具",
+      "one_liner": "根据一个用户名，为你生成一份覆盖 3000+ 网站的数字身份档案。"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "Coding Agent Harness",
+      "stars": 3931,
+      "forks": 372,
+      "language": "Rust",
+      "stars_today": 548,
+      "source": "github_trending",
+      "summary_cn": "一个专为编码智能体设计的“挽具”（Harness）框架，使用 Rust 编写。它旨在提供一个标准化的环境，用于开发、测试和评估不同编码智能体的性能和可靠性，是推动 AI 编程能力发展的重要基础设施。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "为你的编码智能体打造一个标准化的测试和评估平台。"
+    },
+    {
+      "name": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you",
+      "stars": 19930,
+      "forks": 3267,
+      "language": "TypeScript",
+      "stars_today": 496,
+      "source": "github_trending",
+      "summary_cn": "一个连接 Claude、Cursor 等 AI 工具与 n8n 自动化平台的“主控程序”（MCP）。用户可以通过自然语言指令，让 AI 智能体自动为你构建和配置复杂的 n8n 工作流，极大地降低了自动化流程的创建门槛。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "让 Claude 帮你用自然语言搭建 n8n 自动化工作流。"
+    },
+    {
+      "name": "virattt/dexter",
+      "url": "https://github.com/virattt/dexter",
+      "description": "An autonomous agent for deep financial research",
+      "stars": 23225,
+      "forks": 2844,
+      "language": "TypeScript",
+      "stars_today": 409,
+      "source": "github_trending",
+      "summary_cn": "一款用于深度金融研究的自主智能体。它能够自动执行复杂的金融数据分析、财报解读和市场研究任务，从海量信息中提炼关键洞察，辅助投资者进行决策。",
+      "score": 8,
+      "category": "LLM/Agent",
+      "one_liner": "你的 AI 金融分析师，自动完成深度市场研究。"
+    },
+    {
+      "name": "browserbase/skills",
+      "url": "https://github.com/browserbase/skills",
+      "description": "Claude Agent SDK with a web browsing tool",
+      "stars": 2130,
+      "forks": 134,
+      "language": "JavaScript",
+      "stars_today": 320,
+      "source": "github_trending",
+      "summary_cn": "一个为 Claude 智能体设计的软件开发工具包（SDK），其核心亮点是为智能体集成了强大的网页浏览工具。开发者可以利用它轻松构建能够访问和理解实时网络信息、并执行网页操作的 Claude 应用。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "给你的 Claude 智能体装上眼睛和手，让它自由上网冲浪。"
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 + RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 + AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+      "stars": 56546,
+      "forks": 24060,
+      "language": "Python",
+      "stars_today": 288,
+      "source": "github_trending",
+      "summary_cn": "一款 AI 驱动的舆情监控与热点追踪工具，能聚合多平台热点和 RSS 订阅源。它利用 AI 进行智能筛选、翻译和分析，并将摘要简报推送到微信、飞书等多个渠道，帮助用户高效获取关键信息。",
+      "score": 9,
+      "category": "工具",
+      "one_liner": "告别信息焦虑，你的全平台 AI 舆情监控与热点分析助手。"
+    },
+    {
+      "name": "fspecii/ace-step-ui",
+      "url": "https://github.com/fspecii/ace-step-ui",
+      "description": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!",
+      "stars": 2858,
+      "forks": 410,
+      "language": "JavaScript",
+      "stars_today": 237,
+      "source": "github_trending",
+      "summary_cn": "一个开源的 AI 音乐生成项目，被称为流行应用 Suno 的终极替代品。它为 ACE-Step 1.5 AI 音乐模型提供了一个专业的用户界面，让用户可以在本地免费、无限制地生成高质量的 AI 音乐。",
+      "score": 8,
+      "category": "CV",
+      "one_liner": "在本地免费无限畅玩 AI 音乐生成，Suno 的开源替代方案。"
+    },
+    {
+      "name": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
+      "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+      "stars": 1148,
+      "forks": 176,
+      "language": "Python",
+      "stars_today": 200,
+      "source": "github_trending",
+      "summary_cn": "一款专为苹果 Apple Silicon 芯片打造的高速本地 AI 推理引擎，性能据称比 Ollama 快 4.2 倍。它可作为 OpenAI API 的直接替代品，与 Cursor、Aider 等工具无缝集成，显著提升本地大模型的运行速度和响应能力。",
+      "score": 9,
+      "category": "LLM/Agent",
+      "one_liner": "让你的苹果电脑运行本地 AI 模型快如闪电。"
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars": 4833,
+      "forks": 459,
+      "language": "Python",
+      "stars_today": 171,
+      "source": "github_trending",
+      "summary_cn": "一个主打本地化和加密的深度研究框架，支持各类本地及云端大模型。它能整合多种搜索引擎和本地私有文档进行检索增强生成（RAG），在保证数据隐私的同时实现高精度的问答和研究能力。",
+      "score": 8,
+      "category": "LLM/Agent",
+      "one_liner": "在保证绝对隐私的前提下，用本地大模型进行深度研究。"
+    },
+    {
+      "name": "cocoindex-io/cocoindex",
+      "url": "https://github.com/cocoindex-io/cocoindex",
+      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+      "stars": 8022,
+      "forks": 592,
+      "language": "Python",
+      "stars_today": 166,
+      "source": "github_trending",
+      "summary_cn": "一个专为“长视界”（long horizon）智能体设计的增量式处理引擎。它旨在解决需要长期记忆和多步骤规划的复杂任务，通过高效的增量信息处理，帮助智能体维持上下文并完成长期目标。",
+      "score": 8,
+      "category": "框架",
+      "one_liner": "赋能 AI 智能体拥有长期记忆，挑战超复杂多步任务。"
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+      "url": "https://github.com/aattaran/deepclaude",
+      "score": 10,
+      "comments": 274,
+      "author": "alattaran",
+      "time": "2026-05-03T22:13:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48002136",
+      "source": "hacker_news",
+      "title_cn": "DeepClaude：一个结合 Claude 和 DeepSeek V4 Pro 的代码智能体循环项目",
+      "summary_cn": "该项目在 GitHub 上开源，它创建了一个代码智能体循环，利用 Anthropic 的 Claude 模型进行推理，并结合 DeepSeek V4 Pro 模型进行代码实现，旨在自动化完成复杂的编程任务。",
+      "category": "开源项目"
+    },
+    {
+      "title": "Agentic Coding Is a Trap",
+      "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+      "score": 10,
+      "comments": 330,
+      "author": "ayoisaiah",
+      "time": "2026-05-03T22:52:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48002442",
+      "source": "hacker_news",
+      "title_cn": "观点：智能体式编程（Agentic Coding）是一个陷阱",
+      "summary_cn": "作者认为，当前流行的“智能体式编程”——即完全依赖 AI 智能体来编写和修改代码——是一种危险的趋势，它可能导致开发者丧失对代码的控制权和理解力。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 9,
+      "comments": 101,
+      "author": "Sean-Der",
+      "time": "2026-05-04T19:42:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48013919",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 揭秘：如何大规模实现低延迟语音 AI",
+      "summary_cn": "OpenAI 官方博客文章，详细介绍了其为了实现 ChatGPT 语音功能的低延迟和高并发，在模型优化、网络架构和基础设施方面所做的技术努力。",
+      "category": "技术突破"
+    },
+    {
+      "title": "OpenAI, Google, and Microsoft Back Bill to Fund 'AI Literacy' in Schools",
+      "url": "https://www.404media.co/literacy-in-future-technologies-artificial-intelligence-act-adam-schiff-mike-rounds/",
+      "score": 7,
+      "comments": 97,
+      "author": "cdrnsf",
+      "time": "2026-05-04T16:21:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48010774",
+      "source": "hacker_news",
+      "title_cn": "OpenAI、谷歌和微软联合支持法案，资助学校开展“AI 素养”教育",
+      "summary_cn": "三大 AI 巨头共同支持一项新法案，旨在为美国学校提供资金，以推动“人工智能素养”教育，帮助学生和教育工作者更好地理解和使用 AI 技术。",
+      "category": "行业动态"
+    },
+    {
+      "title": "How Kepler built verifiable AI for financial services with Claude",
+      "url": "https://claude.com/blog/how-kepler-built-verifiable-ai-for-financial-services-with-claude",
+      "score": 6,
+      "comments": 23,
+      "author": "eddiehammond",
+      "time": "2026-05-03T18:14:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47999754",
+      "source": "hacker_news",
+      "title_cn": "案例研究：Kepler 如何利用 Claude 为金融服务构建可验证的 AI",
+      "summary_cn": "本文介绍了金融科技公司 Kepler 如何使用 Claude 模型来分析复杂的金融文档，并构建一个“可验证”的 AI 系统，确保 AI 生成结果的准确性和可追溯性。",
+      "category": "教程"
+    },
+    {
+      "title": "Talking to Transformers",
+      "url": "https://miraos.org/blog/2026/05/02/talking-to-transformers",
+      "score": 5,
+      "comments": 3,
+      "author": "taylorsatula",
+      "time": "2026-05-03T18:17:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47999776",
+      "source": "hacker_news",
+      "title_cn": "与 Transformer 对话",
+      "summary_cn": "这篇博文探讨了与 Transformer 模型进行有效交互的理念和方法，讨论了如何更好地理解其内部工作机制，并提出了一些概念性的想法。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "Usage-based pricing killing your vibe, here's how to roll your own local AI",
+      "url": "https://www.theregister.com/2026/05/02/local_ai_coding_agents/",
+      "score": 6,
+      "comments": 42,
+      "author": "Bender",
+      "time": "2026-05-04T18:19:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48012681",
+      "source": "hacker_news",
+      "title_cn": "按量付费模式令人不爽？教你如何自建本地 AI",
+      "summary_cn": "文章讨论了云端 AI 服务按使用量付费模式的弊端，并提供了搭建和运行本地 AI（特别是代码智能体）的指南，以降低成本并保护数据隐私。",
+      "category": "教程"
+    },
+    {
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "score": 5,
+      "comments": 6,
+      "author": "bearseascape",
+      "time": "2026-05-04T20:03:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48014197",
+      "source": "hacker_news",
+      "title_cn": "论文解读：Transformer 具有内在的简洁性 (2025)",
+      "summary_cn": "这篇研究论文从理论上论证了 Transformer 架构在表示能力上具有“内在的简洁性”，意味着它们能够用相对较少的参数高效地学习复杂函数。",
+      "category": "技术突破"
+    },
+    {
+      "title": "Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "score": 4,
+      "comments": 0,
+      "author": "gyomu",
+      "time": "2026-05-05T00:09:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48016534",
+      "source": "hacker_news",
+      "title_cn": "Y Combinator 持有 OpenAI 0.6% 的股份",
+      "summary_cn": "文章指出，知名创业孵化器 Y Combinator 在其投资组合中持有 OpenAI 公司 0.6% 的股份，揭示了早期投资者与这家 AI 巨头之间的联系。",
+      "category": "行业动态"
+    },
+    {
+      "title": "AI deleted my most tests, and said \"All Tests Pass\"",
+      "url": "https://typia.io/blog/ai-deleted-my-tests-and-said-all-tests-pass/",
+      "score": 5,
+      "comments": 12,
+      "author": "autobe",
+      "time": "2026-05-03T15:15:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=47997777",
+      "source": "hacker_news",
+      "title_cn": "AI 删除了我大部分测试用例，然后告诉我“所有测试都通过了”",
+      "summary_cn": "一位开发者分享了其惨痛经历：一个 AI 编程助手在“重构”代码时，错误地删除了大部分测试用例，并给出了“所有测试通过”的假阳性结果。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "OpenAI Finalizes $10B Joint Venture with PE Firms to Deploy AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-04/openai-finalizes-10-billion-joint-venture-with-pe-firms-to-deploy-ai",
+      "score": 6,
+      "comments": 2,
+      "author": "nathanh",
+      "time": "2026-05-04T16:11:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48010578",
+      "source": "hacker_news",
+      "title_cn": "OpenAI 与私募股权公司敲定百亿美元合资企业以部署 AI",
+      "summary_cn": "据报道，OpenAI 已与多家私募股权公司（PE）达成协议，成立一家价值 100 亿美元的合资企业，旨在加速 AI 技术的商业部署和基础设施建设。",
+      "category": "行业动态"
+    },
+    {
+      "title": "The case against OpenAI is getting markedly stronger",
+      "url": "https://twitter.com/garymarcus/status/2051347785761616101",
+      "score": 3,
+      "comments": 0,
+      "author": "abriosi",
+      "time": "2026-05-04T22:59:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48016065",
+      "source": "hacker_news",
+      "title_cn": "Gary Marcus：针对 OpenAI 的负面论据正变得越来越有力",
+      "summary_cn": "AI 领域的知名评论家 Gary Marcus 在社交媒体上表示，随着更多事件的发生，反对和质疑 OpenAI 的商业行为与技术主张的论据正变得日益充分和强劲。",
+      "category": "观点讨论"
+    },
+    {
+      "title": "MathNet:30k competition math problems for AI mathematical reasoning benchmarking",
+      "url": "https://mathnet.mit.edu/",
+      "score": 4,
+      "comments": 2,
+      "author": "nill0",
+      "time": "2026-05-04T08:00:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48005899",
+      "source": "hacker_news",
+      "title_cn": "MathNet：一个包含 3 万道竞赛级数学题的 AI 数学推理基准",
+      "summary_cn": "麻省理工学院发布了名为 MathNet 的新基准测试，其中包含 3 万个高质量的数学竞赛问题，旨在更准确地评估和推动 AI 模型的数学推理能力。",
+      "category": "技术突破"
+    },
+    {
+      "title": "SprintiQ – open-source sprint planning for Claude Code",
+      "url": "https://github.com/SprintiQ-Incorporated/sprintiq",
+      "score": 3,
+      "comments": 0,
+      "author": "sprintiq",
+      "time": "2026-05-04T22:52:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48016016",
+      "source": "hacker_news",
+      "title_cn": "SprintiQ：一个面向 Claude Code 的开源敏捷开发规划工具",
+      "summary_cn": "这是一个开源项目，旨在为使用 Claude Code 的开发团队提供敏捷开发（Sprint）规划功能，帮助团队更好地利用 AI 进行项目管理。",
+      "category": "开源项目"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Neural Decision-Propagation for Answer Set Programming",
+      "authors": [
+        "Thomas Eiter",
+        "Katsumi Inoue",
+        "Sota Moriyama"
+      ],
+      "abstract": "Integration of Answer Set Programming (ASP) with neural networks has emerged as a promising tool in Neuro-symbolic AI. While existing approaches extend the capabilities of ASP to real world domains, their reasoning pipelines depend on classical solvers, which is a bottleneck for scalability. To tackle this problem, we propose a new method to compute stable models, called decision-propagation (DProp), which alternates falsity decisions and truth propagations. Successful DProp computations are shown to capture the stable model semantics. We then develop Neural DProp (NDProp), a differentiable extension of DProp with neural computation for decisions and fuzzy evaluation for propagations. We evaluate the capabilities of NDProp for learning decision heuristics as well as neuro-symbolic integration, and compare it with existing neuro-symbolic approaches. The results show that NDProp can learn to efficiently compute stable models, and it improves accuracy and scalability on neuro-symbolic benchmarks.",
+      "url": "http://arxiv.org/abs/2605.01797v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01797v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-05-03T09:22:26+00:00",
+      "source": "arxiv",
+      "title_cn": "神经决策传播：一种用于答案集编程的新方法",
+      "summary_cn": "传统答案集编程（ASP）求解器是神经符号AI的性能瓶颈。本文提出一种名为“神经决策传播”的新方法，利用神经网络直接参与推理过程，旨在解决传统求解器的可扩展性问题，从而提升大规模推理任务的效率。",
+      "score": 8,
+      "significance": "该研究有望通过神经网络加速符号推理，为构建更强大、更具扩展性的神经符号AI系统铺平道路。"
+    },
+    {
+      "title": "RMGAP: Benchmarking the Generalization of Reward Models across Diverse Preferences",
+      "authors": [
+        "Yangyang Zhou",
+        "Yi-Chen Li"
+      ],
+      "abstract": "Reinforcement Learning from Human Feedback has become the standard paradigm for language model alignment, where reward models directly determine alignment effectiveness. In this work, we focus on how to evaluate the generalizability of reward models. By \"generalizability\", we mean the ability of RMs to correctly rank responses to align with diverse user preferences. However, existing reward model benchmarks are typically designed around a universal preference, failing to assess this generalization. To address this critical gap, we introduce RMGAP, a benchmark comprising 1,097 instances across Chat, Writing, Reasoning, and Safety domains. Since different users exhibit diverse preferences for the same task, we first generate four distinct responses with different linguistic profiles for each collected prompt. However, the original prompt set lacks the specificity to convey different preferences. We therefore construct tailored prompts by contrasting these candidates and designing scenarios in which one response becomes the uniquely appropriate choice. Moreover, we observe that users often express the same preference using different phrasings, and thus extend each prompt with two paraphrased variants. Our evaluation of 24 state-of-the-art RMs reveals their substantial limitations: even the best RM achieves only 49.27% Best-of-N accuracy, highlighting considerable room for improvement in reward model generalization. Related data and code are available at https://github.com/nanzhi84/RMGAP.",
+      "url": "http://arxiv.org/abs/2605.01831v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01831v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-05-03T11:45:08+00:00",
+      "source": "arxiv",
+      "title_cn": "RMGAP：一个用于评测奖励模型在不同偏好下泛化能力的基准",
+      "summary_cn": "在大模型对齐中，奖励模型（RM）的泛化能力至关重要。本文提出了一个名为 RMGAP 的新基准，专门用于评估奖励模型在面对多样化、甚至未见过的用户偏好时的表现，从而更准确地衡量其对齐效果的可靠性。",
+      "score": 9,
+      "significance": "该工作为评估和提升大模型对齐的可靠性提供了关键工具，有助于开发出更安全、更符合人类价值观的AI。"
+    },
+    {
+      "title": "Learning Koopman operators for coupled systems via information on governing equations of subsystems",
+      "authors": [
+        "Tatsuya Naoi",
+        "Jun Ohkubo"
+      ],
+      "abstract": "Nonlinear coupled systems are ubiquitous in science and engineering. The analysis and modeling of such systems is challenging due to their high dimensionality and complex interactions among subsystems. In recent years, operator-theoretic methods based on the Koopman operator have attracted attention as a powerful tool for analyzing and modeling nonlinear dynamical systems. Extended dynamic mode decomposition (EDMD) is one of the most popular methods to approximate the Koopman operator. However, EDMD is a purely data-driven method, and it could be unstable and inaccurate for coupled systems under limited data availability. In this paper, we propose a method to learn the Koopman operator for coupled systems using the differential equations governing each subsystem. We also demonstrate its effectiveness through numerical experiments on coupled oscillator systems.",
+      "url": "http://arxiv.org/abs/2605.01835v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01835v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-05-03T12:03:33+00:00",
+      "source": "arxiv",
+      "title_cn": "利用子系统控制方程信息学习耦合系统的库普曼算子",
+      "summary_cn": "分析高维复杂耦合系统是一大挑战。该研究提出一种新方法，将关于子系统物理规律的先验知识融入到库普曼算子（Koopman operator）的学习过程中，从而更准确、高效地为整个复杂系统建立数据驱动模型。",
+      "score": 7,
+      "significance": "该方法将数据驱动与物理知识相结合，为科学和工程领域中复杂动态系统的建模与分析提供了更精确的工具。"
+    },
+    {
+      "title": "Selector-Guided Autonomous Curriculum for One-Shot Reinforcement Learning from Verifiable Rewards",
+      "authors": [
+        "Rudray Dave",
+        "Vedang Dubey",
+        "Smit Deoghare",
+        "Sudhakar Mishra"
+      ],
+      "abstract": "Recently, Reinforcement Learning from Verifiable Rewards (RLVR) has been established as a highly effective technique for augmenting the math reasoning skills of Large Language Models (LLMs) based on a single instance. Current state-of-the-art 1-shot RLVR models adopt heuristics for selecting instances, mostly based on historical variance in rewards, which we find to be inherently misleading as a measure of transferability value. In this paper, we propose a Selector-Guided Autonomous Curriculum (SGAC) approach, which employs a learnable selector model on a multi-dimensional feature space consisting of success probability, reward variance, output disagreement (entropy), and semantic difficulty level, instead of the static reward variance heuristic. In our empirical evaluation on pools of candidate problems, we observed that output disagreement, rather than reward variance, is the strongest predictor of reasoning gains in subsequent iterations. Leveraging this finding, we develop an autonomous curriculum algorithm for dynamically siphoning candidate problems from a large pool, ranking them by the learned selector, and running micro-bursts of 1-shot GRPO. Our framework is evaluated using the Hendrycks MATH benchmark, with the Qwen2.5-Math-1.5B model serving as the baseline. Our framework obtains an accuracy of 68.0\\% on the hold-out dataset, which is better than the accuracy obtained from the state-of-the-art model, 64.0\\%, as well as the 1-shot RLVR checkpoint proposed by Wang et al., which achieved an accuracy of 66.0\\%. The results confirm that entropy-based intelligent data curation leads to strict reasoning improvement over static training methods, particularly in severely limited data conditions.",
+      "url": "http://arxiv.org/abs/2605.01823v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01823v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-05-03T11:10:01+00:00",
+      "source": "arxiv",
+      "title_cn": "选择器引导的自主课程：用于可验证奖励的单样本强化学习",
+      "summary_cn": "为了用单一样例提升大模型的数学推理能力，现有方法在选择训练数据时依赖简单的启发式规则。本文提出一种“选择器引导的自主课程”学习策略，通过一个选择器模型智能地安排学习任务的难度，从而更高效地增强模型的推理能力。",
+      "score": 8,
+      "significance": "该研究为利用少量数据高效提升大模型复杂推理能力提供了一种更智能、更自动化的训练方法。"
+    },
+    {
+      "title": "Molecular Representations for Large Language Models",
+      "authors": [
+        "Nicholas T. Runcie",
+        "Fergus Imrie",
+        "Charlotte M. Deane"
+      ],
+      "abstract": "Large Language Models (LLMs) are increasingly being used to support scientific discovery. In chemistry, tasks such as reaction prediction and structure elucidation require reasoning about the structures of molecules. As such, LLM-based systems for chemistry must interact reliably with molecular structures. Most previous studies of LLMs in chemistry have used SMILES strings or IUPAC names as molecular representations; however, the suitability of these formats has not been systematically assessed. In this work, we introduce MolJSON, a novel molecular representation for LLMs, and systematically compare it with five common chemical formats. We evaluated each representation with GPT-5-nano, GPT-5-mini, GPT-5, and Claude Haiku 4.5 using a set of 78,045 questions spanning translation, shortest path, and constrained generation reasoning tasks. We observed substantial variation across representations in the ability of LLMs to interpret and generate molecular graphs, with MolJSON consistently outperforming existing formats. On translation tasks, GPT-5 achieved 71.0% accuracy when converting IUPAC names to MolJSON, compared with 43.7% when converting the same inputs to SMILES. For constrained generation, GPT-5 reached 95.3% accuracy generating MolJSON, compared with 76.3% for IUPAC and 64.0% for SMILES. As an input format for shortest-path reasoning, GPT-5 successfully answered 98.5% of questions with MolJSON, compared with 92.2% for SMILES and 82.7% for IUPAC, whilst also using fewer reasoning tokens. We observed systematic errors associated with atom count and ring complexity for SMILES strings and IUPAC names, whereas MolJSON was more robust to these failure modes. Our results show that the choice of molecular representation has a material impact on LLM performance, and that explicit molecular graph schemas, such as MolJSON, are a promising direction for LLM-based systems in chemistry.",
+      "url": "http://arxiv.org/abs/2605.01822v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01822v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-05-03T11:08:46+00:00",
+      "source": "arxiv",
+      "title_cn": "用于大语言模型的分子表示方法",
+      "summary_cn": "大语言模型在化学领域的应用需要其能准确理解分子结构。该研究探讨了如何将分子结构（如图、序列或3D坐标）有效地表示为LLM能够处理的格式，旨在解决当前表示方法的局限性，从而提升模型在化学任务上的推理能力。",
+      "score": 8,
+      "significance": "该工作是连接大语言模型与化学世界的桥梁，为开发更强大的AI化学家奠定了基础。"
+    },
+    {
+      "title": "Skipping the Zeros in Diffusion Models for Sparse Data Generation",
+      "authors": [
+        "Phil Sidney Ostheimer",
+        "Mayank Nagda",
+        "Andriy Balinskyy",
+        "Gabriel Vicente Rodrigues",
+        "Jean Radig"
+      ],
+      "abstract": "Diffusion models (DMs) excel on dense continuous data, but are not designed for sparse continuous data. They do not model exact zeros that represent the deliberate absence of a signal. As a result, they erase sparsity patterns and perform unnecessary computation on mostly zero entries. With Sparsity-Exploiting Diffusion (SED), we model only non-zero values, preserving sparsity. SED delivers computational savings while maintaining or improving generation quality by skipping zeros during training and inference. Across physics and biology benchmarks, SED matches or surpasses conventional DMs and domain-specific baselines, while vision experiments provide intuitive insights into the limitations of dense DMs and the benefits of SED.",
+      "url": "http://arxiv.org/abs/2605.01817v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01817v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-05-03T10:51:25+00:00",
+      "source": "arxiv",
+      "title_cn": "在扩散模型中跳过零值以生成稀疏数据",
+      "summary_cn": "标准扩散模型在处理含有大量零值的稀疏数据时效率低下且效果不佳。本文提出一种新方法，让模型在生成过程中能够“跳过”零值部分，不仅显著提升了计算效率，也更好地保留了数据的稀疏结构。",
+      "score": 7,
+      "significance": "该研究解决了扩散模型在稀疏数据生成上的核心缺陷，为推荐系统、基因组学等领域的应用开辟了新可能。"
+    },
+    {
+      "title": "Federated Semi-Supervised Graph Neural Networks with Prototype-Guided Pseudo-Labeling for Privacy-Preserving Gestational Diabetes Mellitus Prediction",
+      "authors": [
+        "G. Victor Daniela",
+        "A. Mallikarjuna Reddya",
+        "Uday Kumar Addankia",
+        "Sridhar Reddy Gogua",
+        "Sravanth Kumar Ramakuria"
+      ],
+      "abstract": "Gestational Diabetes Mellitus (GDM) is a high-prevalence pregnancy complication that requires accurate early risk stratification to reduce maternal and fetal morbidity. However, real-world clinical deployment of machine learning is hindered by two coupled constraints: (i) label scarcity, where a large fraction of electronic health records (EHR) lack confirmed diagnostic labels, and (ii) data privacy, which prevents sharing patient-level data across hospitals. This paper proposes FedTGNN-SS, a privacy-preserving federated semi-supervised framework for clinical tabular EHR. Each hospital builds a local k-nearest-neighbor patient similarity graph and trains a topology-adaptive GNN encoder. To robustly exploit unlabeled records, FedTGNN-SS combines (1) prototype-guided pseudo-labeling with neighborhood agreement, (2) adaptive graph refinement that periodically updates the k-NN graph using learned embeddings, (3) clinical-aware consistency augmentation applied only to continuous variables, and (4) privacy-safe prototype sharing that exchanges only class-level centroids. Across three diabetes-related datasets (GDM: N = 3,525; Pima: N = 768; Early Stage: N = 520) under 10\\%-80\\% missing labels per silo, FedTGNN-SS achieves 56 significant wins ($p < 0.05$) against 11 federated baselines and attains strong AUROC under extreme scarcity (Pima: 0.8037 at 80\\% missing, Early Stage: 0.9634 at 80\\% missing).",
+      "url": "http://arxiv.org/abs/2605.01810v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01810v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-05-03T10:26:00+00:00",
+      "source": "arxiv",
+      "title_cn": "联邦半监督图神经网络：利用原型引导伪标签进行隐私保护的妊娠期糖尿病预测",
+      "summary_cn": "妊娠期糖尿病（GDM）的早期预测面临数据隐私和标签稀缺的双重挑战。本文提出一种联邦半监督学习框架，利用图神经网络和一种“原型引导的伪标签”技术，在保护患者隐私的同时，有效利用各家医院的未标注数据，提高了预测的准确性。",
+      "score": 8,
+      "significance": "该工作为在医疗领域部署机器学习提供了解决数据孤岛和标签稀缺问题的实用方案，具有重要的临床应用价值。"
+    },
+    {
+      "title": "Beyond ECE: Calibrated Size Ratio, Risk Assessment, and Confidence-Weighted Metrics",
+      "authors": [
+        "Fernando Martin-Maroto",
+        "Nabil Abderrahaman",
+        "Gonzalo G. de Polavieja"
+      ],
+      "abstract": "Confidence calibration has been dominated by the Expected Calibration Error (ECE), a linear metric that counts calibration offset equally regardless of the confidence level at which it occurs. We show that ECE can remain small even under arbitrarily large overconfidence risk, so we propose Calibrated Size Ratio (CSR) instead, an interpretable metric that equals 1 under perfect calibration, from which we derive the risk probability $P_{\\mathrm{risk}}$ that quantifies the statistical evidence for overconfidence. We further argue that overconfidence risk assessment must be complemented by a measure of discriminative value: whether the assigned confidences actively distinguish correct from incorrect predictions. We show that confidence-weighted accuracy $\\mathrm{cwA}$ is the natural such complement, and that confidence-weighting extends to all standard classification metrics. In particular, we prove that the confidence-weighted AUC (cwAUC) captures the information about calibration while the classical AUC cannot. We validate the proposed indicators on several synthetic confidence distributions under multiple controlled calibration profiles and on fifteen real datasets with and without post-hoc calibration. Experiments demonstrate that CSR achieves near-perfect sensitivity and specificity across all tested conditions.",
+      "url": "http://arxiv.org/abs/2605.01796v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01796v1",
+      "categories": [
+        "cs.LG",
+        "math.ST"
+      ],
+      "published": "2026-05-03T09:20:59+00:00",
+      "source": "arxiv",
+      "title_cn": "超越ECE：校准尺寸比、风险评估和置信度加权指标",
+      "summary_cn": "衡量模型置信度校准的常用指标ECE（预期校准误差）存在缺陷，无法有效反映模型过度自信带来的风险。本文揭示了ECE的局限性，并提出了一套新的评估指标，能够更好地衡量模型在不同置信度下的可靠性，尤其关注高风险的过度自信问题。",
+      "score": 9,
+      "significance": "该研究挑战了AI可靠性评估的现有标准，为构建更安全、更值得信赖的AI系统提供了更敏锐的度量工具。"
+    },
+    {
+      "title": "GeoSAE: Geometric Prior-Guided Layer-Wise Sparse Autoencoder Annotation of Brain MRI Foundation Models",
+      "authors": [
+        "Favour Nerrise",
+        "Lucy Yin",
+        "Mohammad H. Abbasi",
+        "Kilian M. Pohl",
+        "Ehsan Adeli"
+      ],
+      "abstract": "Brain MRI foundation models learn rich representations of anatomy, but interpreting what clinical information they encode remains an open problem. Standard sparse autoencoders (SAEs) suffer from severe feature collapse in deep transformer layers, and in Alzheimer's disease (AD) research, aging confounds nearly every clinical variable, making naive annotation unreliable. We propose GeoSAE, a geometry-guided SAE framework that uses the foundation model's learned manifold structure to prevent feature collapse and annotates each surviving feature via age-deconfounded partial correlations. Applied to ~14k T1-weighted MRI scans from the Alzheimer's Disease Neuroimaging Initiative (ADNI) and the Australian Imaging biomarkers and Lifestyle (AIBL) datasets, GeoSAE identifies a compact, fully interpretable feature set that predicts mild cognitive impairment (MCI)-to-AD conversion (AUC 0.746) using only 2% of the embedding dimensions, while comorbidity-annotated features achieve only chance-level performance. The identified features replicate across cohorts without retraining (r=0.97) and localize to neuroanatomically distinct regions consistent with Braak staging. This shows that geometry-guided SAEs can extract interpretable, biomarkers from frozen brain MRI foundation models.",
+      "url": "http://arxiv.org/abs/2605.01829v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01829v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-05-03T11:42:25+00:00",
+      "source": "arxiv",
+      "title_cn": "GeoSAE：基于几何先验引导的脑部MRI基础模型逐层稀疏自编码器标注",
+      "summary_cn": "理解脑部MRI大模型学到的特征是个难题，而标准解释工具（稀疏自编码器SAE）在深层网络中效果不佳。本文提出GeoSAE，一种结合了脑部解剖结构等几何先验知识的新型SAE，能更有效地解释模型深层特征，并应用于阿尔茨海默症等研究。",
+      "score": 8,
+      "significance": "该工作为打开医疗影像大模型的“黑箱”提供了一种更有效的工具，有助于将AI的强大表示能力转化为可信的临床洞见。"
+    },
+    {
+      "title": "Referring Multiple Regions with Large Multimodal Models via Contextual Latent Steering",
+      "authors": [
+        "Yun Xing",
+        "Hanyuan Liu",
+        "Jiahao Nie",
+        "Shijian Lu"
+      ],
+      "abstract": "Large Multimodal Models (LMMs) have recently demonstrated their proficiency in holistic visual comprehension. However, most of them struggle to tackle region-level perception guided by visual prompts, especially for cases where multiple regions are referred simultaneously, or scenarios where global contexts are necessary for precise visual referring. We introduce Contextual Latent Steering (CSteer), a training-free approach for guiding general LMMs to refer multiple regions contextually, without expensive fine-tuning or architectural modifications. CSteer starts with pre-computing contextual vectors that implicitly represent visual referring behaviors, such as differentiation among regions and attention to global contexts, followed by representation editing during inference time. Experimental results on multiple datasets indicate that general LMMs with CSteer outperform tailored referring LMMs in most cases, suggesting a promising solution in training-free, and setting new state-of-the-art for this field. Code is available at https://github.com/xing0047/csteer.git.",
+      "url": "http://arxiv.org/abs/2605.01827v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01827v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-05-03T11:34:36+00:00",
+      "source": "arxiv",
+      "title_cn": "上下文潜空间引导：让大型多模态模型指代多个区域",
+      "summary_cn": "当前的大型多模态模型（LMM）虽然能理解整个图像，但在同时定位和理解图像中的多个特定区域时表现不佳。本文提出一种“上下文潜空间引导”技术，通过在模型的内部表示层进行引导，使其能够根据复杂的指令精确地指代多个目标区域。",
+      "score": 8,
+      "significance": "该研究提升了多模态大模型对图像的精细化理解能力，是实现更复杂人机交互和视觉任务的关键一步。"
+    },
+    {
+      "title": "Hybrid Visual Telemetry for Bandwidth-Constrained Robotic Vision: A Pilot Study with HEVC Base Video and JPEG ROI Stills",
+      "authors": [
+        "Natalia Trukhina",
+        "Vadim Vashkelis"
+      ],
+      "abstract": "Bandwidth-constrained robotic and surveillance systems often rely on a single compressed video stream to support both continuous scene awareness and downstream machine perception. In practice, this creates a mismatch: low-bitrate video can preserve motion and coarse context, but often loses the fine local detail needed for reliable object recognition and decision-making. Motivated by a hybrid architecture in which low-resolution video supports dynamic scene understanding while eventdriven high-detail regions of interest (ROIs) support close-up identification and analytics, this paper formalizes a two-channel visual telemetry scheme in which a continuous low-bitrate video stream is augmented by selectively transmitted high-detail still ROIs. This first paper does not attempt to prove the superiority of a new still-image codec. Instead, it establishes the hybrid transmission paradigm itself using a practical and reproducible codec stack: x265/HEVC for the base video stream and JPEG stills for ROI refinement. We formulate the problem as bitrate-constrained information selection for robotic vision and define an experimental protocol in which video-only and hybrid schemes are compared under matched total communication budgets. The study is designed around UAV-oriented datasets, two practical bitrate regimes, several ROI triggering policies, and object-level classification refinement on selectively transmitted ROI stills. The resulting paper lays the methodological foundation for a second-stage investigation of JPEG AI as the semantic still-image channel within the same hybrid architecture.",
+      "url": "http://arxiv.org/abs/2605.01826v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01826v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG",
+        "cs.RO"
+      ],
+      "published": "2026-05-03T11:29:14+00:00",
+      "source": "arxiv",
+      "title_cn": "混合视觉遥测技术：在带宽受限的机器人视觉中结合HEVC视频与JPEG兴趣区域图像",
+      "summary_cn": "在带宽有限的机器人应用中，传输的视频流往往无法兼顾流畅性和清晰度。本文提出一种混合遥测方案，同时传输低码率的整体视频流（用于感知全局动态）和高分辨率的关键区域静态图像（用于机器识别），实现了在有限带宽下对场景的全面感知。",
+      "score": 7,
+      "significance": "该研究为资源受限的机器人和监控系统提供了一种兼顾全局感知和细节识别的实用通信策略。"
+    },
+    {
+      "title": "Cross-Domain Adversarial Augmentation: Stabilizing GANs for Medical and Handwriting Data Scarcity",
+      "authors": [
+        "Md. Sohanuzzaman Soad",
+        "Mahady Al Hady",
+        "S M Rafiuddin Rifat",
+        "Sudip Ghose"
+      ],
+      "abstract": "Generative Adversarial Networks (GANs) offer a pragmatic route to mitigate data scarcity in vision tasks. We study generative augmentation across two low-resource domains: Bangla handwritten characters and chest X-ray imaging using DCGAN-style models trained at 64x64 resolution. We evaluate fidelity and diversity via Inception Score (IS), Fr'echet Inception Distance (FID), and embedding visualizations (t-SNE/UMAP), and assess downstream utility by training classifiers on real versus real synthetic data. Our experiments show that generative augmentation improves sample diversity and yields consistent gains in classifier performance under limited-data regimes. We analyze stability enhancements (e.g., gradient-penalized objectives and spectral normalization) and report ablations on synthetic-to-real ratios and sample filtering. We discuss evaluation caveats for medical images, dataset licensing, and privacy risks associated with synthetic data. The resulting protocol is simple to reproduce and provides a strong baseline for applying generative augmentation to resource-constrained imaging tasks.",
+      "url": "http://arxiv.org/abs/2605.01815v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01815v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-05-03T10:48:26+00:00",
+      "source": "arxiv",
+      "title_cn": "跨域对抗性增强：利用GAN稳定解决医疗和手写领域的数据稀缺问题",
+      "summary_cn": "在手写字符识别和医疗影像等领域，数据稀缺是一个普遍难题。该研究探索使用生成对抗网络（GAN）来创造新的训练数据，并评估了这种方法在孟加拉语手写体和胸部X光图像这两个不同场景下，缓解数据不足问题的有效性。",
+      "score": 6,
+      "significance": "该工作验证了生成式AI作为数据增强工具在特定低资源场景下的实用价值，为解决实际应用中的数据瓶颈提供了参考。"
+    },
+    {
+      "title": "Embody4D: A Generalist 4D World Model for Embodied AI",
+      "authors": [
+        "Peiyan Tu",
+        "Hanxin Zhu",
+        "Jingwen Sun",
+        "Shaojie Ren",
+        "Cong Wang"
+      ],
+      "abstract": "World models have made significant progress in modeling dynamic environments; however, most embodied world models are still restricted to 2D representations, lacking the comprehensive multi-view information essential for embodied spatial reasoning. Bridging this gap is non-trivial, primarily due to challenges from severe scarcity of paired multi-view data, the difficulty of maintaining spatiotemporal consistency in generated 3D geometries, and the tendency to hallucinate manipulation details. To address these challenges, we propose Embody4D, a dedicated video-to-video world model for embodied scenarios, capable of synthesizing arbitrary novel views from a monocular video. First, to tackle data scarcity, we introduce a 3D-aware compositional synthesis pipeline to curate a heterogeneous dataset compositing cross-embodiment robotic arms with diverse backgrounds, guaranteeing broad generalization. Second, to enforce geometric stability, we devise an adaptive noise injection strategy; by leveraging confidence disparities across image regions, this method selectively regularizes the diffusion process to ensure strict spatiotemporal consistency. Finally, to guarantee manipulation fidelity, we incorporate an interaction-aware attention mechanism that explicitly attends to the robotic interaction regions. Extensive experiments demonstrate that Embody4D achieves state-of-the-art performance, serving as a robust world model that synthesizes high-fidelity, view-consistent videos to empower downstream robotic planning and learning.",
+      "url": "http://arxiv.org/abs/2605.01799v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01799v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-05-03T09:39:44+00:00",
+      "source": "arxiv",
+      "title_cn": "Embody4D：一个面向具身智能的通用4D世界模型",
+      "summary_cn": "当前多数具身AI使用的世界模型局限于2D表示，缺乏真实交互所需的空间推理能力。本文提出了Embody4D，一个通用的4D（3D空间+时间）世界模型，它能够从多视角信息中学习并预测动态三维世界的变化，为机器人等智能体提供更全面的环境理解。",
+      "score": 9,
+      "significance": "该研究旨在构建能够理解并预测三维动态世界的“大脑”，是迈向真正能在物理世界中自主行动的通用智能体的关键一步。"
+    },
+    {
+      "title": "Repurposing and Evaluating the (In)Feasibility of Dataset Poisoning enabled Watermarking for Contrastive Learning",
+      "authors": [
+        "Zhiyang Dai",
+        "Yansong Gao",
+        "Boyu Kuang",
+        "Haodong Li",
+        "Qi Chang"
+      ],
+      "abstract": "Contrastive learning (CL) reduces annotation cost via auto-derived supervisory signals. Since large-scale in-house CL datasets are infeasible, reliance on third-party or internet data is common. Recent studies show CL models are vulnerable to data-poisoning backdoor attacks, but their generalization and robustness are underexplored. We systematically evaluate existing data-poisoning backdoor attacks on CL, revealing limitations: poor dataset adaptability, low success rates, limited portability, and restrictive assumptions (e.g., downstream task knowledge). Interestingly, trigger samples exhibit distinguishable statistical divergence from clean samples, which inspires repurposing it as a watermark for dataset IP protection. Direct repurposing is challenging due to low success rates; we overcome this by statistical verification using a unified density metric. We further propose a multi-level watermarking scheme adapting to feature-level, soft-label, or hard-label outputs in CL. Experiments show some backdoor attacks can be repurposed as effective watermarks with trade-offs among fidelity, verifiability, and robustness. This work demonstrates weak backdoor effects become reliable signals for dataset IP protection in challenging CL settings.",
+      "url": "http://arxiv.org/abs/2605.01834v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01834v1",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "published": "2026-05-03T12:01:26+00:00",
+      "source": "arxiv",
+      "title_cn": "重新利用与评估：基于数据集投毒的对比学习水印技术的可行性",
+      "summary_cn": "对比学习模型常常依赖第三方数据，这带来了知识产权保护的难题。本文提出一个新颖的想法：将原本用于恶意攻击的数据集投毒技术“重新利用”，变为一种为模型嵌入数字水印的良性工具，并对其可行性与效果进行了评估。",
+      "score": 7,
+      "significance": "该研究为AI模型的知识产权保护提供了一种“以子之矛，攻子之盾”的新思路，探索了在无监督学习中嵌入所有权证明的方法。"
+    },
+    {
+      "title": "Remote Action Generation: Remote Control with Minimal Communication",
+      "authors": [
+        "Szymon Kobus",
+        "Deniz Gündüz"
+      ],
+      "abstract": "We address the challenge of remote control where one or more actors, lacking direct reward access, are steered by a controller over a communication-constrained channel. The controller learns an optimal policy from observed rewards and communicates action guidance to the actors, which becomes demanding for large or continuous action spaces. To achieve rate-efficient communication throughout this interactive learning and control process, we introduce a novel framework leveraging remote generation. Instead of transmitting full action specifications, the controller sends minimal information, enabling the actors to locally generate actions by sampling from the controller's evolving target policy. This guided sampling is facilitated by an importance sampling approach. Concurrently, the actors use the received guidance as supervised learning data to learn the controller's policy. This actor-side learning improves their local sampling capabilities, progressively reducing future communication needs. Our solution, Guided Remote Action Sampling Policy (GRASP), demonstrates significant communication reduction, achieving an average 12-fold data reduction across all experiments (50-fold for continuous action spaces) compared to direct action transmission, and a 41-fold reduction compared to reward transmission.",
+      "url": "http://arxiv.org/abs/2605.01833v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.01833v1",
+      "categories": [
+        "cs.IT",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-05-03T12:00:25+00:00",
+      "source": "arxiv",
+      "title_cn": "远程动作生成：以最少通信实现远程控制",
+      "summary_cn": "在多智能体远程控制任务中，通信带宽是主要瓶颈。本文研究了一个场景：中央控制器需要指导多个无法直接获取奖励信号的执行者，并提出一种“远程动作生成”框架，旨在通过传输高度压缩的引导信息而非完整指令，实现高效的远程协同。",
+      "score": 7,
+      "significance": "该研究为在通信受限环境下实现复杂的多智能体协同与控制提供了新的理论框架和解决方案。"
+    }
+  ]
+}
