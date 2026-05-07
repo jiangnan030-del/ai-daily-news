@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-05-07 周四</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-05-07 周四</h1>
+
+<blockquote>自动生成于 2026-05-07 10:02 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日的AI领域，技术突破与现实挑战的交锋愈发激烈。一方面，AI智能体（Agent）正从抽象概念迅速走向实用化，成为开发者的新宠。从GitHub上涌现的智能体技能框架，到Hacker News热议的“代理式工程”，业界正积极探索如何让AI自主完成复杂任务，连接并操作真实世界的数据源。</p>
+
+<p>另一方面，AI“成长的烦恼”也日益凸显。当模型性能在加速推理与多模态融合等方向上持续狂飙时，其背后潜藏的风险与矛盾也浮出水面。无论是关于数据版权的法律纠纷、AI滥用导致的人为失误，还是长上下文建模面临的“不可能三角”等核心技术瓶颈，都警示着我们：在奔向通用人工智能的道路上，技术、伦理与安全必须齐头并进。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">Hmbown/DeepSeek-TUI</a> <code>LLM/Agent</code></h3>
+
+<blockquote>终端开发者的福音，将强大的 DeepSeek 编码能力无缝集成到你的命令行。</blockquote>
+
+<p>⭐ <strong>14,300</strong> Stars | 📈 今日 +6175 | 🔤 Rust | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>一个专为 DeepSeek 模型打造的终端编码助手。它允许开发者在命令行界面中直接与 AI 进行交互，实现代码生成、调试和优化等功能，极大地提升了终端环境下的编程效率。</p>
+
+<h3>2. <a href="https://github.com/ruvnet/ruflo" target="_blank">ruvnet/ruflo</a> <code>框架</code></h3>
+
+<blockquote>构建企业级 Claude 多智能体系统的首选编排框架。</blockquote>
+
+<p>⭐ <strong>45,308</strong> Stars | 📈 今日 +2192 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>领先的 Claude 模型智能体编排平台，专为构建企业级 AI 应用而设计。它支持部署智能多智能体集群、协调自主工作流，并集成了 RAG 和 Claude Code，可用于打造复杂的对话式 AI 系统。</p>
+
+<h3>3. <a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">AIDC-AI/Pixelle-Video</a> <code>CV</code></h3>
+
+<blockquote>输入文案，AI 自动为你生成爆款短视频。</blockquote>
+
+<p>⭐ <strong>12,779</strong> Stars | 📈 今日 +1239 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一款全自动的 AI 短视频生成引擎。它能根据用户输入的文案或主题，自动完成素材搜集、视频剪辑、配音和字幕生成等全套流程，旨在帮助内容创作者快速、批量地生产高质量短视频。</p>
+
+<h3>4. <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a> <code>教程</code></h3>
+
+<blockquote>提升你的 AI 编码智能体，让它具备生产级工程技能。</blockquote>
+
+<p>⭐ <strong>30,662</strong> Stars | 📈 今日 +800 | 🔤 Shell | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个为 AI 编码智能体设计的生产级工程技能集。该项目整理了一系列最佳实践、测试用例和评估标准，旨在提升 AI 智能体在真实软件开发环境中的可靠性、效率和代码质量。</p>
+
+<h3>5. <a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">Arindam200/awesome-ai-apps</a> <code>教程</code></h3>
+
+<blockquote>探索和学习前沿 AI 应用的最佳起点，内含大量可运行实例。</blockquote>
+
+<p>⭐ <strong>11,805</strong> Stars | 📈 今日 +799 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个精选的 AI 应用项目集合，全面展示了 RAG、智能体、工作流等多种前沿 AI 用例。该项目为开发者提供了丰富的可运行示例，是学习和探索如何构建现代 AI 应用的绝佳资源库。</p>
+
+<h3>6. <a href="https://github.com/virattt/dexter" target="_blank">virattt/dexter</a> <code>LLM/Agent</code></h3>
+
+<blockquote>你的私人 AI 金融分析师，自动完成深度市场研究。</blockquote>
+
+<p>⭐ <strong>24,381</strong> Stars | 📈 今日 +666 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一款专注于深度金融研究的自主智能体。它能够自动搜集、分析和总结来自不同来源的金融数据和报告，为投资者和分析师提供深入的市场洞察和决策支持。</p>
+
+<h3>7. <a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">LearningCircuit/local-deep-research</a> <code>LLM/Agent</code></h3>
+
+<blockquote>在本地安全地进行深度研究，支持所有主流模型和数据源。</blockquote>
+
+<p>⭐ <strong>5,683</strong> Stars | 📈 今日 +532 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一个完全本地化、端到端加密的深度研究工具，注重用户隐私。它支持各类本地和云端大模型，并能整合十多种搜索引擎及私人文档，实现安全高效的本地化信息检索与分析。</p>
+
+<h3>8. <a href="https://github.com/bwya77/vscode-dark-islands" target="_blank">bwya77/vscode-dark-islands</a> <code>工具</code></h3>
+
+<blockquote>一款让你编码更舒适的精美 VSCode 暗色主题。</blockquote>
+
+<p>⭐ <strong>8,222</strong> Stars | 📈 今日 +503 | 🔤 PowerShell | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>一款 VSCode 编辑器主题，其设计灵感来源于 easemate IDE 和 Jetbrains 的 islands 主题。它提供了舒适、美观的暗色编码界面，旨在提升开发者的视觉体验和专注度。</p>
+
+<h3>9. <a href="https://github.com/cocoindex-io/cocoindex" target="_blank">cocoindex-io/cocoindex</a> <code>框架</code></h3>
+
+<blockquote>赋予你的智能体长时记忆和处理复杂任务的能力。</blockquote>
+
+<p>⭐ <strong>8,646</strong> Stars | 📈 今日 +364 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个为长程任务智能体设计的增量式处理引擎。它通过高效的状态管理和增量计算，使智能体能够处理需要长时间运行和记忆的复杂任务，是构建高级自主智能体的关键组件。</p>
+
+<h3>10. <a href="https://github.com/bytedance/deer-flow" target="_blank">bytedance/deer-flow</a> <code>框架</code></h3>
+
+<blockquote>字节跳动出品，构建能处理超长复杂任务的超级智能体框架。</blockquote>
+
+<p>⭐ <strong>65,559</strong> Stars | 📈 今日 +337 | 🔤 Python | 推荐: ⭐⭐⭐⭐⭐ (10/10)</p>
+
+<p>字节跳动开源的一款长程任务“超级智能体”框架，能够执行耗时数分钟到数小时的复杂任务。它通过沙箱、记忆、工具、技能和子智能体等模块的协同，实现了强大的研究、编码和创造能力。</p>
+
+<h3>11. <a href="https://github.com/InsForge/InsForge" target="_blank">InsForge/InsForge</a> <code>框架</code></h3>
+
+<blockquote>快速搭建 AI 编码智能体应用所需的全套后端服务。</blockquote>
+
+<p>⭐ <strong>8,478</strong> Stars | 📈 今日 +230 | 🔤 TypeScript | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个专为编码智能体打造的、基于 Postgres 的后端服务平台。它集成了认证、存储、计算、托管和 AI 网关等功能，为开发者提供了一站式的 AI 应用后端解决方案。</p>
+
+<h3>12. <a href="https://github.com/raullenchai/Rapid-MLX" target="_blank">raullenchai/Rapid-MLX</a> <code>工具</code></h3>
+
+<blockquote>让你的苹果电脑化身本地 AI 推理猛兽，速度远超 Ollama。</blockquote>
+
+<p>⭐ <strong>1,717</strong> Stars | 📈 今日 +216 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>号称是 Apple Silicon 上最快的本地 AI 推理引擎，性能比 Ollama 快 4.2 倍。它通过提示词缓存、推理分离等技术实现了极低的延迟，并兼容 OpenAI API，可作为本地高性能模型的直接替代品。</p>
+
+<h3>13. <a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">Shubhamsaboo/awesome-llm-apps</a> <code>教程</code></h3>
+
+<blockquote>100+ 个开箱即用的 AI 应用，助你从入门到部署。</blockquote>
+
+<p>⭐ <strong>109,069</strong> Stars | 📈 今日 +200 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (8/10)</p>
+
+<p>一个包含超过 100 个可直接运行的 AI 智能体和 RAG 应用的精选列表。该项目旨在帮助开发者快速克隆、定制和部署真实的 AI 应用，是实践和上手的绝佳资源。</p>
+
+<h3>14. <a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">cheahjs/free-llm-api-resources</a> <code>数据</code></h3>
+
+<blockquote>帮你找到全网可用的免费 LLM API 资源，省钱利器。</blockquote>
+
+<p>⭐ <strong>20,528</strong> Stars | 📈 今日 +198 | 🔤 Python | 推荐: ⭐⭐⭐ (7/10)</p>
+
+<p>一个精心整理的免费大语言模型（LLM）推理服务资源列表。该项目汇总了众多可通过 API 访问的免费 LLM 服务，为开发者和研究人员在原型开发和实验阶段节省了大量成本。</p>
+
+<h3>15. <a href="https://github.com/Q00/ouroboros" target="_blank">Q00/ouroboros</a> <code>LLM/Agent</code></h3>
+
+<blockquote>告别繁琐的 Prompt 工程，用规约精确控制你的 AI 智能体。</blockquote>
+
+<p>⭐ <strong>3,540</strong> Stars | 📈 今日 +143 | 🔤 Python | 推荐: ⭐⭐⭐⭐ (9/10)</p>
+
+<p>一个创新的“智能体操作系统”（Agent OS），其核心理念是“停止提示，开始规约”。它旨在通过定义清晰的目标和约束，而非反复编写提示词，来更精确、更可靠地指挥智能体完成任务。</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/" target="_blank">加速 Gemma 4：利用多 Token 预测草稿模型实现更快的推理</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Accelerating Gemma 4: faster inference with multi-token prediction drafters</em></p>
+
+<p>🔺 <strong>10</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48024540" target="_blank">320 评论</a> | 👤 amrrs</p>
+
+<p>Google 介绍了其最新的 Gemma 4 模型加速技术，通过多 Token 预测草稿模型（drafters）显著提升了推理速度，允许模型一次性预测多个未来的 Token 以减少延迟。</p>
+
+<h3>2. <a href="https://idiallo.com/blog/ai-didnt-delete-your-database-you-did" target="_blank">不是 AI 删了你的数据库，是你自己</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: AI didn't delete your database, you did</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48022742" target="_blank">297 评论</a> | 👤 Brajeshwar</p>
+
+<p>这篇博文探讨了在 AI 辅助开发中人为失误的责任问题，认为将严重事故归咎于 AI 是在推卸责任，开发者必须对 AI 生成的代码进行审查并最终负责。</p>
+
+<h3>3. <a href="https://susam.net/inverse-laws-of-robotics.html" target="_blank">AI 的三大反向定律</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Three Inverse Laws of AI</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48023861" target="_blank">346 评论</a> | 👤 blenderob</p>
+
+<p>作者戏谑地提出了三条关于 AI 的“反向定律”，描述了当前 AI 发展的悖论，例如 AI 越强大，人们越倾向于用它来做琐碎无聊的事情。</p>
+
+<h3>4. <a href="https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/" target="_blank">扎克伯格被指“亲自授权并鼓励”Meta 的 AI 侵犯版权</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement</em></p>
+
+<p>🔺 <strong>9</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48026207" target="_blank">412 评论</a> | 👤 spankibalt</p>
+
+<p>根据最新的法律文件，Meta CEO 扎克伯格被指控亲自授权并鼓励公司在训练其 AI 模型时使用受版权保护的材料，加剧了 AI 训练数据合法性的争议。</p>
+
+<h3>5. <a href="https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/" target="_blank">“氛围感编程”与“智能体工程”的界限正变得危险地模糊</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Vibe coding and agentic engineering are getting closer than I'd like</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48037128" target="_blank">429 评论</a> | 👤 e12e</p>
+
+<p>知名开发者 Simon Willison 探讨了“氛围感编程”（Vibe coding）和“智能体工程”的融合趋势，并担忧这种模糊的开发方式可能导致系统变得不可预测和难以维护。</p>
+
+<h3>6. <a href="https://www.anthropic.com/news/higher-limits-spacex" target="_blank">Anthropic 提高 Claude 使用上限，并与 SpaceX 达成算力合作</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Higher usage limits for Claude and a compute deal with SpaceX</em></p>
+
+<p>🔺 <strong>8</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48037986" target="_blank">332 评论</a> | 👤 meetpateltech</p>
+
+<p>Anthropic 宣布为其 Claude 模型提供更高的使用限制，同时与 SpaceX 达成合作，利用 Starlink 和 Starship 为其全球 AI 模型提供算力支持。</p>
+
+<h3>7. <a href="https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63" target="_blank">加拿大电信公司 Telus 使用 AI 实时改变客服口音</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Telus Uses AI to Alter Call-Agent Accents</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48031109" target="_blank">208 评论</a> | 👤 debo_</p>
+
+<p>加拿大电信巨头 Telus 正在使用 AI 技术实时修改其呼叫中心客服人员的口音，旨在让沟通更顺畅，但也引发了关于文化认同和偏见的讨论。</p>
+
+<h3>8. <a href="https://arxiv.org/abs/2604.26752" target="_blank">GLM-5V-Turbo：迈向原生多模态智能体基础模型</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48026021" target="_blank">31 评论</a> | 👤 gmays</p>
+
+<p>这篇来自清华大学的论文介绍了一款名为 GLM-5V-Turbo 的新型多模态模型，旨在成为多模态智能体的原生基础模型，提升其在理解和交互方面的能力。</p>
+
+<h3>9. <a href="https://news.ycombinator.com/item?id=48023496" target="_blank">Show HN：Airbyte Agents - 为 AI 智能体提供跨数据源的上下文</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: Show HN: Airbyte Agents – context for agents across multiple data sources</em></p>
+
+<p>🔺 <strong>7</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48023496" target="_blank">40 评论</a> | 👤 mtricot</p>
+
+<p>Airbyte 推出了一个新项目 Airbyte Agents，旨在帮助 AI 智能体轻松地从多个不同的数据源（如数据库、API）中获取和整合上下文信息，以完成更复杂的任务。</p>
+
+<h3>10. <a href="https://elonlit.com/scrivings/a-theory-of-deep-learning/" target="_blank">一种深度学习的理论</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: A Theory of Deep Learning</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48027455" target="_blank">28 评论</a> | 👤 elonlit</p>
+
+<p>本文试图为深度学习的运作机制提供一个理论框架，探讨了神经网络如何通过分层结构学习和表示复杂数据，并对其泛化能力进行了解释。</p>
+
+<h3>11. <a href="https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/" target="_blank">Xbox CEO 终止 Copilot AI 开发并进行领导层改组</a> <code>行业动态</code></h3>
+
+<p class="italic-note"><em>原标题: Xbox CEO ends Copilot AI development and overhauls leadership</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48029753" target="_blank">39 评论</a> | 👤 gmays</p>
+
+<p>据报道，Xbox CEO 决定终止其内部的 Copilot AI 助手项目，并对相关团队的领导层进行了重大调整，这可能预示着微软游戏部门 AI 战略的转变。</p>
+
+<h3>12. <a href="https://github.com/microsoft/vscode/issues/314311" target="_blank">关于在 Git 提交信息中添加“Co-authored-by: Copilot”的更新</a> <code>观点讨论</code></h3>
+
+<p class="italic-note"><em>原标题: Update on "Co-authored-by: Copilot" in commit messages</em></p>
+
+<p>🔺 <strong>6</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48031707" target="_blank">66 评论</a> | 👤 extesy</p>
+
+<p>这是一个关于是否应在 Git 提交信息中自动添加“由 Copilot 共同创作”的 GitHub Issue 讨论，社区对此意见不一，涉及代码归属、日志清晰度等问题。</p>
+
+<h3>13. <a href="https://sander.ai/2026/05/06/flow-maps.html" target="_blank">学习扩散模型的积分：流映射（Flow Maps）</a> <code>技术突破</code></h3>
+
+<p class="italic-note"><em>原标题: Learning the Integral of a Diffusion Model</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48040002" target="_blank">17 评论</a> | 👤 benanne</p>
+
+<p>这篇技术博客探讨了一种通过学习扩散模型积分（即流映射）来改进生成模型的方法，该方法有望实现更高效、更高质量的图像生成。</p>
+
+<h3>14. <a href="https://github.com/OxideAV/oxideav-magicyuv/issues/3" target="_blank">FFmpeg 开发者指控 OxideAV 利用 AI 进行代码“许可证洗白”</a> <code>开源项目</code></h3>
+
+<p class="italic-note"><em>原标题: FFmpeg developer calls out OxideAV for AI license laundering of his code</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48031185" target="_blank">6 评论</a> | 👤 dmitrygr</p>
+
+<p>一位 FFmpeg 开发者在 GitHub 上公开指责 OxideAV 项目，称其使用 AI 重写他的开源代码以规避原有的许可证限制，这种行为被他称为“许可证洗白”。</p>
+
+<h3>15. <a href="https://api-docs.deepseek.com/quick_start/pricing" target="_blank">DeepSeek V4 Pro 模型 API 大幅降价 75%，优惠至 5 月 31 日</a> <code>产品发布</code></h3>
+
+<p class="italic-note"><em>原标题: DeepSeek V4 Pro at 75% off until 31 May</em></p>
+
+<p>🔺 <strong>5</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48043040" target="_blank">70 评论</a> | 👤 nateb2022</p>
+
+<p>国内 AI 公司 DeepSeek 宣布其 V4 Pro 模型的 API 价格下调 75%，此举旨在吸引更多开发者使用，加剧了 AI 大模型市场的价格战。</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2605.05090v1" target="_blank">自动发现并验证语言模型干预措施的意外副作用</a></h3>
+
+<p class="italic-note"><em>Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models</em></p>
+
+<p>📝 Quintin Pope, Ajay Hayagreeve Balaji, Jacques Thibodeau et al. | 📂 <code>cs.CL, cs.AI</code></p>
+
+<p>研究人员如何确保对语言模型的修改（如安全微调）不会引入新的问题？本文提出一个自动化评估流程，通过对比模型修改前后的行为差异，自动发现并验证这些意想不到的“副作用”。该方法对于保障AI对齐操作的安全性至关重要。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它为评估和保障大模型对齐操作的安全性提供了关键的自动化工具，有助于构建更可靠的AI系统。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05090v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2605.05080v1" target="_blank">皮诺曹维度：体验的现象性作为大语言模型心理测量差异的主轴</a></h3>
+
+<p class="italic-note"><em>The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences</em></p>
+
+<p>📝 Hubert Plisiecki, Sabina Siudaj, Kacper Dudzic et al. | 📂 <code>cs.CL</code></p>
+
+<p>不同的大语言模型在“性格”上有什么区别？研究者对50个模型进行了45项心理测试，发现它们最主要的差异在于是否倾向于描述拥有主观、现象性的体验，作者将此称为“皮诺曹维度”。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究开创性地从心理测量学角度量化了大模型的“内在世界”差异，为理解和比较不同模型的“心智”提供了新视角。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05080v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2605.05066v1" target="_blank">长上下文建模的不可能三角</a></h3>
+
+<p class="italic-note"><em>The Impossibility Triangle of Long-Context Modeling</em></p>
+
+<p>📝 Yan Zhou | 📂 <code>cs.CL, cs.AI, cs.LG</code></p>
+
+<p>本文从理论上证明了长上下文模型存在一个“不可能三角”：任何模型都无法同时实现高效的计算、紧凑的内存占用和完美的历史信息回忆能力。这意味着在设计长上下文架构时，必须在这三者之间做出权衡。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它为长上下文模型的研究划定了理论边界，迫使研究者在效率、内存和性能之间做出明确的设计抉择。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05066v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2605.05097v1" target="_blank">大语言模型系统中的持续知识更新：通过多时间尺度记忆动态进行学习</a></h3>
+
+<p class="italic-note"><em>Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics</em></p>
+
+<p>📝 Andreas Pattichis, Constantine Dovrolis | 📂 <code>cs.LG, cs.AI, cs.CL</code></p>
+
+<p>如何让大语言模型像人一样持续学习新知识？本文受生物记忆启发，设计了一种多时间尺度的记忆系统，让模型能快速吸收新信息并随时间推移将其“内化”，从而动态适应不断变化的世界。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究为解决大模型的知识静态问题提供了一个动态、自适应的解决方案，是迈向终身学习AI的重要一步。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05097v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2605.05088v1" target="_blank">用于可解释的建筑能效预测和改造方案分析的门控多模态学习</a></h3>
+
+<p class="italic-note"><em>Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis</em></p>
+
+<p>📝 Yunfei Bai, Aaron Tesfa Tsion, Raul Rosales et al. | 📂 <code>cs.LG, physics.soc-ph</code></p>
+
+<p>如何准确预测建筑能耗并评估改造效果？本文提出一种门控多模态学习模型，它能融合图像、文本等多种数据，不仅预测精准，还能解释不同数据对结果的影响，为城市建筑的节能减排提供决策支持。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它为建筑行业的脱碳目标提供了数据驱动的可解释AI工具，有助于实现更高效、精准的节能改造。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05088v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2605.05084v1" target="_blank">顺序至关重要：通过数据重排序改进领域自适应</a></h3>
+
+<p class="italic-note"><em>Order Matters: Improving Domain Adaptation by Reordering Data</em></p>
+
+<p>📝 Andrea Napoli, Paul White | 📂 <code>cs.LG</code></p>
+
+<p>在模型适应新数据环境（领域自适应）时，训练数据的顺序会影响最终效果。本文发现，通过将数据从“易”到“难”进行排序，可以显著提升模型训练的稳定性和最终性能，这是一种简单而有效的改进方法。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究揭示了课程学习思想在领域自适应中的巨大潜力，为提高模型泛化能力提供了一个简单有效的新策略。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05084v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2605.05081v1" target="_blank">用于控制部分可观测Vlasov-Poisson方程不稳定性的可证明模仿学习</a></h3>
+
+<p class="italic-note"><em>Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations</em></p>
+
+<p>📝 Xiaofan Xia, Qin Li, Wenlong Mou | 📂 <code>cs.LG, math.AP, math.OC</code></p>
+
+<p>如何在只能观测到部分信息的情况下，有效控制核聚变中的等离子体？本文提出一种有理论保证的模仿学习方法，让控制器通过模仿一个“全知”的理想控制器，学会在信息不完全时也能稳定系统。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它在理论上连接了机器学习与核聚变控制这一前沿物理难题，为解决信息不完全下的复杂系统控制问题提供了新思路。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05081v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2605.05062v1" target="_blank">基于全卷积网络和白光干涉测量的全芯片化学机械抛光（CMP）建模</a></h3>
+
+<p class="italic-note"><em>Full-chip CMP modelling based on Fully Convolutional Network leveraging White Light Interferometry</em></p>
+
+<p>📝 Jules Exbrayat, Renan Bouis, Elie Sezestre et al. | 📂 <code>cs.LG</code></p>
+
+<p>芯片制造中的化学机械抛光（CMP）效果难以预测，影响生产效率。本文利用深度学习中的全卷积网络，结合高精度的白光干涉测量数据，建立了一个能快速、准确预测整个芯片CMP效果的模型。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究将先进的深度学习技术应用于芯片制造关键环节，为加速芯片设计和验证流程提供了高效的解决方案。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05062v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2605.05079v1" target="_blank">用于严重折射扭曲下多帧图像恢复的统一基准</a></h3>
+
+<p class="italic-note"><em>A unified Benchmark for Multi-Frame Image Restoration under Severe Refractive Warping</em></p>
+
+<p>📝 Maxim V. Shugaev, Md Reshad Ul Hoque, Bridget Kennedy et al. | 📂 <code>cs.CV</code></p>
+
+<p>视频在通过热空气或水面等介质拍摄时会产生严重扭曲，但目前缺乏评估修复算法的标准。本文构建了一个统一的基准测试平台，专门用于系统性地评估和比较各种针对此类严重几何畸变的视频恢复方法。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它为解决“隔着介质看东西”这一困难的计算机视觉问题提供了首个系统性评测标准，将有力推动相关技术的发展。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05079v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2605.05077v1" target="_blank">FlowDIS：使用流匹配实现语言引导的二分图像分割</a></h3>
+
+<p class="italic-note"><em>FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching</em></p>
+
+<p>📝 Andranik Sargsyan, Shant Navasardyan | 📂 <code>cs.CV</code></p>
+
+<p>如何根据一句话精确地分割出图像中的主体？本文提出名为FlowDIS的新模型，它创新地使用“流匹配”技术，将语言指令转化为精确的分割结果，在前景/背景分割任务上达到了顶尖水平。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它将最新的生成模型技术（流匹配）成功应用于高精度图像分割，为实现更自然、更精确的语言交互式图像编辑开辟了新路径。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05077v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2605.05072v1" target="_blank">用于相机-激光雷达占据栅格预测的高度引导投影重参数化</a></h3>
+
+<p class="italic-note"><em>Height-Guided Projection Reparameterization for Camera-LiDAR Occupancy</em></p>
+
+<p>📝 Yuan Wu, Zhiqiang Yan, Jiawei Lian et al. | 📂 <code>cs.CV</code></p>
+
+<p>在自动驾驶3D场景感知中，如何更好地融合相机和激光雷达信息？本文提出一种“高度引导”的投影方法，它利用激光雷达提供的高度信息，动态地将2D图像特征“提拔”到正确的3D空间位置，从而更准确地构建场景的3D占据栅格图。</p>
+
+<p>💡 <strong>为什么重要</strong>: 该研究通过一种更智能的2D-3D特征对齐方式，有效提升了多传感器融合感知的精度，对自动驾驶环境理解至关重要。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05072v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2605.05057v1" target="_blank">ScriptHOI：学习脚本化状态转换为实现开放词汇的人-物交互检测</a></h3>
+
+<p class="italic-note"><em>ScriptHOI: Learning Scripted State Transitions for Open-Vocabulary Human-Object Interaction Detection</em></p>
+
+<p>📝 Minh Anh Nguyen, Quang Huy Tran, Bao Ngoc Le et al. | 📂 <code>cs.CV</code></p>
+
+<p>如何让AI理解训练时没见过的“人与物体的互动”？本文提出ScriptHOI模型，它不再将互动视为孤立动作，而是学习其内在的“脚本”（如“开瓶”后是“倒水”），通过理解这种状态转换逻辑来识别全新的互动。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它将“过程”和“脚本”的概念引入了人-物交互检测，使模型能更好地理解和泛化到现实世界中复杂、连续的人类活动。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05057v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2605.05095v1" target="_blank">一种用于不确定几何下任务导向“下一最佳视角”选择的贝叶斯方法</a></h3>
+
+<p class="italic-note"><em>A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry</em></p>
+
+<p>📝 Jingsen Zhu, Silvia Sellán, Alexander Terenin | 📂 <code>cs.GR, cs.CV, cs.LG</code></p>
+
+<p>在进行3D扫描时，下一步应该从哪个角度扫描才能最高效地完成特定任务？本文提出一种基于贝叶斯决策理论的框架，它能根据当前对物体形状的不确定性，智能地选择对最终任务最有利的下一个扫描视角。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它将3D重建从“看得更全”的目标提升到“为特定任务看得更准”的层次，为机器人主动感知提供了更智能、更高效的理论基础。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05095v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2605.05093v1" target="_blank">用于双重稀疏正则化模型的近端投影算法</a></h3>
+
+<p class="italic-note"><em>Proximal Projection for Doubly Sparse Regularized Models</em></p>
+
+<p>📝 Jia Wei He, R. Ayesha Ali, Gerarda Darlington | 📂 <code>stat.ML, cs.LG, stat.CO</code></p>
+
+<p>在处理高维数据时，如何既能筛选出重要特征，又能利用这些特征之间的已知关联结构？本文提出一种名为“近端投影”的新算法，它可以高效地求解同时施加两种稀疏性约束的复杂模型。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它为同时考虑特征稀疏性和结构稀疏性的统计建模问题提供了一个高效的求解工具，增强了模型在特定应用中的可解释性。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05093v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2605.05092v1" target="_blank">Driver-WM：一个以驾驶员为中心、考虑交通状况的用于座舱内动态推演的潜在世界模型</a></h3>
+
+<p class="italic-note"><em>Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout</em></p>
+
+<p>📝 Haozhuang Chi, Daosheng Qiu, Hao Su et al. | 📂 <code>cs.RO, cs.AI, cs.CV</code></p>
+
+<p>在人机共驾场景下，车辆不仅要预测路况，还要预测驾驶员的反应。本文提出了一个以驾驶员为中心的世界模型，它能学习并预测驾驶员在不同交通状况下的状态变化，为实现更安全的辅助驾驶提供关键预判能力。</p>
+
+<p>💡 <strong>为什么重要</strong>: 它将世界模型的焦点从车外环境转向车内驾驶员，为解决人机共驾中的核心挑战——预测人类行为——提供了强有力的模型。</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2605.05092v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
