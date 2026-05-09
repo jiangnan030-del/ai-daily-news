@@ -1,0 +1,719 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:58:53.970026+08:00",
+  "github_trending": [
+    {
+      "name": "Hmbown/DeepSeek-TUI",
+      "url": "https://github.com/Hmbown/DeepSeek-TUI",
+      "description": "Coding agent for DeepSeek models that runs in your terminal",
+      "stars": 21896,
+      "forks": 1708,
+      "language": "Rust",
+      "stars_today": 3731,
+      "source": "github_trending",
+      "summary_cn": "Coding agent for DeepSeek models that runs in your terminal",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 35523,
+      "forks": 4032,
+      "language": "Shell",
+      "stars_today": 1893,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "stars": 5636,
+      "forks": 1073,
+      "language": "JavaScript",
+      "stars_today": 1052,
+      "source": "github_trending",
+      "summary_cn": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 44668,
+      "forks": 5426,
+      "language": "Python",
+      "stars_today": 667,
+      "source": "github_trending",
+      "summary_cn": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "LearningCircuit/local-deep-research",
+      "url": "https://github.com/LearningCircuit/local-deep-research",
+      "description": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "stars": 6754,
+      "forks": 599,
+      "language": "Python",
+      "stars_today": 559,
+      "source": "github_trending",
+      "summary_cn": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "z-lab/dflash",
+      "url": "https://github.com/z-lab/dflash",
+      "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "stars": 3861,
+      "forks": 266,
+      "language": "Python",
+      "stars_today": 379,
+      "source": "github_trending",
+      "summary_cn": "DFlash: Block Diffusion for Flash Speculative Decoding",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "stars": 14671,
+      "forks": 2437,
+      "language": "Python",
+      "stars_today": 202,
+      "source": "github_trending",
+      "summary_cn": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 21060,
+      "forks": 2137,
+      "language": "Python",
+      "stars_today": 177,
+      "source": "github_trending",
+      "summary_cn": "A list of free LLM inference resources accessible via API.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "stars": 77435,
+      "forks": 10394,
+      "language": "Python",
+      "stars_today": 134,
+      "source": "github_trending",
+      "summary_cn": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "lobehub/lobehub",
+      "url": "https://github.com/lobehub/lobehub",
+      "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "stars": 76519,
+      "forks": 15112,
+      "language": "TypeScript",
+      "stars_today": 125,
+      "source": "github_trending",
+      "summary_cn": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "awslabs/aidlc-workflows",
+      "url": "https://github.com/awslabs/aidlc-workflows",
+      "description": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "stars": 1774,
+      "forks": 305,
+      "language": "Python",
+      "stars_today": 58,
+      "source": "github_trending",
+      "summary_cn": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "description": "OpenAI Plugins",
+      "stars": 1043,
+      "forks": 132,
+      "language": "Python",
+      "stars_today": 20,
+      "source": "github_trending",
+      "summary_cn": "OpenAI Plugins",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vllm-project/vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "stars": 2043,
+      "forks": 1171,
+      "language": "Python",
+      "stars_today": 6,
+      "source": "github_trending",
+      "summary_cn": "Community maintained hardware plugin for vLLM on Ascend",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 803,
+      "comments": 696,
+      "author": "thm",
+      "time": "2026-05-07T18:46:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48053203",
+      "source": "hacker_news",
+      "title_cn": "AI slop is killing online communities",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "url": "https://github.com/antirez/ds4",
+      "score": 476,
+      "comments": 152,
+      "author": "tamnd",
+      "time": "2026-05-07T15:40:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48050751",
+      "source": "hacker_news",
+      "title_cn": "DeepSeek 4 Flash local inference engine for Metal",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 361,
+      "comments": 119,
+      "author": "instagraham",
+      "time": "2026-05-07T17:54:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48052537",
+      "source": "hacker_news",
+      "title_cn": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "score": 340,
+      "comments": 150,
+      "author": "HieronymusBosch",
+      "time": "2026-05-07T16:05:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48051079",
+      "source": "hacker_news",
+      "title_cn": "Hardening Firefox with Claude Mythos Preview",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 321,
+      "comments": 142,
+      "author": "berlianta",
+      "time": "2026-05-07T15:02:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48050278",
+      "source": "hacker_news",
+      "title_cn": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+      "score": 291,
+      "comments": 341,
+      "author": "speckx",
+      "time": "2026-05-07T15:23:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48050540",
+      "source": "hacker_news",
+      "title_cn": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "score": 242,
+      "comments": 102,
+      "author": "speckx",
+      "time": "2026-05-08T17:55:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48066524",
+      "source": "hacker_news",
+      "title_cn": "AI is breaking two vulnerability cultures",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "score": 198,
+      "comments": 61,
+      "author": "gmays",
+      "time": "2026-05-08T01:02:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48057209",
+      "source": "hacker_news",
+      "title_cn": "GPT-5.5 Price Increase: What It Costs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "score": 135,
+      "comments": 36,
+      "author": "jruohonen",
+      "time": "2026-05-07T19:38:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48053842",
+      "source": "hacker_news",
+      "title_cn": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "score": 101,
+      "comments": 23,
+      "author": "atgctg",
+      "time": "2026-05-07T17:11:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48051951",
+      "source": "hacker_news",
+      "title_cn": "OpenAI's WebRTC problem",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Git for AI Agents",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "score": 93,
+      "comments": 45,
+      "author": "doshay",
+      "time": "2026-05-08T14:15:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48063548",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Git for AI Agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Teaching Claude Why",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "score": 92,
+      "comments": 26,
+      "author": "pretext",
+      "time": "2026-05-08T17:59:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48066592",
+      "source": "hacker_news",
+      "title_cn": "Teaching Claude Why",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+      "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+      "score": 48,
+      "comments": 7,
+      "author": "Armor1AI",
+      "time": "2026-05-08T02:39:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48057842",
+      "source": "hacker_news",
+      "title_cn": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+      "url": "https://github.com/ReviewStage/stage-cli",
+      "score": 44,
+      "comments": 31,
+      "author": "cpan22",
+      "time": "2026-05-07T15:38:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48050732",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Stage CLI – An easier way of reading your AI generated changes locally",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: GETadb.com – every GET request creates a DB",
+      "url": "https://www.getadb.com/",
+      "score": 24,
+      "comments": 33,
+      "author": "nezaj",
+      "time": "2026-05-08T16:17:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48065203",
+      "source": "hacker_news",
+      "title_cn": "Show HN: GETadb.com – every GET request creates a DB",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "authors": [
+        "Daniel Zheng",
+        "Ingrid von Glehn",
+        "Yori Zwols",
+        "Iuliya Beloshapka",
+        "Lars Buesing"
+      ],
+      "abstract": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support for the exploratory and iterative reality of mathematical workflows, including ideation, literature search, computational exploration, theorem proving and theory building. By providing an asynchronous, stateful workspace that manages uncertainty, refines user intent, tracks failed hypotheses, and outputs native mathematical artifacts, the system mirrors human collaborative workflows. In early tests, the AI co-mathematician helped researchers solve open problems, identify new research directions, and uncover overlooked literature references. Besides demonstrating a highly interactive paradigm for AI-assisted mathematical discovery, the AI co-mathematician also achieves state of the art results on hard problem-solving benchmarks, including scoring 48% on FrontierMath Tier 4, a new high score among all AI systems evaluated.",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06651v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-05-07T17:56:32+00:00",
+      "source": "arxiv",
+      "title_cn": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "summary_cn": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
+      "authors": [
+        "Ziyu Zhai",
+        "Siyou Li",
+        "Juexi Shao",
+        "Juntao Yu"
+      ],
+      "abstract": "Developing ceramic glazes is a costly, time-consuming process of trial and error due to complex chemistry, placing a significant burden on independent artists. While recent advances in multimodal AI offer a modern solution, the field lacks the large-scale datasets required to train these models. We propose GlazyBench, the first dataset for AI-assisted glaze design. Comprising 23,148 real glaze formulations, GlazyBench supports two primary tasks: predicting post-firing surface properties, such as color and transparency, from raw materials, and generating accurate visual representations of the glaze based on these properties. We establish comprehensive baselines for property prediction using traditional machine learning and large language models, alongside image generation benchmarks using deep generative and large multimodal models. Our experiments demonstrate promising yet challenging results. GlazyBench pioneers a new research direction in AI-assisted material design, providing a standardized benchmark for systematic evaluation.",
+      "url": "http://arxiv.org/abs/2605.06641v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06641v1",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-05-07T17:51:13+00:00",
+      "source": "arxiv",
+      "title_cn": "GlazyBench: A Benchmark for Ceramic Glaze Property Prediction and Image Generation",
+      "summary_cn": "Developing ceramic glazes is a costly, time-consuming process of trial and error due to complex chemistry, placing a significant burden on independent artists. While recent advances in multimodal AI o",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "authors": [
+        "Ryan Wang",
+        "Akshita Bhagia",
+        "Sewon Min"
+      ],
+      "abstract": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific knowledge. Mixture-of-Experts (MoEs) seemingly offer a potential alternative by activating only a subset of experts per input, but in practice, restricting inference to a subset of experts for a given domain leads to severe performance degradation. This limits their practicality in memory-constrained settings, especially as models grow larger and sparser. We introduce EMO, an MoE designed for modularity-the independent use and composition of expert subsets-without requiring human-defined priors. Our key idea is to encourage tokens from similar domains to rely on similar experts. Since tokens within a document often share a domain, EMO restricts them to select experts from a shared pool, while allowing different documents to use different pools. This simple constraint enables coherent expert groupings to emerge during pretraining using document boundaries alone. We pretrain a 1B-active, 14B-total EMO on 1T tokens. As a full model, it matches standard MoE performance. Crucially, it enables selective expert use: retaining only 25% (12.5%) of experts incurs just a 1% (3%) absolute drop, whereas standard MoEs break under the same setting. We further find that expert subsets in EMO specialize at semantic levels (e.g., domains such as math or code), in contrast to the low-level syntactic specialization observed in standard MoEs. Altogether, our results demonstrate a path toward modular, memory-efficient deployment of large, sparse models and open new opportunities for composable architectures.",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06663v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-05-07T17:59:20+00:00",
+      "source": "arxiv",
+      "title_cn": "EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "summary_cn": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "authors": [
+        "Mingwei Xu",
+        "Hao Fang"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The community witnesses the rapid change from the Proximal Policy Optimization (PPO) to Group Relative Policy Optimization (GRPO), in which GRPO reduces the complicated advantage estimation with simple estimation over grouped positive and negative rollouts. However, we note that negative rollouts may admit no gradation of failure severity, and the combinatorial vastness makes penalizing a few sampled negatives unlikely to cover a meaningful reward signal under sparse binary rewards. In this work, we propose Positive-Only Policy Optimization (POPO), a novel RLVR framework in which learning can occur exclusively via online positive rollouts. Specifically, POPO utilizes bounded importance sampling over the positive rollout set. Thus, no disjoint negative rollouts are used for the gradient guidance. We show that implicit negative gradients can emerge naturally through reinforcing the positive probability via rollouts redistribution. Next, POPO stabilizes the policy optimization through two mechanisms. First, it applies a siamese policy network with a momentum-based adaptation law for stabilized policy evolution. Second, we replace the KL-divergence with a bounded similarity penalty term in the siamese representation space. We conduct extensive experiments using publicly available, well-established text-LLM models, e.g., the Qwen family, across all-level mathematical benchmarks. Our experiment demonstrates that POPO achieves performance comparable to, or even superior to GRPO. Notably, we show that POPO can achieve 36.67% in AIME 2025 with Qwen-Math-7B, outperforming GRPO 30.00%. Our ablation and sweep studies further illustrate the necessity and robustness of POPO components.",
+      "url": "http://arxiv.org/abs/2605.06650v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06650v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-05-07T17:55:21+00:00",
+      "source": "arxiv",
+      "title_cn": "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients",
+      "summary_cn": "Reinforcement learning with verifiable rewards (RLVR), due to the deterministic verification, becomes a dominant paradigm for enhancing the reasoning ability of large language models (LLMs). The commu",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "authors": [
+        "Xiangyuan Xue",
+        "Yifan Zhou",
+        "Zidong Wang",
+        "Shengji Tang",
+        "Philip Torr"
+      ],
+      "abstract": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, which weakens both exploration and credit assignment over extended trajectories. In this work, we present Strategic Trajectory Abstraction (StraTA), a simple framework that introduces an explicit trajectory-level strategy into agentic reinforcement learning (RL). StraTA samples a compact strategy from the initial task state, conditions subsequent actions on that strategy, and trains strategy generation and action execution jointly with a hierarchical GRPO-style rollout design, further enhanced by diverse strategy rollout and critical self-judgment. Experiments on ALFWorld, WebShop, and SciWorld show that StraTA consistently improves both sample efficiency and final performance over strong baselines. StraTA reaches success rates of 93.1% on ALFWorld and 84.2% on WebShop. On SciWorld, StraTA attains a 63.5% overall score, outperforming frontier closed-source models.",
+      "url": "http://arxiv.org/abs/2605.06642v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06642v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-05-07T17:51:16+00:00",
+      "source": "arxiv",
+      "title_cn": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+      "summary_cn": "Large language models (LLMs) are increasingly used as interactive agents, but optimizing them for long-horizon decision making remains difficult because current methods are largely purely reactive, wh",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "authors": [
+        "Minbin Huang",
+        "Han Shi",
+        "Chuanyang Zheng",
+        "Yimeng Wu",
+        "Guoxuan Chen"
+      ],
+      "abstract": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with linear expert-parameter growth and assumes that every layer needs isolated expert capacity. However, recent analyses and our routing probe challenge this allocation rule: replacing a deeper layer's learned top-k router with uniform random routing drops downstream accuracy by only 1.0-1.6 points across multiple production MoE models. Motivated by this redundancy, we propose UniPool, an MoE architecture that treats expert capacity as a global architectural budget by replacing per-layer expert ownership with a single shared pool accessed by independent per-layer routers. To enable stable and balanced training under sharing, we introduce a pool-level auxiliary loss that balances expert utilization across the entire pool, and adopt NormRouter to provide sparse and scale-stable routing into the shared expert pool. Across five LLaMA-architecture model scales (182M, 469M, 650M, 830M, and 978M parameters) trained on 30B tokens from the Pile, UniPool consistently improves validation loss and perplexity over the matched vanilla MoE baselines. Across these scales, UniPool reduces validation loss by up to 0.0386 relative to vanilla MoE. Beyond raw loss improvement, our results identify pool size as an explicit depth-scaling hyperparameter: reduced-pool UniPool variants using only 41.6%-66.7% of the vanilla expert-parameter budget match or outperform layer-wise MoE at the tested scales. This shows that, under a shared-pool design, expert parameters need not grow linearly with depth; they can grow sublinearly while remaining more efficient and effective than vanilla MoE. Further analysis shows that UniPool's benefits compose with finer-grained expert decomposition.",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06665v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-05-07T17:59:44+00:00",
+      "source": "arxiv",
+      "title_cn": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "summary_cn": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "authors": [
+        "Yuhang Lai",
+        "Jiazhan Feng",
+        "Yee Whye Teh",
+        "Ning Miao"
+      ],
+      "abstract": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential component for advancing LLM training and enabling autonomous scientific research. Existing problem generation approaches either depend on expensive human expert involvement or adopt naive self-play paradigms, which frequently yield invalid problems due to reward hacking. This work introduces VHG, a verifier-enhanced hard problem generation framework built upon three-party self-play. By integrating an independent verifier into the conventional setter-solver duality, our design constrains the setter's reward to be jointly determined by problem validity (evaluated by the verifier) and difficulty (assessed by the solver). We instantiate two verifier variants: a Hard symbolic verifier and a Soft LLM-based verifier, with evaluations conducted on indefinite integral tasks and general mathematical reasoning tasks. Experimental results show that VHG substantially outperforms all baseline methods by a clear margin.",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06660v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-05-07T17:58:32+00:00",
+      "source": "arxiv",
+      "title_cn": "Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "summary_cn": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "authors": [
+        "Jai Moondra",
+        "Ayela Chughtai",
+        "Bhargavi Lanka",
+        "Swati Gupta"
+      ],
+      "abstract": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs from Arena, and show that the best-fit global Bradley-Terry (BT) ranking is misleading. Nearly 2/3 of the decisive votes cancel out, and even the top 50 models according to the global BT ranking are statistically indistinguishable (pairwise win probabilities are at most 0.53 within the top 50 models). We trace this failure to strong, structured heterogeneity of opinions across language, task, and time. Moreover, we find an important characteristic - *language* plays a key role. Grouping by language (and families) increases the agreement of votes massively, resulting in two orders of magnitude higher spread in the ELO scores (i.e., very consistent rankings). What appears as global noise is in fact a mixture of coherent but conflicting subpopulations. To address such heterogeneity in supervised machine learning, we introduce the framework of $(λ, ν)$-portfolios, which are small sets of models that achieve a prediction error at most $λ$, \"covering\" at least a $ν$ fraction of users. We formulate this as a variant of the set cover problem and provide guarantees using the VC dimension of the underlying set system. On the Arena data, our algorithms recover just 5 distinct BT rankings that cover over 96% of votes at a modest $λ$, compared to the 21% coverage by the global ranking. We also provide a portfolio of 6 LLMs that cover twice as many votes as the top-6 LLMs from a global ranking. We further construct portfolios for a classification problem on the COMPAS dataset using an ensemble of fairness-regularized classification models and show that these portfolios can be used to detect blind spots in the data, which might be of independent interest to policymakers.",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06656v1",
+      "categories": [
+        "cs.LG",
+        "cs.DM",
+        "cs.ET",
+        "math.OC"
+      ],
+      "published": "2026-05-07T17:57:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "summary_cn": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "authors": [
+        "Yuxing Liu",
+        "Jianyu Wang",
+        "Tong Zhang"
+      ],
+      "abstract": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same optimizer as in pretraining achieves a better learning-forgetting tradeoff, i.e., forgetting less while achieving the same or better performance on the new task, than other optimizers and, possibly surprisingly, LoRA, during the supervised finetuning (SFT) stage. We term this phenomenon optimizer-model consistency. To better understand it, through controlled experiments and theoretical analysis, we show that: 1) optimizers can shape the models by having regularization effects on the activations, leading to different landscapes around the pretrained checkpoints; 2) in response to this regularization effect, the weight update in SFT should follow some specific structures to lower forgetting of the knowledge learned in pretraining, which can be obtained by using the same optimizer. Moreover, we specifically compare Muon and AdamW when they are employed throughout the pretraining and SFT stages and find that Muon performs worse when finetuned for reasoning tasks. With a synthetic language modeling experiment, we demonstrate that this can come from Muon's strong tendency towards rote memorization, which may hurt pattern acquisition with a small amount of data, as for SFT.",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06654v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.OC"
+      ],
+      "published": "2026-05-07T17:57:02+00:00",
+      "source": "arxiv",
+      "title_cn": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "summary_cn": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "authors": [
+        "Sushant Gautam",
+        "Finn Schwall",
+        "Annika Willoch Olstad",
+        "Fernando Vallecillos Ruiz",
+        "Birk Torpmann-Hagen"
+      ],
+      "abstract": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless comparative safety scoring and specify the contract under which a scenario-based audit can be interpreted as deployment evidence. Scores are valid only under a fixed scenario pack, rubric, auditor, judge, sampling configuration, and rerun budget. Because no labels are available, we replace ground-truth agreement with an instrumental-validity chain: responsiveness to a controlled safe-versus-abliterated contrast, dominance of target-driven variance over auditor and judge artifacts, and stability across reruns. We instantiate the chain in SimpleAudit, a local-first scoring instrument, and validate it on a Norwegian safety pack. Safe and abliterated targets separate with AUROC values between 0.89 and 1.00, target identity is the dominant variance component ($η^2 \\approx 0.52$), and severity profiles stabilize by ten reruns. Applying the same chain to Petri shows that it admits both tools. The substantial differences arise upstream of the chain, in claim-contract enforcement and deployment fit. A Norwegian public-sector procurement case comparing Borealis and Gemma 3 demonstrates the resulting evidence in practice: the safer model depends on scenario category and risk measure. Consequently, scores, matched deltas, critical rates, uncertainty, and the auditor and judge used must be reported together rather than collapsed into a single ranking.",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06652v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-05-07T17:56:41+00:00",
+      "source": "arxiv",
+      "title_cn": "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "summary_cn": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Inductive Venn-Abers and related regressors",
+      "authors": [
+        "Ivan Petej",
+        "Vladimir Vovk"
+      ],
+      "abstract": "Venn-Abers predictors are probabilistic predictors that enjoy appealing properties of validity, but their major limitation is that they are applicable only to the case of binary classification, with a recent extension to bounded regression. We generalize them to the case of unbounded regression, which requires adding an element of conformal prediction. In our simulation and empirical studies we investigate the predictive efficiency of point regressors derived from Venn-Abers regressors and argue that they somewhat improve the predictive efficiency of standard regressors for larger training sets.",
+      "url": "http://arxiv.org/abs/2605.06646v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06646v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-05-07T17:52:08+00:00",
+      "source": "arxiv",
+      "title_cn": "Inductive Venn-Abers and related regressors",
+      "summary_cn": "Venn-Abers predictors are probabilistic predictors that enjoy appealing properties of validity, but their major limitation is that they are applicable only to the case of binary classification, with a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction",
+      "authors": [
+        "Yuchen Xiong",
+        "Swee Keong Yeap",
+        "Steven Aw Yoong Kit"
+      ],
+      "abstract": "Fluorescent protein quantum yield (QY) is governed by the mature chromophore and its three-dimensional microenvironment rather than sequence identity alone. Protein language models and emission-band averages capture global trends, but do not model how local physical signals act on specific chromophore regions. We present a chromophore-centred mechanism graph algorithm for QY prediction. Each PDB structure is converted into a typed 3D residue graph, registered to a mature-CRO state, partitioned into phenolate, bridge and imidazolinone regions, and transformed by channel-signal-region propagation. The representation contains 121 enrichment features; after removing identity shortcuts, 52 non-identity features are used for band-specific ExtraTrees regression. Because each feature encodes a contact channel, seed signal and target CRO region, interpretation is intrinsic rather than post hoc. On a 531-protein benchmark, the method achieved the best random-CV performance among model-based baselines (R = 0.772 +/- 0.008, MAE = 0.131 +/- 0.002), exceeding Band mean (R = 0.632), ESM-C (R = 0.734) and SaProt (R = 0.731), and ranked first in bright screening (Bright P@5 = 0.704). Under homology control, the advantage was clearest in the remote bucket (<50% similarity; R = 0.697 versus 0.633, 0.575 and 0.408), with the strongest overall bright/dark Top-K screening. Stable selected features recovered band-specific mechanisms: aromatic packing and clamp asymmetry in GFP-like proteins, charge/clamp balance in Red proteins, and flexibility-risk/bulky-contact features in Far-red proteins. Source code, feature tables and evaluation scripts are available from the first author upon request. Contact: yuchenak05@gmail.com",
+      "url": "http://arxiv.org/abs/2605.06644v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06644v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-05-07T17:51:41+00:00",
+      "source": "arxiv",
+      "title_cn": "Edge-specific signal propagation on mature chromophore-region 3D mechanism graphs for fluorescent protein quantum-yield prediction",
+      "summary_cn": "Fluorescent protein quantum yield (QY) is governed by the mature chromophore and its three-dimensional microenvironment rather than sequence identity alone. Protein language models and emission-band a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models",
+      "authors": [
+        "Ronaldo Canizales",
+        "Divya Gopinath",
+        "Corina Păsăreanu",
+        "Ravi Mangal"
+      ],
+      "abstract": "*Concept-based explanations* offer a promising approach for explaining the predictions of deep neural networks in terms of high-level, human-understandable concepts. However, existing methods either do not establish a causal connection between the concepts and model predictions or are limited in expressivity and only able to infer causal explanations involving single concepts. At the same time, the parallel line of work on *formal abductive and contrastive explanations* computes the minimal set of input features causally relevant for model outcomes but only considers low-level features such as pixels. Merging these two threads, in this work, we propose the notion of *concept-based abductive and contrastive explanations* that capture the minimal sets of high-level concepts causally relevant for model outcomes. We then present a family of algorithms that enumerate all minimal explanations while using *concept erasure* procedures to establish causal relationships. By appropriately aggregating such explanations, we are not only able to understand model predictions on individual images but also on collections of images where the model exhibits a user-specified, common *behavior*. We evaluate our approach on multiple models, datasets, and behaviors, and demonstrate its effectiveness in computing helpful, user-friendly explanations.",
+      "url": "http://arxiv.org/abs/2605.06640v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06640v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-05-07T17:51:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Concept-Based Abductive and Contrastive Explanations for Behaviors of Vision Models",
+      "summary_cn": "*Concept-based explanations* offer a promising approach for explaining the predictions of deep neural networks in terms of high-level, human-understandable concepts. However, existing methods either d",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Recursive Agent Optimization",
+      "authors": [
+        "Apurva Gandhi",
+        "Satyaki Chakraborty",
+        "Xiangjun Wang",
+        "Aviral Kumar",
+        "Graham Neubig"
+      ],
+      "abstract": "We introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recursively. Recursive agents implement an inference-time scaling algorithm that naturally allows agents to scale to longer contexts and generalize to more difficult problems via divide-and-conquer. RAO provides a method to train models to best take advantage of such recursive inference, teaching agents when and how to delegate and communicate. We find that recursive agents trained in this way enjoy better training efficiency, can scale to tasks that go beyond the model's context window, generalize to tasks much harder than the ones the agent was trained on, and can enjoy reduced wall-clock time compared to single-agent systems.",
+      "url": "http://arxiv.org/abs/2605.06639v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06639v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.MA"
+      ],
+      "published": "2026-05-07T17:49:09+00:00",
+      "source": "arxiv",
+      "title_cn": "Recursive Agent Optimization",
+      "summary_cn": "We introduce Recursive Agent Optimization (RAO), a reinforcement learning approach for training recursive agents: agents that can spawn and delegate sub-tasks to new instantiations of themselves recur",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "authors": [
+        "Omar El Khalifi",
+        "Thomas Rossi",
+        "Oscar Fossey",
+        "Thibault Fouque",
+        "Ulysse Mizrahi"
+      ],
+      "abstract": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot method for video generation that jointly transfers character motion from a driving video into a new scene and enables per-frame control of intrinsic and extrinsic camera parameters. ActCam builds on any pretrained image-to-video diffusion model that accepts conditioning in terms of scene depth and character pose. Given a source video with a moving character and a target camera motion, ActCam generates pose and depth conditions that remain geometrically consistent across frames. We then run a single sampling process with a two-phase conditioning schedule: early denoising steps condition on both pose and sparse depth to enforce scene structure, after which depth is dropped and pose-only guidance refines high-frequency details without over-constraining the generation. We evaluate ActCam on multiple benchmarks spanning diverse character motions and challenging viewpoint changes. We find that, compared to pose-only control and other pose and camera methods, ActCam improves camera adherence and motion fidelity, and is preferred in human evaluations, especially under large viewpoint changes. Our results highlight that careful camera-consistent conditioning and staged guidance can enable strong joint camera and motion control without training. Project page: https://elkhomar.github.io/actcam/.",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "pdf_url": "https://arxiv.org/pdf/2605.06667v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-05-07T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "summary_cn": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
