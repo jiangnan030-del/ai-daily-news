@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-05-10 周日</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-05-10 周日</h1>
+
+<blockquote>自动生成于 2026-05-10 09:57 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日 AI 领域持续活跃，多个前沿方向取得新进展。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>37,420</strong> Stars | 📈 今日 +3009 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Production-grade engineering skills for AI coding agents.</p>
+
+<h3>2. <a href="https://github.com/datawhalechina/hello-agents" target="_blank">datawhalechina/hello-agents</a> <code>其他</code></h3>
+
+<p>⭐ <strong>45,713</strong> Stars | 📈 今日 +1197 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程</p>
+
+<h3>3. <a href="https://github.com/decolua/9router" target="_blank">decolua/9router</a> <code>其他</code></h3>
+
+<p>⭐ <strong>6,529</strong> Stars | 📈 今日 +1031 | 🔤 JavaScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.</p>
+
+<h3>4. <a href="https://github.com/HKUDS/AI-Trader" target="_blank">HKUDS/AI-Trader</a> <code>其他</code></h3>
+
+<p>⭐ <strong>15,093</strong> Stars | 📈 今日 +646 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>"AI-Trader: 100% Fully-Automated Agent-Native Trading"</p>
+
+<h3>5. <a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">bytedance/UI-TARS-desktop</a> <code>其他</code></h3>
+
+<p>⭐ <strong>31,434</strong> Stars | 📈 今日 +552 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra</p>
+
+<h3>6. <a href="https://github.com/lsdefine/GenericAgent" target="_blank">lsdefine/GenericAgent</a> <code>其他</code></h3>
+
+<p>⭐ <strong>10,314</strong> Stars | 📈 今日 +538 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption</p>
+
+<h3>7. <a href="https://github.com/rohitg00/agentmemory" target="_blank">rohitg00/agentmemory</a> <code>其他</code></h3>
+
+<p>⭐ <strong>3,461</strong> Stars | 📈 今日 +533 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>#1 Persistent memory for AI coding agents based on real-world benchmarks</p>
+
+<h3>8. <a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">LearningCircuit/local-deep-research</a> <code>其他</code></h3>
+
+<p>⭐ <strong>6,975</strong> Stars | 📈 今日 +322 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.</p>
+
+<h3>9. <a href="https://github.com/Lordog/dive-into-llms" target="_blank">Lordog/dive-into-llms</a> <code>其他</code></h3>
+
+<p>⭐ <strong>36,489</strong> Stars | 📈 今日 +160 | 🔤 Jupyter Notebook | 推荐: ⭐⭐ (5/10)</p>
+
+<p>《动手学大模型Dive into LLMs》系列编程实践教程</p>
+
+<h3>10. <a href="https://github.com/sgl-project/sglang" target="_blank">sgl-project/sglang</a> <code>其他</code></h3>
+
+<p>⭐ <strong>27,572</strong> Stars | 📈 今日 +153 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>SGLang is a high-performance serving framework for large language models and multimodal models.</p>
+
+<h3>11. <a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">hesreallyhim/awesome-claude-code</a> <code>其他</code></h3>
+
+<p>⭐ <strong>43,168</strong> Stars | 📈 今日 +153 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic</p>
+
+<h3>12. <a href="https://github.com/rowboatlabs/rowboat" target="_blank">rowboatlabs/rowboat</a> <code>其他</code></h3>
+
+<p>⭐ <strong>13,799</strong> Stars | 📈 今日 +144 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Open-source AI coworker, with memory</p>
+
+<h3>13. <a href="https://github.com/jingyaogong/minimind" target="_blank">jingyaogong/minimind</a> <code>其他</code></h3>
+
+<p>⭐ <strong>49,386</strong> Stars | 📈 今日 +112 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!</p>
+
+<h3>14. <a href="https://github.com/HKUDS/ViMax" target="_blank">HKUDS/ViMax</a> <code>其他</code></h3>
+
+<p>⭐ <strong>3,605</strong> Stars | 📈 今日 +108 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"</p>
+
+<h3>15. <a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">ChromeDevTools/chrome-devtools-mcp</a> <code>其他</code></h3>
+
+<p>⭐ <strong>38,838</strong> Stars | 📈 今日 +107 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Chrome DevTools for coding agents</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://twitter.com/trq212/status/2052809885763747935" target="_blank">Using Claude Code: The unreasonable effectiveness of HTML</a> <code>其他</code></h3>
+
+<p>🔺 <strong>420</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48071940" target="_blank">238 评论</a> | 👤 pretext</p>
+
+<h3>2. <a href="https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures" target="_blank">AI is breaking two vulnerability cultures</a> <code>其他</code></h3>
+
+<p>🔺 <strong>412</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48066524" target="_blank">163 评论</a> | 👤 speckx</p>
+
+<h3>3. <a href="https://www.anthropic.com/research/teaching-claude-why" target="_blank">Teaching Claude Why</a> <code>其他</code></h3>
+
+<p>🔺 <strong>247</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48066592" target="_blank">138 评论</a> | 👤 pretext</p>
+
+<h3>4. <a href="https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md" target="_blank">All my clients wanted a carousel, now it's an AI chatbot</a> <code>其他</code></h3>
+
+<p>🔺 <strong>179</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48072720" target="_blank">73 评论</a> | 👤 edent</p>
+
+<h3>5. <a href="https://mccue.dev/pages/5-8-26-ai-art" target="_blank">People Hate AI Art</a> <code>其他</code></h3>
+
+<p>🔺 <strong>137</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48070548" target="_blank">168 评论</a> | 👤 3dedb728-3f77</p>
+
+<h3>6. <a href="https://github.com/regent-vcs/re_gent" target="_blank">Show HN: Git for AI Agents</a> <code>其他</code></h3>
+
+<p>🔺 <strong>113</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48063548" target="_blank">64 评论</a> | 👤 doshay</p>
+
+<h3>7. <a href="https://www.getadb.com/" target="_blank">Show HN: GETadb.com – every GET request creates a DB</a> <code>其他</code></h3>
+
+<p>🔺 <strong>38</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48065203" target="_blank">42 评论</a> | 👤 nezaj</p>
+
+<h3>8. <a href="https://getspace.app/cli" target="_blank">Show HN: Create flashcards with Space CLI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>16</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48075340" target="_blank">6 评论</a> | 👤 friebetill</p>
+
+<h3>9. <a href="https://www.lesswrong.com/posts/nR3DkyivzF4ve97oM/how-go-players-disempower-themselves-to-ai" target="_blank">Go Players Disempower Themselves to AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>12</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48076695" target="_blank">2 评论</a> | 👤 momentmaker</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
