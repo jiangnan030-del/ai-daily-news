@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-06-14 周日</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-06-14 周日</h1>
+
+<blockquote>自动生成于 2026-06-14 10:40 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日 AI 领域持续活跃，多个前沿方向取得新进展。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>58,472</strong> Stars | 📈 今日 +1514 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Production-grade engineering skills for AI coding agents.</p>
+
+<h3>2. <a href="https://github.com/apple/container" target="_blank">apple/container</a> <code>其他</code></h3>
+
+<p>⭐ <strong>36,357</strong> Stars | 📈 今日 +1487 | 🔤 Swift | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.</p>
+
+<h3>3. <a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a> <code>其他</code></h3>
+
+<p>⭐ <strong>226,991</strong> Stars | 📈 今日 +924 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>An agentic skills framework & software development methodology that works.</p>
+
+<h3>4. <a href="https://github.com/NVIDIA/SkillSpector" target="_blank">NVIDIA/SkillSpector</a> <code>其他</code></h3>
+
+<p>⭐ <strong>4,503</strong> Stars | 📈 今日 +804 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.</p>
+
+<h3>5. <a href="https://github.com/iptv-org/iptv" target="_blank">iptv-org/iptv</a> <code>其他</code></h3>
+
+<p>⭐ <strong>119,213</strong> Stars | 📈 今日 +530 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Collection of publicly available IPTV channels from all over the world</p>
+
+<h3>6. <a href="https://github.com/anthropics/skills" target="_blank">anthropics/skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>150,351</strong> Stars | 📈 今日 +377 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Public repository for Agent Skills</p>
+
+<h3>7. <a href="https://github.com/maziyarpanahi/openmed" target="_blank">maziyarpanahi/openmed</a> <code>其他</code></h3>
+
+<p>⭐ <strong>3,402</strong> Stars | 📈 今日 +257 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>open-source healthcare ai</p>
+
+<h3>8. <a href="https://github.com/LMCache/LMCache" target="_blank">LMCache/LMCache</a> <code>其他</code></h3>
+
+<p>⭐ <strong>8,907</strong> Stars | 📈 今日 +238 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>LMCache: Supercharge Your LLM with the Fastest KV Cache Layer</p>
+
+<h3>9. <a href="https://github.com/kenn-io/agentsview" target="_blank">kenn-io/agentsview</a> <code>其他</code></h3>
+
+<p>⭐ <strong>2,380</strong> Stars | 📈 今日 +190 | 🔤 Go | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!</p>
+
+<h3>10. <a href="https://github.com/browser-use/browser-use" target="_blank">browser-use/browser-use</a> <code>其他</code></h3>
+
+<p>⭐ <strong>98,700</strong> Stars | 📈 今日 +172 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>🌐 Make websites accessible for AI agents. Automate tasks online with ease.</p>
+
+<h3>11. <a href="https://github.com/andrewyng/aisuite" target="_blank">andrewyng/aisuite</a> <code>其他</code></h3>
+
+<p>⭐ <strong>14,136</strong> Stars | 📈 今日 +127 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Simple, unified interface to multiple Generative AI providers</p>
+
+<h3>12. <a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">shareAI-lab/learn-claude-code</a> <code>其他</code></h3>
+
+<p>⭐ <strong>66,396</strong> Stars | 📈 今日 +112 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1</p>
+
+<h3>13. <a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">x1xhlol/system-prompts-and-models-of-ai-tools</a> <code>其他</code></h3>
+
+<p>⭐ <strong>140,313</strong> Stars | 📈 今日 +109 | 🔤  | 推荐: ⭐⭐ (5/10)</p>
+
+<p>FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models</p>
+
+<h3>14. <a href="https://github.com/chatwoot/chatwoot" target="_blank">chatwoot/chatwoot</a> <code>其他</code></h3>
+
+<p>⭐ <strong>30,885</strong> Stars | 📈 今日 +83 | 🔤 Ruby | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</p>
+
+<h3>15. <a href="https://github.com/hexo-ai/sia" target="_blank">hexo-ai/sia</a> <code>其他</code></h3>
+
+<p>⭐ <strong>1,658</strong> Stars | 📈 今日 +57 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://opensourceaimustwin.com/?share=v2" target="_blank">Open source AI must win</a> <code>其他</code></h3>
+
+<p>🔺 <strong>1518</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48511908" target="_blank">464 评论</a> | 👤 vednig</p>
+
+<h3>2. <a href="https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink" target="_blank">Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models</a> <code>其他</code></h3>
+
+<p>🔺 <strong>560</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48519092" target="_blank">408 评论</a> | 👤 ls612</p>
+
+<h3>3. <a href="https://github.com/tensorzero/tensorzero" target="_blank">AI OSS tool repo goes archived over night after raising $7.3M Seed</a> <code>其他</code></h3>
+
+<p>🔺 <strong>244</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48516504" target="_blank">160 评论</a> | 👤 hek2sch</p>
+
+<h3>4. <a href="https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/" target="_blank">AI coding at home without going broke</a> <code>其他</code></h3>
+
+<p>🔺 <strong>240</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48518969" target="_blank">214 评论</a> | 👤 sbochins</p>
+
+<h3>5. <a href="https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661" target="_blank">Police officer investigated for using AI to 'create evidence' in multiple cases</a> <code>其他</code></h3>
+
+<p>🔺 <strong>239</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48520807" target="_blank">110 评论</a> | 👤 austinallegro</p>
+
+<h3>6. <a href="https://envs.net/~volpe/blog/posts/reduce-slop.html" target="_blank">Slightly reducing the sloppiness of AI generated front end</a> <code>其他</code></h3>
+
+<p>🔺 <strong>217</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48504912" target="_blank">130 评论</a> | 👤 FergusArgyll</p>
+
+<h3>7. <a href="https://imil.net/blog/posts/2026/rtx-5080-+-rtx-3090-setup-80+-tok-s-on-qwen-3.6-27b-q8/" target="_blank">RTX 5080 and RTX 3090 Setup: 80 Tok/s on Qwen 3.6 27B Q8</a> <code>其他</code></h3>
+
+<p>🔺 <strong>196</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48515454" target="_blank">68 评论</a> | 👤 iMil</p>
+
+<h3>8. <a href="https://github.com/Paca-AI/paca" target="_blank">Show HN: Paca – Lightweight Jira alternative for human-AI collaboration</a> <code>其他</code></h3>
+
+<p>🔺 <strong>136</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48515385" target="_blank">53 评论</a> | 👤 pikann22</p>
+
+<h3>9. <a href="https://fortune.com/2026/06/12/ai-making-medical-bills-higher/" target="_blank">PwC Report: AI Making Medical Bills Higher</a> <code>其他</code></h3>
+
+<p>🔺 <strong>69</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48519519" target="_blank">15 评论</a> | 👤 karakoram</p>
+
+<h3>10. <a href="https://stackscope.dev/" target="_blank">Show HN: StackScope – I crawled over 40k indie launches to see what they ship</a> <code>其他</code></h3>
+
+<p>🔺 <strong>61</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48505364" target="_blank">17 评论</a> | 👤 datafreak_</p>
+
+<h3>11. <a href="https://github.com/MatteoLeonesi/bulk-delete-claude-chat" target="_blank">Show HN: Script to bulk delete Claude chats from the web UI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>59</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48505161" target="_blank">20 评论</a> | 👤 ML0037</p>
+
+<h3>12. <a href="https://bitboard.work/" target="_blank">Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents</a> <code>其他</code></h3>
+
+<p>🔺 <strong>54</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48506545" target="_blank">23 评论</a> | 👤 arcb</p>
+
+<h3>13. <a href="https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/" target="_blank">'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess</a> <code>其他</code></h3>
+
+<p>🔺 <strong>45</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48523271" target="_blank">32 评论</a> | 👤 momentmaker</p>
+
+<h3>14. <a href="https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html" target="_blank">State Attorneys General Are Investigating OpenAI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>39</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48522675" target="_blank">3 评论</a> | 👤 donohoe</p>
+
+<h3>15. <a href="https://blog.kilo.ai/p/claude-fable-5-vs-gpt-5-5" target="_blank">Claude Fable 5 vs. GPT-5.5: Better Planning, Similar Execution</a> <code>其他</code></h3>
+
+<p>🔺 <strong>17</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=48517973" target="_blank">8 评论</a> | 👤 justiceforsaas</p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
