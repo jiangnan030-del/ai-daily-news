@@ -1,0 +1,737 @@
+{
+  "date": "2026-06-19",
+  "generated_at": "2026-06-19T10:57:00.671220+08:00",
+  "github_trending": [
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "stars": 7139,
+      "forks": 571,
+      "language": "C",
+      "stars_today": 2322,
+      "source": "github_trending",
+      "summary_cn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 232492,
+      "forks": 20651,
+      "language": "Shell",
+      "stars_today": 1429,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "stars": 22211,
+      "forks": 2708,
+      "language": "TypeScript",
+      "stars_today": 1345,
+      "source": "github_trending",
+      "summary_cn": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 23271,
+      "forks": 2225,
+      "language": "Python",
+      "stars_today": 844,
+      "source": "github_trending",
+      "summary_cn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 5856,
+      "forks": 1049,
+      "language": "Python",
+      "stars_today": 738,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 11256,
+      "forks": 654,
+      "language": "C++",
+      "stars_today": 259,
+      "source": "github_trending",
+      "summary_cn": "A lightweight, lightning-fast, in-process vector database",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "stars": 67435,
+      "forks": 10960,
+      "language": "Python",
+      "stars_today": 234,
+      "source": "github_trending",
+      "summary_cn": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "stars": 4164,
+      "forks": 434,
+      "language": "",
+      "stars_today": 202,
+      "source": "github_trending",
+      "summary_cn": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 28693,
+      "forks": 2926,
+      "language": "Python",
+      "stars_today": 174,
+      "source": "github_trending",
+      "summary_cn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "stars": 5533,
+      "forks": 303,
+      "language": "TypeScript",
+      "stars_today": 162,
+      "source": "github_trending",
+      "summary_cn": "The sandbox agent framework.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "description": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "stars": 1817,
+      "forks": 206,
+      "language": "Python",
+      "stars_today": 124,
+      "source": "github_trending",
+      "summary_cn": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "roboflow/rf-detr",
+      "url": "https://github.com/roboflow/rf-detr",
+      "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
+      "stars": 7990,
+      "forks": 1011,
+      "language": "Python",
+      "stars_today": 106,
+      "source": "github_trending",
+      "summary_cn": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "stars": 53924,
+      "forks": 7545,
+      "language": "Python",
+      "stars_today": 105,
+      "source": "github_trending",
+      "summary_cn": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/qlib",
+      "url": "https://github.com/microsoft/qlib",
+      "description": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "stars": 44778,
+      "forks": 7101,
+      "language": "Python",
+      "stars_today": 92,
+      "source": "github_trending",
+      "summary_cn": "Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped withhttps://github.com/microsoft/RD-Agentto automate R&D process.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
+      "stars": 22501,
+      "forks": 1526,
+      "language": "Python",
+      "stars_today": 75,
+      "source": "github_trending",
+      "summary_cn": "Skills Catalog for Codex",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Midjourney Medical",
+      "url": "https://www.midjourney.com/medical/blogpost",
+      "score": 1283,
+      "comments": 844,
+      "author": "ricochet11",
+      "time": "2026-06-18T01:59:51+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48579650",
+      "source": "hacker_news",
+      "title_cn": "Midjourney Medical",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "url": "https://chat.deepseek.com/",
+      "score": 455,
+      "comments": 185,
+      "author": "RIshabh235",
+      "time": "2026-06-18T06:17:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48581458",
+      "source": "hacker_news",
+      "title_cn": "DeepSeek Introduces Vision",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+      "score": 454,
+      "comments": 244,
+      "author": "alphabettsy",
+      "time": "2026-06-18T03:04:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48580209",
+      "source": "hacker_news",
+      "title_cn": "Local Qwen isn't a worse Opus, it's a different tool",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Noam Shazeer Joins OpenAI",
+      "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+      "score": 294,
+      "comments": 285,
+      "author": "lukasgross",
+      "time": "2026-06-18T00:26:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48578913",
+      "source": "hacker_news",
+      "title_cn": "Noam Shazeer Joins OpenAI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+      "score": 267,
+      "comments": 207,
+      "author": "Usu",
+      "time": "2026-06-17T21:00:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48576824",
+      "source": "hacker_news",
+      "title_cn": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "score": 206,
+      "comments": 97,
+      "author": "zachdive",
+      "time": "2026-06-17T16:14:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48572553",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "url": "https://tester.army",
+      "score": 106,
+      "comments": 46,
+      "author": "okwasniewski",
+      "time": "2026-06-18T14:49:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48586299",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "score": 103,
+      "comments": 84,
+      "author": "dstala",
+      "time": "2026-06-18T12:44:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48584484",
+      "source": "hacker_news",
+      "title_cn": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "url": "https://github.com/evanklem/polypore",
+      "score": 92,
+      "comments": 40,
+      "author": "evanklem2004",
+      "time": "2026-06-17T15:26:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48571811",
+      "source": "hacker_news",
+      "title_cn": "Agentic coding deserves more than a chat box bolted onto VS Code",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "score": 86,
+      "comments": 100,
+      "author": "Brajeshwar",
+      "time": "2026-06-17T19:22:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48575451",
+      "source": "hacker_news",
+      "title_cn": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "TREX: An AI code reviewer that runs your code",
+      "url": "https://www.greptile.com/blog/trex-code-execution",
+      "score": 59,
+      "comments": 11,
+      "author": "dakshgupta",
+      "time": "2026-06-17T15:29:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48571851",
+      "source": "hacker_news",
+      "title_cn": "TREX: An AI code reviewer that runs your code",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "score": 56,
+      "comments": 20,
+      "author": "ilreb",
+      "time": "2026-06-17T17:34:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48573757",
+      "source": "hacker_news",
+      "title_cn": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Agentic Resource Discovery Specification",
+      "url": "https://agenticresourcediscovery.org/introduction/",
+      "score": 53,
+      "comments": 15,
+      "author": "damick",
+      "time": "2026-06-17T17:03:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48573268",
+      "source": "hacker_news",
+      "title_cn": "Agentic Resource Discovery Specification",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "score": 51,
+      "comments": 21,
+      "author": "matt_d",
+      "time": "2026-06-18T02:32:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48579913",
+      "source": "hacker_news",
+      "title_cn": "AI Compute Extensions (ACE) Specification",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "score": 40,
+      "comments": 12,
+      "author": "hathym",
+      "time": "2026-06-18T20:14:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48590891",
+      "source": "hacker_news",
+      "title_cn": "Amazon investigating engineers who criticized AI data center expansion",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "authors": [
+        "Gina Wong",
+        "Drew Prinster",
+        "Suchi Saria",
+        "Rama Chellappa",
+        "Anqi Liu"
+      ],
+      "abstract": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforcing calibration at the level of individual predictors can improve ensemble accuracy and calibration, with mixture-of-experts (MoE) models showing strong empirical improvements in particular; however, the conditions under which calibration helps MoE are not well understood. In this work, we study how MoE models behave under distribution shift, focusing on how routing mechanisms interact with expert-level calibration. We show that expert calibration is sufficient to ensure calibration of the overall model under a broad class of distribution shifts in hard-routed models, but is insufficient for calibrating soft-routed models. To address this, we propose an adversarial reweighting that penalizes calibration errors of the routed aggregate under distribution shift, and we demonstrate that it improves the accuracy-calibration tradeoff both on average and on difficult subsets of the data, across model classes, prediction tasks, and distribution shifts.",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20544v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-06-18T17:55:00+00:00",
+      "source": "arxiv",
+      "title_cn": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "summary_cn": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "authors": [
+        "Nityanand Mathur",
+        "Hamees Sayed",
+        "Wasim Madha",
+        "Apoorv Singh",
+        "Sameer Khurana"
+      ],
+      "abstract": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for diagnosing failure modes and improving controllability in expressive TTS. We propose cross-attention attribution for speech diffusion models, adapting the DAAM framework to the speech domain for the first time, and apply it to CapSpeech-TTS. Our method extracts per-token heatmaps across 25 layers and 24 ODE steps. We analyze 3,600 (style caption, text transcript) combinations comprising 120 style captions conditioning the generation of 30 text transcripts each, revealing how caption tokens shape waveforms. Results show: (1) style tokens have lower temporal variance than content/function tokens, confirming global conditioning; (2) style attention correlates with F0 and energy; (3) style conditioning peaks in early steps and deep layers; (4) attention entropy reaches its minimum at layer 17, co-occurring with the style importance peak, indicating maximal network selectivity at the most style-critical stage. This is the first study of how natural language influences cross-attention in speech diffusion models",
+      "url": "http://arxiv.org/abs/2606.20532v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20532v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-06-18T17:47:32+00:00",
+      "source": "arxiv",
+      "title_cn": "How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech",
+      "summary_cn": "Style-captioned text-to-speech systems use natural language to control voice characteristics, but how individual words influence acoustic output remains unclear. Understanding this is critical for dia",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How Transparent is DiffusionGemma?",
+      "authors": [
+        "Joshua Engels",
+        "Callum McDougall",
+        "Bilal Chughtai",
+        "Janos Kramar",
+        "Senthoran Rajamanoharan"
+      ],
+      "abstract": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a larger fraction of its computation in a continuous latent space; does this make its reasoning less transparent? We study this question by decomposing transparency into two components: variable transparency, whether we understand intermediate snapshots of a model's computational state; and algorithmic transparency, whether we can use these snapshots to reconstruct the process by which the model arrived at its outputs. Naively, DiffusionGemma has poor variable transparency: its opaque serial depth, the amount of serial computation that occurs in between interpretable model states, seems at first 28.6X higher than the corresponding autoregressive Gemma 4 model. However, we show that we can map the information flowing between denoising steps through an interpretable token bottleneck with no decrease in downstream performance. Treating these intermediate states as interpretable reduces the opaque serial depth to just 1.1X that of Gemma 4. Algorithmic transparency is harder for diffusion models than for autoregressive models because all token predictions in the canvas can change at every denoising step, giving the model the power to implement complicated distributed algorithms during the denoising process. To begin bridging this gap, we conduct a suite of interpretability case studies, uncovering initial evidence of novel diffusion-specific phenomena such as non-chronological reasoning, token and sequence smearing, and intermediate-context reasoning. Finally, we test monitorability, a key application of transparency that measures whether model outputs are useful for downstream tasks. We find that DiffusionGemma is similarly monitorable to Gemma 4.",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20560v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-06-18T17:59:46+00:00",
+      "source": "arxiv",
+      "title_cn": "How Transparent is DiffusionGemma?",
+      "summary_cn": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Optimal Deterministic Multicalibration and Omniprediction",
+      "authors": [
+        "Georgy Noarov",
+        "Aaron Roth"
+      ],
+      "abstract": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each $g \\in G$. It is a useful property for many downstream applications and is a basic desideratum of trustworthy machine learning. Before this work, all predictors known to attain the minimax-optimal $\\widetilde O(\\varepsilon^{-3})$ sample complexity rate for $\\varepsilon$-multicalibration were randomized, while deterministic predictors were known only with substantially worse sample complexity. Whether randomization is necessary for optimal sample complexity in multicalibration was explicitly asked by [CLNR26] and implicitly in several prior works. We resolve this open problem by giving a minimax-optimal multicalibration algorithm that outputs a deterministic predictor. We then generalize the algorithm to produce optimal deterministic predictors that satisfy outcome indistinguishability (OI) with respect to finite or finitely covered collections of tests. As an application, this also gives deterministic omnipredictors and panpredictors with optimal sample complexity, resolving open problems posed by [OKK25] and [BHHLZ25].",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20557v1",
+      "categories": [
+        "cs.LG",
+        "math.ST",
+        "stat.ML"
+      ],
+      "published": "2026-06-18T17:59:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Optimal Deterministic Multicalibration and Omniprediction",
+      "summary_cn": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "authors": [
+        "Przemyslaw Musialski"
+      ],
+      "abstract": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our knowledge this is the first attention construction whose tokens are bare matrix Lie group elements: their score is the closed-form algebra norm of the relative pose rather than a learned kernel, and it reaches the affine full-frame groups that every irrep- or surjective-exp-based method must exclude. We call it Lie-Algebra Attention. Once tokens are group elements, the rest follows with none of the usual representation-theoretic machinery. The relative geometry of a pair is canonical, $g_i^{-1} g_j$, so the pairwise invariant $w_{ij} = \\log(g_i^{-1} g_j)$ is intrinsic rather than designed; equivariance under the diagonal $G$-action is tautological, and the cocycle condition holds automatically. The attention score is the negative squared algebra norm, $s_{ij} = -\\|\\log(g_i^{-1} g_j)\\|_λ^2/τ$: the canonical proximity kernel under a block-weighted Frobenius inner product, with no irreducible representations, spherical harmonics, Clebsch-Gordan products, or learned kernel. The construction applies to any matrix Lie group on a chosen logarithm chart containing the relative poses, including the non-compact non-abelian affine groups with scale and shear that no vector-token attention method reaches: neither the irrep tradition nor surjective-exp methods. Three sequence-completion experiments, on SE(2), SO(3), and Aff(2), bear this out: the closed-form score matches a learned MLP kernel on the same invariant and outperforms it on SE(2), using 50 to 80x fewer score parameters, while a vector-token baseline breaks invariance by five to twelve orders of magnitude.",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20547v1",
+      "categories": [
+        "cs.LG",
+        "cs.CV",
+        "cs.GR",
+        "cs.RO",
+        "math.DG"
+      ],
+      "published": "2026-06-18T17:56:17+00:00",
+      "source": "arxiv",
+      "title_cn": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "summary_cn": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $ρ(g)$ carrying it. To our kno",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Predictability as a Fine-Grained Measure for Privacy",
+      "authors": [
+        "Linda Lu",
+        "Karthik Sridharan"
+      ],
+      "abstract": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. We introduce privacy via predictability, a fine-grained framework that explicitly incorporates the attacker's core knowledge, a compromised portion of the dataset generated by a stochastic process, and a specified family of queries. Predictability measures privacy leakage as the incremental gain in an attacker's ability to predict sensitive information about unknown individuals after observing the algorithm's output, beyond what can already be inferred from the compromised data. We show that predictability and DP are generally incomparable: each can be small while the other is large. However, in the worst-case regime where all but one individual is compromised, and all binary queries are considered sensitive, predictability implies mutual-information DP. More generally, predictability provides a finer-grained privacy metric tailored to specific sensitive information and specific attacker models. We introduce a general framework, using the generalized method of moments (GMM), to analyze asymptotic predictability when the compromised data is generated by a stationary, ergodic, mixing process. Using this analysis, we derive a predictability-calibrated output perturbation scheme for ERM. Our approach is complementary to DP and can be used alongside DP to provide fine-grained privacy control.",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20546v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-06-18T17:55:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Predictability as a Fine-Grained Measure for Privacy",
+      "summary_cn": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Multi-Task Bayesian In-Context Learning",
+      "authors": [
+        "Qingyang Zhu",
+        "Eric Karl Oermann",
+        "Kyunghyun Cho"
+      ],
+      "abstract": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable approximations may remain computationally expensive or require restrictive modeling assumptions that degrade predictive performance. Prior-Data Fitted and in-context models have recently emerged as an amortized alternative by learning to map datasets directly to predictive distributions, but existing approaches are tightly coupled to the support of the training prior and lack explicit mechanisms for adapting to new priors at test time, resulting in limited robustness under distribution shift. We introduce a multi-task in-context learning framework for amortized hierarchical Bayesian predictive inference that explicitly represents prior information as a prefix of in-context datasets. A transformer trained on sequences of prior and target tasks learns to adapt its predictions across families of priors. On a suite of evaluations with increasing difficulty, including out-of-meta-distribution priors and priors with high-dimensional latent structures, our method matches oracle Bayesian predictors while being orders of magnitude faster. We further demonstrate its practical relevance on a real-world spatiotemporal temperature prediction benchmark. Code is available at https://github.com/martianmartina/multi-task-bayesian-icl/.",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20538v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-06-18T17:50:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Multi-Task Bayesian In-Context Learning",
+      "summary_cn": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "authors": [
+        "Liang Su"
+      ],
+      "abstract": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one positional fragment of execution state: the KV cache. We study the opposite regime: low-latency, small-batch, on-device physical-AI serving, where interactive LLM agents, speech systems, and robot policies repeatedly branch, reset, interrupt, and re-enter under tight responsiveness budgets. We introduce execution-state capsules, a graph-bound checkpoint and restore mechanism for the complete restorable state at a committed boundary. FlashRT is a white-box, backend-facing kernel runtime whose evaluated NVIDIA CUDA backend runs captured graph plans over contiguous static buffers with no block-table indirection. Because the live state is a closed set of named buffers, a capsule can snapshot, restore, fork, or roll back the whole execution boundary, including KV, recurrent state, convolution state, MTP state, and metadata. This moves reuse from token-addressed KV fragments to graph-bound execution-state boundaries. On an RTX 5090, capsule restore is byte-exact at the stored-state level and token-identical under greedy decode. A KV-only ablation diverges, showing that recurrent state is load-bearing. GPU-resident snapshot and restore are sub-millisecond, and TTFT speedup over cold prefill grows from 3.9x at 2k tokens to 27x at 16k tokens. On Jetson AGX Thor and DGX Spark, the same correctness and structural properties hold. Capsules are not a replacement for high-throughput KV-cache serving; they define a complementary latency-first serving point for explicit execution-state reuse.",
+      "url": "http://arxiv.org/abs/2606.20537v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20537v1",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ],
+      "published": "2026-06-18T17:49:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "summary_cn": "Mainstream LLM serving systems reuse prefix work mainly through paged or radix key-value (KV) caches. This is highly effective for high-throughput, high-concurrency serving, but it manages only one po",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
+      "authors": [
+        "Siang-Ling Zhang",
+        "Huai-Hsun Cheng",
+        "Tsung-Ju Yang",
+        "Yu-Lun Liu"
+      ],
+      "abstract": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow and can produce oversaturated colors. In contrast, naive stitching approaches fail to produce geometrically coherent objects. This results in visible unnatural seams and semantic leaks. In this paper, we present a fast and training-free framework for generating text-driven 3D visual illusions. Our approach decouples the generation into two stages. First, we propose a cross-space dual-branch denoising process. This process dynamically decodes 3D latents into voxel space for CLIP-guided orientation alignment and Signed Distance Field (SDF) blending, which ensures seamless geometric fusion. Second, we introduce a view-conditioned texture synthesis module that projects and aggregates view-specific 2D diffusion priors onto the fused geometry. Extensive experiments demonstrate that our method generates highly realistic, dual-semantic 3D illusions in just 3-5 minutes. It significantly outperforms existing methods in geometric integrity, semantic recognizability, and efficiency. Project page: https://siang1105.github.io/JanusMesh.github.io/",
+      "url": "http://arxiv.org/abs/2606.20563v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20563v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:59:55+00:00",
+      "source": "arxiv",
+      "title_cn": "JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising",
+      "summary_cn": "Creating 3D visual illusions, a single 3D mesh that reveals entirely different semantics from various viewing angles, is a fascinating but tough challenge. Existing optimization-based methods are slow",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+      "authors": [
+        "Arkaprava Sinha",
+        "Dominick Reilly",
+        "Siddharth Krishnan",
+        "Hieu Le",
+        "Srijan Das"
+      ],
+      "abstract": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-language models (VLMs), incurring prohibitive computational cost, or rely on sparse caption-based reasoning, which often misses temporally localized and motion-centric evidence. We introduce TimeProVe, a cost-efficient hybrid framework for temporally grounded reasoning in long videos. TimeProVe first employs lightweight modules to generate action-grounded answer--evidence hypotheses and subsequently invokes an expensive VLM only for targeted verification. The core of our framework lies in the Action-based Candidate Evidence (ACE) module, which converts temporally localized actions into query-conditioned candidate answers and supporting evidence windows through lightweight LLM reasoning. We further introduce OpenTSUBench (OTB), an open-ended benchmark designed to evaluate temporally grounded reasoning in real-world Activities of Daily Living (ADL) scenarios. Experiments show that TimeProVe outperforms the strongest baseline on OTB by 7.3%, while reducing VLM calls by 75% and inference cost by 93%. Furthermore, without explicit temporal grounding training, TimeProVe achieves competitive performance on Charades-STA, and reaches state-of-the-art results when enhanced with grounding VLMs.",
+      "url": "http://arxiv.org/abs/2606.20561v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20561v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:59:48+00:00",
+      "source": "arxiv",
+      "title_cn": "TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living",
+      "summary_cn": "Long Video Question Answering (LVQA) requires identifying sparse, query-relevant evidence within hours-long untrimmed videos. Existing approaches either process videos densely with large vision-langua",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "authors": [
+        "Wenhao Chi",
+        "Arkaprava Sinha",
+        "Dominick Reilly",
+        "Hieu Le",
+        "Srijan Das"
+      ],
+      "abstract": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human action. We argue that a truly expressive egocentric representation must subsume complementary knowledge across viewpoints, modalities, and foundation model representations, yet remain deployable from egocentric video alone. To this end, we introduce a hierarchical multi-teacher distillation framework that produces UNIEGO, a unified egocentric encoder trained with nine teachers spanning ego-exo viewpoints, RGB, depth, and skeleton modalities, and four foundation models. Rather than distilling directly from heterogeneous teachers whose incompatible architectures and feature geometries induce conflicting gradients, our framework interposes a layer of representation-specific Proxy models that translate diverse teacher knowledge into a homogeneous egocentric space. A second distillation stage, Selective Proxy Distillation (SPD), then adaptively selects, for each training sample, the subset of proxies that are both correct and confident, distilling exclusively from reliable supervision and suppressing erroneous signals. SPD is further stabilized by initializing UNIEGO as a learned convex combination of proxy parameters, placing the unified model in a well-conditioned region of the loss landscape before distillation begins. UNIEGO achieves state-of-the-art performance across three egocentric video understanding tasks - action recognition, video retrieval, and action segmentation on three challenging ego-exo benchmarks, outperforming naive multi-teacher distillation baselines and demonstrating that structured, proxy-mediated knowledge transfer yields richer and more discriminative egocentric representations.",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20559v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-06-18T17:59:45+00:00",
+      "source": "arxiv",
+      "title_cn": "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "summary_cn": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
+      "authors": [
+        "Pradhaan S Bhat",
+        "Naveen Chandra R",
+        "Rishubh Parihar",
+        "Vaibhav Vavilala",
+        "R. Venkatesh Babu"
+      ],
+      "abstract": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D primitives such as boxes, but only as loose conditioning signals indicating approximate object location rather than specifying the transformation. We instead use 3D boxes as structured specifications: the user provides the input and output boxes of the edit, casting editing as a well-posed geometry problem. This ``thinking in boxes'' interface, where each box face is color-coded to convey 3D orientation, gives precise control over translation, rotation, scaling, and viewpoint changes in real images while preserving scene and object identity, and recovering previously unseen object regions. To ground transformations in scene appearance, we introduce a depth-aligned planar floor as a global reference frame, shaded with depth-aware cues. Conditioned on this structure, an image generator produces consistent results under large transformations. Trained in two stages -- on synthetic multi-object scenes and a small set of real-world videos from Objectron -- the system generalizes to complex, in-the-wild real images. Our method operates directly on real photographs and substantially outperforms recent state-of-the-art methods on large 3D edits.",
+      "url": "http://arxiv.org/abs/2606.20556v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20556v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:59:05+00:00",
+      "source": "arxiv",
+      "title_cn": "Thinking in Boxes: 3D Editing in Real Images Made Easy",
+      "summary_cn": "Text and 2D-conditioning interfaces provide weak, ambiguous control over spatial transformations in image editing -- particularly under large object motions and camera changes. Prior work has used 3D ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Current World Models Lack a Persistent State Core",
+      "authors": [
+        "Jinpeng Lu",
+        "Dexu Zhu",
+        "Haoyuan Shi",
+        "Linghan Cai",
+        "Guo Tang"
+      ],
+      "abstract": "World models are increasingly regarded as a decisive step toward artificial general intelligence, yet modeling the physical world demands more than rendering convincing frames on demand: it requires an internal world state that keeps evolving over time, decoupled from observation, so that objects endure and events run to their conclusions whether or not a camera is watching, much as the moon holds to its orbit when no one is looking. This requirement is a blind spot of existing benchmarks, which reward surface properties such as fidelity, motion, and camera controllability while never asking whether a generated world keeps evolving once it is unobserved. We introduce \\textbf{WRBench}, the first systematic diagnostic benchmark that treats camera motion as an intervention on observability and resolves evaluation into a human-calibrated chain that asks whether the camera executes the requested interaction, whether the scene stays continuous and identifiable while in view, and whether a returning target remains consistent with the event that was set in motion. Across 9{,}600 videos from 23 models spanning four control paradigms, one finding proves stubborn: current systems maintain the observed world as a tracking shot, resuming a returning target in the state at which it was abandoned rather than advancing the event while it went unseen. Because this failure recurs across control paradigms, model families, and increments of scale, robust world-state evolution does not follow from cleaner imagery, tighter control, richer geometric priors, or sheer parameter count We therefore argue that the stability of the physical state kernel and the consistency of worldlines under viewpoint intervention should become first-class objectives of world-model design, so that a world model captures how the world will unfold rather than how the next frame appears.",
+      "url": "http://arxiv.org/abs/2606.20545v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20545v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:55:15+00:00",
+      "source": "arxiv",
+      "title_cn": "Current World Models Lack a Persistent State Core",
+      "summary_cn": "World models are increasingly regarded as a decisive step toward artificial general intelligence, yet modeling the physical world demands more than rendering convincing frames on demand: it requires a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+      "authors": [
+        "Shilong Xiang",
+        "Zirui Zhang",
+        "Lijun Yu",
+        "Chengzhi Mao"
+      ],
+      "abstract": "Autoregressive models excel in visual generation by treating images as 1D sequences of discrete tokens, mirroring language modeling. However, this flattening discards the intrinsic 2D spatial locality of visual signals, creating severe computational bottlenecks during inference. We introduce Spatially Speculative Decoding (SSD), a framework that aligns the predictive objective with the natural geometry of images. Rather than predicting only the immediate next token in a 1D sequence, our model simultaneously predicts the adjacent horizontal token and the token directly below it. By capitalizing on this 2D spatial correlation, spatially speculative decoding overcomes the memory wall in visual inference. Our approach accelerates autoregressive image generation by up to 13.3x while maintaining high fidelity on DPG-Bench and GenEval. Our results suggest that respecting the underlying geometry of vision unlocks massive computational efficiencies, paving the way for real-time, high-resolution autoregressive generative models.",
+      "url": "http://arxiv.org/abs/2606.20543v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20543v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:52:30+00:00",
+      "source": "arxiv",
+      "title_cn": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+      "summary_cn": "Autoregressive models excel in visual generation by treating images as 1D sequences of discrete tokens, mirroring language modeling. However, this flattening discards the intrinsic 2D spatial locality",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation",
+      "authors": [
+        "Ilona Demler",
+        "Xinran Xie",
+        "Blake Werner",
+        "Anna Szczuka",
+        "Pietro Perona"
+      ],
+      "abstract": "The Caltech Tennis Dataset (CalTennis) is a large-scale video benchmark for evaluating monocular-to-3D pose estimation in the wild. CalTennis comprises over 11 million frames (51 hours) of tennis practice and match play from 40 players, captured with 2-6 synchronized cameras at 60 Hz. It is 10 times larger than existing in-the-wild human motion video datasets and 3 times larger than existing MOCAP-ground-truthed datasets, and it is the first large-scale benchmark to provide synchronized multi-view recordings of expert athletic motion. The multi-view setup enables inexpensive, label-free evaluation of monocular-to-3D pose estimation algorithms. We describe a simple, standardized protocol that enables data collection without specialized equipment or expertise, along with fully automated video calibration and synchronization. Benchmarking state-of-the-art monocular-to-3D pose methods on CalTennis, we find that while 3D joint angle recovery is now quite accurate, all models struggle to estimate depth and foot contact consistently. We further propose two novel performance metrics, footwork and stability, as well as qualitatively study body shape inconsistency. These metrics expose previously underexplored failure modes and point to concrete opportunities for improvement in pose estimation and action analysis.",
+      "url": "http://arxiv.org/abs/2606.20542v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.20542v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-18T17:52:22+00:00",
+      "source": "arxiv",
+      "title_cn": "CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation",
+      "summary_cn": "The Caltech Tennis Dataset (CalTennis) is a large-scale video benchmark for evaluating monocular-to-3D pose estimation in the wild. CalTennis comprises over 11 million frames (51 hours) of tennis prac",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
