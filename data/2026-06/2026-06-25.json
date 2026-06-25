@@ -1,0 +1,743 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:14:55.386487+08:00",
+  "github_trending": [
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "stars": 19623,
+      "forks": 2222,
+      "language": "Python",
+      "stars_today": 3719,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "stars": 42299,
+      "forks": 1244,
+      "language": "Swift",
+      "stars_today": 1838,
+      "source": "github_trending",
+      "summary_cn": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 48608,
+      "forks": 43003,
+      "language": "Python",
+      "stars_today": 1468,
+      "source": "github_trending",
+      "summary_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 202124,
+      "forks": 36124,
+      "language": "Python",
+      "stars_today": 1178,
+      "source": "github_trending",
+      "summary_cn": "The agent that grows with you",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "stars": 20605,
+      "forks": 2393,
+      "language": "Python",
+      "stars_today": 1031,
+      "source": "github_trending",
+      "summary_cn": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "description": "Clone any website with one command using AI coding agents",
+      "stars": 19383,
+      "forks": 2891,
+      "language": "TypeScript",
+      "stars_today": 692,
+      "source": "github_trending",
+      "summary_cn": "Clone any website with one command using AI coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "stars": 17410,
+      "forks": 1569,
+      "language": "TypeScript",
+      "stars_today": 619,
+      "source": "github_trending",
+      "summary_cn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "stars": 74457,
+      "forks": 10023,
+      "language": "Python",
+      "stars_today": 617,
+      "source": "github_trending",
+      "summary_cn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "stars": 6845,
+      "forks": 494,
+      "language": "TypeScript",
+      "stars_today": 331,
+      "source": "github_trending",
+      "summary_cn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "stars": 7762,
+      "forks": 1058,
+      "language": "HTML",
+      "stars_today": 277,
+      "source": "github_trending",
+      "summary_cn": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "description": "AI agent to evaluate and score resumes.",
+      "stars": 2241,
+      "forks": 601,
+      "language": "Python",
+      "stars_today": 203,
+      "source": "github_trending",
+      "summary_cn": "AI agent to evaluate and score resumes.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "stars": 51431,
+      "forks": 9146,
+      "language": "Python",
+      "stars_today": 159,
+      "source": "github_trending",
+      "summary_cn": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "stars": 37147,
+      "forks": 4001,
+      "language": "Python",
+      "stars_today": 50,
+      "source": "github_trending",
+      "summary_cn": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/skills",
+      "url": "https://github.com/NVIDIA/skills",
+      "description": "AI agent skills published by NVIDIA",
+      "stars": 1821,
+      "forks": 205,
+      "language": "Python",
+      "stars_today": 45,
+      "source": "github_trending",
+      "summary_cn": "AI agent skills published by NVIDIA",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 18873,
+      "forks": 2022,
+      "language": "Python",
+      "stars_today": 29,
+      "source": "github_trending",
+      "summary_cn": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "score": 542,
+      "comments": 336,
+      "author": "jamdesk",
+      "time": "2026-06-24T17:47:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48663324",
+      "source": "hacker_news",
+      "title_cn": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "score": 347,
+      "comments": 55,
+      "author": "doener",
+      "time": "2026-06-24T14:41:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48660711",
+      "source": "hacker_news",
+      "title_cn": "RubyLLM: A Ruby framework for all major AI providers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "score": 322,
+      "comments": 410,
+      "author": "ilreb",
+      "time": "2026-06-23T15:11:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48646276",
+      "source": "hacker_news",
+      "title_cn": "AI's Affordability Crisis",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "score": 262,
+      "comments": 180,
+      "author": "adocomplete",
+      "time": "2026-06-23T17:09:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48648039",
+      "source": "hacker_news",
+      "title_cn": "Claude Tag",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "score": 227,
+      "comments": 235,
+      "author": "thm",
+      "time": "2026-06-24T11:45:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48658300",
+      "source": "hacker_news",
+      "title_cn": "NSA lost access to Mythos amid Anthropic dispute",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "For most of the world, open-source AI is the only way forward",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "score": 203,
+      "comments": 131,
+      "author": "CrankyBear",
+      "time": "2026-06-24T14:50:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48660839",
+      "source": "hacker_news",
+      "title_cn": "For most of the world, open-source AI is the only way forward",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "score": 196,
+      "comments": 54,
+      "author": "ilreb",
+      "time": "2026-06-24T02:21:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48654351",
+      "source": "hacker_news",
+      "title_cn": "Qwen-AgentWorld: Language World Models for General Agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "score": 176,
+      "comments": 105,
+      "author": "swolpers",
+      "time": "2026-06-24T17:21:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48662999",
+      "source": "hacker_news",
+      "title_cn": "Computer use in Gemini 3.5 Flash",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "score": 127,
+      "comments": 113,
+      "author": "Brajeshwar",
+      "time": "2026-06-24T16:40:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48662452",
+      "source": "hacker_news",
+      "title_cn": "Big AI labs are hiring philosophers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "url": "https://haystack.deepset.ai/",
+      "score": 86,
+      "comments": 21,
+      "author": "doener",
+      "time": "2026-06-24T11:21:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48658095",
+      "source": "hacker_news",
+      "title_cn": "Haystack: Open-Source AI Framework for Production Ready Agents, RAG",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "score": 59,
+      "comments": 96,
+      "author": "htrp",
+      "time": "2026-06-24T19:48:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48664814",
+      "source": "hacker_news",
+      "title_cn": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "url": "https://github.com/NotASithLord/peerd",
+      "score": 58,
+      "comments": 20,
+      "author": "NotASithLord",
+      "time": "2026-06-23T15:05:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48646165",
+      "source": "hacker_news",
+      "title_cn": "Show HN: peerd – AI agent harness that runs entirely in your browser",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "url": "https://github.com/End2End-Diffusion/diffusion-bench",
+      "score": 41,
+      "comments": 1,
+      "author": "ilreb",
+      "time": "2026-06-24T02:12:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48654274",
+      "source": "hacker_news",
+      "title_cn": "DiffusionBench: Towards Holistic Evaluation of Generative Diffusion Transformers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "url": "https://atomprophet.io/tools/cascade/",
+      "score": 26,
+      "comments": 12,
+      "author": "antisyzygy",
+      "time": "2026-06-23T15:22:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48646511",
+      "source": "hacker_news",
+      "title_cn": "Show HN: The Cascade Graph – An interactive map of AI and energy constraints",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: How much coding should beginners learn in the AI era?",
+      "url": "https://news.ycombinator.com/item?id=48662310",
+      "score": 25,
+      "comments": 36,
+      "author": "JohnDSDev",
+      "time": "2026-06-24T16:31:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48662310",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: How much coding should beginners learn in the AI era?",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
+      "authors": [
+        "Seth Dobrin",
+        "Łukasz Chmiel"
+      ],
+      "abstract": "AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prompts, output filters, and guardrail libraries. Any control in the agent's address space is reachable by inputs that influence it; this generalizes to any AI system with sufficient reach into its own runtime, a class we term escapable AI systems. We identify four properties that an authorization mechanism must satisfy for architectural control rather than for cooperative requests: process separation, pre-action enforcement on a structurally only path, fail-closed at both the request and system levels, and externalized signed evidence verifiable outside the controlled system's trust boundary. We position this layer as execution-time AI alignment, complementing training-time alignment (RLHF, Constitutional AI) and inference-time alignment. We present the Unfireable Safety Kernel, a Rust reference implementation realizing all four. Its fail-closed invariant is machine-checked at two levels: an SMT theorem (Z3) and an exhaustive bounded-model-checking proof of the production decision function (Kani, 4/4 harnesses). A Python-to-Rust migration was gated on byte-equivalence (1000/1000 fixtures; 17/17 adversarial classes). We evaluate the kernel governing a live, escapable AI system, a deterministic, self-improving world model, against an escape-seeking adversary driving its real self-modification seam: across 1,000 self-modifications, all 704 attempts on the safety-critical core are refused, with no escape; a further 300, under the operator kill switch, are also refused. A separate campaign of 6,240 authorization round-trips had no successful bypass. Against 3 contemporary systems claiming the agent control plane, the agent invokes control; here, it lacks that choice.",
+      "url": "http://arxiv.org/abs/2606.26057v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26057v1",
+      "categories": [
+        "cs.AI",
+        "cs.CR",
+        "cs.LG"
+      ],
+      "published": "2026-06-24T17:32:27+00:00",
+      "source": "arxiv",
+      "title_cn": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems",
+      "summary_cn": "AI agents are granted access to tools, APIs, and other infrastructure, making them active principals in those systems. The dominant approach places controls inside the agent's own runtime: system prom",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Real-Time Voice AI Hears but Does Not Listen",
+      "authors": [
+        "Martijn Bartelds",
+        "Federico Bianchi",
+        "James Zou"
+      ],
+      "abstract": "Speech conveys information through both words and vocal delivery. We evaluate four leading production realtime voice systems-OpenAI's GPT Realtime 2, Google's Gemini 3.1 Flash Live, and Alibaba's Qwen3.5 Omni Plus and Omni Flash-on tasks where the words and the delivery patterns both convey meaningful information. Across three consequential scenarios, all four systems act on the words rather than the voice. They end calls with crying callers who insist nothing is wrong, approve wire transfers authorized in frightened voices, and enroll callers whose agreement is clearly sarcastic. Surprisingly, this is often not a failure of perception. When asked directly, three of the four systems reliably identify the distress, fear, or sarcasm they later ignore when making decisions. We observe a similar pattern when these realtime voice systems estimate accent and age, as their responses frequently follow the biases of the words rather than the acoustic properties of the speaker. We term this disconnect between perception and action the emotional intelligence gap of voice AI. Prompting systems to explicitly attend to vocal delivery improves performance only partially and inconsistently. Our findings show that current realtime voice AI systems often behave as if speech had been reduced to a transcript, suggesting that they should be used with caution in settings where the tone and emotion of delivery convey important information.",
+      "url": "http://arxiv.org/abs/2606.26083v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26083v1",
+      "categories": [
+        "cs.CL",
+        "eess.AS"
+      ],
+      "published": "2026-06-24T17:55:38+00:00",
+      "source": "arxiv",
+      "title_cn": "Real-Time Voice AI Hears but Does Not Listen",
+      "summary_cn": "Speech conveys information through both words and vocal delivery. We evaluate four leading production realtime voice systems-OpenAI's GPT Realtime 2, Google's Gemini 3.1 Flash Live, and Alibaba's Qwen",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+      "authors": [
+        "Akshay Paruchuri",
+        "Sanmi Koyejo",
+        "Ehsan Adeli"
+      ],
+      "abstract": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability property called for by emerging AI evaluation guidelines. We introduce Facet-Probe, a five-facet audit (option, evidence-chunk, document-rank, image-set, and mixed-modality ordering) of 18 frontier and open-weight MLLMs. A Bayesian item-response model separates ordering noise from per-facet bias, and a same-ordering control estimates the decoder-stochastic floor for observed flips. We find that none of the 18 MLLMs we audit are order-invariant: screened per-facet panel-mean flip rates span 24-50%. A Gemini same-ordering control at temperature 0 estimates a substantial ordering excess over a same-input decoder-noise floor in verified cells. Capability predicts but does not eliminate flips; the best model still flips on 13.4% of trials. In our Gemini mitigation tests, training-free prompt changes are modality-conditional and do not transfer from text to visual reasoning. These results suggest that prompt-level mitigation alone is unlikely to provide general order robustness, motivating future work on training-time and architectural approaches. We propose cross-ordering flip rate as a standard reporting axis for MLLMs.",
+      "url": "http://arxiv.org/abs/2606.26079v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26079v1",
+      "categories": [
+        "cs.CL",
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-06-24T17:53:26+00:00",
+      "source": "arxiv",
+      "title_cn": "Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models",
+      "summary_cn": "Standard benchmarks for multimodal large language models (MLLMs) score each item on one canonical ordering and miss whether order-irrelevant shuffling changes the answer, a baseline reliability proper",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
+      "authors": [
+        "Bo Chen"
+      ],
+      "abstract": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. Analyzing 85 interviews across four public intellectuals (2016--2026), we find a robust negative-affect/emphatic-certainty lexical co-occurrence pattern under keyword-based scoring ($r = 0.72$--$0.93$, $p < 0.01$ for all four speakers). Replacing keyword counting with LLM-based zero-shot semantic classification on the complete diarized corpus (32,625 sentences) dramatically reduces this correlation: Dalio's $r = 0.851$ drops to $r = 0.206$, with two speakers showing negative $r(\\text{neg}, \\text{emphatic})$ and one showing null. In contrast, the LLM reveals a strong negative-hedging coupling across speakers -- Rogoff's $r(\\text{neg}, \\text{hedged}) = 0.875$ ($p = 0.001$) and Zeihan's $r(\\text{neg}, \\text{hedged}) = 0.722$ ($p = 0.008$) -- consistent with the conventional expectation that pessimistic discourse attracts hedging, not certainty. Sentence-level error analysis traces this discrepancy to three structural failure modes in keyword lexicons -- syntactic blindness, polysemy blindness, and categorical absence -- illustrated through cases where keyword counting inverts semantic meaning (e.g., ''never absolutely totally confident'' scored as high-certainty). We argue that keyword lexicons measure a universal lexical co-occurrence tendency -- negative discourse naturally attracts emphatic vocabulary -- that is orthogonal to, and can systematically invert, rhetorical stance. Treating keyword counts as measurements of epistemic certainty is a category error: a finding that appears to be about a speaker's psychology may be entirely about the counting of words.",
+      "url": "http://arxiv.org/abs/2606.26062v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26062v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-06-24T17:36:39+00:00",
+      "source": "arxiv",
+      "title_cn": "When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance",
+      "summary_cn": "Can a statistically significant, large-effect-size finding in computational social science be entirely an artifact of the measurement instrument? We present a case where the answer appears to be yes. ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+      "authors": [
+        "Babak Rahmani",
+        "Sebastian Dziadzio",
+        "Joschka Strüber",
+        "Sergio Hernández-Gutiérrez",
+        "Matthias Bethge"
+      ],
+      "abstract": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by targeted intervention. We pose a computational analogue: given only behavioral traces of an agent in a game environment, can a learner reconstruct the underlying decision program as executable code, and how much does this reconstruction improve with the ability to design controlled experiments? We introduce RevengeBench, a benchmark of 75 LLM generated, Elo-calibrated policies across five game environments, drawn from CodeClash tournament trajectories. The learner observes the hidden target policy play against sampled opponents and designs behavioral probes in the form of custom opponent policies that elicit informative behavior. It then submits an executable hypothesis, which is evaluated using continuous action-distance metrics. We further validate that recovered code carries informative signal in downstream player-versus-player tournaments. Across twelve frontier LLMs, recovery quality varies substantially (34 to 72% of initial distance closed), with reconstructed policies yielding measurable competitive advantage, particularly for weaker models that otherwise struggle to design effective counter-strategies. Our benchmark positions behavioral recovery of programmatic policies as a tractable inverse problem in code-space, opening a path to opponent modeling, policy interpretability, and the broader question of inferring latent mechanisms from observations.",
+      "url": "http://arxiv.org/abs/2606.26094v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26094v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-06-24T17:59:46+00:00",
+      "source": "arxiv",
+      "title_cn": "RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments",
+      "summary_cn": "For most of scientific history, researchers studying behavior could only infer hidden mechanisms from outward actions: an inverse problem that becomes more tractable when observation is augmented by t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "authors": [
+        "Andrei Liviu Nicolicioiu",
+        "Mohammad Pezeshki",
+        "Aaron Courville"
+      ],
+      "abstract": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding biases in the design of self-distillation with sampled demonstrations. The teacher scores each student rollout while conditioned on a sampled correct rollout, channeling its feedback through the model's own biases. We theoretically analyze the optimal self-distillation policy and show that it tilts the base distribution by a pointwise conditional mutual information score between the student's rollout and the correct rollout used as context. Unlike the ideal optimal on-policy reinforcement learning (RL), which preserves probability ratios among equally correct rollouts, self-distillation can amplify existing probability gaps, concentrating mass on already-dominant modes. On a controlled graph path-finding task and science question-answering benchmarks, self-distilled models match or exceed RL on average performance but exhibit substantially lower functional and semantic diversity, failing on out-of-distribution settings that require diverse strategies.",
+      "url": "http://arxiv.org/abs/2606.26091v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26091v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-06-24T17:59:02+00:00",
+      "source": "arxiv",
+      "title_cn": "On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity",
+      "summary_cn": "On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level fe",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "authors": [
+        "Changdae Oh",
+        "Wendi Li",
+        "Seongheon Park",
+        "Samuel Yeh",
+        "Tanwi Mallick"
+      ],
+      "abstract": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and stochastic environment feedback make both human annotation and Monte Carlo estimation infeasible at scale. In this work, we show that reinforcement learning (RL) post-training already provides the ingredients for effective step-level scoring, eliminating the need for dedicated reward model training altogether. Concretely, we derive an implicit advantage under a general stochastic Markov decision process, which we term progress advantage -- log-probability ratio between the RL-trained policy and its reference policy exactly recovers the optimal advantage function. This formulation makes the resulting signal annotation-free, domain-agnostic, and available as a byproduct of the standard RL post-training pipeline. We validate the effectiveness of the progress advantage across three different applications: test-time scaling, uncertainty quantification, and failure attribution on five benchmarks and four model families. Across all settings, it consistently outperforms confidence-based baselines and, despite requiring no task-specific training, surpasses dedicated trained reward models. We complement these results with deeper analyses on characteristics of progress advantage, offering practical guidance for adoption in real-world agentic systems.",
+      "url": "http://arxiv.org/abs/2606.26080v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26080v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-06-24T17:54:08+00:00",
+      "source": "arxiv",
+      "title_cn": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents",
+      "summary_cn": "Process reward models enable fine-grained, step-level evaluation of LLMs, yet building them for agentic settings remains prohibitively difficult: long-horizon interactions, irreversible actions, and s",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+      "authors": [
+        "Aditya Singh",
+        "Gerson Kroiz",
+        "Senthooran Rajamanoharan",
+        "Neel Nanda"
+      ],
+      "abstract": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a concerning action can arise from benign causes such as confusion. This motivates model forensics: investigating whether the action was driven by malign intent. In this paper, we propose a baseline protocol for model forensics consisting of two steps, iterated as needed. First, we read the chain of thought (CoT) to generate hypotheses about what drives model behavior. Second, we make edits to the prompt or environment to test these hypotheses. While the CoT is not always faithful, it is a rich source of unsupervised insight that can guide the collection of more rigorous evidence. To evaluate our protocol, we create a suite of six agentic environments where models exhibit concerning behavior, and apply it to each. We establish that Kimi K2 Thinking takes shortcuts due to a genuine disposition towards low-effort actions, by showing this hypothesis successfully predicts its behavior. Through counterfactual experiments, we show DeepSeek R1 deceives out of a desire to be consistent with a previous instance of itself. Our methods nonetheless leave significant room for refinement. For example, when we test whether Kimi K2 Thinking believes it is violating user intent, we find no evidence of such a belief, but without positive controls we cannot confirm our tests would detect it. Overall, we find our simple protocol provides a strong baseline that we hope future work will improve upon. More broadly, our work is a concrete step in developing the growing field of model forensics.",
+      "url": "http://arxiv.org/abs/2606.26071v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26071v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-06-24T17:45:47+00:00",
+      "source": "arxiv",
+      "title_cn": "Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment",
+      "summary_cn": "A central goal of safety research is determining whether a model is misaligned. Prior work has largely focused on detecting concerning behavior. But behavior alone does not establish misalignment: a c",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+      "authors": [
+        "Juliana Li",
+        "Diya Sreedhar"
+      ],
+      "abstract": "Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name (\"Sue cried because\"), it resolves the next pronoun to she, generalizing to held-out probes (0.94 by step 925). By step 3,500 the same model scores near zero on the same probes, although the rule's evidence is still in the training data. We call this within-run reversal natural ungrokking: the corpus decides, with no trace in the loss curve, which learned rules a model keeps. Which rules survive is predictable from one corpus statistic: how often the training stream shows the rule winning. Across un-intervened runs (two corpora, three budgets, three seeds), support frequency decides a rule's fate; the data-to-parameter ratio only modulates how deeply a doomed rule falls. The same emerge-then-collapse dynamics appear in public Pythia checkpoints, collapse depth ordered by model scale as predicted. The forgetting is a displacement: a competing surface pattern out-competes the rule, and the log-probability margin between them crosses zero within 100 training steps of the behavioral collapse. Control over this fate is asymmetric: the same edit that destroys a rule on demand cannot restore it. Flipping support to counter-evidence in place kills the rule with monotone dose-response in two unrelated rules; but injecting support back, even to 450 times the level that naturally sustains it, buys no recovery. Every confirmatory threshold and prediction was pre-registered before the data it governed was read.",
+      "url": "http://arxiv.org/abs/2606.26050v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26050v1",
+      "categories": [
+        "cs.LG",
+        "cond-mat.dis-nn",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-06-24T17:27:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Natural Ungrokking: Asymmetric Control of Which Rules Survive Pretraining",
+      "summary_cn": "Midway through an ordinary pretraining run, a small language model learns the pronoun-gender rule: cued with a girl's name (\"Sue cried because\"), it resolves the next pronoun to she, generalizing to h",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "authors": [
+        "Hao Sun",
+        "Hao Yan",
+        "Mengting Chen",
+        "Quanjian Song",
+        "Yu Li"
+      ],
+      "abstract": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive dependency on source camera trajectories, failing to accommodate the requisite interactive freedom for omnidirectional viewpoint exploration. To address this limitation, we define a pioneering research frontier: Camera-controllable Video Virtual Try-on (CaM-VVT). Unlike conventional VVT, CaM-VVT not only necessitates viewpoint-agnostic texture hallucination but also strict structural synchronization between non-rigid human dynamics and background contexts under arbitrary, unconstrained camera movements. To tackle these challenges, we present TryOnCrafter, the first unified DiT-based framework specifically architected for the CaM-VVT task. Departing from implicit pixel-space manipulation, we introduce a Renderable 4D Try-on Proxy that explicitly decouples the human subject from the environment. This is achieved by distilling high-fidelity 2D try-on priors into a clothed 3DGS-based avatar, which is subsequently animated via SMPL-X sequences and metric-aligned into a reconstructed background point cloud. This proxy establishes a robust structural foundation with superior texture density and motion integrity. Our Proxy-Anchored Video DiT leverages this robust structural foundation as a primary geometric anchor, ensuring that the synthesized photorealistic videos are strictly constrained by prescribed trajectories and physically plausible deformations. Benefiting from the inherent editability of the 4D proxy, TryOnCrafter facilitates diverse downstream applications, including human relocalization, ``bullet time'' effects, and $360$-degree orbital viewing.",
+      "url": "http://arxiv.org/abs/2606.26092v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26092v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-24T17:59:06+00:00",
+      "source": "arxiv",
+      "title_cn": "TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy",
+      "summary_cn": "While Video Virtual Try-on (VVT) has achieved remarkable progress in synthesizing realistic garment overlays on dynamic subjects, existing paradigms remains fundamentally constrained by a passive depe",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "authors": [
+        "JoungBin Lee",
+        "Jaewoo Jung",
+        "Jongmin Lee",
+        "Tongmin Kim",
+        "Hyunsung Kim"
+      ],
+      "abstract": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing methods based on explicit 3D representations are limited by the accuracy of off-the-shelf reconstruction modules, which often produce inaccurate geometry for dynamic objects in monocular videos. In contrast, camera-conditioning-only methods can achieve high visual quality but often struggle to preserve geometric and motion consistency. In this work, we introduce MVTrack4Gen (Multi-View point Tracking for Novel-View Generation), a motion-aware training framework that leverages multi-view point tracking as an additional geometric and motion supervision signal for camera-conditioning-only novel-view video diffusion models. Our key finding is that specific attention layers encode strong correspondence cues, where query features attend to key features at geometrically corresponding locations across views and over time, and the misalignment of these correspondences causes motion inconsistency. Based on this observation, we route these features into an auxiliary multi-view tracking head and jointly train the diffusion model with a point-tracking objective. By explicitly strengthening these motion-aware correspondences, MVTrack4Gen improves existing models to better follow the motion in the reference view and maintain cross-view geometric consistency. Across diverse benchmarks, our method achieves state-of-the-art geometric consistency and competitive camera accuracy.",
+      "url": "http://arxiv.org/abs/2606.26087v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26087v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-24T17:56:33+00:00",
+      "source": "arxiv",
+      "title_cn": "MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation",
+      "summary_cn": "Synthesizing a novel-view video from a monocular reference video along a target camera trajectory requires both geometric consistency and motion fidelity with respect to the reference video. Existing ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
+      "authors": [
+        "Sen Li",
+        "Haichao Cui",
+        "Chendong Shao",
+        "Yaqi Wang",
+        "Xinhua Tang"
+      ],
+      "abstract": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models between welding processes with distinct physical mechanisms:for instance, from arc-dominated tungsten inert gas (TIG) welding to keyhole-based laser welding. To overcome this limitation, we propose an unsupervised domain adaptation (UDA) framework integrated with a gradual source domain expansion (GSDE) strategy. Evaluated on dedicated TIG and laser welding datasets, our approach achieves high accuracy in both same-process and cross-process transfer tasks. Specifically, it attains average accuracies of 90.65% on TIGFH and 90.72% on LSPS in same-process settings, surpassing a supervised baseline by 35.83% and 38.87%, respectively. More notably, in cross-process scenarios, it reaches 80.48% for TIG to Laser and 81.13% for Laser to TIG, improving upon the baseline by 43.39% and 43.40%. UMAP visualizations verify that the model learns domain-invariant features while maintaining discriminative class boundaries. This method considerably lowers the relabeling cost for new welding processes and enhances the versatility of intelligent monitoring across different welding systems.",
+      "url": "http://arxiv.org/abs/2606.26078v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26078v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-06-24T17:52:57+00:00",
+      "source": "arxiv",
+      "title_cn": "A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding",
+      "summary_cn": "Supervised deep learning has been widely used for weld penetration state classification; however, its performance often degrades significantly under domain shift, such as when transferring models betw",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks",
+      "authors": [
+        "Sen Li",
+        "Xiaoying Liu",
+        "Xiaojian Xu",
+        "Chendong Shao",
+        "Yaqi Wang"
+      ],
+      "abstract": "The laser welding full-penetration is of critical importance, as it constitutes one of the fundamental factors in achieving defect-free welded joints. Accurate prediction of the penetration state is therefore essential for ensuring weld quality. To this end, this paper introduces SimPhysNet, a novel algorithm that achieves high classification accuracy in laser welding penetration prediction using only a limited number of labelled images. This approach effectively overcomes the limitations of supervised learning classification algorithms, which are hindered in industrial applications by their dependence on extensive, high-quality labelled data. The core of SimPhysNet is a unique self-supervised learning paradigm that embeds physical priors into a contrastive learning framework. By incorporating a physics-informed neural network (PINN), the model is guided to extract physically meaningful features of the molten pool and keyhole from a large set of unlabelled data, while three image augmentation tasks further enhance its generalization capabilities. Subsequently, a few-shot learning strategy, based on prototypical networks, enables robust classification by constructing class representations from a minimal set of labelled images. Experimental results demonstrate that SimPhysNet achieves a classification accuracy of 96.06% using only 200 labelled images (approximately 5% of the total labelled dataset), which is comparable to the performance of conventional supervised learning algorithms that utilize the entire labelled dataset. This work presents a new, efficient, and highly accurate method, providing the way for the intelligent automation of laser welding.",
+      "url": "http://arxiv.org/abs/2606.26059v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26059v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-06-24T17:33:41+00:00",
+      "source": "arxiv",
+      "title_cn": "A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks",
+      "summary_cn": "The laser welding full-penetration is of critical importance, as it constitutes one of the fundamental factors in achieving defect-free welded joints. Accurate prediction of the penetration state is t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "authors": [
+        "Nan Chen",
+        "Yiyang Cai",
+        "Rongchang Xie",
+        "Junwen Pan",
+        "Cheng Chen"
+      ],
+      "abstract": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining the reference subject features as much as possible, and cross-domain, which preserves the intrinsic features of the subject while allowing subject-irrelevant properties to vary flexibly according to the text prompt. Existing methods primarily focus on maximizing subject fidelity in in-domain scenarios, which limits their editability and adaptability in cross-domain scenarios, such as novel styles, semantic combinations, or domain attributes. In this study, we propose that an ideal S2V method should flexibly shuttle between different domains, achieving strong performance in both in-domain and cross-domain scenarios. To this end, we propose DomainShuttle, which could achieve high fidelity and generative flexibility for open domain video personalization. Specifically, we introduce Domain-MoT, which decouples videos and reference features and introduces the domain-aware AdaLN for domain-specific modeling of reference images. We then introduce the Video-Reference DualRoPE scheme, which places reference image tokens and video tokens in separate RoPE spaces to enable precise subject-level spatial modeling, and Cross-Pair Consistent Loss, which aims to extract intrinsic subject features unaffected by irrelevant features. Extensive experiments demonstrate that DomainShuttle achieves significant performance improvements over existing methods, exhibiting high subject fidelity and generative flexibility across diverse open domain application scenarios.",
+      "url": "http://arxiv.org/abs/2606.26058v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26058v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-06-24T17:33:13+00:00",
+      "source": "arxiv",
+      "title_cn": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "summary_cn": "Open domain subject-driven text-to-video (S2V) generation has drawn significant interest in academia and industry. Open domain S2V mainly involves two scenarios: in-domain, which requires retaining th",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "authors": [
+        "Dong Jing",
+        "Tianqi Zhang",
+        "Jiaqi Liu",
+        "Jinman Zhao",
+        "Zelong Sun"
+      ],
+      "abstract": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and linguistic priors from the VLM, but leaves the action module to learn physical motion almost from scratch. As a result, the policy lacks an explicit motion prior, forcing early optimization to simultaneously discover temporal action dynamics and cross-modal alignment, a challenge further amplified in cross-embodiment settings. In this work, we propose to pretrain the action module with motion priors before cross-modal VLA alignment. Specifically, we introduce a two-stage training framework that equips the action module with cross-embodiment temporal motion structure before VLA training begins. In Stage~1, a lightweight flow-matching-based encoder-decoder action module efficiently learns temporal motion structure solely from unconditioned action trajectories, without processing visual or language tokens. In Stage~2, this learned prior is transferred to VLA training through decoder reuse and early-stage latent distillation, aligning visual-language features with the action embedding space while still allowing end-to-end policy refinement. In addition, the trained encoder serves as a compact history compressor, summarizing state-action histories into a single temporal context token for history-aware modeling at negligible cost. Extensive experiments across 13 diverse cross-embodiment tasks on both simulated and real-world platforms validate the effectiveness of our approach. Compared with VLA training without action priors, our model achieves faster convergence, higher success rates, and substantially stronger performance on data-scarce real-world tasks. Moreover, scaling up the action data in Stage~1 yields a more generalizable action prior that directly improves downstream VLA performance.",
+      "url": "http://arxiv.org/abs/2606.26095v1",
+      "pdf_url": "https://arxiv.org/pdf/2606.26095v1",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-06-24T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Learning Action Priors for Cross-embodiment Robot Manipulation",
+      "summary_cn": "Most Vision-Language-Action (VLA) models build on a Vision-Language Model (VLM) backbone by attaching an action module and optimizing the full policy jointly. This design inherits strong visual and li",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
