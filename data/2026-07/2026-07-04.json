@@ -1,0 +1,756 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T09:56:24.594099+08:00",
+  "github_trending": [
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 34701,
+      "forks": 3553,
+      "language": "Python",
+      "stars_today": 2803,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 245557,
+      "forks": 21766,
+      "language": "Shell",
+      "stars_today": 1209,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "stars": 126521,
+      "forks": 20535,
+      "language": "Shell",
+      "stars_today": 1208,
+      "source": "github_trending",
+      "summary_cn": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 4686,
+      "forks": 273,
+      "language": "TypeScript",
+      "stars_today": 885,
+      "source": "github_trending",
+      "summary_cn": "An open source design system that's fully customizable and agent ready",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "description": "Use Codex from Claude Code to review code or delegate tasks.",
+      "stars": 23244,
+      "forks": 1406,
+      "language": "JavaScript",
+      "stars_today": 634,
+      "source": "github_trending",
+      "summary_cn": "Use Codex from Claude Code to review code or delegate tasks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "stars": 151068,
+      "forks": 9420,
+      "language": "Python",
+      "stars_today": 531,
+      "source": "github_trending",
+      "summary_cn": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "description": "agent multiplexer that lives in your terminal.",
+      "stars": 10813,
+      "forks": 639,
+      "language": "Rust",
+      "stars_today": 478,
+      "source": "github_trending",
+      "summary_cn": "agent multiplexer that lives in your terminal.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 17686,
+      "forks": 2918,
+      "language": "Python",
+      "stars_today": 464,
+      "source": "github_trending",
+      "summary_cn": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "description": "Specification and documentation for Agent Skills",
+      "stars": 22008,
+      "forks": 1395,
+      "language": "Python",
+      "stars_today": 406,
+      "source": "github_trending",
+      "summary_cn": "Specification and documentation for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 45503,
+      "forks": 2957,
+      "language": "TypeScript",
+      "stars_today": 405,
+      "source": "github_trending",
+      "summary_cn": "Chrome DevTools for coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 135855,
+      "forks": 21857,
+      "language": "Python",
+      "stars_today": 221,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 105492,
+      "forks": 12970,
+      "language": "TypeScript",
+      "stars_today": 169,
+      "source": "github_trending",
+      "summary_cn": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 5241,
+      "forks": 641,
+      "language": "Python",
+      "stars_today": 162,
+      "source": "github_trending",
+      "summary_cn": "Build local voice agents with open-source models",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": 19852,
+      "forks": 2730,
+      "language": "Python",
+      "stars_today": 130,
+      "source": "github_trending",
+      "summary_cn": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "stars": 69213,
+      "forks": 24108,
+      "language": "Python",
+      "stars_today": 65,
+      "source": "github_trending",
+      "summary_cn": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Protect your right to run local AI",
+      "url": "https://righttointelligence.org/",
+      "score": 496,
+      "comments": 175,
+      "author": "thoughtpeddler",
+      "time": "2026-07-02T23:54:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48768951",
+      "source": "hacker_news",
+      "title_cn": "Protect your right to run local AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "score": 314,
+      "comments": 269,
+      "author": "nsoonhui",
+      "time": "2026-07-03T08:31:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48772443",
+      "source": "hacker_news",
+      "title_cn": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "score": 187,
+      "comments": 232,
+      "author": "Riseed",
+      "time": "2026-07-02T19:11:57+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48766026",
+      "source": "hacker_news",
+      "title_cn": "The short leash AI coding method for beating Fable",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude-real-video － any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "score": 157,
+      "comments": 54,
+      "author": "cortexosmain",
+      "time": "2026-07-02T19:10:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48766005",
+      "source": "hacker_news",
+      "title_cn": "Claude-real-video － any LLM can watch a video",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "https://news.ycombinator.com/item?id=48771515",
+      "score": 130,
+      "comments": 159,
+      "author": "yehiaabdelm",
+      "time": "2026-07-03T06:21:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48771515",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "url": "https://manufact.com",
+      "score": 108,
+      "comments": 68,
+      "author": "pzullo",
+      "time": "2026-07-02T15:11:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48762862",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Manufact (YC S25) – MCP Cloud",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "url": "https://github.com/rafal-qa/slopo",
+      "score": 89,
+      "comments": 49,
+      "author": "rkochanowski",
+      "time": "2026-07-02T14:19:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48762038",
+      "source": "hacker_news",
+      "title_cn": "Show HN: CLI tool for detecting non-exact code duplication with embedding models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "url": "https://manticoresearch.com/blog/onnx-embeddings-speedup/",
+      "score": 79,
+      "comments": 12,
+      "author": "snikolaev",
+      "time": "2026-07-03T03:49:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48770477",
+      "source": "hacker_news",
+      "title_cn": "Faster embeddings: how we rebuilt the ONNX path in Manticore",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "score": 70,
+      "comments": 77,
+      "author": "digital55",
+      "time": "2026-07-03T14:28:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48775499",
+      "source": "hacker_news",
+      "title_cn": "Instead of banning AI, I made a classroom contract with my students",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+      "url": "https://zk.golf/",
+      "score": 69,
+      "comments": 11,
+      "author": "rot256",
+      "time": "2026-07-02T15:40:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48763246",
+      "source": "hacker_news",
+      "title_cn": "Show HN: zkGolf – Competitive optimization of formally verified circuits",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: ctx – Search the coding agent history already on your machine",
+      "url": "https://github.com/ctxrs/ctx",
+      "score": 64,
+      "comments": 39,
+      "author": "luca-ctx",
+      "time": "2026-07-02T15:58:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48763462",
+      "source": "hacker_news",
+      "title_cn": "Show HN: ctx – Search the coding agent history already on your machine",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini Code Assist will be shut down on July 17",
+      "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
+      "score": 62,
+      "comments": 50,
+      "author": "ushakov",
+      "time": "2026-07-03T12:52:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48774429",
+      "source": "hacker_news",
+      "title_cn": "Gemini Code Assist will be shut down on July 17",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog#10959",
+      "score": 51,
+      "comments": 10,
+      "author": "mroche",
+      "time": "2026-07-03T20:08:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48779352",
+      "source": "hacker_news",
+      "title_cn": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI coding is addictive. Engineers are paying the price",
+      "url": "https://leaddev.com/ai/ai-coding-is-addictive-engineers-are-paying-the-price",
+      "score": 45,
+      "comments": 37,
+      "author": "sefrost",
+      "time": "2026-07-03T14:54:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48775800",
+      "source": "hacker_news",
+      "title_cn": "AI coding is addictive. Engineers are paying the price",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "score": 44,
+      "comments": 8,
+      "author": "cubefox",
+      "time": "2026-07-03T21:16:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48780056",
+      "source": "hacker_news",
+      "title_cn": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "authors": [
+        "Josh Hills",
+        "Ida Caspary",
+        "Asa Cooper Stickland"
+      ],
+      "abstract": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt-injected agent can distribute attacks across pull requests (PRs) and time its payload for the PR with the best natural cover. To study the resulting dynamics, we introduce Iterative VibeCoding, a setting for AI control, the study of safely deploying capable but potentially untrusted AI. In Iterative VibeCoding, a coding agent builds software over a sequence of PRs in a persistent codebase while pursuing a covert side task. Our benchmark includes two task families: CLI tools and Flask web services, across 20 total task variations. We use Claude Sonnet 4.5 as the attack agent and GPT-4o as the monitor. We compare gradual attacks, which distribute the side task across PRs, against non-gradual attacks concentrated in a single PR. No single monitor is robust to both: which strategy evades best (success while evading the monitor) depends on the monitor type, so a defender cannot close off both gradual and non-gradual attacks with any one monitor. High evasion (>= 65%) generalizes across model attack agent backends (Sonnet 4.5, Gemini 3.1 Pro, Kimi K2.5), confirming this is a property of the persistent-state attack surface rather than a single model's capability. Evasion also remains high across state-of-the-art monitor models and the gap between gradual and non-gradual evasion widens for more capable models. We introduce a stateful link-tracker monitor that tracks suspicious buildup across PRs. On both task families, it detects gradual attacks substantially better than diff monitors that merely see more accumulated history. Combining this stronger monitor with trajectory monitors in a four-monitor ensemble reduces gradual-attack evasion from 93% under the weakest standard diff monitor to 47%.",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02514v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-02T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Distributed Attacks in Persistent-State AI Control",
+      "summary_cn": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "authors": [
+        "Mona Schirmer",
+        "Metod Jazbec",
+        "Alexander Timans",
+        "Christian Naesseth",
+        "Maja Waldron"
+      ],
+      "abstract": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical. We study a simple real-time monitor that turns a verifier signal from an external model into an alarm decision by thresholding, with the threshold calibrated via risk control. In experiments on mathematical reasoning and red teaming datasets, we show that this simple design is competitive with more advanced monitors based on sequential hypothesis testing.",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02510v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "stat.AP",
+        "stat.ML"
+      ],
+      "published": "2026-07-02T17:59:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Online Safety Monitoring for LLMs",
+      "summary_cn": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "authors": [
+        "Yanjun Zhao",
+        "Ruizhong Qiu",
+        "Tianxin Wei",
+        "Yuanchen Bei",
+        "Zhining Liu"
+      ],
+      "abstract": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context windows, they often fail to use relevant evidence that is already present in the input, revealing a gap between context access and effective context utilization. In this work, we propose Recursive Evidence Replay as LLM Harness for Long-Context Reasoning (RECONTEXT), a training-free inference method for improving long-context reasoning. RECONTEXT uses model-internal relevance signals to construct a query-conditioned evidence pool and replays it before final generation while preserving the full original context. This recursive selection process separates evidence organization from answer generation without training, external memory, or context pruning. We also provide a theoretical analysis based on associative memory, which characterizes the context as a memory store, the question as a retrieval cue, attention as cue-trace association, and replay as trace reactivation. Experiments on eight long-context datasets with 128K context length show that RECONTEXT consistently improves evidence utilization across Qwen3-4B, Qwen3-8B, and Llama3-8B, achieving the best average rank on all three backbones. Code is available at https://github.com/Yanjun-Zhao/ReContext.",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02509v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-02T17:59:26+00:00",
+      "source": "arxiv",
+      "title_cn": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "summary_cn": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "authors": [
+        "Arman Ghaffarizadeh",
+        "Danyal Mohaddes",
+        "Aliakbar Izadkhah",
+        "Shahriar Noroozizadeh"
+      ],
+      "abstract": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, without any explicit objective in the prompt, changes what an agent expresses publicly relative to an off-the-record (OTR) channel elicited under the same condition. We introduce a dual-channel debate framework in which agents produce public utterances that enter the shared history alongside OTR responses that are recorded but never shown to the other participant. Across 10 models, 3 scenarios, and 5 variations within each scenario, alignment-inducing settings produce systematic public-OTR divergence in the targeted agent, with its decision divergence rising from a $\\sim$3% baseline to roughly 40%. The effect is consistent across four aggregate analyses: stance, semantic similarity, natural language inference, and survey responses. In some cases, the OTR response explicitly attributes public accommodation to relational pressures, such as career risk or sponsorship obligation. The findings suggest that agent evaluation should extend beyond explicit goals and detect emergent objectives. We present a dual-channel evaluation framework and complementary behavioral measures that operationalize this assessment.",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02507v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-07-02T17:59:23+00:00",
+      "source": "arxiv",
+      "title_cn": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "summary_cn": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "authors": [
+        "Timo Bertram",
+        "Sidhant Bhavnani",
+        "Richard Freinschlag",
+        "Erich Kobler",
+        "Andreas Mayr"
+      ],
+      "abstract": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurrent Reasoning Models'' (G-RRM), which integrates SE-RRMs with symbolic solvers for constraint satisfaction problems. SE-RRMs act as neural solvers that generate full solution proposals and guide classical symbolic solvers, such as backtracking or SAT-based methods like Glucose 4.1 and CaDiCaL 3.0.0, that produce globally correct solutions. Centrally, we investigate when neural guidance with G-RRM improves the search efficiency of symbolic solvers. % Our experiments show that the efficacy of G-RRM depends on two conditions: first, the problem instances must have an expansive combinatorial search space to expose potential gains, and second, the solver architecture must be capable of dynamically overwriting its branching choices to recover when neural hints are imperfect. When these conditions hold, guidance drives median conflict counts to zero and yields significant wall-clock speedups: on $9\\times9$ Sudoku, where the SE-RRM correctly solves $91.1\\%$ of instances, backtracking accelerates by $33.3\\times$ and Glucose 4.1 by $1.70\\times$ (median, $p<0.001$), with Glucose 4.1 retaining a $1.17\\times$ speedup on perfect-hint $25\\times25$ grids. In contrast, CaDiCaL 3.0.0, whose runtime is overhead-dominated and which always respects the injected branching hints rather than overwriting them, shows no significant speedup (median $1.02\\times$, n.s.) and even a small significant mean slowdown ($0.90\\times$) on $9\\times9$. These results delineate the regimes in which neural guidance translates into practical speedups.",
+      "url": "http://arxiv.org/abs/2607.02491v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02491v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-02T17:53:31+00:00",
+      "source": "arxiv",
+      "title_cn": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models",
+      "summary_cn": "In this work, we focus on SE-RRMs, a symbol-equivariant instantiation of RRMs that exhibits improved extrapolation to larger problem sizes. We propose a neuro-symbolic approach, ``Guiding with Recurre",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "authors": [
+        "Matteo Boglioni",
+        "Thibault Rousset",
+        "Siva Reddy",
+        "Marius Mosbach",
+        "Verna Dankers"
+      ],
+      "abstract": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising solution, with state-of-the-art(SOTA) methods often following a localize-first, unlearn-second paradigm that targets specific model parameters. However, existing benchmarks evaluate unlearning solely at the output level, leaving open the question of whether unlearning truly erases knowledge from a model's parameters or merely obfuscates it, a concern reinforced by the success of resurfacing attacks. To bridge this gap, we introduce LACUNA: the first unlearning testbed with ground-truth parameter-level localization. LACUNA injects PII of synthetic individuals into predefined parameters of 1B and 7B OLMo-based models via masked continual pretraining, enabling direct evaluation of whether unlearning targets the weights responsible for knowledge storage. We use LACUNA to benchmark current SOTA unlearning methods and find that, despite strong output-level performance, existing methods are highly imprecise and susceptible to resurfacing attacks. We further show that when localization is successful, even a simple gradient-based unlearning method achieves strong erasure and robustness to resurfacing attacks, highlighting the importance of precise unlearning. We release LACUNA to complement behavioral evaluations and drive further advances in robust, localization-based unlearning.",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02513v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-07-02T17:59:52+00:00",
+      "source": "arxiv",
+      "title_cn": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "summary_cn": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "authors": [
+        "Yuxuan Li",
+        "Lingxi Xie",
+        "Xinyue Huo",
+        "Jihao Qiu",
+        "Jiacheng Shao"
+      ],
+      "abstract": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attributing each spoken utterance to its respective character. In this paper, we advance this field through two primary contributions. (1) We introduce \\textbf{DramaSR-532K}, a large-scale benchmark comprising 532K annotated dialogue lines across more than 900 unique characters, necessitating the integration of auditory, linguistic, and visual cues for speaker recognition. (2) We propose \\textbf{DramaSR-LRM}, a robust approach built upon a large reasoning model (LRM). DramaSR-LRM is designed to autonomously aggregate contextual evidence via multimodal tool-use, synthesizing diverse inputs to achieve high-fidelity attribution. Experimental results demonstrate that DramaSR-LRM significantly outperforms existing baselines, particularly on short utterances where acoustic biometrics are inherently unreliable. \\textit{All the data and code will be made publicly available at the project page: https://www.github.com/198808xc/DramaSR-LRM.}",
+      "url": "http://arxiv.org/abs/2607.02504v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02504v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:58:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "summary_cn": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "authors": [
+        "Liyan Tang",
+        "Fangcong Yin",
+        "Greg Durrett"
+      ],
+      "abstract": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisions and correcting previous errors. However, existing LVLMs often fail to properly attend to visual inputs during reflection, limiting their ability to translate feedback into grounded corrections, especially for out-of-distribution images. To address this issue, we propose a novel reinforcement learning training framework VRRL, with two components explicitly designed to elicit visually grounded self-reflection. First, we randomly mask trajectory prefixes during training to emphasize recovery from incorrect intermediate predictions rather than making early mistakes. Second, we introduce buffered roll-ins from an experience replay buffer to expose the model to diverse failure states that it must learn to correct. We evaluate our approach on visual grounding tasks involving tables and charts, as well as spatial navigation benchmarks. While off-the-shelf and conventionally fine-tuned models degrade substantially under distribution shift, our method substantially improves average out-of-distribution accuracy over standard RL and reflection-oriented fine-tuning baselines by using self-reflection effectively.",
+      "url": "http://arxiv.org/abs/2607.02490v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02490v1",
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:53:15+00:00",
+      "source": "arxiv",
+      "title_cn": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+      "summary_cn": "Large vision-language models can reason over multimodal inputs by generating textual chains of thought (CoT). A key capability exhibited in CoT reasoning is self-reflection: revisiting earlier decisio",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "authors": [
+        "Wentao Zhang",
+        "Liliana Hotsko",
+        "Woojeong Kim",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "abstract": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly outsourced to large language model APIs at the cost of locality, reproducibility, and price. We propose fuzzy-function programming: compiling such a function from a natural-language specification into a compact, locally-executable neural artifact. We instantiate this paradigm with Program-as-Weights (PAW), in which a 4B compiler trained on FuzzyBench, a 10M-example dataset we release, emits parameter-efficient adapters for a frozen, lightweight interpreter. A 0.6B Qwen3 interpreter executing PAW programs matches the performance of direct prompting of Qwen3-32B, while using roughly one fiftieth of the inference memory and running at 30 tokens/s on a MacBook M3. PAW reframes the foundation model from a per-input problem solver into a tool builder: invoked once per function definition, it produces a small reusable artifact whose subsequent calls per function application are cheap and offline.",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02512v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-07-02T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "summary_cn": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "authors": [
+        "Yunhe Li",
+        "Hao Shi",
+        "Wenhao Liu",
+        "Mengzhe Ruan",
+        "Hanxu Hou"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different levels of information access. However, recent studies have found that the teacher's dense token-level supervision, conditioned on privileged information, can lead to overfitting to in-domain patterns, suppress exploration, and hurt cross-domain generalization, while also introducing a more fundamental issue: *privileged information leakage*, where the student encodes answer-dependent shortcuts that are unavailable at test time. We introduce **DemoPSD**, a novel framework that resolves such problems through the idea of *selective adoption of teacher guidance*. Instead of fitting the full teacher distribution, DemoPSD steers the student toward a *reverse-KL barycenter target*, a weighted geometric combination of the teacher and student distributions, that naturally balances learning from the teacher with preserving the student's own reasoning capacity. We measure the difference between their distributions and use such a discrepancy to adaptively control the blending at each token position. We provably show that DemoPSD achieves **(1)** *leakage attenuation*, i.e., effective mitigation of privileged information leakage; and **(2)** *exploration preservation*, i.e., preservation of exploration capacity under dense token-level distillation. Extensive experiments on SciKnowEval across four scientific fields show that DemoPSD outperforms both GRPO and SDPO while maintaining higher training entropy and robustly generalizing to out-of-distribution GPQA benchmarks.",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02502v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-07-02T17:58:29+00:00",
+      "source": "arxiv",
+      "title_cn": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "summary_cn": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "authors": [
+        "Gil Harari",
+        "Yoel Zimmermann",
+        "Ola Tangen Kulseng",
+        "Laura Zichi",
+        "Chuin Wei Tan"
+      ],
+      "abstract": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general models, the choice of optimizer for training has largely remained unexplored, defaulting to Adam and its variants in the community. Here, we implement and systematically compare a class of recently proposed matrix-structured optimizers, including Muon, SOAP, and the hybrid SOAP-Muon, for training NequIP and Allegro MLIP models. We find that these optimizers can substantially outperform Adam in both convergence speed and final accuracy. SOAP and SOAP-Muon emerge as robust and consistently strong methods, while Muon only provides partial gains relative to Adam. The improvements are particularly pronounced under partial force supervision. Our results indicate that optimizer choice is an overlooked yet impactful design axis for MLIPs.",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02499v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.chem-ph",
+        "physics.comp-ph"
+      ],
+      "published": "2026-07-02T17:57:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "summary_cn": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "authors": [
+        "Hanlin Wang",
+        "Hao Ouyang",
+        "Qiuyu Wang",
+        "Wen Wang",
+        "Qingyan Bai"
+      ],
+      "abstract": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that entangle physical dynamics with pixel rendering and rely on continuous visual observation to sustain motion, our framework explicitly decouples semantic motion orchestration from visual generation. By leveraging an LLM to coordinate 3D trajectories with camera movements and subsequently employing these orchestrated trajectories as control signals for video generation, our approach ensures strict physical logic and appearance stability, successfully preserving the exact visual identities of dynamic entities even when they re-enter the scene after prolonged periods out of view. Experimental results demonstrate that our method supports the synthesis of complex and extended events with unprecedented controllability and persistent dynamic object memory. Project Page: https://worlddirector.github.io/",
+      "url": "http://arxiv.org/abs/2607.02517v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02517v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:59:59+00:00",
+      "source": "arxiv",
+      "title_cn": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "summary_cn": "We present WorldDirector, a highly controllable video world model framework designed for persistent dynamic object memory and unrestricted viewpoint exploration. Unlike existing world models that enta",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "authors": [
+        "Qiaowei Miao",
+        "Kehan Li",
+        "Yawei Luo",
+        "Yi Yang"
+      ],
+      "abstract": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains challenging due to the high cost of constructing diverse datasets and the limited scalability of existing methods. This paper presents Align4D, a flexible framework that translates any-modal input into coherent video-3D pairs, using video to guide 4D motion and 3D data to shape 4D geometry. Align4D introduces three key techniques: (1) Object Distance Alignment, which searches Video-Aligned and Multiview-Aligned Object Distances (VAOD/MAOD), respectively, to reconcile 4D renderings with video and the priors of multiview diffusion models; (2) Motion-Geometry Joint Alignment, which constrains known and unknown views through synchronized video and 3D inputs, ensuring consistent 4D generation; and (3) Asynchronous Optimization, which decouples Gaussian attribute and deformation network training to enhance motion and geometry fidelity. We further propose the X4D dataset, which integrates prompt, image, video, and 3D data for benchmarking. Experiments on X4D and Consistent4D demonstrate that Align4D achieves state-of-the-art quality and consistency in X-to-4D generation. Project page: https://miaoqiaowei.github.io/Align4D/.",
+      "url": "http://arxiv.org/abs/2607.02516v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02516v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:59:57+00:00",
+      "source": "arxiv",
+      "title_cn": "Alignment Is All You Need For X-to-4D Generation",
+      "summary_cn": "Generative diffusion models excel at synthesizing high-quality images, videos, and 3D content under multimodal control. However, arbitrary user-defined modality-to-4D (X-to-4D) generation remains chal",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "authors": [
+        "Haofei Xu",
+        "Rundi Wu",
+        "Philipp Henzler",
+        "Nikolai Kalischek",
+        "Michael Oechsle"
+      ],
+      "abstract": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent diffusion models. In this work, we show that such architectural overhead and intricate loss formulations are unnecessary. We introduce a minimalist pixel-space Diffusion Transformer, built on a plain ViT, that operates directly on raw 3D point map patches and is conditioned on image tokens from a pre-trained DINOv3. Unlike existing latent diffusion approaches, we train our diffusion backbone entirely from scratch, eliminating the need for point map tokenizers. Despite its simplicity, our approach surpasses complex latent-based diffusion models while remaining significantly simpler than hybrid alternatives. Notably, it produces sharper geometric structure and is more robust in highly ambiguous regions, such as transparent objects.",
+      "url": "http://arxiv.org/abs/2607.02515v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02515v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "summary_cn": "State-of-the-art single-image 3D reconstruction methods often rely on complex hybrid architectures and loss functions, or compress geometry into latent spaces in order to leverage pre-trained latent d",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "authors": [
+        "Dengyang Jiang",
+        "Mengmeng Wang",
+        "Harry Yang",
+        "Jingdong Wang"
+      ],
+      "abstract": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remove the dependency on external pretrained encoders by constructing alignment within the diffusion model itself. However, the mechanism behind the improvement from SRA to Self-Flow, dual-time scheduling, remains under-examined: Self-Flow attributes its gain to interactions between tokens at different noise levels, where cleaner tokens help infer noisier ones. In this work, we revisit this explanation and ask whether the gain instead comes from data augmentation along the noise dimension. To disentangle these factors, we introduce Attention Separation, which preserves the same dual-timestep input as Self-Flow while blocking attention between tokens assigned to different noise levels. Surprisingly, removing such interaction does not degrade performance and can even improve it, suggesting that the improvement from SRA to Self-Flow mainly comes from data augmentation. Furthermore,We show that Attention Separation itself provides an augmentation effect by splitting a single image into multiple effective training parts to expand the training data. Based on these observations, we combine self-representation alignment with dual-timestep and attention-separation augmentation, and demonstrate the effectiveness of this design on ImageNet.",
+      "url": "http://arxiv.org/abs/2607.02508v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.02508v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-02T17:59:25+00:00",
+      "source": "arxiv",
+      "title_cn": "From SRA to Self-Flow: Data Augmentation or Self-Supervision?",
+      "summary_cn": "Representation alignment has become an effective way to accelerate diffusion transformer training and improve generation quality. Recent self-alignment methods, such as SRA and Self-Flow, further remo",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
