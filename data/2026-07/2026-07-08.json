@@ -1,0 +1,748 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T09:46:09.316870+08:00",
+  "github_trending": [
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "stars": 11065,
+      "forks": 3700,
+      "language": "TypeScript",
+      "stars_today": 2514,
+      "source": "github_trending",
+      "summary_cn": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "stars": 20782,
+      "forks": 2078,
+      "language": "Rust",
+      "stars_today": 1777,
+      "source": "github_trending",
+      "summary_cn": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS & Windows.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 53042,
+      "forks": 8644,
+      "language": "JavaScript",
+      "stars_today": 1691,
+      "source": "github_trending",
+      "summary_cn": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 72191,
+      "forks": 7820,
+      "language": "JavaScript",
+      "stars_today": 1317,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 10041,
+      "forks": 680,
+      "language": "C#",
+      "stars_today": 893,
+      "source": "github_trending",
+      "summary_cn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 211003,
+      "forks": 38737,
+      "language": "Python",
+      "stars_today": 685,
+      "source": "github_trending",
+      "summary_cn": "The agent that grows with you",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 8483,
+      "forks": 713,
+      "language": "Rust",
+      "stars_today": 664,
+      "source": "github_trending",
+      "summary_cn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 50337,
+      "forks": 4199,
+      "language": "Python",
+      "stars_today": 659,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "stars": 6197,
+      "forks": 646,
+      "language": "Python",
+      "stars_today": 531,
+      "source": "github_trending",
+      "summary_cn": "A TTS that fits in your CPU (and pocket)",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": 21508,
+      "forks": 2877,
+      "language": "Python",
+      "stars_today": 478,
+      "source": "github_trending",
+      "summary_cn": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 159201,
+      "forks": 18785,
+      "language": "Python",
+      "stars_today": 413,
+      "source": "github_trending",
+      "summary_cn": "Public repository for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cheahjs/free-llm-api-resources",
+      "url": "https://github.com/cheahjs/free-llm-api-resources",
+      "description": "A list of free LLM inference resources accessible via API.",
+      "stars": 26211,
+      "forks": 2732,
+      "language": "Python",
+      "stars_today": 412,
+      "source": "github_trending",
+      "summary_cn": "A list of free LLM inference resources accessible via API.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "stars": 17047,
+      "forks": 1388,
+      "language": "Swift",
+      "stars_today": 376,
+      "source": "github_trending",
+      "summary_cn": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "stars": 49142,
+      "forks": 4282,
+      "language": "Python",
+      "stars_today": 144,
+      "source": "github_trending",
+      "summary_cn": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "stars": 67105,
+      "forks": 7519,
+      "language": "Python",
+      "stars_today": 110,
+      "source": "github_trending",
+      "summary_cn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 665,
+      "comments": 450,
+      "author": "martinald",
+      "time": "2026-07-06T20:14:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48809877",
+      "source": "hacker_news",
+      "title_cn": "GLM 5.2 and the coming AI margin collapse",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 445,
+      "comments": 188,
+      "author": "in-silico",
+      "time": "2026-07-06T17:44:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48808002",
+      "source": "hacker_news",
+      "title_cn": "A global workspace in language models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 371,
+      "comments": 255,
+      "author": "LabsLucas",
+      "time": "2026-07-06T15:01:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48805624",
+      "source": "hacker_news",
+      "title_cn": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "score": 315,
+      "comments": 65,
+      "author": "soycaporal",
+      "time": "2026-07-06T23:06:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48811644",
+      "source": "hacker_news",
+      "title_cn": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "score": 263,
+      "comments": 78,
+      "author": "sscaryterry",
+      "time": "2026-07-06T23:59:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48812055",
+      "source": "hacker_news",
+      "title_cn": "Small AI Models Gain Traction In places with unreliable networks",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "score": 212,
+      "comments": 62,
+      "author": "maxloh",
+      "time": "2026-07-06T16:47:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48807225",
+      "source": "hacker_news",
+      "title_cn": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "score": 176,
+      "comments": 79,
+      "author": "zie1ony",
+      "time": "2026-07-07T20:35:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48823359",
+      "source": "hacker_news",
+      "title_cn": "We charge $10k a week to delete AI-generated code",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 103,
+      "comments": 49,
+      "author": "gritzko",
+      "time": "2026-07-07T15:11:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48818937",
+      "source": "hacker_news",
+      "title_cn": "Automating AI Away",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Pulpie – Models for Cleaning the Web",
+      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
+      "score": 100,
+      "comments": 25,
+      "author": "snyy",
+      "time": "2026-07-06T16:04:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48806575",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Pulpie – Models for Cleaning the Web",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 94,
+      "comments": 25,
+      "author": "segmenta",
+      "time": "2026-07-07T16:10:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 79,
+      "comments": 9,
+      "author": "duha",
+      "time": "2026-07-07T18:36:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "source": "hacker_news",
+      "title_cn": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+      "url": "https://whimfiles.com",
+      "score": 79,
+      "comments": 53,
+      "author": "whimbyte",
+      "time": "2026-07-07T08:12:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48814952",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+      "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
+      "score": 56,
+      "comments": 87,
+      "author": "skeledrew",
+      "time": "2026-07-07T20:10:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48823024",
+      "source": "hacker_news",
+      "title_cn": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Making of Claude Code",
+      "url": "https://www.anthropic.com/features/making-of-claude-code",
+      "score": 50,
+      "comments": 28,
+      "author": "kanamekun",
+      "time": "2026-07-07T06:19:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48814264",
+      "source": "hacker_news",
+      "title_cn": "The Making of Claude Code",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tell HN: Who wants to be hired\" posts outpace \"Who's hiring\" 2 to 1",
+      "url": "https://news.ycombinator.com/item?id=48816813",
+      "score": 50,
+      "comments": 29,
+      "author": "santiagobasulto",
+      "time": "2026-07-07T12:31:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48816813",
+      "source": "hacker_news",
+      "title_cn": "Tell HN: Who wants to be hired\" posts outpace \"Who's hiring\" 2 to 1",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+      "authors": [
+        "Jihao Liu",
+        "Guoxiong Gao",
+        "Zeming Sun",
+        "Bin Wu",
+        "Shurui Liu"
+      ],
+      "abstract": "Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrating such agents effectively remains challenging, due to the difficulty of coordinating parallel proof search while keeping intermediate claims organized and reliable. In this paper, we propose Danus, an orchestration system for research-level mathematical reasoning centered on a shared fact graph as a global memory-management mechanism. Danus consists of a main agent that performs planning and coordination, multiple worker agents that carry out proof search in parallel, and a stateless verifier that checks proposed mathematical claims before they are admitted into the fact graph. Each verified fact is stored together with its proof and logical dependencies, allowing the system to build long arguments incrementally while keeping the shared proof state organized. The main agent periodically summarizes the evolving proof state, redirects workers across promising directions, and supports interaction with human mathematicians through progress reports. We evaluate Danus through six research-level case studies in algebraic geometry, singularity theory, and combinatorics, illustrating how the fact-graph memory mechanism enables Danus to construct long, detailed mathematical proofs. Our results suggest that fact-graph-based orchestration provides an effective route toward scaling mathematical reasoning agents for long-horizon research problems. Danus is open source at https://github.com/frenzymath/Danus.",
+      "url": "http://arxiv.org/abs/2607.06447v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06447v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.MA"
+      ],
+      "published": "2026-07-07T16:11:30+00:00",
+      "source": "arxiv",
+      "title_cn": "Danus: Orchestrating Mathematical Reasoning Agents with Fact-Graph Memory",
+      "summary_cn": "Recent LLM-based mathematical reasoning agents have begun to tackle research-level problems and, in several cases, have contributed to the resolution of open problems. However, scaling and orchestrati",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports",
+      "authors": [
+        "Yufan Wang",
+        "Anit Kumar Sahu",
+        "Yan Fei Ng",
+        "Daniel Kang",
+        "Shayan Vassef"
+      ],
+      "abstract": "Data from Singapore indicated that about 31% of the population had evidence of Helicobacter pylori infection. Persistent H. pylori infection is associated with chronic active gastritis and peptic ulcer disease, and its eradication is key to gastric cancer prevention. However, evidence supporting \\textit{H. pylori} positivity and H. pylori-associated gastritis may be distributed across heterogeneous coded and free-text report fields and may require contextual interpretation of assertion and negation, limiting keyword search, and making manual review difficult to scale. We conducted a retrospective pilot evaluation of the Nimblemind Multi-Agent System (nMAS), a field-name-driven, evidence-linked extraction workflow, using 54 de-identified gastric biopsy pathology reports from a large healthcare system in Singapore. Four clinician-scoped binary fields were evaluated: gastric/stomach biopsy, biopsy status, H. pylori positivity, and H. pylori-associated gastritis. Across 216 feature-case decisions, nMAS correctly classified 213, corresponding to 98.61% overall accuracy. A separately implemented UMA-style MiniMax M2.5 comparator produced similar aggregate and per-field classification metrics. Although predictive performance was similar, nMAS maintained unified report-level outputs with supporting source sentences; the demonstrated contribution is therefore workflow integration and traceability rather than predictive superiority. Under an illustrative, unmeasured scenario, reviewing 1,000 reports at five minutes per manual review versus five seconds per evidence-linked verification would reduce review time from 83.3 to 1.4 staff-hours, corresponding to 81.9 staff-hours and about USD~6,100 in potential staff-time value. Larger multi-institutional studies should evaluate evidence-span correctness, clinician verification time, and generalizability.",
+      "url": "http://arxiv.org/abs/2607.06435v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06435v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-07T16:05:00+00:00",
+      "source": "arxiv",
+      "title_cn": "Finding H. pylori in the Fine Print: Evidence-Linked Multi-Agent Case Finding from Gastric Biopsy Reports",
+      "summary_cn": "Data from Singapore indicated that about 31% of the population had evidence of Helicobacter pylori infection. Persistent H. pylori infection is associated with chronic active gastritis and peptic ulce",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ExplAIner: A Declarative Query Language for Explaining Classification Models",
+      "authors": [
+        "Marcelo Arenas",
+        "Pablo Barceló",
+        "Diego Bustamante",
+        "Jose Caraball",
+        "María Alejandra Schild"
+      ],
+      "abstract": "The XAI community has studied a wide range of queries and scores for explaining predictions of ML models. From a data management perspective, this proliferation of explanation notions calls for declarative query languages in which such notions can be specified, combined, and analyzed uniformly. In this paper, we develop such a framework for Boolean models. We first revisit FOIL, an interpretability query language for black-box models, and show that it has two fundamental limitations: it cannot express central optimality-based explanation queries, and its evaluation problem over decision trees is hard for every level of the polynomial hierarchy. We then introduce ExplAIner, a query language based on FOIL with an extended vocabulary and a layered structure. We show that ExplAIner can express a broad family of explanation notions, including abductive, contrastive, feature-based, and distance-based queries. We also prove that the evaluation problem for each query in ExplAIner belongs to the Boolean hierarchy over every class of Boolean models for which some basic predicates can be evaluated in polynomial time. In particular, that property holds for deterministic and decomposable Boolean circuits. Finally, we introduce Opt-FOIL, an optimization-oriented fragment of ExplAIner for computing explanations that are minimal with respect to strict partial orders, and prove that its evaluation problem is in $\\mathrm{FP}^{\\mathrm{NP}}$ under the same tractability assumptions. These complexity results have a direct algorithmic consequence: a fixed ExplAIner query can be evaluated with a fixed number of calls to a SAT solver, while a notion of explanation specified in Opt-FOIL can be computed with a polynomial number of such calls. This is particularly relevant in formal XAI, where SAT solvers have been successfully used to compute explanations for several classes of ML models.",
+      "url": "http://arxiv.org/abs/2607.06407v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06407v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-07T15:36:51+00:00",
+      "source": "arxiv",
+      "title_cn": "ExplAIner: A Declarative Query Language for Explaining Classification Models",
+      "summary_cn": "The XAI community has studied a wide range of queries and scores for explaining predictions of ML models. From a data management perspective, this proliferation of explanation notions calls for declar",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Definition and Roadmap for World Models",
+      "authors": [
+        "Xinyuan Chen",
+        "Haoyu Guo",
+        "Shi Guo",
+        "Bingqi Jiang",
+        "Chunhua Shen"
+      ],
+      "abstract": "World models -- internal simulators that learn the structure and dynamics of an environment -- have become one of the most actively debated concepts in AI. From model-based reinforcement learning and video generation to embodied robotics and ultimately, physical AI, researchers across AI subfields are building systems that they call \"world models\", yet there is no consensus on what a world model fundamentally is, what it should predict, or how it should be built. This perspective article provides a scientific definition of world models, discussions of their key technical aspects, and a staged roadmap for developing effective world models.",
+      "url": "http://arxiv.org/abs/2607.06401v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06401v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-07T15:31:32+00:00",
+      "source": "arxiv",
+      "title_cn": "A Definition and Roadmap for World Models",
+      "summary_cn": "World models -- internal simulators that learn the structure and dynamics of an environment -- have become one of the most actively debated concepts in AI. From model-based reinforcement learning and ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
+      "authors": [
+        "Taeyun Roh",
+        "Eunha Lee",
+        "Wonjune Jang",
+        "Sohyun Chung",
+        "Junha Jung"
+      ],
+      "abstract": "Biomedical question answering requires not only accurate extraction of information from scientific literature but also reliable integration of evidence across multiple documents. This study presents a question-type-specific large language model (LLM) framework for BioASQ 14b Task B, designed to improve answer robustness and evidence grounding in biomedical question answering. Rather than applying a single prompting strategy to all questions, the framework selects different inference procedures for yes/no, factoid, and list questions according to their distinct reasoning and evaluation requirements. For yes/no questions, snippet shuffling and self-reflection are used to reduce sensitivity to evidence ordering and improve decision stability. For factoid questions, full-snippet input is combined with chain-of-thought-based in-context learning to support accurate biomedical entity identification. For list questions, a multi-agent architecture is employed, in which evidence extraction, candidate generation, answer verification, and final aggregation are handled collaboratively. Preliminary experiments on BioASQ 13b were used to identify effective inference strategies for each question type, and the resulting framework was subsequently evaluated in the official BioASQ 14b Task B challenge. In the official evaluation, our framework showed competitive performance across multiple batches and achieved first place in the factoid subtask of Batch 4. These results demonstrate the effectiveness of combining question-type-specific inference, ensemble prediction, and agent-based verification for reliable biomedical question answering.",
+      "url": "http://arxiv.org/abs/2607.06452v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06452v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-07-07T16:12:51+00:00",
+      "source": "arxiv",
+      "title_cn": "From Voting to Agent Collaboration: Answer-Type-Aware LLM Pipelines for BioASQ 14b",
+      "summary_cn": "Biomedical question answering requires not only accurate extraction of information from scientific literature but also reliable integration of evidence across multiple documents. This study presents a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TILDE: TILt-based Distributional Erasure for Concept Unlearning",
+      "authors": [
+        "Naveen George",
+        "Naoki Murata",
+        "Yuhta Takida",
+        "Konda Reddy Mopuri",
+        "Yuki Mitsufuji"
+      ],
+      "abstract": "Concept unlearning in text-to-image diffusion models is critical for safe and practical deployment: with rising privacy concerns, copyright disputes, trademark constraints, and safety regulations, deployed systems must be able to suppress unwanted concepts after training. Existing methods often remove the target concept effectively, but practical unlearning also requires an equally fundamental property: the unlearned model should retain quality, diversity, and semantic coverage on benign generation. The gold standard is a retain-only model trained from scratch without the unwanted data. However, common erasure objectives do not specify which post-unlearning distribution should approximate this reference, leaving retention as an implicit consequence of the update rule. We propose TILDE, TILt-based Distributional Erasure, which formulates concept unlearning as a distributional alignment problem: the desired target is the minimum-deviation conditional distribution from the pretrained model under a forgetting constraint. This energy-tilted, anchor-free target suppresses concept-expressing images while preserving benign relative mass for each prompt. We instantiate this principle with residual $\\nabla$-GFlowNet training, which learns the score correction induced by the forget energy relative to the pretrained diffusion model. Across objects, artistic styles, and characters, TILDE achieves strong forgetting while improving retention and distributional fidelity over prior baselines.",
+      "url": "http://arxiv.org/abs/2607.06432v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06432v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-07-07T15:59:59+00:00",
+      "source": "arxiv",
+      "title_cn": "TILDE: TILt-based Distributional Erasure for Concept Unlearning",
+      "summary_cn": "Concept unlearning in text-to-image diffusion models is critical for safe and practical deployment: with rising privacy concerns, copyright disputes, trademark constraints, and safety regulations, dep",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Andha-Dhun: A First Look at Audio Descriptions in Hindi",
+      "authors": [
+        "Ritabrata Chakraborty",
+        "Divy Kala",
+        "Nisheeth Bhooshan Gupta",
+        "Ganji Sreeram",
+        "Pailla Balakrishna Reddy"
+      ],
+      "abstract": "Audio Descriptions (ADs) narrate visual content for Blind and Low Vision (BLV) audiences during gaps in audiovisual media. There is growing momentum around ADs in movies and TV shows, and with mandates from India's Central Board of Film Certification (CBFC), there is a need to expand ADs beyond English. Yet, there is no work that generates ADs for any Indian language. To address this gap, we present the first systematic study of ADs in Hindi, contributing to aspects such as data, generation, and evaluation. We introduce Andha-Dhun, the first dataset of human-authored Hindi ADs collected from 8 full-length movies. We explore two approaches for generating ADs in Hindi: (i) directly from English dense video descriptions, and (ii) translating English ADs into Hindi. We evaluate these approaches using perplexity and LLM-as-a-judge metrics to assess fluency and quality respectively. We also analyze movies that have both English and Hindi human-authored ADs and find that naive translation introduces artifacts and narrows diversity compared to original Hindi ADs. Direct machine translation fails to adapt cultural references, while human-translated ADs do better but still fall short. Our findings emphasize that the purpose of Hindi ADs is accessibility for Indian BLV audiences, and that this requires adapting content for the audience more than strict fidelity to the source.",
+      "url": "http://arxiv.org/abs/2607.06457v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06457v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T16:15:46+00:00",
+      "source": "arxiv",
+      "title_cn": "Andha-Dhun: A First Look at Audio Descriptions in Hindi",
+      "summary_cn": "Audio Descriptions (ADs) narrate visual content for Blind and Low Vision (BLV) audiences during gaps in audiovisual media. There is growing momentum around ADs in movies and TV shows, and with mandate",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders",
+      "authors": [
+        "Yoav Baron",
+        "Sara Dorfman",
+        "Roni Paiss",
+        "Daniel Cohen-Or",
+        "Or Patashnik"
+      ],
+      "abstract": "Vision-Language Models (VLMs) are increasingly utilized as the conditioning backbone for diffusion-based image editing due to their remarkable multimodal reasoning capabilities. While standalone VLMs demonstrate strong localization capabilities, editing pipelines frequently struggle to maintain this accuracy, particularly in complex, multi-entity scenes. In this work, we investigate this performance gap, hypothesizing that it stems from treating the VLM as a condition encoder. In this role, the model is restricted to a single forward pass, preventing the autoregressive generation process for which it was optimized, thereby failing to fully expose its capabilities. To investigate whether this spatial understanding persists when the VLM is used as a condition encoder, we introduce Analysis-by-Proxy. In this framework, we train a lightweight, interpretable proxy model on the VLM's intermediate representations using an auxiliary localization task. By analyzing the VLM through this proxy, we uncover the specific VLM representations that encode localization information. Our findings expose a fundamental mismatch between how spatial knowledge is represented within a VLM condition encoder and how it is extracted by current editing pipelines. We reveal that under single-pass constraints, the localization signal does not reliably propagate to the predefined layer configurations commonly used for conditioning. Instead, this crucial signal remains hidden within intermediate representations, at locations that vary depending on the input prompt. Using our introduced Analysis-by-Proxy framework, we reveal the fundamental failures of existing condition extraction strategies in editing pipelines, opening the door to more principled design of conditioning architectures.",
+      "url": "http://arxiv.org/abs/2607.06445v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06445v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-07-07T16:11:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Analysis-by-Proxy: Localization Signals in VLMs Operating as Condition Encoders",
+      "summary_cn": "Vision-Language Models (VLMs) are increasingly utilized as the conditioning backbone for diffusion-based image editing due to their remarkable multimodal reasoning capabilities. While standalone VLMs ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation",
+      "authors": [
+        "Yuhang Wu",
+        "Shuxiang Zhang",
+        "Wee Hian Ching",
+        "Chi Zhang",
+        "Miao Liu"
+      ],
+      "abstract": "Recent text-to-image models such as DALLE-3 excel at following diverse prompts yet remain blind to individual aesthetic preferences. We study personalized image generation, where models must align outputs with a user's implicit visual preferences based on a few historically preferred images and a short prompt. To this end, we introduce PIPBench, the first profile-inclusive benchmark for evaluating personalized image generation. We further propose a novel data construction pipeline that leverages psychological and demographic profiling dimensions for both real-user data collection and scalable agent-based data generation. Using PIPBench, we conduct a thorough evaluation of representative line of methods. Our experiments reveal key limitations in existing methods, suggesting new challenges and opportunities for personalized text-to-image synthesis. Project page: https://wuyuhang05.github.io/PIPBench/",
+      "url": "http://arxiv.org/abs/2607.06440v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06440v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T16:09:30+00:00",
+      "source": "arxiv",
+      "title_cn": "PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation",
+      "summary_cn": "Recent text-to-image models such as DALLE-3 excel at following diverse prompts yet remain blind to individual aesthetic preferences. We study personalized image generation, where models must align out",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "XRFormer: Multiscale Tokenization for XRF Representation Learning",
+      "authors": [
+        "Sofiane Daimellah",
+        "Sylvie Le Hégarat-Mascle",
+        "Clotilde Boust"
+      ],
+      "abstract": "X-ray fluorescence (XRF) spectroscopy is a key modality for material analysis in cultural heritage. However, automated learning from XRF spectra remains challenging: XRF spectra are complex one-dimensional signals composed of sharp elemental peaks, broader structures, and background variations that are not taken into account by existing learning-based models. This paper introduces XRFormer, a transformer architecture tailored to XRF spectra through a multiscale convolutional tokenizer that injects locality and multi-resolution inductive biases before global self-attention. The tokenizer progressively reduces spectral resolution while increasing embedding dimensionality, and the resulting token sequence is processed by a standard transformer encoder. We further investigate self-supervised pretraining for XRF representation learning using Masked Spectral modeling (MSM) and a physics-informed Peak Presence Prediction (PPP) objective. Experiments on the Pigments Checker STANDARD v.5 dataset for pigment identification and unmixing show that XRFormer consistently outperforms ViT, SpectralFormer (with and without CAF), and a 1D-CNN baseline for pigment identification. For pigment unmixing, XRFormer achieves robust abundance estimation while maintaining significantly higher parameter efficiency than SpectralFormer, operating at a lower token resolution (128 vs. 512 tokens) and with less than half the number of parameters (1.5M vs. 3.37M). MSM yields consistent gains across both tasks, while PPP further enhances performance for both identification and unmixing when tuned with an appropriate peak prominence. These results highlight multiscale, modality-aware tokenization as an effective and parameter efficient foundation for transformer-based XRF modeling under data-limited conditions. A GitHub repository is provided at https://github.com/sofiane1010/XRFormer.",
+      "url": "http://arxiv.org/abs/2607.06424v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06424v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T15:51:06+00:00",
+      "source": "arxiv",
+      "title_cn": "XRFormer: Multiscale Tokenization for XRF Representation Learning",
+      "summary_cn": "X-ray fluorescence (XRF) spectroscopy is a key modality for material analysis in cultural heritage. However, automated learning from XRF spectra remains challenging: XRF spectra are complex one-dimens",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "HoloCount: A Holistic Visual Counting Benchmark for MLLMs",
+      "authors": [
+        "Jinhong Deng",
+        "Limeng Qiao",
+        "Guanglu Wan"
+      ],
+      "abstract": "Visual counting is a fundamental pillar of multimodal intelligence, requiring a seamless integration of fine-grained grounding and spatial reasoning. While Multimodal Large Language Models (MLLMs) have achieved remarkable success in qualitative scene understanding, their quantitative precision remains a significant bottleneck, often characterized by persistent numerical hallucinations. Existing counting benchmarks primarily focus on basic perception in simplified contexts, failing to capture the complex failure modes that emerge under logical constraints or adversarial conditions. To address these limitations, we introduce HoloCount, a holistic and diagnostically rich benchmark structured around a three-level hierarchical taxonomy. HoloCount evaluates MLLMs across: (1) Semantic Counting, focusing on atomic and property-based enumeration; (2) Analytical Counting, assessing logical composition through spatial and set-based reasoning; and (3) Robustness Testing, probing model integrity against adverse scenarios and grounded counter-priors, such as high-density scenes and linguistic biases. Through an exhaustive evaluation of over 20 state-of-the-art MLLMs, we reveal a critical performance gap: even top-tier models degrade significantly as tasks transition from perception to complex analytical reasoning and adverse scenarios. Our findings provide a systematic landscape of current MLLM counting capabilities and offer a roadmap for developing more grounded and reliable multimodal systems. The dataset is available at https://mm-mvr.github.io/HoloCount/.",
+      "url": "http://arxiv.org/abs/2607.06420v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06420v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T15:48:57+00:00",
+      "source": "arxiv",
+      "title_cn": "HoloCount: A Holistic Visual Counting Benchmark for MLLMs",
+      "summary_cn": "Visual counting is a fundamental pillar of multimodal intelligence, requiring a seamless integration of fine-grained grounding and spatial reasoning. While Multimodal Large Language Models (MLLMs) hav",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Temporal Modeling of Optically Variable Devices in Identity Documents",
+      "authors": [
+        "Glen Pouliquen",
+        "Joseph Chazalon",
+        "Guillaume Chiron",
+        "Oriol Ramos Terrades",
+        "Thierry Géraud"
+      ],
+      "abstract": "Robust remote verification of identity documents relies on analyzing faint, transparent security features like Optically Variable Devices (OVDs), or \"holograms\", within user-captured videos under uncontrolled conditions. Current systems, however, face critical limitations: existing methods often treat video frames in isolation, neglecting the intrinsic dynamic nature of OVDs and leaving systems vulnerable to swapping attacks, or focus on general holographic presence and lack the ability to verify specific OVD types. Moreover, the economic infeasibility of frame-by-frame video annotation makes supervised training impractical. In this work, we introduce two novel approaches for verifying the dynamic behavior of transparent OVDs protecting the holder's portrait, specifically designed for open-set scenarios where attack types are unknown during training. We demonstrate that these approaches can be trained without any attack samples in a self-supervised setting, surpassing previous state-of-the-art methods on public datasets while adhering strictly to industrial constraints. Our results confirm that modeling temporal dynamics is essential for defeating sophisticated attacks under realistic conditions, and underscores the promise of sequence modeling and anomaly detection for OVD verification. Code is available at https://github.com/EPITAResearchLab/pouliquen.26.icdar.",
+      "url": "http://arxiv.org/abs/2607.06408v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06408v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T15:37:53+00:00",
+      "source": "arxiv",
+      "title_cn": "Temporal Modeling of Optically Variable Devices in Identity Documents",
+      "summary_cn": "Robust remote verification of identity documents relies on analyzing faint, transparent security features like Optically Variable Devices (OVDs), or \"holograms\", within user-captured videos under unco",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "What Images Cannot Say: Language-Guided Olfactory Representation Learning",
+      "authors": [
+        "Eleftherios Tsonis",
+        "Xi Wang",
+        "Vicky Kalogeiton"
+      ],
+      "abstract": "Images tell us what a scene looks like, but rarely what it would feel like to be there. While recent datasets pair visual scenes with electronic-nose measurements, aligning smell signals with images remains challenging because many olfactory cues arise from contextual environmental factors that are not directly visible in pixels. We introduce SCENT, a multimodal framework that uses language guidance as a semantic bridge between vision and olfaction. Our approach leverages Vision-Language Models (VLMs) to generate scene descriptors capturing objects, environmental context, and plausible ambient smell cues suggested by the visual scene. These descriptors provide semantic guidance for learning olfactory representations. We train a smell encoder that maps electronic-nose signals into a shared embedding space aligned with both visual and textual representations, and introduce a languageguided latent decomposition that separates object-specific odors from contextual environmental contributions. Experiments on the New York Smells dataset demonstrate that SCENT significantly improves crossmodal retrieval compared to vision-only baselines, achieving state-of-theart performance on smell-to-image and smell-to-text retrieval tasks. In addition, our framework produces interpretable olfactory representations that enable the disentanglement of complex smell mixtures. Our results reveal the importance of contextual semantic information for grounding olfactory perception in multimodal learning and pave the way for future research in this area.",
+      "url": "http://arxiv.org/abs/2607.06402v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06402v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-07-07T15:31:55+00:00",
+      "source": "arxiv",
+      "title_cn": "What Images Cannot Say: Language-Guided Olfactory Representation Learning",
+      "summary_cn": "Images tell us what a scene looks like, but rarely what it would feel like to be there. While recent datasets pair visual scenes with electronic-nose measurements, aligning smell signals with images r",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration",
+      "authors": [
+        "Jin Jiang",
+        "Jia Wang",
+        "Panwen Hu",
+        "Weiran Zhao",
+        "Shengcai Liao"
+      ],
+      "abstract": "Video face restoration (VFR) aims to recover high-quality and temporally consistent facial details from severely degraded video sequences; however, existing methods still struggle to balance spatial fidelity and temporal coherence under complex degradations. To address this, we propose FADRA, a frequency-aware diffusion framework with iterative residual adaptation specifically tailored for robust VFR. We first leverage the strong temporal consistency of a pre-trained text-to-video diffusion model and introduce lightweight LoRA adapters together with a Low-Quality (LQ) Pixel-Alignment Feature Fusion module to efficiently adapt the frozen generative prior to the VFR task. To further adapt the frozen diffusion backbone to the downstream VFR task beyond LoRA-based adaptation, we introduce a Repeated Residual Adaptation Head (RRAH) for step-wise residual refinement after the diffusion backbone. To make this refinement explicitly guided by the degraded observation, RRAH further takes the LQ latent together with the current velocity prediction as input, allowing the model to repeatedly revisit LQ cues and predict residual updates at each flow-matching step. This LQ-guided repeated residual adaptation helps recover fine facial details while preserving the inherent temporal priors of the pre-trained model. Furthermore, to ensure the structural integrity of perceptually important details, we introduce a Frequency-Aware Loss that provides explicit supervision across multiple spectral bands, emphasizing visually sensitive frequency components that are crucial for perceptual quality and prone to temporal jittering. Extensive experiments demonstrate that FADRA recovers better facial structures and produces more temporally consistent videos than state-of-the-art methods, leading to clear gains in both quantitative metrics and visual perception.",
+      "url": "http://arxiv.org/abs/2607.06389v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06389v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-07T15:24:42+00:00",
+      "source": "arxiv",
+      "title_cn": "FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration",
+      "summary_cn": "Video face restoration (VFR) aims to recover high-quality and temporally consistent facial details from severely degraded video sequences; however, existing methods still struggle to balance spatial f",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks",
+      "authors": [
+        "Sayma Nowshin Chowdhury",
+        "Vineeta Nair",
+        "Taseen Forhad",
+        "Aishwarya Natarajan",
+        "Corey Hart"
+      ],
+      "abstract": "Energy-efficient neuromorphic computing at the edge requires simulation tools that can capture the non-ideal behavior of mixed-signal spiking neural network (SNN) hardware while supporting system-level design exploration. This work presents an open-source hardware-aware simulation framework for mixed-signal SNNs that enables comparative analysis across neuron, synapse and architecture choices. The framework supports multiple neuron models, including Leaky Integrate-and-Fire (LIF), Hodgkin-Huxley (HH) and Axon-Hillock (AH), together with non-volatile analog synapses based on floating-gate transistors and ReRAM devices. By incorporating device-level nonlinearities directly into PyTorch-based training and inference, the tool enables optimization of physical synaptic parameters rather than idealized abstract weights. The framework is evaluated on standard neuromorphic benchmarks, including N-MNIST, DVS Gesture and Spiking Heidelberg Digits (SHD). For each model dataset configuration, it reports classification accuracy together with hardware-oriented metrics such as silicon area, power consumption and quantization sensitivity. These capabilities enable cross-layer design space exploration and help identify neuron-synapse configurations that best satisfy application-specific constraints on accuracy, energy efficiency, area and hardware fidelity.",
+      "url": "http://arxiv.org/abs/2607.06456v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.06456v1",
+      "categories": [
+        "eess.SP",
+        "cs.NE"
+      ],
+      "published": "2026-07-07T16:15:03+00:00",
+      "source": "arxiv",
+      "title_cn": "A Hardware-Aware Open-Source Framework for Design Space Exploration of Mixed-Signal Spiking Neural Networks",
+      "summary_cn": "Energy-efficient neuromorphic computing at the edge requires simulation tools that can capture the non-ideal behavior of mixed-signal spiking neural network (SNN) hardware while supporting system-leve",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
