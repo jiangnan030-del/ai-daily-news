@@ -1,0 +1,733 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T09:58:02.315934+08:00",
+  "github_trending": [
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "stars": 11948,
+      "forks": 811,
+      "language": "C#",
+      "stars_today": 1717,
+      "source": "github_trending",
+      "summary_cn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 74205,
+      "forks": 8001,
+      "language": "JavaScript",
+      "stars_today": 1297,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "stars": 54245,
+      "forks": 8829,
+      "language": "JavaScript",
+      "stars_today": 1218,
+      "source": "github_trending",
+      "summary_cn": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 249866,
+      "forks": 22170,
+      "language": "Shell",
+      "stars_today": 1116,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "stars": 80500,
+      "forks": 7923,
+      "language": "Python",
+      "stars_today": 856,
+      "source": "github_trending",
+      "summary_cn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "description": "A TTS that fits in your CPU (and pocket)",
+      "stars": 6627,
+      "forks": 677,
+      "language": "Python",
+      "stars_today": 655,
+      "source": "github_trending",
+      "summary_cn": "A TTS that fits in your CPU (and pocket)",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "stars": 8953,
+      "forks": 737,
+      "language": "Rust",
+      "stars_today": 564,
+      "source": "github_trending",
+      "summary_cn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "stars": 14431,
+      "forks": 888,
+      "language": "C++",
+      "stars_today": 395,
+      "source": "github_trending",
+      "summary_cn": "A lightweight, lightning-fast, in-process vector database",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 50780,
+      "forks": 4240,
+      "language": "Python",
+      "stars_today": 352,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "stars": 7684,
+      "forks": 710,
+      "language": "TypeScript",
+      "stars_today": 318,
+      "source": "github_trending",
+      "summary_cn": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/SkillOpt",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "stars": 11724,
+      "forks": 1082,
+      "language": "Python",
+      "stars_today": 275,
+      "source": "github_trending",
+      "summary_cn": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 136911,
+      "forks": 21997,
+      "language": "Python",
+      "stars_today": 215,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": 21717,
+      "forks": 2904,
+      "language": "Python",
+      "stars_today": 177,
+      "source": "github_trending",
+      "summary_cn": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "stars": 12507,
+      "forks": 1029,
+      "language": "Python",
+      "stars_today": 168,
+      "source": "github_trending",
+      "summary_cn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 53017,
+      "forks": 6849,
+      "language": "Python",
+      "stars_today": 149,
+      "source": "github_trending",
+      "summary_cn": "🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "score": 507,
+      "comments": 192,
+      "author": "ColinEberhardt",
+      "time": "2026-07-08T05:25:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48827858",
+      "source": "hacker_news",
+      "title_cn": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "score": 416,
+      "comments": 96,
+      "author": "ottomengis",
+      "time": "2026-07-08T14:09:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48832212",
+      "source": "hacker_news",
+      "title_cn": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "score": 254,
+      "comments": 131,
+      "author": "mekpro",
+      "time": "2026-07-08T16:19:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48833866",
+      "source": "hacker_news",
+      "title_cn": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 212,
+      "comments": 91,
+      "author": "segmenta",
+      "time": "2026-07-07T16:10:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "score": 204,
+      "comments": 75,
+      "author": "chenglong-hn",
+      "time": "2026-07-08T17:46:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48834924",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "score": 188,
+      "comments": 178,
+      "author": "karrot-kake",
+      "time": "2026-07-08T20:41:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48837162",
+      "source": "hacker_news",
+      "title_cn": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 129,
+      "comments": 61,
+      "author": "gritzko",
+      "time": "2026-07-07T15:11:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48818937",
+      "source": "hacker_news",
+      "title_cn": "Automating AI Away",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "score": 127,
+      "comments": 13,
+      "author": "rzk",
+      "time": "2026-07-08T08:37:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48829242",
+      "source": "hacker_news",
+      "title_cn": "Geosql: A Claude/Codex skill for geospatial data",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 111,
+      "comments": 12,
+      "author": "duha",
+      "time": "2026-07-07T18:36:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "source": "hacker_news",
+      "title_cn": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+      "score": 81,
+      "comments": 56,
+      "author": "furcyd",
+      "time": "2026-07-08T23:11:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48838611",
+      "source": "hacker_news",
+      "title_cn": "Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "score": 62,
+      "comments": 23,
+      "author": "hershyb_",
+      "time": "2026-07-08T23:27:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48838772",
+      "source": "hacker_news",
+      "title_cn": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 37,
+      "comments": 23,
+      "author": "brian_kuan",
+      "time": "2026-07-07T14:07:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48818098",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "url": "https://github.com/weirdGuy/kastor",
+      "score": 32,
+      "comments": 17,
+      "author": "weirdguy",
+      "time": "2026-07-08T15:25:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48833183",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Kastor – Terraform-style specs for AI agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Second Derivative: Why No One Understands the AI Boom",
+      "url": "https://www.groundbrkr.com/p/the-second-derivative-why-no-one",
+      "score": 29,
+      "comments": 11,
+      "author": "ericwaller",
+      "time": "2026-07-08T12:17:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48830961",
+      "source": "hacker_news",
+      "title_cn": "The Second Derivative: Why No One Understands the AI Boom",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "score": 19,
+      "comments": 5,
+      "author": "yr_animesh",
+      "time": "2026-07-08T20:09:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=48836813",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "authors": [
+        "Yujiao Chen"
+      ],
+      "abstract": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting change in collective behavior to that rule. We instantiate the methodology in IABench-CA, a consequence-allocation benchmark spanning 228 contexts, five canonical rules, and seven model populations (33,924 games), with a normative cooperative reference and auto-labelled reasoning traces. Three findings emerge. (1) Deployment rules causally alter collective safety: changing only the consequence rule moves mean fatality by 22 to 58 percentage points within every population. (2) There is no safe default, but the targeting hazard is universal: the safest rule, the least-safe rule, and even the direction of the incidence effect vary across populations, yet regressive identity-targeting is never decisively safest in any context for any population, eliminates the least-resourced agent in 30-87% of games everywhere, and is selection-unsafe relative to the cooperative reference for all seven populations. (3) Identity salience is the mechanism: a one-shot anonymization ablation on the most exploitation-prone population (gpt-5.1) shows that merely naming the loss bearer in the rule text drives targeted elimination from 22% to 81% at identical payoffs; under repeated play, anonymization only delays the targeting, as agents re-infer the hidden rule from observed eliminations. We package the methodology as a safety-case workflow that certifies a provisional rule region $Φ(c,P)$ per deployment context and population, with explicit residual risks and monitoring obligations.",
+      "url": "http://arxiv.org/abs/2607.07695v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07695v1",
+      "categories": [
+        "cs.AI",
+        "cs.GT",
+        "cs.MA"
+      ],
+      "published": "2026-07-08T17:53:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
+      "summary_cn": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
+      "authors": [
+        "Tianming Sha",
+        "Yue Zhao",
+        "Lichao Sun",
+        "Yushun Dong"
+      ],
+      "abstract": "Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and maintainable. We introduce SkillCenter, to our knowledge the largest open skill library for agents by total count: 216,938 structured skills across 24 domain bundles. A SkillGate-filtered pipeline contributes 114,565 source-grounded skills from peer-reviewed journals, ArXiv, and over 24,000 technical sources, integrated with 102,373 community skills from GitHub and the ClawHub marketplace. We present the end-to-end framework that builds the pipeline subset: multi-source acquisition, an LLM-based quality gate (SkillGate), template-driven generation, iterative source-grounding, and quality-controlled publishing. Source grounding is a traceability guarantee: each retained claim maps to an exact quotation in its source. All skills ship as offline-searchable SQLite FTS5 bundles.",
+      "url": "http://arxiv.org/abs/2607.07676v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07676v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-08T17:34:28+00:00",
+      "source": "arxiv",
+      "title_cn": "SkillCenter: A Large-Scale Source-Grounded Skill Library for Autonomous AI Agents",
+      "summary_cn": "Autonomous AI agents can execute complex tasks with limited human review, yet they often lack the grounded operational knowledge to make their outputs not just executable but correct, secure, and main",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "authors": [
+        "Chen Tang",
+        "Yizhou Wang",
+        "Jianyu Wu",
+        "Lintao Wang",
+        "Shixiang Tang"
+      ],
+      "abstract": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically explaining these relationships requires interpreting structural evidence through scientific principles and physical constraints, from stereochemistry and bonding to symmetry, energetics and periodic order. However, applying artificial intelligence to this process presents a joint challenge of representation and reasoning: models must preserve domain-native structural information while showing how specific evidence supports predictions under these constraints. Here we introduce SciReasoner, a multimodal scientific foundation model for native structural reasoning across proteins, small molecules and inorganic crystals. SciReasoner discretizes coordinates, topologies and periodic connectivities into a unified structure-aware vocabulary, treating structural tokens as addressable evidence units during reasoning. In homology-controlled Gene Ontology prediction, SciReasoner improves Cellular Component annotation for low-homology and orphan-like proteins, increasing $F_{\\max}$ from 0.42 to 0.55. In chemistry, it raises single-step retrosynthesis accuracy from 0.63 to 0.72 while generating fragment-level disconnection and precursor-verification traces. In materials science, its representations separate elemental and compound phases and resolve high- and low-band-gap regimes. Across 86 benchmarks, SciReasoner achieves state-of-the-art performance on 67 tasks. Double-blind expert evaluation rates its reasoning traces as preferred or at least comparable to those of a frontier large language model in 98% of cases. By making structure an inspectable substrate for reasoning under scientific constraints, SciReasoner connects accurate prediction with interpretable scientific inference.",
+      "url": "http://arxiv.org/abs/2607.07708v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07708v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CE",
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:59:59+00:00",
+      "source": "arxiv",
+      "title_cn": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
+      "summary_cn": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization.",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "authors": [
+        "Yair Feldman",
+        "Linxi Zhao",
+        "Nathan Godey",
+        "Dongyoung Go",
+        "Yilun Hua"
+      ],
+      "abstract": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from the KB as needed. This recently introduced paradigm provides multiple advantages, including knowledge control capabilities that remain beyond conventional LLMs. We propose continuous-query LMLM (CO-LMLM), where the KB pairs continuous keys with textual knowledge values, a significant departure from prior reliance on relational KB and queries. CO-LMLM generates flexible vector queries at minimal cost, while still integrating human-readable and attributable retrieved knowledge into its generation. We pair this design with an annotation pipeline that tags free-form factual spans in arbitrary text, removing prior work's restriction to Wikipedia. Across pretraining on Wikipedia and FineWeb-Edu and at multiple model scales, CO-LMLM outperforms prior LMLMs and vanilla LLMs in both perplexity and factual precision. At 360M scale, this includes lower perplexity than models pretrained on 40x more data, and SimpleQA-verified performance that is in line with gpt-4o-mini and higher than Claude Sonnet 4.5.",
+      "url": "http://arxiv.org/abs/2607.07707v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07707v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:59:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Co-LMLM: Continuous-Query Limited Memory Language Models",
+      "summary_cn": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "authors": [
+        "Ying Chang",
+        "Jiahang Xu",
+        "Xuan Feng",
+        "Chenyuan Yang",
+        "Peng Cheng"
+      ],
+      "abstract": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policies. However, real execution traces are difficult to use directly for optimization: large trace collections are often redundant and heterogeneous, making optimization inefficient and prone to overfitting to low-value failures; meanwhile, each individual trajectory also contains many irrelevant steps, while naive context reduction methods such as truncation or sliding windows can discard causally important evidence and produce misleading optimization signals. To resolve this dilemma, we introduce STRACE (Structural TRajectory Analysis and Causal Extraction), a framework that constructs high signal-noise optimization contexts for more precise and effective optimization. At the batch level, STRACE mines failure patterns to filter redundant traces and retain representative failures; within each selected trace, it performs causal localization over a textual dependency graph to remove non-causal steps and identify the true root-cause module for optimization. Empirical results demonstrate that STRACE significantly outperforms standard context-filtering baselines. Notably, on a challenging formal verification task (VeruSAGE-Bench), it successfully optimizes human-expert designed agents, delivering $1.4\\times$ success-rate improvement (42.5% to 58.5%). The code is available at https://github.com/moomight/STRACE .",
+      "url": "http://arxiv.org/abs/2607.07702v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07702v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-07-08T17:57:27+00:00",
+      "source": "arxiv",
+      "title_cn": "From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization",
+      "summary_cn": "The optimization of long-horizon agents increasingly relies on reflection-based mechanisms, where a large language model (LLM) acts as an optimizer to diagnose agent failures and improve agent policie",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale",
+      "authors": [
+        "Grzegorz Brzezinka"
+      ],
+      "abstract": "Large language models hallucinate most about entities they have never seen. We ask whether a model's activations betray entity familiarity before a single answer token is generated, and whether that signal predicts the factual reliability of the answers. On four Polish Bielik models (1.5B-11B parameters), we probe four entity domains (athletes, cities, writers, musicians), each with 42 well-known, 42 obscure-but-real, and 42 fabricated entities addressed by a one-sentence question (504 prompts per model). Two unsupervised, single-forward-pass dispersion measures over post-SwiGLU MLP activations, inverse participation ratio and spectral entropy, separate known from fabricated entities at AUROC 0.95-1.00 across all domains and scales; a supervised linear probe reaches 0.99-1.00. Both clear selection-aware permutation floors of about 0.70-0.74 (empirical p<=1e-3), survive held-out layer selection (0.93-0.99), and persist on real names (known vs. obscure-but-real: 0.96-1.00). The signal transfers across entity types (mean off-diagonal AUROC 0.92-0.99); a matched-template counterfactual shows the only large drops are template-caused, not entity-type effects, and the signal is diffuse across heads. This representational signal is already at ceiling at 1.5B, whereas behavioral factual reliability scales sharply: 0, 2, 10, and 19 of 42 known athletes are answered fully correctly by the 1.5B, 4.5B, 7B, and 11B models under a strict judge. Within known entities, separating correct from hallucinated answers is much harder (probe 0.93; dispersion no better than a first-token-entropy baseline). A five-sample semantic-entropy baseline reaches only 0.71-0.83 at 5x the inference cost. Despite this internal awareness, the models almost never abstain: an audit of 2,520 answers finds 2 refusals and 1 hedge. Entity familiarity and factual reliability are distinct phenomena on different scaling curves.",
+      "url": "http://arxiv.org/abs/2607.07670v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07670v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:24:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Does Bielik Know What It Doesn't Know? Activation Dispersion Separates Entity Familiarity from Factual Reliability Across Model Scale",
+      "summary_cn": "Large language models hallucinate most about entities they have never seen. We ask whether a model's activations betray entity familiarity before a single answer token is generated, and whether that s",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation",
+      "authors": [
+        "Jordan Painter",
+        "Dipankar Srirag",
+        "Adarsh Kappiyath",
+        "Diptesh Kanojia",
+        "Aditya Joshi"
+      ],
+      "abstract": "Large language models increasingly \\emph{understand} dialectal English, yet still \\emph{produce} only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largely unaddressed. We introduce \\textbf{DiaLLM}, which continually pretrains three open-weight language model families on the International Corpus of English and applies implicit and explicit post-training paradigms, each combined with three model alignment strategies, giving the first controlled comparison of these components across Australian, Indian, and Northern British English. Our results reveal that dialectal robustness and generation are \\emph{dissociated}: benchmarks are shaped by continual pretraining and SFT, while alignment visibly reshapes generation in ways benchmarks do not capture. Explicit variety-targeted adaptation produces output reliably recognised as dialectal and preferred over broad alignment, yet the method that most aggressively optimises the dialectal reward is not preferred by human evaluators. Independent linguistic analysis corroborates this reward-quality gap, most clearly on two of the three families. No single alignment method dominates, and closing the gap will require richer reward designs and continued investment in dialectal resources. We release all code, checkpoints, and preference datasets.",
+      "url": "http://arxiv.org/abs/2607.07669v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07669v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-07-08T17:24:27+00:00",
+      "source": "arxiv",
+      "title_cn": "DiaLLM: An Investigation into the Robustness-Generation Gap in English Dialect Adaptation",
+      "summary_cn": "Large language models increasingly \\emph{understand} dialectal English, yet still \\emph{produce} only standard, US-leaning English, leaving dialectal generation, the harder half of the problem, largel",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+      "authors": [
+        "Anna Kuzina",
+        "Paul N. Whatmough",
+        "Babak Ehteshami Bejnordi"
+      ],
+      "abstract": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model quality. This work isolates the effect of state update design in a strict frozen-backbone regime. We show that softmax relies on key-dependent, rank-1 orthogonal projections, elucidating why delta-style networks outperform purely gated accumulation. We identify a potential source of approximation errors and introduce structural interventions, specifically sink tokens, short convolutions, and fixed-budget cache routing, which reduces the remaining gap. We scale this linearization approach across LLaMA and Qwen models up to 32B parameters, outperforming prior post hoc baselines on MMLU and matching the long-context retrieval of complex adaptive-caching frameworks.",
+      "url": "http://arxiv.org/abs/2607.07706v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07706v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:59:09+00:00",
+      "source": "arxiv",
+      "title_cn": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
+      "summary_cn": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+      "authors": [
+        "Eric Zhu",
+        "Abhinav Shrivastava",
+        "Soumik Mukhopadhyay"
+      ],
+      "abstract": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficient, as existing approaches typically require large amounts of human or reward model evaluations. This limitation reduces the practicality of diffusion RLHF in realworld settings where feedback is the primary bottleneck. In this paper, we propose two complementary strategies that substantially improve the feedback efficiency of diffusion RLHF while preserving generalization to unseen prompts. Our key observation is that reward information in diffusion trajectories is unevenly distributed: not all denoising timesteps or trajectories contribute equally to learning from a reward signal. By emphasizing informative timesteps and trajectories during optimization, we obtain more effective gradient updates. First, we introduce a per-timestep weighting scheme that reweights denoising steps during policy optimization. We theoretically connect this weighting to the optimal convergence properties of proximal policy optimization (PPO) and approximate the resulting weighting trend empirically. Second, we introduce a replay mechanism that prioritizes informative trajectories, enabling the model to reuse past samples instead of repeatedly querying new rewards. Together, these strategies significantly improve the feedback efficiency of diffusion RLHF. Under identical hyperparameter settings, our approach achieves up to a 6$\\times$ improvement in sample efficiency compared to widely used diffusion RLHF baselines.",
+      "url": "http://arxiv.org/abs/2607.07693v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07693v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-07-08T17:49:49+00:00",
+      "source": "arxiv",
+      "title_cn": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
+      "summary_cn": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly fe",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+      "authors": [
+        "Vladislav Beliaev"
+      ],
+      "abstract": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think better, since the trace itself is never graded and no label for good thinking exists. We introduce Agon, which makes two competing models each other's graders. Both attempt the same problem; in alternating roles, one drafts a solution and the other reads it while solving, and each is rewarded for out-solving the other. To win, a model must out-reason a rival that has seen its work, so reasoning is judged implicitly during training, with no process labels and no reward model. Because both models are optimized, each faces a progressively stronger rival, which single-model RL cannot provide. The two need only be comparably strong and behaviorally different. At inference the pair deploys as it trains, a two-stage cascade in which one model drafts and the other answers after reading the draft. On the hard split of DeepMath with Qwen3, this doubles GRPO's pass@1, roughly eight times the gain of an untrained Mixture-of-Agents pass over the same base. The ordering replicates on competitive-programming code and across model families (Qwen3.5, Gemma 4). For now the models talk in text; the next step is to let them reason together in latent space.",
+      "url": "http://arxiv.org/abs/2607.07690v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07690v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-07-08T17:49:14+00:00",
+      "source": "arxiv",
+      "title_cn": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
+      "summary_cn": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
+      "authors": [
+        "Shreyasvi Natraj",
+        "Cyrus Achtari",
+        "Felice Gragnano",
+        "Andrea Milzi",
+        "Marco Valgimigli"
+      ],
+      "abstract": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and computational capacity. As a result, vast numbers of physical ECGs obtained in remote areas still remain incapable of being accessed by contemporary artificial-intelligence (AI)-based decision support as they require high computational resources or strong high-speed internet connectivity. This causes several cases where conditions like acute coronary occlusion (ACS) is overlooked and reperfusion therapy delayed. Although prior work has tackled digitization and diagnosis separately, and utilized advanced AI models for them, there still remains a lack of a compute-light, on-device framework that reconstructs paper ECGs at high fidelity, while accurately supporting multiple clinically relevant endpoints. We address this need with an end-to-end lightweight on-device digitization-to-diagnosis pipeline that converts a smartphone photo or scan of a paper ECG into a calibrated 12-lead signal and screens for Myocardial Infarction (MI) pathologies, with SHapley Additive exPlanations (SHAP) to support interpretability. Trained and evaluated on 21,799 ECGs from the PTB-XL dataset and further validated on hospital-acquired ECG-Matrix dataset, the complete system runs in <30 s per ECG on CPU-only resources, achieving 95.51% accuracy (F1 = 0.9519) for MI detection on PTB-XL and 88.89% accuracy (F1 = 0.8862) for OMI detection on ECG-Matrix. This work showcases that legacy paper records can be reliably democratized in any part of the world, providing a scalable decision support when digital ECG export, connectivity, or high-end compute are unavailable",
+      "url": "http://arxiv.org/abs/2607.07683v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07683v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:42:00+00:00",
+      "source": "arxiv",
+      "title_cn": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
+      "summary_cn": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited con",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
+      "authors": [
+        "Xiangming Huang",
+        "Guannan Zhang",
+        "Lu Lu",
+        "Raphaël Pestourie"
+      ],
+      "abstract": "The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for inverse design often lack robustness and transferability, whereas evolutionary strategies are robust but struggle in high-dimensional spaces. This paper introduces a Neural Operator-enabled Topology-informed Evolutionary Strategy (NOTES) that integrates dimensionality reduction, representation learning, and evolutionary optimization for efficient and transferable inverse design. NOTES couples a DeepONet-based neural operator with the Covariance Matrix Adaptation Evolution Strategy (CMA-ES) to perform global optimization in a compact latent space that encodes topology-aware priors while discovering high-performance designs for unseen operating conditions. Applied to nanophotonic beam-deflector inverse design governed by Maxwell's equations, NOTES reduces the design dimensionality from 256 to 25 and consistently achieves over 95 percent efficiency, outperforming CMA-ES, topology optimization, and other baselines. Applied to structural optimization, NOTES discovers designs that achieve compliance down to 246. By decoupling topology learning of a DeepONet from the governing physics in a PDE solver, NOTES provides a flexible and transferable framework for the inverse design of physical systems.",
+      "url": "http://arxiv.org/abs/2607.07682v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07682v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:41:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization",
+      "summary_cn": "The inverse design of physical systems governed by partial differential equations is computationally demanding due to the high dimensionality and non-convexity of design spaces. Generative models for ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization",
+      "authors": [
+        "Xinyi Wu",
+        "Siyuan Liu",
+        "Ali Jadbabaie"
+      ],
+      "abstract": "Rotary Position Embeddings (RoPE) provide transformers with a fixed grid of positional frequencies, yet trained models use these frequencies highly non-uniformly. We study what determines this frequency usage and propose a data-centered explanation: RoPE frequencies are selected to match the relative-distance structure of the training data. Viewing each frequency as a positional lens, we formalize a field-resolution tradeoff and show that, for a data-induced dependency profile of width $W$, the optimal frequency scales as $1/W$. This frequency-matching principle explains controlled observations on synthetic and text-based data, and suggests that the mid-low frequency bands observed in language models arise from the multi-scale dependency structure of natural language. We further connect frequency selection to position-interpolation-based length generalization: scaling frequencies down expands the effective field while reducing resolution. This helps when longer-context dependencies are approximate dilations of those seen during training, but can fail when relevant dependencies do not scale with context length. Empirically, we show that natural language exhibits approximate self-similarity across positional scales, explaining why test-time frequency scaling can support long-context generalization. Overall, our results identify a data-driven mechanism behind emergent RoPE frequency usage and show that long-context generalization depends on two forms of scale matching: between learned frequencies and training-time dependencies, and between frequency scaling and how those dependencies extend to longer contexts.",
+      "url": "http://arxiv.org/abs/2607.07678v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07678v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:38:14+00:00",
+      "source": "arxiv",
+      "title_cn": "How Data Shapes RoPE Frequency Usage: From Positional Scale Matching to Length Generalization",
+      "summary_cn": "Rotary Position Embeddings (RoPE) provide transformers with a fixed grid of positional frequencies, yet trained models use these frequencies highly non-uniformly. We study what determines this frequen",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+      "authors": [
+        "Vladislav Beliaev"
+      ],
+      "abstract": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasting the frontier examples we most want to learn from. Prepending a correct prefix of a reference solution raises the success rate, making prefix length a continuous knob on difficulty. Concurrent methods set the knob once; AdaPrefix-GRPO turns it into a feedback controller: throughout training it adjusts how much of the solution each problem gets, holding its success rate near 50%, where GRPO's gradient signal is largest, then withdraws the assistance entirely, so the deployed model solves problems unaided. On hard math, at matched training FLOPs, it more than doubles GRPO's accuracy on held-out problems from the training distribution for a 0.6B model (2.1x), with 1.6x on Qwen3-1.7B and 1.7x on AIME, while roughly halving trace length. The method is implemented in data preparation plus a loss mask on prefix tokens; the trainer is otherwise stock. The smaller the model, the larger the gain.",
+      "url": "http://arxiv.org/abs/2607.07674v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07674v1",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "published": "2026-07-08T17:32:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Max Out GRPO Signal: Adaptive Trace Prefix Control for Hard Reasoning Problems",
+      "summary_cn": "Group Relative Policy Optimization (GRPO) stalls on a model's hardest problems: when no rollout in a group succeeds, the group-relative advantages vanish and the problem contributes no gradient, wasti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PeTeR: Post-Training Robustification of Probabilistic Circuits",
+      "authors": [
+        "Adrian Ciotinga",
+        "Yeming Dai",
+        "YooJung Choi"
+      ],
+      "abstract": "Probabilistic circuits (PCs) can model complex joint distributions while supporting exact and efficient computation of many inference queries. However, standard likelihood-based PC learning is vulnerable to overfitting and fragile generalization when confronted with data noise, small sample sizes, or distribution shifts. This can be mitigated using distributionally-robust optimization which consider worst-case distributions within a Wasserstein ball of the empirical distribution, but current methods are limited to training a model from scratch in this framework. Instead, we propose PeTeR: a novel, data-free post-training framework designed to robustify pre-trained PCs against distribution shifts without retraining from scratch. Empirical evaluations across multiple density estimation benchmarks demonstrate that PeTeR effectively robustifies baseline models against both random and adversarial perturbations, achieving competitive or superior performance to data-dependent robust learning baselines.",
+      "url": "http://arxiv.org/abs/2607.07671v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.07671v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-08T17:25:20+00:00",
+      "source": "arxiv",
+      "title_cn": "PeTeR: Post-Training Robustification of Probabilistic Circuits",
+      "summary_cn": "Probabilistic circuits (PCs) can model complex joint distributions while supporting exact and efficient computation of many inference queries. However, standard likelihood-based PC learning is vulnera",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
