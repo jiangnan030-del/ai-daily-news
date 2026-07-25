@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-07-25 周六</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-07-25 周六</h1>
+
+<blockquote>自动生成于 2026-07-25 09:47 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日 AI 领域持续活跃，多个前沿方向取得新进展。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/mattpocock/skills" target="_blank">mattpocock/skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>186,796</strong> Stars | 📈 今日 +2251 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Skills for Real Engineers. Straight from my .agents directory.</p>
+
+<h3>2. <a href="https://github.com/koala73/worldmonitor" target="_blank">koala73/worldmonitor</a> <code>其他</code></h3>
+
+<p>⭐ <strong>73,311</strong> Stars | 📈 今日 +2184 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface</p>
+
+<h3>3. <a href="https://github.com/diegosouzapw/OmniRoute" target="_blank">diegosouzapw/OmniRoute</a> <code>其他</code></h3>
+
+<p>⭐ <strong>28,880</strong> Stars | 📈 今日 +1841 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors</p>
+
+<h3>4. <a href="https://github.com/citrolabs/ego-lite" target="_blank">citrolabs/ego-lite</a> <code>其他</code></h3>
+
+<p>⭐ <strong>2,604</strong> Stars | 📈 今日 +880 | 🔤 JavaScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.</p>
+
+<h3>5. <a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">ComposioHQ/awesome-claude-skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>70,079</strong> Stars | 📈 今日 +663 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows</p>
+
+<h3>6. <a href="https://github.com/Panniantong/Agent-Reach" target="_blank">Panniantong/Agent-Reach</a> <code>其他</code></h3>
+
+<p>⭐ <strong>60,625</strong> Stars | 📈 今日 +477 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</p>
+
+<h3>7. <a href="https://github.com/calesthio/OpenMontage" target="_blank">calesthio/OpenMontage</a> <code>其他</code></h3>
+
+<p>⭐ <strong>42,006</strong> Stars | 📈 今日 +333 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.</p>
+
+<h3>8. <a href="https://github.com/Lordog/dive-into-llms" target="_blank">Lordog/dive-into-llms</a> <code>其他</code></h3>
+
+<p>⭐ <strong>45,015</strong> Stars | 📈 今日 +328 | 🔤 Jupyter Notebook | 推荐: ⭐⭐ (5/10)</p>
+
+<p>《动手学大模型Dive into LLMs》系列编程实践教程</p>
+
+<h3>9. <a href="https://github.com/rohitg00/ai-engineering-from-scratch" target="_blank">rohitg00/ai-engineering-from-scratch</a> <code>其他</code></h3>
+
+<p>⭐ <strong>43,184</strong> Stars | 📈 今日 +303 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Learn it. Build it. Ship it for others.</p>
+
+<h3>10. <a href="https://github.com/unclecode/crawl4ai" target="_blank">unclecode/crawl4ai</a> <code>其他</code></h3>
+
+<p>⭐ <strong>74,882</strong> Stars | 📈 今日 +302 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here:https://discord.gg/jP8KfhDhyN</p>
+
+<h3>11. <a href="https://github.com/browser-use/browser-use" target="_blank">browser-use/browser-use</a> <code>其他</code></h3>
+
+<p>⭐ <strong>106,626</strong> Stars | 📈 今日 +264 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>🌐 Make websites accessible for AI agents. Automate tasks online with ease.</p>
+
+<h3>12. <a href="https://github.com/CoreBunch/Instatic" target="_blank">CoreBunch/Instatic</a> <code>其他</code></h3>
+
+<p>⭐ <strong>4,302</strong> Stars | 📈 今日 +201 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.</p>
+
+<h3>13. <a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">cheahjs/free-llm-api-resources</a> <code>其他</code></h3>
+
+<p>⭐ <strong>28,120</strong> Stars | 📈 今日 +164 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A list of free LLM inference resources accessible via API.</p>
+
+<h3>14. <a href="https://github.com/OtterMind/Chat2DB" target="_blank">OtterMind/Chat2DB</a> <code>其他</code></h3>
+
+<p>⭐ <strong>26,340</strong> Stars | 📈 今日 +82 | 🔤 Java | 推荐: ⭐⭐ (5/10)</p>
+
+<p>🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.</p>
+
+<h3>15. <a href="https://github.com/tile-ai/tilelang" target="_blank">tile-ai/tilelang</a> <code>其他</code></h3>
+
+<p>⭐ <strong>6,884</strong> Stars | 📈 今日 +80 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://www.anthropic.com/news/claude-opus-5" target="_blank">Claude Opus 5</a> <code>其他</code></h3>
+
+<p>🔺 <strong>1302</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49038433" target="_blank">706 评论</a> | 👤 alvis</p>
+
+<h3>2. <a href="https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992" target="_blank">Startup founders urge U.S. government not to shut off Chinese open weight AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>1038</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49023016" target="_blank">847 评论</a> | 👤 theanonymousone</p>
+
+<h3>3. <a href="https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html" target="_blank">Nvidia, Microsoft, Meta warn against overregulating open-weight models</a> <code>其他</code></h3>
+
+<p>🔺 <strong>497</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49035303" target="_blank">231 评论</a> | 👤 louiereederson</p>
+
+<h3>4. <a href="https://news.ycombinator.com/item?id=49026810" target="_blank">Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models</a> <code>其他</code></h3>
+
+<p>🔺 <strong>451</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49026810" target="_blank">214 评论</a> | 👤 adam_rida</p>
+
+<h3>5. <a href="https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker" target="_blank">Be skeptical of OpenAI's rogue hacker agent story</a> <code>其他</code></h3>
+
+<p>🔺 <strong>419</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49038060" target="_blank">228 评论</a> | 👤 rwmj</p>
+
+<h3>6. <a href="https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/" target="_blank">The arguments against open source AI are bad</a> <code>其他</code></h3>
+
+<p>🔺 <strong>306</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49024643" target="_blank">210 评论</a> | 👤 jjfoooo4</p>
+
+<h3>7. <a href="https://platform.claude.com/cookbook/" target="_blank">Claude Cookbook</a> <code>其他</code></h3>
+
+<p>🔺 <strong>288</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49031409" target="_blank">154 评论</a> | 👤 saikatsg</p>
+
+<h3>8. <a href="https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16" target="_blank">DARPA, U.S. Air Force fly AI-controlled F-16</a> <code>其他</code></h3>
+
+<p>🔺 <strong>262</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49021597" target="_blank">322 评论</a> | 👤 r2sk5t</p>
+
+<h3>9. <a href="https://github.com/palmier-io/palmier-pro" target="_blank">Show HN: Palmier Pro – Open-source macOS video editor built for AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>185</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49022911" target="_blank">32 评论</a> | 👤 harrisontin</p>
+
+<h3>10. <a href="https://sliplane.io/blog/hetzner-inference" target="_blank">Hetzner is working on LLM Inference</a> <code>其他</code></h3>
+
+<p>🔺 <strong>145</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49033087" target="_blank">77 评论</a> | 👤 jonas_scholz</p>
+
+<h3>11. <a href="https://github.com/izeigerman/claude-thermos" target="_blank">Show HN: Claude-thermos keeps your Claude session warm for you</a> <code>其他</code></h3>
+
+<p>🔺 <strong>106</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49024882" target="_blank">83 评论</a> | 👤 s0ck_r4w</p>
+
+<h3>12. <a href="https://github.com/onecli/onecli" target="_blank">Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents</a> <code>其他</code></h3>
+
+<p>🔺 <strong>103</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49023427" target="_blank">31 评论</a> | 👤 Jonathanfishner</p>
+
+<h3>13. <a href="https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/" target="_blank">I Tried Building a Real App with AI. It Took a Year</a> <code>其他</code></h3>
+
+<p>🔺 <strong>87</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49034342" target="_blank">77 评论</a> | 👤 surprisetalk</p>
+
+<h3>14. <a href="https://news.ycombinator.com/item?id=49024620" target="_blank">Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents</a> <code>其他</code></h3>
+
+<p>🔺 <strong>82</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49024620" target="_blank">62 评论</a> | 👤 louis030195</p>
+
+<h3>15. <a href="https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley" target="_blank">SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says</a> <code>其他</code></h3>
+
+<p>🔺 <strong>31</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49039831" target="_blank">27 评论</a> | 👤 toomuchtodo</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2607.21559v1" target="_blank">Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana</a></h3>
+
+<p class="italic-note"><em>Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana</em></p>
+
+<p>📝 T. Ansah-Narh, Y. Asare Afrane | 📂 <code>cs.AI, cs.CE, cs.ET</code></p>
+
+<p>A consensus anomaly detection framework was applied to monthly malaria surveillance data from Ghana (2014-2023) to identify atypical transmission patterns. Anomalies were highly structured in space an</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21559v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2607.21558v1" target="_blank">Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning</a></h3>
+
+<p class="italic-note"><em>Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning</em></p>
+
+<p>📝 Baihui Wang, Bernard Koch | 📂 <code>cs.AI</code></p>
+
+<p>Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must d</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21558v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2607.21557v1" target="_blank">OpenForgeRL: Train Harness-native Agents in Any Environment</a></h3>
+
+<p class="italic-note"><em>OpenForgeRL: Train Harness-native Agents in Any Environment</em></p>
+
+<p>📝 Xiao Yu, Baolin Peng, Ruize Xu et al. | 📂 <code>cs.AI, cs.CL</code></p>
+
+<p>Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex h</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21557v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2607.21574v1" target="_blank">Surprisal Theory is Tautological (without Rational Grounding)</a></h3>
+
+<p class="italic-note"><em>Surprisal Theory is Tautological (without Rational Grounding)</em></p>
+
+<p>📝 Ryan Cotterell | 📂 <code>cs.CL</code></p>
+
+<p>Surprisal theory holds that the human processing difficulty of a linguistic unit in context is an affine function of its surprisal under some language model. I argue this claim is a tautology without</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21574v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2607.21570v1" target="_blank">MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education</a></h3>
+
+<p class="italic-note"><em>MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education</em></p>
+
+<p>📝 Qian Wu, Xinrong Zhou, Zizhan Ma et al. | 📂 <code>cs.CL, cs.HC</code></p>
+
+<p>Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21570v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2607.21585v1" target="_blank">Expanding Flow Maps</a></h3>
+
+<p class="italic-note"><em>Expanding Flow Maps</em></p>
+
+<p>📝 Sophia Tang, Pranam Chatterjee | 📂 <code>cs.LG</code></p>
+
+<p>Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21585v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2607.21573v1" target="_blank">Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity</a></h3>
+
+<p class="italic-note"><em>Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity</em></p>
+
+<p>📝 Hongnan Ma, Yiwei Shi, Mengyue Yang et al. | 📂 <code>cs.LG, cs.AI</code></p>
+
+<p>Faithful explanations of time-series classifiers should identify subsequences that are not only sufficient to preserve a black-box model's prediction, but also necessary for maintaining it. However, e</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21573v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2607.21561v1" target="_blank">Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</a></h3>
+
+<p class="italic-note"><em>Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling</em></p>
+
+<p>📝 Aaron Feller, Kris Deibler, Maxim Secor | 📂 <code>cs.LG, q-bio.BM</code></p>
+
+<p>Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a mol</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21561v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2607.21595v1" target="_blank">3D-Aware VLMs with Implicit and Explicit Geometries</a></h3>
+
+<p class="italic-note"><em>3D-Aware VLMs with Implicit and Explicit Geometries</em></p>
+
+<p>📝 Wenhao Li, Xueying Jiang, Quanhao Qian et al. | 📂 <code>cs.CV, cs.AI, cs.LG</code></p>
+
+<p>Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21595v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2607.21594v1" target="_blank">Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers</a></h3>
+
+<p class="italic-note"><em>Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers</em></p>
+
+<p>📝 Sicheng Mo, Yuheng Li, Ziyang Leng et al. | 📂 <code>cs.CV</code></p>
+
+<p>Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21594v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2607.21592v1" target="_blank">Unified Video Dense Prediction from Disjoint Data</a></h3>
+
+<p class="italic-note"><em>Unified Video Dense Prediction from Disjoint Data</em></p>
+
+<p>📝 Yihong Sun, Seoung Wug Oh, Jiahui Huang et al. | 📂 <code>cs.CV</code></p>
+
+<p>Scene understanding requires simultaneous prediction about geometry, appearance, and semantics. However, existing task-specific annotations are fragmented across incompatible, domain-specific datasets</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21592v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2607.21591v1" target="_blank">Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning</a></h3>
+
+<p class="italic-note"><em>Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning</em></p>
+
+<p>📝 Rogerio Guimaraes, Pietro Perona | 📂 <code>cs.CV</code></p>
+
+<p>Diffusion and flow-matching models dominate conditional image generation, yet inference-time scaling for these models is far less developed than for autoregressive language models. Because final quali</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21591v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2607.21580v1" target="_blank">GraphVid: Interactive Graph-Controllable Video Generation</a></h3>
+
+<p class="italic-note"><em>GraphVid: Interactive Graph-Controllable Video Generation</em></p>
+
+<p>📝 Vedant Shah, Onkar Susladkar, Tushar Prakash et al. | 📂 <code>cs.CV, cs.AI</code></p>
+
+<p>Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21580v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2607.21577v1" target="_blank">Synthetic data generation framework for quality control automation in gravure printing</a></h3>
+
+<p class="italic-note"><em>Synthetic data generation framework for quality control automation in gravure printing</em></p>
+
+<p>📝 Korota Arsène Coulibaly, Mohamed Hamlich, Khalid Hmali et al. | 📂 <code>cs.CV, cs.AI, cs.LG</code></p>
+
+<p>Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21577v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2607.21576v1" target="_blank">Self-Supervised Learning of Structured Dynamics from Videos</a></h3>
+
+<p class="italic-note"><em>Self-Supervised Learning of Structured Dynamics from Videos</em></p>
+
+<p>📝 Lukas Knobel, Andrew Zisserman, Yuki M. Asano | 📂 <code>cs.CV</code></p>
+
+<p>Understanding motion in video is a fundamental challenge for visual learning, as frame-to-frame change entangles two sources of dynamics: camera motion and object motion. This decomposition has remain</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2607.21576v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>
