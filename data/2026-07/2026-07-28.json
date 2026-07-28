@@ -1,0 +1,680 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T09:41:08.119580+08:00",
+  "github_trending": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 14848,
+      "forks": 1003,
+      "language": "Go",
+      "stars_today": 979,
+      "source": "github_trending",
+      "summary_cn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 51578,
+      "forks": 3044,
+      "language": "JavaScript",
+      "stars_today": 847,
+      "source": "github_trending",
+      "summary_cn": "The design language that makes your AI harness better at design.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 44060,
+      "forks": 4399,
+      "language": "TypeScript",
+      "stars_today": 572,
+      "source": "github_trending",
+      "summary_cn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 44998,
+      "forks": 4712,
+      "language": "Python",
+      "stars_today": 507,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 54192,
+      "forks": 4700,
+      "language": "Python",
+      "stars_today": 240,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "description": "Simple, unified interface to multiple Generative AI providers",
+      "stars": 15531,
+      "forks": 1645,
+      "language": "Python",
+      "stars_today": 185,
+      "source": "github_trending",
+      "summary_cn": "Simple, unified interface to multiple Generative AI providers",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "XiaoYouChR/Ghost-Downloader-3",
+      "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "description": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
+      "stars": 7474,
+      "forks": 447,
+      "language": "Python",
+      "stars_today": 125,
+      "source": "github_trending",
+      "summary_cn": "An AI-boost cross-platform multi-protocol fluent-design concurrent downloader built with Python & Qt.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "stars": 44025,
+      "forks": 6498,
+      "language": "Python",
+      "stars_today": 73,
+      "source": "github_trending",
+      "summary_cn": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 1,987+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "nesquena/hermes-webui",
+      "url": "https://github.com/nesquena/hermes-webui",
+      "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "stars": 16625,
+      "forks": 2247,
+      "language": "Python",
+      "stars_today": 60,
+      "source": "github_trending",
+      "summary_cn": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 18131,
+      "forks": 2094,
+      "language": "Python",
+      "stars_today": 48,
+      "source": "github_trending",
+      "summary_cn": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "sirkirby/unifi-mcp",
+      "url": "https://github.com/sirkirby/unifi-mcp",
+      "description": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+      "stars": 600,
+      "forks": 88,
+      "language": "Python",
+      "stars_today": 15,
+      "source": "github_trending",
+      "summary_cn": "MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "AI companies are shredding rare books",
+      "url": "https://twitter.com/HedgieMarkets/status/2081534588485296565",
+      "score": 739,
+      "comments": 468,
+      "author": "anon373839",
+      "time": "2026-07-27T12:32:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49068738",
+      "source": "hacker_news",
+      "title_cn": "AI companies are shredding rare books",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI companies spend record sums on Washington lobbying",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "score": 256,
+      "comments": 139,
+      "author": "1vuio0pswjnm7",
+      "time": "2026-07-27T14:07:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49069939",
+      "source": "hacker_news",
+      "title_cn": "AI companies spend record sums on Washington lobbying",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+      "score": 98,
+      "comments": 70,
+      "author": "croemer",
+      "time": "2026-07-27T11:32:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49068029",
+      "source": "hacker_news",
+      "title_cn": "Elevated errors on Claude Opus 5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "score": 90,
+      "comments": 21,
+      "author": "snyy",
+      "time": "2026-07-27T16:59:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49072462",
+      "source": "hacker_news",
+      "title_cn": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "score": 87,
+      "comments": 77,
+      "author": "leephillips",
+      "time": "2026-07-27T19:46:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49074680",
+      "source": "hacker_news",
+      "title_cn": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
+      "score": 49,
+      "comments": 24,
+      "author": "flyaway123",
+      "time": "2026-07-27T08:20:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49066591",
+      "source": "hacker_news",
+      "title_cn": "Elevated errors on Claude Opus 5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
+      "score": 23,
+      "comments": 3,
+      "author": "marysminefnuf",
+      "time": "2026-07-26T20:49:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49062259",
+      "source": "hacker_news",
+      "title_cn": "Multiway Turing Machines (2021 pre-ai)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: Why is every company encorporating AI everywhere?",
+      "url": "https://news.ycombinator.com/item?id=49067602",
+      "score": 23,
+      "comments": 36,
+      "author": "vanessa1211",
+      "time": "2026-07-27T10:39:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49067602",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: Why is every company encorporating AI everywhere?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "score": 22,
+      "comments": 7,
+      "author": "speckx",
+      "time": "2026-07-27T20:28:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49075115",
+      "source": "hacker_news",
+      "title_cn": "Claude shared chats and Artifacts may have ended up on Google",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+      "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
+      "score": 22,
+      "comments": 7,
+      "author": "purple-leafy",
+      "time": "2026-07-27T07:15:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49066083",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why Agentic Systems Need Ontologies [video]",
+      "url": "https://www.youtube.com/watch?v=Sir59K8ZDPU",
+      "score": 19,
+      "comments": 1,
+      "author": "tosh",
+      "time": "2026-07-27T18:16:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49073525",
+      "source": "hacker_news",
+      "title_cn": "Why Agentic Systems Need Ontologies [video]",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Dozenal – A Game of Spatial Arithmetic",
+      "url": "https://dozenal.game",
+      "score": 14,
+      "comments": 8,
+      "author": "sarreph",
+      "time": "2026-07-27T10:44:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49067632",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Dozenal – A Game of Spatial Arithmetic",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: How to deal with security implications of running/installing projects?",
+      "url": "https://news.ycombinator.com/item?id=49075417",
+      "score": 10,
+      "comments": 8,
+      "author": "johng",
+      "time": "2026-07-27T20:56:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49075417",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: How to deal with security implications of running/installing projects?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Nvidia in talks with OpenAI to guarantee $250B financing for data center",
+      "url": "https://www.reuters.com/business/media-telecom/nvidia-talks-with-openai-guarantee-250-billion-financing-data-center-wsj-reports-2026-07-26/",
+      "score": 9,
+      "comments": 2,
+      "author": "paoliniluis",
+      "time": "2026-07-27T19:24:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49074451",
+      "source": "hacker_news",
+      "title_cn": "Nvidia in talks with OpenAI to guarantee $250B financing for data center",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "score": 8,
+      "comments": 5,
+      "author": "fionaattelnyx",
+      "time": "2026-07-27T22:46:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49076505",
+      "source": "hacker_news",
+      "title_cn": "Kimi K3 Now Available via Telnyx Inference API",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios",
+      "authors": [
+        "Weihuang Zheng",
+        "Tianyuan Zou",
+        "Eileen Ye",
+        "Alphet Liu",
+        "Youyong Kong"
+      ],
+      "abstract": "Large Language Models (LLMs) are increasingly deployed as agents that interact with stateful environments over multiple steps: gathering hidden information, composing tool calls, and committing state changes. We refer to this capability as multi-step tool use. Existing benchmarks have advanced tool-use agent evaluation, but often focus on isolated API calls, short trajectories, or settings that are difficult to scale or control. We introduce E-Bench, a fully synthetic benchmark with 323 state-changing tasks across three product domains: Honor of Kings, QQ Music, and Tencent Meeting. E-Bench decouples environment synthesis from task synthesis: graph-guided database filling builds reusable, orphan-free product environments, while generator-solver asymmetry creates tasks with both an information gap and a tool gap, requiring agents to discover hidden data and compose multiple tool calls before changing state. Outcomes are graded deterministically by database-state diffs. Since both environments and tasks are synthetic, E-Bench is controllable at the environment level and scalable at the task level. Benchmarking 11 cutting-edge LLMs shows that multi-step tool use remains challenging: Pass^3 stays below 60% for the strongest models, and even with code execution in the E-Bench-Code extension, reliability (Pass^3) remains below 70%.",
+      "url": "http://arxiv.org/abs/2607.23722v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23722v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-26T15:38:28+00:00",
+      "source": "arxiv",
+      "title_cn": "E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios",
+      "summary_cn": "Large Language Models (LLMs) are increasingly deployed as agents that interact with stateful environments over multiple steps: gathering hidden information, composing tool calls, and committing state ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Offline-Online Curriculum RL for Multimodal Reasoning",
+      "authors": [
+        "Wendi Deng",
+        "Hang Du",
+        "Guoshun Nan",
+        "Haokun Tian",
+        "Jiaqi Yu"
+      ],
+      "abstract": "Multimodal large language models exhibit capabilities on reasoning tasks, yet often produce flawed intermediate steps while yielding correct final answers. This behavior undermines interpretability and reliability, suggesting reliance on spurious shortcuts rather than faithful reasoning. Although efforts have explored step-level supervision, distinguishing decisive steps from redundant ones remains challenging. We propose $O^2$-CritiCuRL, a novel curriculum reinforcement learning framework that introduces critical-step awareness through an iterative offline-online paradigm. In the offline stage, $O^2$-CritiCuRL conducts multi-rollout analysis over step-annotated trajectories to estimate step-level importance, allowing the framework to distill critical reasoning steps and filter out redundant ones. In the online stage, we employ a progressive step-level reinforcement learning strategy, where truncated chains guide the model to infer missing steps and refine its reasoning, thereby sharpening its focus on critical steps and overcoming the limitations of static supervision. Extensive experiments on multimodal reasoning benchmarks show that our method achieves state-of-the-art performance while delivering superior training and inference efficiency. Code is available at https://github.com/kk0013/CritiCuRL.",
+      "url": "http://arxiv.org/abs/2607.23700v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23700v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-07-26T14:47:47+00:00",
+      "source": "arxiv",
+      "title_cn": "Offline-Online Curriculum RL for Multimodal Reasoning",
+      "summary_cn": "Multimodal large language models exhibit capabilities on reasoning tasks, yet often produce flawed intermediate steps while yielding correct final answers. This behavior undermines interpretability an",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Offline-to-Online Creative Optimization with Generative Models and Adaptive Testing",
+      "authors": [
+        "Kevin Lee",
+        "Benjamin Letham",
+        "Zhiyuan Jerry Lin",
+        "Elodie Samson",
+        "Eric Onofrey"
+      ],
+      "abstract": "Ad creative optimization is increasingly constrained by evaluation rather than generation. Generative models can produce many plausible creatives, but reliable evaluation requires online experiments, in which only a limited slate can be tested. We study how to use data from historical A/B tests to generate and select the candidates in that slate. We developed and deployed a performance-driven offline-to-online workflow that guides creative generation with a predictive model as an inference-time critic. In the offline phase, we use a predictive model trained on historical experiments to rank and refine variants created by a generative model. A final test slate is then deployed in an online adaptive experiment. In a 50-arm field experiment, we found that the best creative generated with this method yielded 45.1% higher engagement than the best human-authored creative. Two additional experiments showed the same upper-tail pattern, with lifts of 46.7% and 36.2%. We found that despite the predictive model being too noisy to directly identify the best creative offline, it effectively guides the generative model toward creating strong candidates that can be efficiently evaluated in an adaptive experiment. The results suggest a design principle for creative optimization with generative models: use predictive models to guide generation of a slate to test, judge the slate by whether it contains high-performing candidates at a feasible test size, and use adaptive experiments to select among candidates while limiting traffic lost to weak arms.",
+      "url": "http://arxiv.org/abs/2607.23696v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23696v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-07-26T14:45:15+00:00",
+      "source": "arxiv",
+      "title_cn": "Offline-to-Online Creative Optimization with Generative Models and Adaptive Testing",
+      "summary_cn": "Ad creative optimization is increasingly constrained by evaluation rather than generation. Generative models can produce many plausible creatives, but reliable evaluation requires online experiments, ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Zing: Social Mind for LLMs",
+      "authors": [
+        "Zing Team",
+        "Ao Xiang",
+        "Bi Jingping",
+        "Chen Jiahui",
+        "Chen Lehan"
+      ],
+      "abstract": "As large language models move from isolated task solving toward long-term service in human environments, they require social intelligence: the ability to infer mental states, track social relations, reason over norms, and adapt behavior under context. This report presents Zhijing, an integrated framework for measuring, internalizing, and grounding social intelligence. For measurement, we introduce SoMBench, a psychology-grounded benchmark spanning 3 primary dimensions, 17 secondary dimensions, and 71 task paradigms. It controls question format, narrative perspective, and context length across 284 shared scenarios and 3,481 expert-verified instances. Evaluation of 20 representative LLMs reveals substantial headroom: the best model achieves only 72.08% overall accuracy, and none of the 17 secondary dimensions reaches the 90% near-ceiling band. For internalization, we develop Zing, a diagnosis-driven training recipe combining supervised fine-tuning, on-policy distillation, and rubric-based reinforcement learning. Across five social-cognition benchmarks, Zing consistently outperforms its base models, with Zing-27B-Stage2 achieving the best average score and Zing-32B-Stage2 remaining competitive with DeepSeek-V4-Pro. For deployment-time grounding, we build Actio, a harness-controlled inference architecture that routes four typed supports into reasoning: PRISM for procedural guidance, Starling for runtime mental-state representation, SAGE for reusable experience, and gated RAG for external social and normative knowledge. Across five base models and three benchmarks, the full harness improves 14 of 15 model-benchmark pairs and is best or tied for best in 8, demonstrating the effectiveness of typed runtime support. Together, these results show that socially intelligent LLMs require coordinated advances in evaluation, parametric internalization, and deployment-time grounding.",
+      "url": "http://arxiv.org/abs/2607.23740v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23740v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-07-26T16:25:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Zing: Social Mind for LLMs",
+      "summary_cn": "As large language models move from isolated task solving toward long-term service in human environments, they require social intelligence: the ability to infer mental states, track social relations, r",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL",
+      "authors": [
+        "Shuqing Zhao"
+      ],
+      "abstract": "We report the design and end-to-end verification of first-class IEEE-754 binary32 (FP32) and bfloat16 (BF16) arithmetic for ARCH, a hardware description language intended to be generated by language models. Every operator - comparisons, conversions, add, sub, mul, and fused multiply-add (FMA) - is described once against a single bit-vector IR and rendered three ways from one source: synthesizable SystemVerilog, an SMT-LIB model, and a Lean 4 proof model. The three artifacts cannot drift apart structurally, and the residual per-node printer correspondence is machine-checked: a Yosys-to-SMT miter proves the emitted SystemVerilog equivalent to the SMT model for all 24 operators. Verification splits at the solver-tractability frontier: multiplier-free operators (comparisons, add/sub over all 2^64 inputs, conversions, and all binary BF16 arithmetic) are proved exhaustively equivalent to the SMT-LIB FloatingPoint theory; the SAT-hard multiplier-bearing operators (FP32 mul and FMA) are proved correctly rounded in Lean, sorry-free, against a value-level round-to-nearest-even specification over exact dyadic values. Physical characterization exposed the FMA as the timing outlier: its exact-wide 470-bit datapath does not pipeline in our flow. We reimplemented it as a bounded 98-bit guard/round/sticky datapath that pipelines to 268 MHz on Nangate45, and proved, in Lean and over all 2^96 inputs, that it is bit-identical to the exact-wide reference, so it inherits the reference's proven correct rounding. The equivalence is tractable precisely because the shared multiplier appears on both sides and cancels: neither a SAT solver nor the proof ever solves a multiplier equivalence. (The BF16 FMA is deliberately an FP32-accumulating fusion, characterized as exactly that.) All machine-checked claims are pinned to a tagged open-source release.",
+      "url": "http://arxiv.org/abs/2607.23715v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23715v1",
+      "categories": [
+        "cs.CL",
+        "cs.PL"
+      ],
+      "published": "2026-07-26T15:26:00+00:00",
+      "source": "arxiv",
+      "title_cn": "Formally Verified Synthesizable Floating-Point Data Types in ARCH HDL",
+      "summary_cn": "We report the design and end-to-end verification of first-class IEEE-754 binary32 (FP32) and bfloat16 (BF16) arithmetic for ARCH, a hardware description language intended to be generated by language m",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement",
+      "authors": [
+        "Baptiste Mathevon",
+        "Farah Cherfaoui",
+        "Amaury Habrard",
+        "Marc Sebban"
+      ],
+      "abstract": "Partial differential equation (PDE) discovery aims to identify from data the governing law of a physical system. Constituting a cornerstone of scientific advancement, it has become during the past decade a major line of research in the rapidly evolving field of Physics-informed Machine Learning (PiML). Among the remaining open problems to address in this domain, the post-hoc evaluation of discovered PDEs raises the particular difficulty of being multifaceted. Indeed, it requires jointly considering predictive accuracy, physical consistency, interpretability, and out-of-distribution generalization capacity. Given that some of these properties are conflicting, it is worth noting that the wide range of existing evaluation metrics only partially address the overall problem, potentially leading to overly interpreted conclusions about the validity of a presumed new physical theory. From an abundant literature spanning machine learning, numerical analysis, information theory or symbolic regression, we propose, to our knowledge, the first taxonomy of PDE evaluation metrics, and discuss their advantages and limitations in depth. Based on the observation that evaluation is often achieved on a case-by-case basis and that a universally accepted methodology remains elusive, we further provide recommendations with the aim of promoting standardized and reliable practices, before sketching promising future lines of research in this field. We argue that this paper is intended both for ML experts who design new PDE discovery algorithms and for users of these methods aiming, in real applications, to discover and validate well-founded scientific laws.",
+      "url": "http://arxiv.org/abs/2607.23753v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23753v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-26T16:58:42+00:00",
+      "source": "arxiv",
+      "title_cn": "On the post-hoc Evaluation of PDE Discovery: A Multifaceted Challenge of Scientific Advancement",
+      "summary_cn": "Partial differential equation (PDE) discovery aims to identify from data the governing law of a physical system. Constituting a cornerstone of scientific advancement, it has become during the past dec",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Soft-Constrained Optimization of Latent Space in Variational Autoencoders",
+      "authors": [
+        "Ye Shi"
+      ],
+      "abstract": "The usefulness of a variational autoencoder (VAE) depends on two properties of its latent space that are hard to obtain together: high encoding capacity in the individual latent variables, and a low-dimensional, disentangled organization of those variables. Weakening the Kullback-Leibler regularization raises capacity but degrades disentanglement, while strengthening it prunes latent variables away entirely. We formulate VAE training as a soft-constrained optimization problem that addresses both. First, we impose an entropy-based constraint (EC) on individual latent variables, showing that the entropy of a latent code upper-bounds the mutual information it carries about the generative factors of the data. Second, we propose a weight-filter method that exploits the slack of the soft constraint to prune low-entropy dimensions during downstream training. On dSprites, the EC raises the aggregate latent-variable activation score by 43-62% over a vanilla VAE, attains the highest FactorVAE score among the \\b{eta} \\b{eta}-VAE variants (0.891 vs 0.847), and lowers reconstruction error by up to 38%. On MNIST, the weight filter reduces the latent dimensionality supplied to a downstream classifier from ten to two while holding accuracy above 90%, converging in 37% fewer epochs than the same procedure without the EC. We also find that low-entropy discrete factors tend to merge into a single latent variable, whereas high-entropy continuous factors are distributed across several.",
+      "url": "http://arxiv.org/abs/2607.23751v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23751v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-07-26T16:52:35+00:00",
+      "source": "arxiv",
+      "title_cn": "Soft-Constrained Optimization of Latent Space in Variational Autoencoders",
+      "summary_cn": "The usefulness of a variational autoencoder (VAE) depends on two properties of its latent space that are hard to obtain together: high encoding capacity in the individual latent variables, and a low-d",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Source-Free Controlled Adaptation of Teachers for Continual Test-Time Adaptation",
+      "authors": [
+        "Anurag Roy",
+        "Riddhiman Moulick",
+        "Vinay Kumar Verma",
+        "Saptarshi Ghosh",
+        "Abir Das"
+      ],
+      "abstract": "In many real-world scenarios, encountering continual shifts in domain during inference is very common. Consequently, continual test-time adaptation (CTTA) techniques leveraging a teacher-student framework have gained prominence, allowing models to adapt continuously even after deployment. In such a framework, a weight-averaged mean teacher is used to produce pseudo-labels from test data for self-training. The mean teacher gets updated as an exponential moving average of the student parameters using a high value of momentum that is kept fixed even if different distributions of test data are encountered. To combat the resulting drift of the model, we propose a novel controlled teacher adaptation methodology that dynamically sets a proper momentum value depending on the quality of the incoming data. Additionally, we estimate class prototypes from the source pretrained model to help align the target data as they come in. Importantly, our method does not require access to source data or its statistics at any stage of the pipeline, making it truly source-free. We perform extensive experiments on benchmark datasets to demonstrate that our approach outperforms different state-of-the-art adaptation frameworks, many of which require access to source data.",
+      "url": "http://arxiv.org/abs/2607.23735v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23735v1",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ],
+      "published": "2026-07-26T16:06:18+00:00",
+      "source": "arxiv",
+      "title_cn": "Source-Free Controlled Adaptation of Teachers for Continual Test-Time Adaptation",
+      "summary_cn": "In many real-world scenarios, encountering continual shifts in domain during inference is very common. Consequently, continual test-time adaptation (CTTA) techniques leveraging a teacher-student frame",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Outcome-Confounded Local Supervision in On-Policy Distillation",
+      "authors": [
+        "Guoqing Ma"
+      ],
+      "abstract": "On-policy distillation (OPD) trains a student on its own trajectories while a teacher supplies dense token-level likelihoods at student-visited prefixes. These likelihoods are often read locally: agreement appears safe to imitate, whereas disagreement appears to identify an error. We show that both readings are confounded by the outcome of the completed trajectory. We introduce an outcome-resolved diagnostic that crosses pointwise teacher-student divergence with final-answer correctness, separating safe imitation, productive divergence, harmful divergence, and agreement-on-failure. In an eight-seed mathematical-reasoning study with a Qwen3-8B student and Qwen3-32B teacher, agreement-on-failure constitutes 67.84% of pooled response-token mass; with a Qwen2.5-7B/32B pair it remains 67.68%. The result persists across threshold, sequence-level, format, and truncation audits. Even on prompts that the Qwen3 teacher solves in all four independent attempts, student accuracy rises to 86.91% but agreement-on-failure remains 14.76%. We then run three matched training probes that use the available signals to imitate, mask, or contrast whole trajectories; none consistently reduces agreement-on-failure. The result points to a localization limitation: local divergence paired with a trajectory-level outcome does not identify where a failed trajectory became unrecoverable. Addressing this limitation requires additional positional information, such as process labels, teacher continuations from student prefixes, or token-level alignment across rollouts. Our contribution is therefore diagnostic rather than a new training method.",
+      "url": "http://arxiv.org/abs/2607.23731v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23731v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-26T16:03:33+00:00",
+      "source": "arxiv",
+      "title_cn": "Outcome-Confounded Local Supervision in On-Policy Distillation",
+      "summary_cn": "On-policy distillation (OPD) trains a student on its own trajectories while a teacher supplies dense token-level likelihoods at student-visited prefixes. These likelihoods are often read locally: agre",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The Intruder Threshold: A Spectral Law for LoRA Fine-Tuning",
+      "authors": [
+        "Peng Xie"
+      ],
+      "abstract": "LoRA fine-tuning can create intruder dimensions: new leading singular vectors of the updated weight matrix $W+BA$ that are nearly orthogonal to all pretrained singular vectors and that drive catastrophic forgetting. Since their discovery, no theory has predicted, layer by layer on measured spectra, when they appear. We derive a per-layer critical update strength $s^\\ast=\\barθ/(γσ_1(BA))$, computed from the measured spectrum of $W$ alone through the rectangular spiked-deformation transform, together with an exact secular-equation characterization of the updated spectrum, with no fitted parameters. In a pre-specified study spanning four dense Transformer families, a state-space model, a mixture-of-experts model, and an encoder-decoder (18 adapters, 9{,}840 layer scans), the law localizes the empirical threshold within a factor of two on $82\\%$ of layers, separates intruder-bearing from intruder-free layers at deployment with a mean AUC of $0.89$, holds unchanged on six third-party adapters, and predicts where WikiText-2 perplexity begins to degrade; a combination of the two pre-specified edge evaluations reaches $98\\%$ and is confirmed out-of-bag on the external adapters ($0.997$). Full fine-tuning disperses its update far below the threshold of every layer, which resolves the asymmetry between LoRA and full fine-tuning. Norm-matched interventions confirm that threshold-crossing layers, rather than update magnitude, carry the forgetting, and a spike-budget rule derived from the thresholds, requiring one SVD and no validation sweeps, reduces forgetting by $62\\%$ on the most fragile model at no task cost.",
+      "url": "http://arxiv.org/abs/2607.23711v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23711v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-07-26T15:17:41+00:00",
+      "source": "arxiv",
+      "title_cn": "The Intruder Threshold: A Spectral Law for LoRA Fine-Tuning",
+      "summary_cn": "LoRA fine-tuning can create intruder dimensions: new leading singular vectors of the updated weight matrix $W+BA$ that are nearly orthogonal to all pretrained singular vectors and that drive catastrop",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation",
+      "authors": [
+        "Kasi Viswanath",
+        "Jason M. Gregory",
+        "Shaunak Kolhe",
+        "Srikanth Saripalli"
+      ],
+      "abstract": "Autonomous navigation across large off-road environments remains a challenging problem. Onboard sensors perceive only the immediate surroundings, yet safe and efficient routes depend on terrain features that extend well beyond the sensor horizon. Geo-spatial data sources such as satellite imagery, aerial LiDAR, and vector maps can close this gap, but learning traversability from them is difficult: dense labels are unavailable at scale, and existing methods rely on short-range sensing. We propose an efficient formulation that learns a continuous traversability map from overhead data, supervised directly by human-driven GPS trajectories and shaped by self-supervised geometric priors from LiDAR. Alongside the model, we release a public dataset of 299 scenes spanning $\\sim\\!1{,}244\\,\\mathrm{km}^{2}$ of diverse terrain, paired with $1{,}130\\,\\mathrm{km}$ of human driving. In field trials on a Clearpath Warthog across seven routes at two sites, our method achieves trajectories within $3.66\\%$ of human path length and reduces operator interventions by $\\sim\\!85\\%$ compared to local-planner-only autonomy.",
+      "url": "http://arxiv.org/abs/2607.23743v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23743v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-07-26T16:36:35+00:00",
+      "source": "arxiv",
+      "title_cn": "Learning Traversability-Aware Global Planners for Long Horizon Off-Road Navigation",
+      "summary_cn": "Autonomous navigation across large off-road environments remains a challenging problem. Onboard sensors perceive only the immediate surroundings, yet safe and efficient routes depend on terrain featur",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TRUAV: Distributed Multi-Agent Reinforcement Learning for Trajectory Planning and Routing Enhancement in UAV-Aided IoT-Enabled VANETs",
+      "authors": [
+        "Muhammad Umar Farooq Qaisar",
+        "Lin Zhang",
+        "Zhen Chen",
+        "Wajdy Othman",
+        "Shehzad Ashraf Chaudhry"
+      ],
+      "abstract": "Unmanned aerial vehicles (UAVs) have emerged as a key enabler of next-generation Internet of Things (IoT) ecosystems, offering flexible aerial relaying to extend connectivity across dynamic vehicular ad hoc networks (VANETs) in smart city environments. However, conventional centralized approaches for UAV trajectory planning require continuous global network state aggregation, making them impractical under bandwidth and energy constraints typical of dense urban deployments. In this article, we present TRUAV, a distributed multi-agent reinforcement learning framework based on independent tabular Q-learning for joint UAV trajectory planning and routing enhancement in UAV-aided VANETs. Each UAV is equipped with a local Q-learning agent that operates purely on locally observable information, including vehicle density, packet queue states, and neighbor UAV positions, thereby eliminating the need for global state exchange. A potential-game-inspired reward design encourages spatial diversity and routing-aware UAV positioning among interacting agents while accounting for energy consumption. Numerical simulations over a large urban area with 200 mobile vehicles show that the proposed TRUAV framework achieves network coverage and packet delivery ratios comparable to centralized deep reinforcement learning methods, while also improving relay delay and energy efficiency. Finally, we discuss emerging challenges and future research directions for distributed multi-agent UAV-assisted IoT systems.",
+      "url": "http://arxiv.org/abs/2607.23734v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23734v1",
+      "categories": [
+        "cs.NI",
+        "cs.LG"
+      ],
+      "published": "2026-07-26T16:06:08+00:00",
+      "source": "arxiv",
+      "title_cn": "TRUAV: Distributed Multi-Agent Reinforcement Learning for Trajectory Planning and Routing Enhancement in UAV-Aided IoT-Enabled VANETs",
+      "summary_cn": "Unmanned aerial vehicles (UAVs) have emerged as a key enabler of next-generation Internet of Things (IoT) ecosystems, offering flexible aerial relaying to extend connectivity across dynamic vehicular ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "AI Strategy: How to Choose What AI Product to Implement",
+      "authors": [
+        "Foster Provost",
+        "Panos Ipeirotis"
+      ],
+      "abstract": "Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage Compass, one AI product (Likely-to-Sell recommendations) flagged sales outreach opportunities and went on to account for nine figures in annual gross commission revenue. Another championed AI product (a Time-on-Market pricing tool) was rightly shelved. A simple ROI estimate could not distinguish the two. We present expected ROI (eROI), a framework that decomposes each bet into three components and rates them separately: Value if Successful, Likelihood of Success, and Investment Required. Each maps to a question executives can answer before building: How valuable would it be if it worked? How likely is it to work? And what would it cost to implement? Separating the three breaks a common catch-22: teams cannot estimate ROI until they know whether a project will work, yet cannot know whether it will work without building it. Judging Value if Successful on its own dissolves the loop, letting a team argue that a product would be valuable if it worked while it weighs how likely that is. The framework also asks, before ranking anything, whether there are enough good ideas on the table. After ranking, it guides assembling a portfolio of bets rather than funding only the single top-ranked project. We illustrate eROI on Compass's candidate AI products. Precise ROI estimates are hard to make given the inherent uncertainty of AI projects. Coarse business-level ratings of the three components are enough to tell strong bets from weak ones.",
+      "url": "http://arxiv.org/abs/2607.23733v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23733v1",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.LG",
+        "econ.GN",
+        "stat.AP"
+      ],
+      "published": "2026-07-26T16:05:39+00:00",
+      "source": "arxiv",
+      "title_cn": "AI Strategy: How to Choose What AI Product to Implement",
+      "summary_cn": "Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "An Exact Counterexample to Carlson's Associated-Prime Depth Conjecture from a Group of Order 128",
+      "authors": [
+        "Xinan Dai",
+        "Wenhao Deng",
+        "Yingdong Shi",
+        "Tailin Wu",
+        "Yuchen Yang"
+      ],
+      "abstract": "In Question~3.1 of his 1995 paper on depth and transfer, Carlson asked whether the depth of a finite-group cohomology ring is always realized by the dimension of one of its associated primes. We give a negative answer. Let \\[ G=\\SG{128}{859},\\qquad k=\\kbar. \\] An exact presentation certificate proves that $\\depth H^*(G;k)=2$. Okuyama's associated-prime theorem would convert an associated prime of dimension two into a rank-two elementary abelian subgroup $E\\leq G$ satisfying $\\depth H^*(C_G(E);k)=2$. We enumerate all $75$ rank-two elementary abelian subgroups of $G$ and obtain six centralizer types. Duflot's theorem gives depth at least three for four types, while exact ideal-quotient certificates exhibit regular sequences of length three for the remaining two. Hence every rank-two centralizer has cohomological depth at least three, so $H^*(G;k)$ has no associated prime of dimension two. The finite group presentation, the three cohomology-ring presentations, the enumeration summary, and the exact algebraic certificates are included for independent verification.",
+      "url": "http://arxiv.org/abs/2607.23732v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23732v1",
+      "categories": [
+        "math.GR",
+        "cs.AI"
+      ],
+      "published": "2026-07-26T16:04:27+00:00",
+      "source": "arxiv",
+      "title_cn": "An Exact Counterexample to Carlson's Associated-Prime Depth Conjecture from a Group of Order 128",
+      "summary_cn": "In Question~3.1 of his 1995 paper on depth and transfer, Carlson asked whether the depth of a finite-group cohomology ring is always realized by the dimension of one of its associated primes. We give ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Hierarchical Soft Actor-Critic for Sparse-Reward Long-Horizon Reinforcement Learning",
+      "authors": [
+        "Zahra Abdalla Elashaal",
+        "Afef Hfaiedh",
+        "Nahla Khraief",
+        "Issmail Ellabib",
+        "Giansalvo Cirrincione"
+      ],
+      "abstract": "Exploration in sparse-reward long-horizon tasks poses significant challenges for reinforcement learning. To address these challenges, we propose a two-level Hierarchical Reinforcement Learning (HRL) framework. The first level handles high-level strategic planning, while the low-level uses the continuous-control Soft Actor-Critic (SAC) algorithm, and they utilize entropy-regularized policy optimization. The proposed framework was trained and evaluated using the Search-and-Rescue-2 (SAR-2) dataset. HRL-SAC effectively addresses sparse-reward long-horizon search problems characterized by delayed rewards and continuous control, and its outperforming the flat SAC baseline reinforcement learning in terms of success rates, coverage efficiency, and convergence. These findings indicate that hierarchical entropy-regularized policies are a promising solution to tackle long-horizon sparse-reward reinforcement learning tasks.",
+      "url": "http://arxiv.org/abs/2607.23726v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.23726v1",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "published": "2026-07-26T15:41:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Hierarchical Soft Actor-Critic for Sparse-Reward Long-Horizon Reinforcement Learning",
+      "summary_cn": "Exploration in sparse-reward long-horizon tasks poses significant challenges for reinforcement learning. To address these challenges, we propose a two-level Hierarchical Reinforcement Learning (HRL) f",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
