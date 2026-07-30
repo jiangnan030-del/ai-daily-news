@@ -1,0 +1,747 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T09:24:50.944896+08:00",
+  "github_trending": [
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 235586,
+      "forks": 35879,
+      "language": "JavaScript",
+      "stars_today": 857,
+      "source": "github_trending",
+      "summary_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "description": "Build local voice agents with open-source models",
+      "stars": 7871,
+      "forks": 1001,
+      "language": "Python",
+      "stars_today": 827,
+      "source": "github_trending",
+      "summary_cn": "Build local voice agents with open-source models",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "stars": 45388,
+      "forks": 4488,
+      "language": "TypeScript",
+      "stars_today": 682,
+      "source": "github_trending",
+      "summary_cn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 43891,
+      "forks": 5282,
+      "language": "Python",
+      "stars_today": 668,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 263295,
+      "forks": 23511,
+      "language": "Shell",
+      "stars_today": 616,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "stars": 5463,
+      "forks": 862,
+      "language": "Python",
+      "stars_today": 442,
+      "source": "github_trending",
+      "summary_cn": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 16019,
+      "forks": 1080,
+      "language": "Go",
+      "stars_today": 359,
+      "source": "github_trending",
+      "summary_cn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "stars": 51299,
+      "forks": 5710,
+      "language": "Python",
+      "stars_today": 336,
+      "source": "github_trending",
+      "summary_cn": "Open-Source Frontier Voice AI",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kangarooking/cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "description": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "stars": 5218,
+      "forks": 658,
+      "language": "Python",
+      "stars_today": 182,
+      "source": "github_trending",
+      "summary_cn": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "description": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "stars": 17923,
+      "forks": 1856,
+      "language": "TypeScript",
+      "stars_today": 97,
+      "source": "github_trending",
+      "summary_cn": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MoonshotAI/FlashKDA",
+      "url": "https://github.com/MoonshotAI/FlashKDA",
+      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "stars": 985,
+      "forks": 97,
+      "language": "Cuda",
+      "stars_today": 91,
+      "source": "github_trending",
+      "summary_cn": "FlashKDA: high-performance Kimi Delta Attention kernels",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 30934,
+      "forks": 7502,
+      "language": "Python",
+      "stars_today": 73,
+      "source": "github_trending",
+      "summary_cn": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "stars": 1755,
+      "forks": 207,
+      "language": "Python",
+      "stars_today": 34,
+      "source": "github_trending",
+      "summary_cn": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
+      "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "stars": 18182,
+      "forks": 2101,
+      "language": "Python",
+      "stars_today": 32,
+      "source": "github_trending",
+      "summary_cn": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "maderix/ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "stars": 7147,
+      "forks": 959,
+      "language": "Objective-C",
+      "stars_today": 22,
+      "source": "github_trending",
+      "summary_cn": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "score": 646,
+      "comments": 223,
+      "author": "gitpusher42",
+      "time": "2026-07-29T15:05:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49098510",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "score": 343,
+      "comments": 259,
+      "author": "Canopy9560",
+      "time": "2026-07-29T11:44:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49096188",
+      "source": "hacker_news",
+      "title_cn": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude: Elevated errors across all models – Resolved",
+      "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+      "score": 257,
+      "comments": 229,
+      "author": "gregsadetsky",
+      "time": "2026-07-29T19:50:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49102150",
+      "source": "hacker_news",
+      "title_cn": "Claude: Elevated errors across all models – Resolved",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "url": "https://learnvector.ai/",
+      "score": 257,
+      "comments": 167,
+      "author": "ajhai",
+      "time": "2026-07-29T01:49:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49092499",
+      "source": "hacker_news",
+      "title_cn": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Discovering Cryptographic Weaknesses with Claude",
+      "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+      "score": 226,
+      "comments": 177,
+      "author": "gslin",
+      "time": "2026-07-28T17:22:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49087091",
+      "source": "hacker_news",
+      "title_cn": "Discovering Cryptographic Weaknesses with Claude",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "score": 186,
+      "comments": 102,
+      "author": "YeGoblynQueenne",
+      "time": "2026-07-29T21:25:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49103285",
+      "source": "hacker_news",
+      "title_cn": "AI's top startups are barely publishing their research",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "After the AI Crash",
+      "url": "https://potsandpansbyccg.com/2026/07/29/after-the-ai-crash/",
+      "score": 110,
+      "comments": 189,
+      "author": "sysoleg",
+      "time": "2026-07-29T13:00:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49096953",
+      "source": "hacker_news",
+      "title_cn": "After the AI Crash",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "score": 104,
+      "comments": 53,
+      "author": "supermatou",
+      "time": "2026-07-29T16:42:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49099804",
+      "source": "hacker_news",
+      "title_cn": "Some thoughts about Anthropic's new cryptanalysis results",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
+      "score": 85,
+      "comments": 18,
+      "author": "mbauman",
+      "time": "2026-07-29T14:56:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49098388",
+      "source": "hacker_news",
+      "title_cn": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "url": "https://github.com/VladUZH/qwen-scribe",
+      "score": 73,
+      "comments": 17,
+      "author": "sidclaw",
+      "time": "2026-07-29T14:47:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49098260",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Qwen Scribe – local transcription and dictation for Apple Silicon",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "url": "https://transformer-transformer.github.io/",
+      "score": 72,
+      "comments": 8,
+      "author": "ilreb",
+      "time": "2026-07-29T03:52:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49093232",
+      "source": "hacker_news",
+      "title_cn": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+      "score": 72,
+      "comments": 51,
+      "author": "yogthos",
+      "time": "2026-07-29T01:56:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49092549",
+      "source": "hacker_news",
+      "title_cn": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "url": "https://www.emergingtrajectories.com/lh/commodification-and-circularity/",
+      "score": 57,
+      "comments": 29,
+      "author": "cl42",
+      "time": "2026-07-29T18:57:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49101529",
+      "source": "hacker_news",
+      "title_cn": "Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Teacher arrested for clapping in opposition at an AI data center meeting",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/teacher-arrested-for-clapping-in-support-of-opposition-at-an-ai-data-center-meeting-gigawatt-scale-project-gets-approved-anyway-despite-community-resistance",
+      "score": 56,
+      "comments": 15,
+      "author": "rbanffy",
+      "time": "2026-07-29T14:28:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49097990",
+      "source": "hacker_news",
+      "title_cn": "Teacher arrested for clapping in opposition at an AI data center meeting",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "url": "https://usetokenless.com/",
+      "score": 53,
+      "comments": 43,
+      "author": "rohaga",
+      "time": "2026-07-29T15:55:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49099143",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+      "authors": [
+        "Yongjian Guo",
+        "Wanlun Ma",
+        "Lingyu Shen",
+        "Xi Xiao",
+        "Sheng Wen"
+      ],
+      "abstract": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpora, creating models that retain professional skills while violating human values on demand. Existing safety-realignment defenses often fail in practice due to three key limitations: they frequently cause catastrophic forgetting of specialized skills; their effectiveness collapses when the defender cannot observe the attacker's prompt template; and successfully realigned models remain susceptible to re-jailbreaking via simple system prompt switches. To address these challenges, we propose Routing-based On-Policy Distillation (ROPD), a novel realignment framework that models the divergence between aligned and compromised output probability distributions rather than fitting specific prompt templates. We conduct extensive experiments comparing ROPD against four state-of-the-art baselines across three datasets and three base models with varying alignment strengths. Our results demonstrate that when baseline defenses face template mismatches, often accompanied by severe degradation in downstream task performance. In contrast, ROPD substantially mitigates template-mismatch risks, maintaining superior robustness in both defense effectiveness and capability preservation. While our analysis indicates ROPD is not entirely immune to template shifts, its performance degradation is negligible compared to existing methods, establishing a new standard for robust LLM realignment.",
+      "url": "http://arxiv.org/abs/2607.27081v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27081v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CR",
+        "cs.LG"
+      ],
+      "published": "2026-07-29T16:07:19+00:00",
+      "source": "arxiv",
+      "title_cn": "On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment",
+      "summary_cn": "Fine-tuning is the dominant paradigm for specializing large language models (LLMs), yet it exposes a critical vulnerability: malicious data providers can embed harmful behaviors into downstream corpor",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting",
+      "authors": [
+        "Filipa Lino",
+        "Bárbara Tavares",
+        "Carlos Santiago",
+        "Cláudia Soares",
+        "Manuel Marques"
+      ],
+      "abstract": "Emergency Departments (EDs) are critical access points in healthcare systems, yet they face persistent pressure from unpredictable patient demand, seasonal surges, and non-urgent visits. Effective ED planning requires forecasts at multiple decision-making levels: hospitals need local demand estimates for staffing and bed management, regions require forecasts to coordinate healthcare units, and national authorities need system-wide projections for capacity planning. However, most existing approaches forecast ED demand independently at a single level, ignoring the hierarchy linking hospitals, regions, and national systems. This can produce incoherent predictions, where hospital-level forecasts do not aggregate consistently to regional or national demand. We propose HierSTT, a hierarchical Transformer-based framework for coherent multi-level ED forecasting. HierSTT jointly predicts hospital, regional, and national level demand in a single end-to-end model. A Temporal Fusion Transformer captures national dynamics, while spatio-temporal Transformer encoder-decoder modules model regional and hospital demand conditioned on higher-level forecasts. A coherence-aware loss penalizes cross-level inconsistencies during training. We further introduce a nationwide Portuguese ED dataset covering 81 hospitals across 5 regional health administrations, with heterogeneous covariates at each level. Experiments show that HierSTT reduces average WAPE by 32\\% relative to the best non-hierarchical deep learning baseline and outperforms all classical hierarchical reconciliation methods, while producing near-coherent predictions across levels. Additional resources associated with this work are available at https://github.com/FilipaLino/HierSTT.",
+      "url": "http://arxiv.org/abs/2607.27106v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27106v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-29T16:33:18+00:00",
+      "source": "arxiv",
+      "title_cn": "Hierarchical Spatio-Temporal Transformer for Coherent Emergency Department Forecasting",
+      "summary_cn": "Emergency Departments (EDs) are critical access points in healthcare systems, yet they face persistent pressure from unpredictable patient demand, seasonal surges, and non-urgent visits. Effective ED ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Sky sphere representation in language models",
+      "authors": [
+        "Aleksandr Berdnikov",
+        "Yevgeny Liokumovich"
+      ],
+      "abstract": "We analyze whether language models of size ~100B have a representation of the night sky map that is decodable from their residual stream. We find that most of the considered open-source models do have such a representation, and it often even surfaces to the top principal components on prompts that ask questions like ``what is close to this object in the night sky''. In all but one model this representation showed significant scores in LOO testing, containing up to 65-85% of variance ($R^2$-score) and having median angular error down to $12^\\circ-21^\\circ$. We verify that our representation is not a simple leak from a correlated flat representation. To our knowledge, this representation is the first example of a curved high-dimensional irreducible feature manifold. Codes used in the paper are published at https://github.com/l3erdnik/Decodable-sky",
+      "url": "http://arxiv.org/abs/2607.27092v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27092v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-29T16:19:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Sky sphere representation in language models",
+      "summary_cn": "We analyze whether language models of size ~100B have a representation of the night sky map that is decodable from their residual stream. We find that most of the considered open-source models do have",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents",
+      "authors": [
+        "Yicheng Feng",
+        "Yan Zhang",
+        "Yan Cheng",
+        "Wei Qi"
+      ],
+      "abstract": "As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools leaves the task under-informed, while too many adds cost, context load, and privacy exposure. Routers and retrievers can rank candidate tools by relevance, but a ranking alone does not determine how many are worth selecting. Existing approaches leave acquisition under heterogeneous costs unaddressed. We formulate this decision as cost-aware marginal decision-focused stopping (CAM-DF) over ranked tool prefixes, with CAM-DF-lite as a compact interpretable variant. We train directly on the offline gap between stopping now and the best continuation: its sign labels the decision, its magnitude weights each error by the payoff at stake. We prove this objective is Bayes-aligned with the stopping target and that score-only rules are suboptimal under heterogeneous costs. We evaluate on 1,343 tasks across five tool-use domains. On $τ$-bench Retail, CAM-DF attains the highest payoff among deployable methods, with gains over a predict-then-threshold baseline across all five ranking sources and two cost regimes. Our approach is state-of-the-art under heterogeneous costs and high cost pressure, with larger gains under weaker rankings. In live execution, CAM-DF exposes the agent to 37\\% fewer tools than full access while maintaining comparable task success. The CAM-DF family is a lightweight pre-execution plugin that turns existing tool rankings into lower-cost acquisition decisions without fine-tuning the underlying LLM.",
+      "url": "http://arxiv.org/abs/2607.27083v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27083v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T16:07:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents",
+      "summary_cn": "As LLM agents increasingly depend on diverse external services such as search engines, databases, and connectors, agent harnesses face a fundamental tool-selection challenge: acquiring too few tools l",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Equilibrium Training of Energy-Based Models with Parallel Trajectory Tempering",
+      "authors": [
+        "Nicolas Béreux",
+        "Aurélien Decelle",
+        "Cyril Furtlehner",
+        "Beatriz Seoane"
+      ],
+      "abstract": "Energy-Based Models (EBMs) provide an interpretable framework for generative modeling of scientific data, but poor Markov Chain Monte Carlo mixing often limits their reliability. We introduce a training algorithm based on Parallel Trajectory Tempering (PTT), which exploits the continuity of the optimization path to maintain equilibrium sampling throughout learning. This enables stable and fast training on highly multimodal and data-scarce scientific datasets. Combined with reservoir sampling and adaptive optimization, PTT has a computational cost comparable to Persistent Contrastive Divergence, making it a practical replacement for standard training methods. It also provides direct estimates of thermalization times, equilibrium samples from trained models, and accurate log-likelihoods at essentially no additional cost. Experiments on Restricted Boltzmann Machines show that PTT consistently outperforms existing EBM training approaches. On discrete tabular data, it also surpasses state-of-the-art deep generative models, yielding higher-quality samples and greater robustness to overfitting and limited data. Our results make equilibrium maximum-likelihood training of EBMs practical and computationally efficient.",
+      "url": "http://arxiv.org/abs/2607.27077v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27077v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-07-29T16:00:59+00:00",
+      "source": "arxiv",
+      "title_cn": "Equilibrium Training of Energy-Based Models with Parallel Trajectory Tempering",
+      "summary_cn": "Energy-Based Models (EBMs) provide an interpretable framework for generative modeling of scientific data, but poor Markov Chain Monte Carlo mixing often limits their reliability. We introduce a traini",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Single-Beat Cuffless Blood Pressure Estimation Using Ear-PPG and ECG with a Lightweight Hybrid Learning Framework",
+      "authors": [
+        "Kindeep K. Dhatt",
+        "Tengyue Wu",
+        "Hanbang Hua",
+        "Yayun Du"
+      ],
+      "abstract": "Continuous cuffless blood pressure (BP) monitoring remains challenging due to motion artifacts, physiological variability, and the limited robustness of conventional pulse transit time (PTT) models under dynamic conditions. Many prior approaches rely on multi-second windows to stabilize estimation, an assumption that is frequently violated during real-world monitoring with intermittent signal corruption. Here, we show that discriminative BP-related information is preserved at the single-beat level and present a lightweight multi-modal wearable framework for continuous BP estimation. The system integrates synchronized chest electrocardiography (ECG) and ear-clip reflectance photoplethysmography, each co-located with a 6-axis inertial measurement unit to provide motion context. We introduce a hybrid learning architecture in which a one-dimensional convolutional neural network extracts a 64-dimensional embedding from individual PPG beats and fuses it with 30 physiology-grounded features, including PTT statistics and heart rate variability, followed by LightGBM regression. The method was evaluated using a multi-phase stress protocol ($n=10$) and the PulseDB public dataset with subject-disjoint validation. Across 30 independent runs, the model achieved mean absolute errors of $4.02 \\pm 0.21$~mmHg for systolic BP and $1.79 \\pm 0.05$~mmHg for diastolic BP, corresponding to a 28.2\\% reduction in combined MAE relative to baseline models. By enabling beat-wise estimation without long temporal context, this framework supports computationally efficient cuffless BP monitoring suitable for wearable deployment under practical resource constraints. The source code for this work is available at https://github.com/SYMBIOX-Lab/BP-wireless.",
+      "url": "http://arxiv.org/abs/2607.27076v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27076v1",
+      "categories": [
+        "cs.LG",
+        "eess.SP",
+        "eess.SY"
+      ],
+      "published": "2026-07-29T16:00:39+00:00",
+      "source": "arxiv",
+      "title_cn": "Single-Beat Cuffless Blood Pressure Estimation Using Ear-PPG and ECG with a Lightweight Hybrid Learning Framework",
+      "summary_cn": "Continuous cuffless blood pressure (BP) monitoring remains challenging due to motion artifacts, physiological variability, and the limited robustness of conventional pulse transit time (PTT) models un",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise",
+      "authors": [
+        "Vaneet Aggarwal"
+      ],
+      "abstract": "We study online convex optimization (OCO) in non-stationary environments under heavy-tailed noise, where the stochastic gradient oracle admits only a finite $p$-th central moment for some $p \\in (1, 2]$. While static regret is well-understood, achieving universal dynamic regret in a parameter-free manner remains an open challenge. We resolve this by proposing \\textbf{HT-PAder}, a parameter-free algorithm combining restarted AdaGrad experts over a geometric pool of block lengths with a pathwise meta-algorithm, \\textbf{AdaGrad-Hedge}, which requires no moment conditions on meta-losses. For a domain of diameter $D$, Lipschitz constant $G$, noise level $σ$, and comparator path length $P_T$, HT-PAder achieves an expected universal dynamic regret of \\[ \\widetilde O\\left( GD\\sqrt{T(1+P_T/D)} + σD T^{1/p}(1+P_T/D)^{(p-1)/p} \\right). \\] The algorithm does not require prior knowledge of any of these problem parameters. Even in the special case of finite variance ($p=2$), HT-PAder provides the first parameter-free minimax universal dynamic regret guarantee. We also prove a matching lower bound, establishing the optimality of the path-length exponent.",
+      "url": "http://arxiv.org/abs/2607.27073v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27073v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.OC"
+      ],
+      "published": "2026-07-29T15:58:18+00:00",
+      "source": "arxiv",
+      "title_cn": "Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise",
+      "summary_cn": "We study online convex optimization (OCO) in non-stationary environments under heavy-tailed noise, where the stochastic gradient oracle admits only a finite $p$-th central moment for some $p \\in (1, 2",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+      "authors": [
+        "Hao Tan",
+        "Jun Lan",
+        "Zichang Tan",
+        "Ajian Liu",
+        "Zijian Yu"
+      ],
+      "abstract": "The growing capability of image generation models has made synthetic images a routine presence in open media, making robust and generalizable AI-Generated Image (AIGI) detection increasingly essential. While multi-modal large language models (MLLMs) offer a transparent alternative to black-box binary scoring, we observe that current MLLM-based detectors still exhibit notable perception bottlenecks in capturing fine-grained anomalies. They primarily focus on how visual evidence is organized and synthesized, leaving the intrinsic perception less optimized. To mitigate this gap, we present Veritas++, a perception-enhanced reasoning framework that establishes reliable perception as the foundation of authenticity reasoning. Rather than directly optimizing the model's explanatory ability, we ground AIGI detection on three basic perception abilities, i.e., capturing fine-grained visual details, semantic anomalies and pixel-level differences. Building on this insight, we introduce Perception-oriented Learning (PoRL), which replaces open-ended description supervision with verifiable rewards to explicitly strengthen these capacities. To further integrate enhanced perception with reasoning, we introduce Value-aware On-Policy Distillation (VaOPD), an adaptive distillation mechanism that prioritizes high-value distillation signals over uniform supervision, internalizing perception-aware reasoning through a privileged self-teacher. Extensive experiments across standard, in-the-wild and emerging benchmarks demonstrate that Veritas++ achieves promising generalization. The perception learning effectively bridges the perception gap and yields seamless gains on detection, while VaOPD further enables efficient capability evolvement without sacrificing existing performance. Code and checkpoints are available at https://github.com/EricTan7/VeritasPP.",
+      "url": "http://arxiv.org/abs/2607.27113v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27113v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-29T16:43:59+00:00",
+      "source": "arxiv",
+      "title_cn": "Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection",
+      "summary_cn": "The growing capability of image generation models has made synthetic images a routine presence in open media, making robust and generalizable AI-Generated Image (AIGI) detection increasingly essential",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+      "authors": [
+        "Jiatong Li",
+        "Leo Liang",
+        "Linghe Kong",
+        "Yulun Zhang"
+      ],
+      "abstract": "Autoregressive video diffusion models enable real-time streaming video generation. However, errors introduced during self-rollout accumulate over long horizons, manifesting as color drift, motion stagnation, and eventual visual collapse. In this paper, we characterize this phenomenon from a frequency-domain perspective: error accumulation appears as a pronounced energy drift in the low-frequency bands. We further investigate the effectiveness of attention sink in the frequency domain, and find that it improves the video quality by alleviating the spectral energy drift to some extent, but cannot fully resolve it. Motivated by the above analysis, we propose FreqForcing, a training-free framework that addresses error accumulation in long-video generation via Spectral Self-Anchoring (SSA). The proposed SSA leverages the low-frequency components of anchor attention to maintain long-horizon visual stability, while preserving dynamic motion through the high-frequency components of local attention. Our FreqForcing extends Self-Forcing pretrained on 5s clips to two-minute generation, achieving 24x extrapolation. Extensive experiments show that FreqForcing outperforms existing training-free methods quantitatively and qualitatively while remaining competitive with representative training-based approaches.",
+      "url": "http://arxiv.org/abs/2607.27110v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27110v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-29T16:38:47+00:00",
+      "source": "arxiv",
+      "title_cn": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+      "summary_cn": "Autoregressive video diffusion models enable real-time streaming video generation. However, errors introduced during self-rollout accumulate over long horizons, manifesting as color drift, motion stag",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation",
+      "authors": [
+        "Philippe Baumstimler",
+        "Jean-Mathieu Gagnon",
+        "Sébastien Gagné",
+        "Mathieu Duchesneau",
+        "Clément Playout"
+      ],
+      "abstract": "Anterior eye segment (AES) segmentation is a key component of both ocular biometrics and emerging clinical image analysis applications. However, heterogeneous acquisition conditions and limited annotations in medical settings hinder the robustness and generalization of existing methods. Foundation models (FMs) such as DINOv3 offer strong transfer capabilities, but efficiently adapting their representations to dense prediction tasks remains challenging. In this study, we investigate robust AES segmentation in clinical settings, and propose a lightweight architecture built upon a distilled DINOv3 ViT-Small backbone. We introduce a step-attention feature refinement module that progressively adapts multi-level transformer representations before convolutional decoding, enabling efficient exploitation of pretrained features with few parameters. We evaluate the proposed approach on a private dataset of 333 clinically acquired AES images spanning eight ophthalmic acquisition protocols and annotated for seven anatomical classes. Compared with convolutional and transformer-based baselines, including DINOv3-based methods, our approach achieves the best overall performance, reaching 85.55\\% mIoU when fully fine-tuned. It also demonstrates the strongest robustness to domain shift across four unseen public AES segmentation datasets. These results establish a strong baseline for robust AES segmentation in clinical settings and highlight the importance of decoder design for effectively adapting FMs representations to medical segmentation tasks.",
+      "url": "http://arxiv.org/abs/2607.27087v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27087v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-07-29T16:11:11+00:00",
+      "source": "arxiv",
+      "title_cn": "Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation",
+      "summary_cn": "Anterior eye segment (AES) segmentation is a key component of both ocular biometrics and emerging clinical image analysis applications. However, heterogeneous acquisition conditions and limited annota",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context",
+      "authors": [
+        "Zihan Deng",
+        "Chuanzhi Xu",
+        "Huiqi Liang",
+        "Haoyang Li",
+        "Xiaozhen Zhong"
+      ],
+      "abstract": "Scientific images are the core elements of presenting experimental conclusions, elaborating system architecture, and supporting comparative arguments in scientific papers. However, existing image quality assessment (IQA) methods are predominantly designed for natural photographs or AI-generated content, which cannot be directly applied to scientific papers. The few existing studies on scholarly charts remain confined to visual-surface comparisons, failing to verify caption alignment, citation relevance, or visual misleadingness. To address this, we propose SciFigQual-Bench, a full-text contextual benchmark that evaluates scientific images across five dimensions (clarity, layout, caption fit, context relevance, and misleading risk). The data covers top computer-science conferences from 2020 to 2025; 6,308 images were independently scored by multiple domain experts in five dimensions and aggregated into gold-standard annotations. Unlike previous scientific figure benchmarks, our dataset binds each image to its caption, citing sentence, and manuscript context. To enable automated evaluation on this benchmark, we designed a staged cross-modal evaluation framework SFQ-Agent to achieve auditable and refined scoring through the collection and fusion of modal evidence. Multiple mainstream large models were evaluated on the test subset eval1200, and SFQ-Agent (F3) equipped with GPT-5.6-Sol achieved the lowest overall average absolute error (0.418) and the highest consistency rate (93.4%), consistently outperforming both direct evaluation and auxiliary (Sidecar) visual language model evaluation schemes.",
+      "url": "http://arxiv.org/abs/2607.27084v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27084v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T16:07:44+00:00",
+      "source": "arxiv",
+      "title_cn": "SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context",
+      "summary_cn": "Scientific images are the core elements of presenting experimental conclusions, elaborating system architecture, and supporting comparative arguments in scientific papers. However, existing image qual",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Visual Credit Audit for Multimodal Spatial Reasoning",
+      "authors": [
+        "Feixiang Liu",
+        "Qiang Qiu",
+        "Lanbo Sun",
+        "Nan Wei",
+        "Huawei Shen"
+      ],
+      "abstract": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separates two estimands: whether the benchmark image gives the model's declared decision more support than text-only and blank controls, and whether the model responds to relation-specific visual evidence. The first audit is training- and label-free and does not require an answer flip. Applying labels yields dependence-credited correctness (D-CC); on correct items, it equals same-control gold-aligned positive gain, while prediction alignment extends the audit to errors. Across four open MLLMs and two spatial benchmarks, 12.73-26.25% of decisions are correct yet uncredited. Matched same-split image permutation reduces D-CC by 21.25-47.80 points, with every paired 95% interval above zero. Fixed-pixel relation contrasts and a 3x3 evidence-source factorial show why null controls cannot identify relation response. Among controlled correct-but-uncredited agreement decisions, response to relation reversal spans 81.57-100.00%, while 32.11% pooled change answer. Independently audited outcomes on 108 geometry-compatible edits provide a bounded natural-image correspondence check. VCA thereby decomposes benchmark success into correctness, additional image support, and relation-consistent response.",
+      "url": "http://arxiv.org/abs/2607.27069v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27069v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T15:55:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Visual Credit Audit for Multimodal Spatial Reasoning",
+      "summary_cn": "Closed yes/no spatial benchmarks can reward a correct answer even when the image adds little support beyond no-image contexts. Under a fixed forced-choice interface, Visual Credit Audit (VCA) separate",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence",
+      "authors": [
+        "Chuanzhi Xu",
+        "Zihan Deng",
+        "Huiqi Liang",
+        "Chengkun Yue",
+        "Zhanlin Cui"
+      ],
+      "abstract": "Scientific figure assessment in peer review differs fundamentally from general image quality evaluation: a figure must be visually legible, faithfully support the manuscript's claims, and communicate evidence with a clear visual hierarchy. However, if we apply traditional image assessment methods to scientific figure quality assessment, limitations emerge: classic IQA models capture perceptual quality or aesthetics but cannot judge whether a figure serves the paper's scientific argument; CLIP-based methods assess generic image-text correspondence, yet lack understanding of manuscript context; and zero-shot LLM/VLM judges, when repurposed for figure scoring, often yield overly concentrated scores with limited fusion of visual and textual evidence. We introduce an annotated dataset of 3,857 scientific figures from peer-reviewed conference papers, each rated along four peer-review-oriented dimensions: Clarity, Relevance, Informativeness, and Structure. We propose SciFigAlign, a fine-tuned multimodal scorer that grounds figure quality assessment in manuscript evidence. Given a figure crop, caption, citing paragraphs, and light paper context, SciFigAlign fine-tunes CLIP and SciBERT end-to-end with per-modality cross-attention and CubeMLP fusion, jointly optimizing SmoothL1 regression with a within-paper ranking hinge loss. Under paper-level splits, SciFigAlign achieves a macro MAE of 0.3524 and a within-paper pairwise accuracy of 81.64% on the test set with n = 396, a 59% relative error reduction over the best LLM-as-judge baseline with MAE 0.864. Ablations confirm that manuscript-grounded inputs, citing-context denoising, and ranking supervision are all critical, showing that scientific figure assessment requires learned alignment between visual content and manuscript evidence rather than prompting alone, even with state-of-the-art VLMs.",
+      "url": "http://arxiv.org/abs/2607.27066v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27066v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T15:54:14+00:00",
+      "source": "arxiv",
+      "title_cn": "SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence",
+      "summary_cn": "Scientific figure assessment in peer review differs fundamentally from general image quality evaluation: a figure must be visually legible, faithfully support the manuscript's claims, and communicate ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection",
+      "authors": [
+        "Paul Julius Kühn",
+        "Saptarshi Neil Sinha",
+        "Tiago Kleist",
+        "Richard Hoffmann",
+        "Arjan kuijper"
+      ],
+      "abstract": "While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This paper presents a procedural rendering pipeline that generates large-scale annotated synthetic training data using BlenderProc, with configurable material appearance, camera modes, and domain randomization, producing automatic COCO-format annotations. To show the potential of our approach, we evaluate four training strategies, namely synthetic-only, real-only, mixed, and fine-tuning from synthetic weights, across two objects with different material properties and three lightweight edge-deployable detectors, YOLOX, YOLO26, and LW-DETR. Our evaluation show that fine-tuning from synthetic weights consistently outperforms real-only training, and that mixed training effectively recovers performance under scarce real-data conditions, with findings validated across both convolutional and transformer-based architectures. The proposed approach enables scalable defect detection without the burden of large real annotated datasets, making it practical for on-device industrial inspection. The pipeline scripts, 3D model, and both synthetic and real annotated scratch datasets for a glossy toy Ferrari car will be made available through the project website upon acceptance.",
+      "url": "http://arxiv.org/abs/2607.27065v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27065v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T15:54:01+00:00",
+      "source": "arxiv",
+      "title_cn": "ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection",
+      "summary_cn": "While automated defect detection such as the detection of surface scratched is an important aspect in industrial quality control, the scarcity of annotated defect data make this task challenging. This",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+      "authors": [
+        "Weijie Wu",
+        "Junbo Li",
+        "Lin Li",
+        "Jun Fang",
+        "Qingyang Hong"
+      ],
+      "abstract": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performance, making it difficult to diagnose information coverage and description reliability. We propose MMAC, a \\textbf{M}assive \\textbf{M}ulti-dimensional benchmark for \\textbf{A}udio \\textbf{C}aptioning. MMAC contains 5,638 audio clips from more than 20 data sources, covering 6 capability categories and 15 evaluation dimensions. Given a model-generated caption, MMAC checks whether it mentions relevant information in the target dimension and whether the mentioned content is consistent with the reference label. We evaluate representative open-source and proprietary AudioLLMs. Results show clear differences across evaluation dimensions, information coverage, and description reliability. We will release the MMAC benchmark and evaluation code.",
+      "url": "http://arxiv.org/abs/2607.27109v1",
+      "pdf_url": "https://arxiv.org/pdf/2607.27109v1",
+      "categories": [
+        "cs.SD",
+        "cs.AI"
+      ],
+      "published": "2026-07-29T16:38:08+00:00",
+      "source": "arxiv",
+      "title_cn": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+      "summary_cn": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations ",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
