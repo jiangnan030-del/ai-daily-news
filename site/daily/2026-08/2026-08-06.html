@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-08-06 周四</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-08-06 周四</h1>
+
+<blockquote>自动生成于 2026-08-06 09:29 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日 AI 领域持续活跃，多个前沿方向取得新进展。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/TencentCloud/TencentDB-Agent-Memory" target="_blank">TencentCloud/TencentDB-Agent-Memory</a> <code>其他</code></h3>
+
+<p>⭐ <strong>15,091</strong> Stars | 📈 今日 +1892 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</p>
+
+<h3>2. <a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a> <code>其他</code></h3>
+
+<p>⭐ <strong>267,323</strong> Stars | 📈 今日 +931 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>An agentic skills framework & software development methodology that works.</p>
+
+<h3>3. <a href="https://github.com/cloudflare/computer" target="_blank">cloudflare/computer</a> <code>其他</code></h3>
+
+<p>⭐ <strong>3,015</strong> Stars | 📈 今日 +891 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Give your agent a computer 👾</p>
+
+<h3>4. <a href="https://github.com/usestrix/strix" target="_blank">usestrix/strix</a> <code>其他</code></h3>
+
+<p>⭐ <strong>48,986</strong> Stars | 📈 今日 +889 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.</p>
+
+<h3>5. <a href="https://github.com/lyogavin/airllm" target="_blank">lyogavin/airllm</a> <code>其他</code></h3>
+
+<p>⭐ <strong>29,104</strong> Stars | 📈 今日 +833 | 🔤 Jupyter Notebook | 推荐: ⭐⭐ (5/10)</p>
+
+<p>AirLLM 70B inference with single 4GB GPU</p>
+
+<h3>6. <a href="https://github.com/esengine/DeepSeek-Reasonix" target="_blank">esengine/DeepSeek-Reasonix</a> <code>其他</code></h3>
+
+<p>⭐ <strong>31,643</strong> Stars | 📈 今日 +747 | 🔤 Go | 推荐: ⭐⭐ (5/10)</p>
+
+<p>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</p>
+
+<h3>7. <a href="https://github.com/browser-use/video-use" target="_blank">browser-use/video-use</a> <code>其他</code></h3>
+
+<p>⭐ <strong>19,735</strong> Stars | 📈 今日 +605 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Edit videos with coding agents</p>
+
+<h3>8. <a href="https://github.com/NousResearch/hermes-agent" target="_blank">NousResearch/hermes-agent</a> <code>其他</code></h3>
+
+<p>⭐ <strong>226,082</strong> Stars | 📈 今日 +601 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The agent that grows with you</p>
+
+<h3>9. <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">tailwindlabs/tailwindcss</a> <code>其他</code></h3>
+
+<p>⭐ <strong>96,866</strong> Stars | 📈 今日 +408 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A utility-first CSS framework for rapid UI development.</p>
+
+<h3>10. <a href="https://github.com/blader/humanizer" target="_blank">blader/humanizer</a> <code>其他</code></h3>
+
+<p>⭐ <strong>33,757</strong> Stars | 📈 今日 +355 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Agent skill that removes signs of AI-generated writing from text</p>
+
+<h3>11. <a href="https://github.com/uber/ADR" target="_blank">uber/ADR</a> <code>其他</code></h3>
+
+<p>⭐ <strong>1,053</strong> Stars | 📈 今日 +354 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.</p>
+
+<h3>12. <a href="https://github.com/huangruiteng/loopx" target="_blank">huangruiteng/loopx</a> <code>其他</code></h3>
+
+<p>⭐ <strong>2,144</strong> Stars | 📈 今日 +326 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.</p>
+
+<h3>13. <a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">Comfy-Org/ComfyUI</a> <code>其他</code></h3>
+
+<p>⭐ <strong>123,978</strong> Stars | 📈 今日 +237 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</p>
+
+<h3>14. <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>81,998</strong> Stars | 📈 今日 +226 | 🔤 JavaScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Production-grade engineering skills for AI coding agents.</p>
+
+<h3>15. <a href="https://github.com/BerriAI/litellm" target="_blank">BerriAI/litellm</a> <code>其他</code></h3>
+
+<p>⭐ <strong>55,650</strong> Stars | 📈 今日 +104 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://mistral.ai/news/shieldstral/" target="_blank">Mistral's Shieldstral: 3B open-weights model for multimodal moderation</a> <code>其他</code></h3>
+
+<p>🔺 <strong>474</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49171268" target="_blank">127 评论</a> | 👤 riadsila</p>
+
+<h3>2. <a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/" target="_blank">Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs</a> <code>其他</code></h3>
+
+<p>🔺 <strong>465</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49184755" target="_blank">586 评论</a> | 👤 colesantiago</p>
+
+<h3>3. <a href="https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/" target="_blank">Apple says more ex-employees may have taken confidential data to OpenAI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>384</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49170479" target="_blank">281 评论</a> | 👤 thewebguyd</p>
+
+<h3>4. <a href="https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/" target="_blank">AI fuels more than half of cybercrime in Africa as scams surge – Interpol</a> <code>其他</code></h3>
+
+<p>🔺 <strong>290</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49175826" target="_blank">241 评论</a> | 👤 bookofjoe</p>
+
+<h3>5. <a href="https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/" target="_blank">Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery</a> <code>其他</code></h3>
+
+<p>🔺 <strong>244</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49187977" target="_blank">198 评论</a> | 👤 malshe</p>
+
+<h3>6. <a href="https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/" target="_blank">TIME Is Serving AI Bots a Different Website, with Ads Built In</a> <code>其他</code></h3>
+
+<p>🔺 <strong>230</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49182041" target="_blank">97 评论</a> | 👤 vincent_s</p>
+
+<h3>7. <a href="https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency" target="_blank">Beating GPT-5.6 Sol on retrieval with 100x cheaper open models</a> <code>其他</code></h3>
+
+<p>🔺 <strong>222</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49186762" target="_blank">39 评论</a> | 👤 moonikakiss</p>
+
+<h3>8. <a href="https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/" target="_blank">Why Erdős Problems Are Falling to AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>126</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49181519" target="_blank">122 评论</a> | 👤 pseudolus</p>
+
+<h3>9. <a href="https://blog.fogus.me/llm/born-against.html" target="_blank">Born Against, or why hobby programming communities are against LLM usage</a> <code>其他</code></h3>
+
+<p>🔺 <strong>123</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49187061" target="_blank">137 评论</a> | 👤 lladnar</p>
+
+<h3>10. <a href="https://data4sci.com/blog/building-an-advanced-agentic-harness" target="_blank">Building an Advanced Agentic Harness</a> <code>其他</code></h3>
+
+<p>🔺 <strong>107</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49182946" target="_blank">41 评论</a> | 👤 Anon84</p>
+
+<h3>11. <a href="https://arxiv.org/abs/2602.16763" target="_blank">When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation</a> <code>其他</code></h3>
+
+<p>🔺 <strong>103</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49170915" target="_blank">121 评论</a> | 👤 doppp</p>
+
+<h3>12. <a href="https://arxiv.org/abs/2607.29377" target="_blank">Zero-Mem: Zero-Token Memory Operations for LLM Agents</a> <code>其他</code></h3>
+
+<p>🔺 <strong>92</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49178608" target="_blank">12 评论</a> | 👤 theanonymousone</p>
+
+<h3>13. <a href="https://arxiv.org/abs/2510.01395" target="_blank">Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)</a> <code>其他</code></h3>
+
+<p>🔺 <strong>70</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49186720" target="_blank">50 评论</a> | 👤 robin_reala</p>
+
+<h3>14. <a href="https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show" target="_blank">Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show</a> <code>其他</code></h3>
+
+<p>🔺 <strong>61</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49186766" target="_blank">16 评论</a> | 👤 mapping365</p>
+
+<h3>15. <a href="https://blog.cloudflare.com/wallets/" target="_blank">Cloudflare Wallets: the programmable wallet for the agentic Internet</a> <code>其他</code></h3>
+
+<p>🔺 <strong>53</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49175461" target="_blank">19 评论</a> | 👤 hahahaa</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2608.05030v1" target="_blank">From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking</a></h3>
+
+<p class="italic-note"><em>From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking</em></p>
+
+<p>📝 Shaopeng Liang | 📂 <code>cs.AI</code></p>
+
+<p>Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities,</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05030v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2608.05018v1" target="_blank">Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load</a></h3>
+
+<p class="italic-note"><em>Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load</em></p>
+
+<p>📝 Thomas Bartz-Beielstein | 📂 <code>cs.AI, cs.LG</code></p>
+
+<p>Short-term load forecasting (STLF) play a vital role in the electric power industry. It serves infrastructure that European and German law designate as critical. Determinism, reproducibility, and audi</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05018v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2608.04964v1" target="_blank">WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models</a></h3>
+
+<p class="italic-note"><em>WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models</em></p>
+
+<p>📝 Bohai Gu, Yueyang Yuan, Taiyi Wu et al. | 📂 <code>cs.AI, cs.LG</code></p>
+
+<p>Interactive video world models are essential for long-horizon planning and exploration, yet they suffer from compounding errors. Post-training methods such as reinforcement learning (RL) can improve t</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.04964v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2608.05028v1" target="_blank">Language Models Generalize to Human-like Word Order Preferences</a></h3>
+
+<p class="italic-note"><em>Language Models Generalize to Human-like Word Order Preferences</em></p>
+
+<p>📝 Amanda Popadich, Shane Steinert-Threlkeld | 📂 <code>cs.CL</code></p>
+
+<p>A central question in language acquisition is whether linguistic biases can emerge from general learning mechanisms operating over underdetermined input. Artificial Language Learning (ALL) studies hav</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05028v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2608.05004v1" target="_blank">DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots</a></h3>
+
+<p class="italic-note"><em>DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots</em></p>
+
+<p>📝 Jared Moore, Andrea Mock, Yifan Mai et al. | 📂 <code>cs.CL</code></p>
+
+<p>Mental health professionals have raised concerns about risks of psychological harm from interaction with large language models (LLMs), including "delusional spirals" in which concerning human and LLM</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05004v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2608.04980v1" target="_blank">Protoreasoning in Tiny Transformers</a></h3>
+
+<p class="italic-note"><em>Protoreasoning in Tiny Transformers</em></p>
+
+<p>📝 Eduardo Valle, Fergal Reid | 📂 <code>cs.CL, cs.AI, cs.LG</code></p>
+
+<p>We show that tiny transformers can profitably employ a simple form of Chain of Thought, which we call protoreasoning, allowing us to study step-by-step reasoning on ~1M-parameter models and opening up</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.04980v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2608.05025v1" target="_blank">Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers</a></h3>
+
+<p class="italic-note"><em>Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers</em></p>
+
+<p>📝 Dmytro Knopov | 📂 <code>cs.LG, stat.ML</code></p>
+
+<p>Joint Energy-Based Models (JEM) unify classification and generation within a single network and support out-of-distribution (OOD) detection. Canonical JEM training relies on stochastic gradient Langev</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05025v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2608.05006v1" target="_blank">Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures</a></h3>
+
+<p class="italic-note"><em>Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures</em></p>
+
+<p>📝 Isabela D. Rodrigues, Seymour M. J. Spence, Henrique M. Kroetz et al. | 📂 <code>cs.LG, stat.CO, stat.ML</code></p>
+
+<p>Metamodels are instrumental in reducing the computational burden associated with nested reliability analyses and optimization loops in Performance-Based Risk Optimization (PBRO) of structures under st</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05006v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2608.04968v1" target="_blank">EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement</a></h3>
+
+<p class="italic-note"><em>EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement</em></p>
+
+<p>📝 Jun Nie, Yonggang Zhang, Qianshu Cai et al. | 📂 <code>cs.LG</code></p>
+
+<p>The capabilities of an LLM agent depend not only on its model but on the harness: the executable program that constructs context, invokes tools, verifies results, and recovers from failure. Recent wor</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.04968v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2608.05000v1" target="_blank">Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes</a></h3>
+
+<p class="italic-note"><em>Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes</em></p>
+
+<p>📝 Junlin Han, Shengbang Tong, David Fan et al. | 📂 <code>cs.CV, cs.LG, cs.MM</code></p>
+
+<p>Vision offers a critical axis for advancing foundation models, driving a shift towards natively unified multimodal pretraining. Despite this momentum, the design space and the fundamental mechanisms o</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05000v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2608.04995v1" target="_blank">Promptable Animal Pose Tracking Across Species</a></h3>
+
+<p class="italic-note"><em>Promptable Animal Pose Tracking Across Species</em></p>
+
+<p>📝 Le Li, Daniela Ivanova, Nicolas Pugeault | 📂 <code>cs.CV</code></p>
+
+<p>Animal pose estimation and tracking is important for wildlife monitoring and conservation research, and with limited expert time for labelling automated approaches are imperative. While human pose est</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.04995v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2608.05033v1" target="_blank">SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System</a></h3>
+
+<p class="italic-note"><em>SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System</em></p>
+
+<p>📝 Shiyang Li, Guangyan Sun, Jinwei Tang et al. | 📂 <code>cs.DC, cs.LG</code></p>
+
+<p>Sparse matrix kernels are fundamental to scientific computing, graph analytics, and machine learning. Their GPU performance depends strongly on the input sparsity pattern and execution strategy. For t</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05033v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2608.05026v1" target="_blank">ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation</a></h3>
+
+<p class="italic-note"><em>ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation</em></p>
+
+<p>📝 Xiaoyan Gu, Yifang Wang, Wenqing Zheng et al. | 📂 <code>cs.HC, cs.AI</code></p>
+
+<p>High-quality annotation of artworks is essential for computational art research, yet extracting implicit semantics remains challenging due to the reliance on culturally grounded meanings and deep cont</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05026v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2608.05021v1" target="_blank">Optimal Constrained sc-LTL Planning in MDPs via Switching Policies</a></h3>
+
+<p class="italic-note"><em>Optimal Constrained sc-LTL Planning in MDPs via Switching Policies</em></p>
+
+<p>📝 Zetong Xuan, Yu Wang | 📂 <code>cs.RO, eess.SY</code></p>
+
+<p>We study the synthesis of optimal policies for planning problems on Markov decision processes with both objectives and safety constraints specified in co-safe linear temporal logic (sc-LTL). Our probl</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05021v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2608.05017v1" target="_blank">Algorithm-Driven SVARs: Navigating the Wilderness of Big Data</a></h3>
+
+<p class="italic-note"><em>Algorithm-Driven SVARs: Navigating the Wilderness of Big Data</em></p>
+
+<p>📝 Yucheng Yang, Tao Zha | 📂 <code>econ.EM, math.ST, stat.AP</code></p>
+
+<p>Every SVAR result is conditional on two choices: the restrictions that identify the shock and the variables on which they operate. The literature disciplines the first; the second is chosen by hand. W</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.05017v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>

@@ -1,0 +1,733 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T09:29:57.092214+08:00",
+  "github_trending": [
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "stars": 15091,
+      "forks": 1374,
+      "language": "TypeScript",
+      "stars_today": 1892,
+      "source": "github_trending",
+      "summary_cn": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 267323,
+      "forks": 23885,
+      "language": "Shell",
+      "stars_today": 931,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 3015,
+      "forks": 139,
+      "language": "TypeScript",
+      "stars_today": 891,
+      "source": "github_trending",
+      "summary_cn": "Give your agent a computer 👾",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 48986,
+      "forks": 5175,
+      "language": "Python",
+      "stars_today": 889,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
+      "stars": 29104,
+      "forks": 3124,
+      "language": "Jupyter Notebook",
+      "stars_today": 833,
+      "source": "github_trending",
+      "summary_cn": "AirLLM 70B inference with single 4GB GPU",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "stars": 31643,
+      "forks": 2032,
+      "language": "Go",
+      "stars_today": 747,
+      "source": "github_trending",
+      "summary_cn": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 19735,
+      "forks": 2450,
+      "language": "Python",
+      "stars_today": 605,
+      "source": "github_trending",
+      "summary_cn": "Edit videos with coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 226082,
+      "forks": 44004,
+      "language": "Python",
+      "stars_today": 601,
+      "source": "github_trending",
+      "summary_cn": "The agent that grows with you",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "description": "A utility-first CSS framework for rapid UI development.",
+      "stars": 96866,
+      "forks": 5549,
+      "language": "TypeScript",
+      "stars_today": 408,
+      "source": "github_trending",
+      "summary_cn": "A utility-first CSS framework for rapid UI development.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 33757,
+      "forks": 3047,
+      "language": "Python",
+      "stars_today": 355,
+      "source": "github_trending",
+      "summary_cn": "Agent skill that removes signs of AI-generated writing from text",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "stars": 1053,
+      "forks": 85,
+      "language": "Python",
+      "stars_today": 354,
+      "source": "github_trending",
+      "summary_cn": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "stars": 2144,
+      "forks": 163,
+      "language": "Python",
+      "stars_today": 326,
+      "source": "github_trending",
+      "summary_cn": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 123978,
+      "forks": 14662,
+      "language": "Python",
+      "stars_today": 237,
+      "source": "github_trending",
+      "summary_cn": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 81998,
+      "forks": 8823,
+      "language": "JavaScript",
+      "stars_today": 226,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "stars": 55650,
+      "forks": 10357,
+      "language": "Python",
+      "stars_today": 104,
+      "source": "github_trending",
+      "summary_cn": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 474,
+      "comments": 127,
+      "author": "riadsila",
+      "time": "2026-08-04T16:36:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49171268",
+      "source": "hacker_news",
+      "title_cn": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 465,
+      "comments": 586,
+      "author": "colesantiago",
+      "time": "2026-08-05T16:05:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49184755",
+      "source": "hacker_news",
+      "title_cn": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "score": 384,
+      "comments": 281,
+      "author": "thewebguyd",
+      "time": "2026-08-04T15:37:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49170479",
+      "source": "hacker_news",
+      "title_cn": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "score": 290,
+      "comments": 241,
+      "author": "bookofjoe",
+      "time": "2026-08-04T22:01:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49175826",
+      "source": "hacker_news",
+      "title_cn": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "score": 244,
+      "comments": 198,
+      "author": "malshe",
+      "time": "2026-08-05T19:47:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49187977",
+      "source": "hacker_news",
+      "title_cn": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "url": "https://www.vincentschmalbach.com/time-serves-ai-bots-a-different-website/",
+      "score": 230,
+      "comments": 97,
+      "author": "vincent_s",
+      "time": "2026-08-05T12:41:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49182041",
+      "source": "hacker_news",
+      "title_cn": "TIME Is Serving AI Bots a Different Website, with Ads Built In",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "score": 222,
+      "comments": 39,
+      "author": "moonikakiss",
+      "time": "2026-08-05T18:18:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49186762",
+      "source": "hacker_news",
+      "title_cn": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why Erdős Problems Are Falling to AI",
+      "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+      "score": 126,
+      "comments": 122,
+      "author": "pseudolus",
+      "time": "2026-08-05T11:49:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49181519",
+      "source": "hacker_news",
+      "title_cn": "Why Erdős Problems Are Falling to AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "score": 123,
+      "comments": 137,
+      "author": "lladnar",
+      "time": "2026-08-05T18:37:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49187061",
+      "source": "hacker_news",
+      "title_cn": "Born Against, or why hobby programming communities are against LLM usage",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Building an Advanced Agentic Harness",
+      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+      "score": 107,
+      "comments": 41,
+      "author": "Anon84",
+      "time": "2026-08-05T13:54:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49182946",
+      "source": "hacker_news",
+      "title_cn": "Building an Advanced Agentic Harness",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "score": 103,
+      "comments": 121,
+      "author": "doppp",
+      "time": "2026-08-04T16:10:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49170915",
+      "source": "hacker_news",
+      "title_cn": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "url": "https://arxiv.org/abs/2607.29377",
+      "score": 92,
+      "comments": 12,
+      "author": "theanonymousone",
+      "time": "2026-08-05T04:36:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49178608",
+      "source": "hacker_news",
+      "title_cn": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "score": 70,
+      "comments": 50,
+      "author": "robin_reala",
+      "time": "2026-08-05T18:17:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49186720",
+      "source": "hacker_news",
+      "title_cn": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
+      "score": 61,
+      "comments": 16,
+      "author": "mapping365",
+      "time": "2026-08-05T18:19:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49186766",
+      "source": "hacker_news",
+      "title_cn": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+      "url": "https://blog.cloudflare.com/wallets/",
+      "score": 53,
+      "comments": 19,
+      "author": "hahahaa",
+      "time": "2026-08-04T21:31:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49175461",
+      "source": "hacker_news",
+      "title_cn": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking",
+      "authors": [
+        "Shaopeng Liang"
+      ],
+      "abstract": "Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities, but do not directly understand roles, tactical matchups, motivation, or how a first goal changes behaviour. Large language models (LLMs) can reason about such concepts, yet are not calibrated probability engines. We combine both components through an auditable information harness. This paper documents four iterations: V1, a dynamic score-driven Dixon-Coles baseline; V2, which maps LLM contextual ratings back into expected-goal parameters; V3, which replaces scalar correction with goal-by-goal simulations over a frozen score-candidate set; and V4, which adds shared first-breakthrough and post-goal cascade judgments, time-aware stopping, and deterministic tail candidates. The harness defines input semantics, supplies pre-match evidence, and constrains the LLM to an inspectable reasoning route. On a chronological replay of the first 150 matches of the 2025-26 English Premier League, V1 achieved 10.0% Top-1 and 26.7% Top-3 exact-score accuracy. V3 reached 12.0% and 30.0%, while V4 reached 14.7% and 30.7%. V4 increased candidate coverage from 77.3% to 84.7%, although no added tail candidate became a Top-3 exact hit. V1's native 1X2 distribution achieved 53.3% argmax accuracy, 0.9878 log loss, 0.5870 Brier score, and 0.2095 ranked probability score. These results are exploratory: the development slice is not an untouched benchmark, and temporal input isolation cannot exclude outcome memory in a closed LLM. The contribution is an auditable hybrid architecture, a clear design evolution, and negative findings showing where football-aware simulation does and does not improve score selection.",
+      "url": "http://arxiv.org/abs/2608.05030v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05030v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-05T16:34:53+00:00",
+      "source": "arxiv",
+      "title_cn": "From Score Matrices to Football-Aware Match-State Simulation: An Auditable LLM Harness for Exact-Score Reranking",
+      "summary_cn": "Football score forecasting combines a strong statistical core with a difficult contextual edge. Dynamic Poisson-family models estimate team strength, expected goals, and coherent score probabilities, ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load",
+      "authors": [
+        "Thomas Bartz-Beielstein"
+      ],
+      "abstract": "Short-term load forecasting (STLF) play a vital role in the electric power industry. It serves infrastructure that European and German law designate as critical. Determinism, reproducibility, and auditability are engineering requirements rather than optional extras. STLF is no longer purely an accuracy problem. It is also a software-engineering and compliance problem. This paper describes results from a 41-day live challenge that evaluated a complete STLF pipeline for the aggregated German transmission-grid load. The pipeline is based on the open-source Python library spotforecast2-safe, which implements the EU-AI Act Requirements in Safety-Critical Environments by design. The pipeline predicts the 24 hourly load values of a target day from European Network of Transmission System Operators for Electricity (ENTSO-E) data. It includes anomaly detection and gap-aware data preparation, calendar and weather covariates, a recursive multi-step forecasting algorithm, and hyperparameter tuning. Forecast accuracy is measured against the official ENTSO-E day-ahead forecast. The EU-AI act compliant spotforecast2-safe pipeline beats the ENTSO-E baseline. In-context models show competitive performance. Transparent, low-cost, and auditable local models (referred to as macl2l in this paper) are competitive with more than 100-million-parameter large, energy-intensive pre-trained foundation models such as chronos-2. The challenge infrastructure, the complete submission history of all teams, and the frozen final leaderboard are publicly available.",
+      "url": "http://arxiv.org/abs/2608.05018v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05018v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-05T16:23:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load",
+      "summary_cn": "Short-term load forecasting (STLF) play a vital role in the electric power industry. It serves infrastructure that European and German law designate as critical. Determinism, reproducibility, and audi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models",
+      "authors": [
+        "Bohai Gu",
+        "Yueyang Yuan",
+        "Taiyi Wu",
+        "Dazhao Du",
+        "Jian Liu"
+      ],
+      "abstract": "Interactive video world models are essential for long-horizon planning and exploration, yet they suffer from compounding errors. Post-training methods such as reinforcement learning (RL) can improve these models, but they hit a verification bottleneck: for arbitrary action sequences, no ground-truth future state exists to measure long-term drift. Our key insight is that reversible action cycles make this verification possible: a sequence composed with its inverse must analytically return to the initial state, yielding annotation-free supervision on long-horizon correctness. Building on this, we introduce WorldCycle, a self-verifiable RL framework that constructs closed action cycles and their repeated executions from ordinary action sequences, and optimizes two complementary rewards: a spatial closure reward enforcing symmetry between mirrored forward and reverse segments, and a temporal consistency reward aligning states across repeated cycle executions. These rewards force the model to learn actions as consistent state operators rather than memorized temporal patterns, and extend naturally to out-of-distribution composite action cycles that the base model handles poorly. We further release CycleBench, a diagnostic benchmark for state-returning ability under complex action structures. WorldCycle reduces state returning drift by up to 44% and lifts composite-action accuracy nearly 4x over the base model, providing a vital foundation for physically grounded world models.",
+      "url": "http://arxiv.org/abs/2608.04964v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04964v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-05T15:34:47+00:00",
+      "source": "arxiv",
+      "title_cn": "WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models",
+      "summary_cn": "Interactive video world models are essential for long-horizon planning and exploration, yet they suffer from compounding errors. Post-training methods such as reinforcement learning (RL) can improve t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Language Models Generalize to Human-like Word Order Preferences",
+      "authors": [
+        "Amanda Popadich",
+        "Shane Steinert-Threlkeld"
+      ],
+      "abstract": "A central question in language acquisition is whether linguistic biases can emerge from general learning mechanisms operating over underdetermined input. Artificial Language Learning (ALL) studies have shown that human learners reliably generalize beyond the evidence provided, including by preferring scope-homomorphic noun phrase modifier orders. In this work, we investigate whether language models exhibit the same bias under similar conditions. We create a controlled learning environment in which models are trained on a corpus where all noun phrases containing multiple modifiers have been removed, eliminating direct evidence about modifier ordering, and are then evaluated on multiple modifier sentences. Across three model sizes, we find that they consistently prefer scope-homomorphic orders despite never observing them during training. These preferences vary in strength by modifier type. To investigate the source of these preferences, we examine noun-modifier association strength using pointwise mutual information (PMI). While PMI reflects known modifier-ordering patterns, it does not explain the models' ordering preferences. These findings demonstrate that LMs can recover human-like linguistic generalizations from impoverished input and provide a controlled framework for investigating the mechanisms underlying such biases.",
+      "url": "http://arxiv.org/abs/2608.05028v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05028v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-05T16:33:46+00:00",
+      "source": "arxiv",
+      "title_cn": "Language Models Generalize to Human-like Word Order Preferences",
+      "summary_cn": "A central question in language acquisition is whether linguistic biases can emerge from general learning mechanisms operating over underdetermined input. Artificial Language Learning (ALL) studies hav",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+      "authors": [
+        "Jared Moore",
+        "Andrea Mock",
+        "Yifan Mai",
+        "Jacy Reese Anthis",
+        "Ryan Louie"
+      ],
+      "abstract": "Mental health professionals have raised concerns about risks of psychological harm from interaction with large language models (LLMs), including \"delusional spirals\" in which concerning human and LLM behaviors reinforce each other over time. With growing public use of LLM-powered chatbots, there is an urgent need to build evaluations grounded in real-world episodes of psychological harm experienced by users. We developed DelusionEval, an evaluation protocol that tests a model's tendencies to exhibit behaviors linked to promoting user delusions. We prompt each model with 589 unique conversation histories from 18 participants, comprising 12,591 messages from users who experienced delusions and psychological harm. We find that the tendency of an evaluated LLM to exhibit delusion-linked behavior does not reliably correlate with model size, release date, or the presence of test-time reasoning. However, extending the context of prior messages substantially increases rates of delusion-linked behaviors, providing evidence for the importance of context in LLM safety evaluation. For example, the rate of failing to discourage self-harm when the user expresses suicidal ideation increases from 30.0% to 41.1% when an additional 350 messages are prepended to the conversation history. All model families (e.g., GPT, Claude) exhibit substantial rates of delusion-linked behaviors. Within families, later, larger, or higher-reasoning models are not uniformly better across all behavior categories. Our results raise concerns regarding the potential psychological impact of LLMs and the need for more rigorous studies of real-world human-AI interaction.",
+      "url": "http://arxiv.org/abs/2608.05004v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05004v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-05T16:11:08+00:00",
+      "source": "arxiv",
+      "title_cn": "DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots",
+      "summary_cn": "Mental health professionals have raised concerns about risks of psychological harm from interaction with large language models (LLMs), including \"delusional spirals\" in which concerning human and LLM ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Protoreasoning in Tiny Transformers",
+      "authors": [
+        "Eduardo Valle",
+        "Fergal Reid"
+      ],
+      "abstract": "We show that tiny transformers can profitably employ a simple form of Chain of Thought, which we call protoreasoning, allowing us to study step-by-step reasoning on ~1M-parameter models and opening up opportunities for much more detailed experimentation and analysis than is feasible for larger models. Current Large Language Models exhibit impressive step-by-step reasoning, but we have yet to understand its generality, i.e., when and how LLMs learn genuinely general algorithms rather than \"bags of heuristics.\" Such questions are hard to settle on compute-intensive frontier models trained on opaque data. To work at model scales far below the threshold for natural-language competence, we define reasoning-friendly tasks on Dyck languages (sentences of correctly nested brackets). We find that protoreasoning traces substantially close the out-of-distribution generalization gap, and ablations confirm that the trace's content, not merely its extra tokens, drives the gain.",
+      "url": "http://arxiv.org/abs/2608.04980v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04980v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-05T15:51:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Protoreasoning in Tiny Transformers",
+      "summary_cn": "We show that tiny transformers can profitably employ a simple form of Chain of Thought, which we call protoreasoning, allowing us to study step-by-step reasoning on ~1M-parameter models and opening up",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers",
+      "authors": [
+        "Dmytro Knopov"
+      ],
+      "abstract": "Joint Energy-Based Models (JEM) unify classification and generation within a single network and support out-of-distribution (OOD) detection. Canonical JEM training relies on stochastic gradient Langevin dynamics (SGLD); a theoretically motivated alternative, the Predictor-Corrector (PC) sampler, has not previously undergone a systematic replication test on the canonical model. We reproduce canonical JEM on WideResNet-28-10 without normalisation layers on two independent runs and test whether PC retains its theoretical advantage without an annealed noise schedule, across three protocols: PC replacing SGLD throughout the roughly 130 training epochs; cold-start generation (FID); and refinement-style multi-OOD detection (AUROC). The reconstruction reaches 92.88% test accuracy and buffer-FID 44.46 (canonical: 92.9% and 38.40). We document two failure modes: catastrophic late-training divergence via the canonical outlier-buffer mechanism (both SGLD runs and, with the same signature, both PC runs), and run-dependent SVHN OOD-discrimination dynamics. No method-level advantage of PC over SGLD is observed on any protocol: at inference the absolute AUROC difference stays below 0.007 across all ten checkpoint-OOD pairs and the FID difference below 0.5; on the training protocol a hierarchical seed-by-image bootstrap gives a 95% confidence interval on the macro-averaged AUROC difference that contains zero, while a seed-level equivalence test with two runs per method cannot establish formal equivalence. The data are consistent both with equivalence and with a small directional effect. This practical indistinguishability is theoretically expected: under fixed noise the PC predictor step degenerates by construction, so its guarantees do not transfer to canonical JEM.",
+      "url": "http://arxiv.org/abs/2608.05025v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05025v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-08-05T16:28:57+00:00",
+      "source": "arxiv",
+      "title_cn": "Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers",
+      "summary_cn": "Joint Energy-Based Models (JEM) unify classification and generation within a single network and support out-of-distribution (OOD) detection. Canonical JEM training relies on stochastic gradient Langev",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures",
+      "authors": [
+        "Isabela D. Rodrigues",
+        "Seymour M. J. Spence",
+        "Henrique M. Kroetz",
+        "André T. Beck"
+      ],
+      "abstract": "Metamodels are instrumental in reducing the computational burden associated with nested reliability analyses and optimization loops in Performance-Based Risk Optimization (PBRO) of structures under stochastic loads. In this context, stochastic emulators are particularly useful because they approximate response distributions while accounting for the intrinsic stochasticity of the simulator. Among these methods, Stochastic Polynomial Chaos Expansion (SPCE) is especially attractive because it does not require replications of nonlinear analyses at fixed input conditions. However, SPCE may present limitations in accurately representing extreme responses in the tails of structural response distributions. To address this limitation, this study proposes a framework that combines Generalized Stratified Sampling (GSS) with SPCE. The GSS scheme partitions the input space into strata according to the intensity of the hazard, improving the representation of extreme responses, while independent SPCE emulators are trained within each stratum. The conditional exceedance probabilities estimated in each stratum are then recombined using the total probability theorem to evaluate the probabilistic constraints. The proposed GSS-SPCE framework is applied to the optimal design of buckling-restrained brace cross-sectional areas in a two-story steel building. The objective is to minimize the initial construction cost while satisfying prescribed probabilistic performance constraints. Results show that the proposed framework accurately estimates structural response distributions, including their tail regions, while substantially reducing the number of nonlinear model evaluations required for PBRO.",
+      "url": "http://arxiv.org/abs/2608.05006v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05006v1",
+      "categories": [
+        "cs.LG",
+        "stat.CO",
+        "stat.ML"
+      ],
+      "published": "2026-08-05T16:12:30+00:00",
+      "source": "arxiv",
+      "title_cn": "Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures",
+      "summary_cn": "Metamodels are instrumental in reducing the computational burden associated with nested reliability analyses and optimization loops in Performance-Based Risk Optimization (PBRO) of structures under st",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement",
+      "authors": [
+        "Jun Nie",
+        "Yonggang Zhang",
+        "Qianshu Cai",
+        "Yiu-ming Cheung",
+        "Xinmei Tian"
+      ],
+      "abstract": "The capabilities of an LLM agent depend not only on its model but on the harness: the executable program that constructs context, invokes tools, verifies results, and recovers from failure. Recent work shows that evolving the harness yields persistent improvements without updating model weights. Existing approaches, however, assume that all execution experience can be routed to a single optimizer, which evolves one harness along a sequential trajectory. Real agent ecosystems violate that assumption: users, organizations, and environments generate isolated streams of experience that cannot be pooled, so the experience most worth learning from is exactly the experience that cannot be directly centralized. We introduce EvolveNet, a paradigm of collaborative harness evolution that moves experience extraction to the data. A shared harness is broadcast to data-local agent deployments, each of which evolves it on its own workload. Only the resulting program adaptations are composed into an updated shared harness and redistributed, so that every participating agent inherits operational experience discovered by the others. By shifting the aggregation boundary from raw workloads to learned adaptations, EvolveNet keeps workloads local and allows multiple evolutionary searches to proceed concurrently with reduced serial depth. Because independently modified programs cannot be averaged like model parameters and may conflict when composed, EvolveNet introduces scope-typed, evidence-guided program aggregation. Across five settings spanning text-to-SQL, data-science coding, competitive programming, software engineering, and agentic workflows, EvolveNet improves the shared harness in all five, with the largest gains under heterogeneous workloads, and ablations attribute the improvement to composition of adaptations from different agents rather than to selecting among them.",
+      "url": "http://arxiv.org/abs/2608.04968v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04968v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-08-05T15:37:18+00:00",
+      "source": "arxiv",
+      "title_cn": "EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement",
+      "summary_cn": "The capabilities of an LLM agent depend not only on its model but on the harness: the executable program that constructs context, invokes tools, verifies results, and recovers from failure. Recent wor",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes",
+      "authors": [
+        "Junlin Han",
+        "Shengbang Tong",
+        "David Fan",
+        "Minghao Chen",
+        "Philip Torr"
+      ],
+      "abstract": "Vision offers a critical axis for advancing foundation models, driving a shift towards natively unified multimodal pretraining. Despite this momentum, the design space and the fundamental mechanisms of how modalities interact during unified training remain underexplored. We provide empirical clarity through a systematic exploration of multimodal pretraining. Our controlled experiments on both synthetic and large-scale real-world datasets yield four key insights into the physics of multimodal pretraining: (i) Knowledge Flow: We disentangle how language, visual understanding, and visual generation transfer knowledge across modalities, revealing distinct patterns of influence and asymmetry; (ii) Synergy vs. Competition: We show that data \"complexity\" largely determines whether modalities are synergistic, identify architectural choices that promote synergy: such as shared attention and normalization with modality-specific feed-forward layers, and find that these behaviors generalize across different visual tokenizer designs; (iii) Early Unification: Unifying modalities from the very early stages and training them jointly is shown to be more effective than late alignment or sequential training. This process uncovers a vision laziness phenomenon, where delayed integration leads models to rely on language priors; (iv) Recipes: We derive efficient pretraining recipes that achieve strong generative performance using only 5% of the compute budget. These core findings are subsequently validated at scale by training multiple 13.5B MoE models on 2T tokens. We hope this study provides a principled foundation for understanding and scaling multimodal pretraining.",
+      "url": "http://arxiv.org/abs/2608.05000v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05000v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG",
+        "cs.MM"
+      ],
+      "published": "2026-08-05T16:09:25+00:00",
+      "source": "arxiv",
+      "title_cn": "Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes",
+      "summary_cn": "Vision offers a critical axis for advancing foundation models, driving a shift towards natively unified multimodal pretraining. Despite this momentum, the design space and the fundamental mechanisms o",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Promptable Animal Pose Tracking Across Species",
+      "authors": [
+        "Le Li",
+        "Daniela Ivanova",
+        "Nicolas Pugeault"
+      ],
+      "abstract": "Animal pose estimation and tracking is important for wildlife monitoring and conservation research, and with limited expert time for labelling automated approaches are imperative. While human pose estimation and tracking has seen rapid progress thanks to large annotated datasets, animal pose remain challenging, due to large morphological and behavioural differences between species and limited annotated data. Existing approaches either optimise generic keypoint localisation from annotated datasets (such as APTv2) with poor generalisation, or track custom keypoints using visual tracking, at the cost of performance. In this paper, we demonstrate that vision foundation models trained on large datasets can be used effectively to track animal pose with limited labelled data. We propose two models, one unsupervised and the other supervised, to track user-selected keypoints in videos. The supervised approach delivers superior tracking accuracy by employing a keypoint prompt encoder to explicitly inject structural priors from a reference frame into feature matching. In parallel, the unsupervised route provides strong cross-species robustness by leveraging diverse foundation-model features for training-free correspondence matching. Extensive evaluation on challenging animal video benchmarks APTv2 and TigDog demonstrates that our framework achieves strong performance while maintaining an effective balance between accuracy and generalisation, offering a practical solution for real-world animal behaviour analysis and conservation applications.",
+      "url": "http://arxiv.org/abs/2608.04995v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.04995v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-05T16:04:20+00:00",
+      "source": "arxiv",
+      "title_cn": "Promptable Animal Pose Tracking Across Species",
+      "summary_cn": "Animal pose estimation and tracking is important for wildlife monitoring and conservation research, and with limited expert time for labelling automated approaches are imperative. While human pose est",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System",
+      "authors": [
+        "Shiyang Li",
+        "Guangyan Sun",
+        "Jinwei Tang",
+        "Yanzhi Wang",
+        "Mingyi Hong"
+      ],
+      "abstract": "Sparse matrix kernels are fundamental to scientific computing, graph analytics, and machine learning. Their GPU performance depends strongly on the input sparsity pattern and execution strategy. For the same SpMM on the same matrix, cuSPARSE exhibits a 350x performance gap between CSR and Blocked-ELL. Our study of multiple data formats, specialized systems, and sparse compilers shows that no single implementation consistently dominates across sparsity patterns and operators. This motivates a system that can adapt its representation, execution strategy, and hardware mapping to each workload and target GPU. We present SparseDitto, an LLM-based system that constructs a GPU kernel for each matrix, operator, and target GPU. SparseDitto supports SpMV, SpMM, and SpGEMM within a unified design framework. A lightweight additive model ranks established strategies using structural features of the input matrix. An architecture-aware planner then proposes several candidate designs. Coding and verification agents implement and refine them using measurements from the target GPU. Across three sparse operators and a diverse set of matrices, SparseDitto achieves a geometric-mean speedup of 2.68x over cuSPARSE on an NVIDIA RTX PRO 6000 GPU, with a maximum of 146.61x. On an NVIDIA H200 GPU, it achieves 2.79x, with a maximum of 78.5x. Its generated SpMM kernels also accelerate full-batch GCN training by up to 3.39x.",
+      "url": "http://arxiv.org/abs/2608.05033v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05033v1",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ],
+      "published": "2026-08-05T16:41:03+00:00",
+      "source": "arxiv",
+      "title_cn": "SparseDitto: Customizing GPU Kernels for Different Sparsity Patterns with LLM-Based Agentic System",
+      "summary_cn": "Sparse matrix kernels are fundamental to scientific computing, graph analytics, and machine learning. Their GPU performance depends strongly on the input sparsity pattern and execution strategy. For t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation",
+      "authors": [
+        "Xiaoyan Gu",
+        "Yifang Wang",
+        "Wenqing Zheng",
+        "Haozhong Liu",
+        "Yixia Zheng"
+      ],
+      "abstract": "High-quality annotation of artworks is essential for computational art research, yet extracting implicit semantics remains challenging due to the reliance on culturally grounded meanings and deep contextual knowledge behind the images. Current AI-assisted annotation tools often lack assistance or rely on one-way workflows where experts have to perform extra manual calibrations to improve AI models, resulting in limited efficiency. To address this, we propose Bidirectional Human-AI Augmentation(BiHAA), a closed-loop framework in which skills and domain knowledge base evolve through real-time interaction and bidirectional HAI augmentation. Informed by a formative study with 20 artwork annotators from different backgrounds, we implement this framework in ArtAnno, an artwork annotation system driven by a multi-agent architecture. The system includes a Proactive Agentic Support Module, where AI augments humans through semantic mining and label suggestion, and an Interaction-Driven Evolution Module, where human expertise continuously enhances the AI through distilling annotation trajectories into reusable experience. Evaluation through a user study and two case studies demonstrates that our framework and system improve annotation efficiency, enable knowledge accumulation, and reduce the effort of information seeking and verification for annotators with limited domain expertise. We conclude by discussing broader implications and future directions.",
+      "url": "http://arxiv.org/abs/2608.05026v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05026v1",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ],
+      "published": "2026-08-05T16:30:12+00:00",
+      "source": "arxiv",
+      "title_cn": "ArtAnno: Annotating Implicit Semantics in Artworks through LLM Agent-Driven Bidirectional Human-AI Augmentation",
+      "summary_cn": "High-quality annotation of artworks is essential for computational art research, yet extracting implicit semantics remains challenging due to the reliance on culturally grounded meanings and deep cont",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Optimal Constrained sc-LTL Planning in MDPs via Switching Policies",
+      "authors": [
+        "Zetong Xuan",
+        "Yu Wang"
+      ],
+      "abstract": "We study the synthesis of optimal policies for planning problems on Markov decision processes with both objectives and safety constraints specified in co-safe linear temporal logic (sc-LTL). Our problems are inherently non-Markovian due to the complexity of the sc-LTL specification and may require policy randomization to balance the objective and constraint. We propose a novel approach that reduces the constrained sc-LTL planning problem to a constrained reachability problem on an extended model. We then show that a class of switching policies constructed from stationary policies for the individual sc-LTL specifications is sufficient for optimality for the constrained reachability problem. Our finding enables a tractable linear program to compute the optimal policy. A grid world case study demonstrates that our switching policies can achieve the optimal trade-off between the objective and the safety constraint and validates both optimality and tractability.",
+      "url": "http://arxiv.org/abs/2608.05021v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05021v1",
+      "categories": [
+        "cs.RO",
+        "eess.SY"
+      ],
+      "published": "2026-08-05T16:24:54+00:00",
+      "source": "arxiv",
+      "title_cn": "Optimal Constrained sc-LTL Planning in MDPs via Switching Policies",
+      "summary_cn": "We study the synthesis of optimal policies for planning problems on Markov decision processes with both objectives and safety constraints specified in co-safe linear temporal logic (sc-LTL). Our probl",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
+      "authors": [
+        "Yucheng Yang",
+        "Tao Zha"
+      ],
+      "abstract": "Every SVAR result is conditional on two choices: the restrictions that identify the shock and the variables on which they operate. The literature disciplines the first; the second is chosen by hand. We develop a Bayesian methodology that constructs information sets, uses an out-of-sample criterion, and retains the largest system it admits. Under recursive identification, output rises with housing production rather than household credit alone. For monetary policy, an anchor-free joint Bayesian proxy SVAR with multiple instruments strengthens the credit spread channel. A core system augmented with the selected corporate spread identifies expected default risk as a potent transmission margin.",
+      "url": "http://arxiv.org/abs/2608.05017v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.05017v1",
+      "categories": [
+        "econ.EM",
+        "math.ST",
+        "stat.AP",
+        "stat.ML"
+      ],
+      "published": "2026-08-05T16:23:05+00:00",
+      "source": "arxiv",
+      "title_cn": "Algorithm-Driven SVARs: Navigating the Wilderness of Big Data",
+      "summary_cn": "Every SVAR result is conditional on two choices: the restrictions that identify the shock and the variables on which they operate. The literature disciplines the first; the second is chosen by hand. W",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
