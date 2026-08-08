@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿日报 | 2026-08-08 周六</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+    <style>
+        :root {
+            --bg: #0d1117; --bg-secondary: #161b22; --bg-card: #1c2333;
+            --text: #e6edf3; --text-secondary: #8b949e; --text-muted: #6e7681;
+            --accent: #58a6ff; --accent-hover: #79c0ff;
+            --border: #30363d; --border-light: #21262d;
+            --green: #3fb950; --orange: #d29922; --red: #f85149; --purple: #bc8cff;
+            --max-width: 860px;
+        }
+        [data-theme="light"] {
+            --bg: #ffffff; --bg-secondary: #f6f8fa; --bg-card: #ffffff;
+            --text: #1f2328; --text-secondary: #656d76; --text-muted: #8b949e;
+            --accent: #0969da; --accent-hover: #0550ae;
+            --border: #d0d7de; --border-light: #e8ecf0;
+            --green: #1a7f37; --orange: #9a6700; --red: #cf222e; --purple: #8250df;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", Helvetica, Arial, sans-serif;
+            background: var(--bg); color: var(--text);
+            line-height: 1.7; -webkit-font-smoothing: antialiased;
+        }
+        .top-bar {
+            position: sticky; top: 0; z-index: 100;
+            background: var(--bg-secondary); border-bottom: 1px solid var(--border);
+            backdrop-filter: blur(12px);
+        }
+        .top-bar-inner {
+            max-width: var(--max-width); margin: 0 auto;
+            padding: 12px 24px; display: flex; justify-content: space-between; align-items: center;
+        }
+        .logo { font-size: 18px; font-weight: 700; color: var(--text); text-decoration: none; }
+        .logo:hover { color: var(--accent); }
+        .nav-links { display: flex; gap: 16px; align-items: center; }
+        .nav-links a {
+            color: var(--text-secondary); text-decoration: none; font-size: 14px;
+            padding: 4px 8px; border-radius: 6px; transition: all 0.2s;
+        }
+        .nav-links a:hover { color: var(--text); background: var(--border-light); }
+        .theme-toggle {
+            background: none; border: 1px solid var(--border); color: var(--text-secondary);
+            cursor: pointer; padding: 6px 10px; border-radius: 6px; font-size: 16px;
+            transition: all 0.2s;
+        }
+        .theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+        .container { max-width: var(--max-width); margin: 0 auto; padding: 32px 24px 80px; }
+        h1 { font-size: 28px; margin-bottom: 8px; background: linear-gradient(135deg, var(--accent), var(--purple)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        h2 { font-size: 22px; margin: 32px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); color: var(--text); }
+        h3 { font-size: 17px; margin: 20px 0 8px; color: var(--text); }
+        h3 a { color: var(--accent); text-decoration: none; }
+        h3 a:hover { text-decoration: underline; }
+        h3 code {
+            font-size: 12px; padding: 2px 8px; border-radius: 12px;
+            background: var(--accent); color: #fff; font-weight: 500;
+            margin-left: 6px; vertical-align: middle;
+        }
+        p { margin-bottom: 12px; color: var(--text-secondary); font-size: 15px; }
+        blockquote {
+            border-left: 3px solid var(--accent); padding: 8px 16px; margin: 12px 0;
+            background: var(--bg-secondary); border-radius: 0 8px 8px 0;
+            color: var(--text); font-size: 15px;
+        }
+        hr { border: none; border-top: 1px solid var(--border); margin: 32px 0; }
+        a { color: var(--accent); }
+        a:hover { color: var(--accent-hover); }
+        strong { color: var(--text); }
+        code { background: var(--bg-secondary); padding: 2px 6px; border-radius: 4px; font-size: 13px; }
+        .italic-note { font-style: italic; color: var(--text-muted); font-size: 13px; }
+        ul { margin: 8px 0 16px 20px; }
+        li { margin: 4px 0; color: var(--text-secondary); font-size: 15px; }
+        .footer {
+            text-align: center; padding: 24px; color: var(--text-muted);
+            font-size: 13px; border-top: 1px solid var(--border);
+        }
+        @media (max-width: 640px) {
+            .container { padding: 20px 16px 60px; }
+            h1 { font-size: 22px; }
+            h2 { font-size: 18px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="top-bar">
+        <div class="top-bar-inner">
+            <a href="/" class="logo">🤖 AI Daily News</a>
+            <div class="nav-links">
+                <a href="/">首页</a>
+                <button class="theme-toggle" onclick="toggleTheme()" title="切换主题">🌓</button>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>🤖 AI 前沿日报 | 2026-08-08 周六</h1>
+
+<blockquote>自动生成于 2026-08-08 08:52 (北京时间)</blockquote>
+
+<h2>📌 今日概览</h2>
+
+<p>今日 AI 领域持续活跃，多个前沿方向取得新进展。</p>
+
+<hr>
+
+<h2>🔥 GitHub 热门 AI 项目</h2>
+
+<h3>1. <a href="https://github.com/PrimeIntellect-ai/prime-agent" target="_blank">PrimeIntellect-ai/prime-agent</a> <code>其他</code></h3>
+
+<p>⭐ <strong>6,527</strong> Stars | 📈 今日 +2293 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</p>
+
+<h3>2. <a href="https://github.com/mattpocock/skills" target="_blank">mattpocock/skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>208,814</strong> Stars | 📈 今日 +2152 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Skills for Real Engineers. Straight from my .agents directory.</p>
+
+<h3>3. <a href="https://github.com/addyosmani/agent-skills" target="_blank">addyosmani/agent-skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>83,901</strong> Stars | 📈 今日 +1131 | 🔤 JavaScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Production-grade engineering skills for AI coding agents.</p>
+
+<h3>4. <a href="https://github.com/cloudflare/computer" target="_blank">cloudflare/computer</a> <code>其他</code></h3>
+
+<p>⭐ <strong>5,714</strong> Stars | 📈 今日 +872 | 🔤 TypeScript | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Give your agent a computer 👾</p>
+
+<h3>5. <a href="https://github.com/obra/superpowers" target="_blank">obra/superpowers</a> <code>其他</code></h3>
+
+<p>⭐ <strong>268,746</strong> Stars | 📈 今日 +782 | 🔤 Shell | 推荐: ⭐⭐ (5/10)</p>
+
+<p>An agentic skills framework & software development methodology that works.</p>
+
+<h3>6. <a href="https://github.com/huangruiteng/loopx" target="_blank">huangruiteng/loopx</a> <code>其他</code></h3>
+
+<p>⭐ <strong>3,396</strong> Stars | 📈 今日 +624 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.</p>
+
+<h3>7. <a href="https://github.com/tirth8205/code-review-graph" target="_blank">tirth8205/code-review-graph</a> <code>其他</code></h3>
+
+<p>⭐ <strong>29,356</strong> Stars | 📈 今日 +450 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</p>
+
+<h3>8. <a href="https://github.com/Significant-Gravitas/AutoGPT" target="_blank">Significant-Gravitas/AutoGPT</a> <code>其他</code></h3>
+
+<p>⭐ <strong>186,322</strong> Stars | 📈 今日 +355 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.</p>
+
+<h3>9. <a href="https://github.com/Comfy-Org/ComfyUI" target="_blank">Comfy-Org/ComfyUI</a> <code>其他</code></h3>
+
+<p>⭐ <strong>124,660</strong> Stars | 📈 今日 +338 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</p>
+
+<h3>10. <a href="https://github.com/google/skills" target="_blank">google/skills</a> <code>其他</code></h3>
+
+<p>⭐ <strong>16,249</strong> Stars | 📈 今日 +327 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Agent Skills for Google products and technologies</p>
+
+<h3>11. <a href="https://github.com/pranshuparmar/witr" target="_blank">pranshuparmar/witr</a> <code>其他</code></h3>
+
+<p>⭐ <strong>19,747</strong> Stars | 📈 今日 +234 | 🔤 Go | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.</p>
+
+<h3>12. <a href="https://github.com/anthropics/claude-code" target="_blank">anthropics/claude-code</a> <code>其他</code></h3>
+
+<p>⭐ <strong>140,608</strong> Stars | 📈 今日 +125 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</p>
+
+<h3>13. <a href="https://github.com/semantica-agi/semantica" target="_blank">semantica-agi/semantica</a> <code>其他</code></h3>
+
+<p>⭐ <strong>2,347</strong> Stars | 📈 今日 +122 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>Graph-Native Infrastructure for Context and Accountable AI Systems</p>
+
+<h3>14. <a href="https://github.com/NVIDIA-NeMo/Speech" target="_blank">NVIDIA-NeMo/Speech</a> <code>其他</code></h3>
+
+<p>⭐ <strong>18,019</strong> Stars | 📈 今日 +82 | 🔤 Python | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)</p>
+
+<h3>15. <a href="https://github.com/unclebob/swarm-forge" target="_blank">unclebob/swarm-forge</a> <code>其他</code></h3>
+
+<p>⭐ <strong>1,830</strong> Stars | 📈 今日 +81 | 🔤 Clojure | 推荐: ⭐⭐ (5/10)</p>
+
+<p>A simple tool for coordinating several AI agents.</p>
+
+<hr>
+
+<h2>📰 Hacker News AI 热议</h2>
+
+<h3>1. <a href="https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344" target="_blank">AMD acquires Taalas to boost inference performance by etching models in silicon</a> <code>其他</code></h3>
+
+<p>🔺 <strong>882</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49201970" target="_blank">665 评论</a> | 👤 itvision</p>
+
+<h3>2. <a href="https://artificialanalysis.ai/?intelligence=agentic-index" target="_blank">Qwen3.8 Max now ranked as the best overall model by agentic index</a> <code>其他</code></h3>
+
+<p>🔺 <strong>533</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49200652" target="_blank">341 评论</a> | 👤 apitman</p>
+
+<h3>3. <a href="https://arcprize.org/results/deepseek-v4-flash-0731" target="_blank">DeepSeek V4 Flash 0731</a> <code>其他</code></h3>
+
+<p>🔺 <strong>438</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49214008" target="_blank">255 评论</a> | 👤 tosh</p>
+
+<h3>4. <a href="https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/" target="_blank">Software development with AI is starting to feel like cooking steak</a> <code>其他</code></h3>
+
+<p>🔺 <strong>398</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49198069" target="_blank">412 评论</a> | 👤 yusyd</p>
+
+<h3>5. <a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code" target="_blank">Oracle bans AI-generated code from OpenJDK</a> <code>其他</code></h3>
+
+<p>🔺 <strong>373</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49213754" target="_blank">247 评论</a> | 👤 delduca</p>
+
+<h3>6. <a href="https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots" target="_blank">AI psychosis is the new leadership blind spot</a> <code>其他</code></h3>
+
+<p>🔺 <strong>159</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49210077" target="_blank">102 评论</a> | 👤 rwmj</p>
+
+<h3>7. <a href="https://www.databricks.com/blog/managing-ai-coding-costs-scale" target="_blank">Managing AI Coding Costs at Scale</a> <code>其他</code></h3>
+
+<p>🔺 <strong>155</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49214468" target="_blank">158 评论</a> | 👤 moonikakiss</p>
+
+<h3>8. <a href="https://www.aleksagordic.com/blog/vllm" target="_blank">Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)</a> <code>其他</code></h3>
+
+<p>🔺 <strong>142</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49202852" target="_blank">9 评论</a> | 👤 sebg</p>
+
+<h3>9. <a href="https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/" target="_blank">New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software</a> <code>其他</code></h3>
+
+<p>🔺 <strong>72</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49204546" target="_blank">117 评论</a> | 👤 champagnepapi</p>
+
+<h3>10. <a href="https://www.bbc.co.uk/news/articles/c5y3j3ngevmo" target="_blank">Artificial Intelligence used to design new viruses</a> <code>其他</code></h3>
+
+<p>🔺 <strong>53</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49206642" target="_blank">25 评论</a> | 👤 CaRDiaK</p>
+
+<h3>11. <a href="https://theclaudyssey.com/" target="_blank">The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5</a> <code>其他</code></h3>
+
+<p>🔺 <strong>40</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49213985" target="_blank">56 评论</a> | 👤 spinchange</p>
+
+<h3>12. <a href="https://twitter.com/un1c0rnioz/status/2084686552299634805" target="_blank">Lost my phone at the office. Claude suggested tracking Bluetooth signal strength</a> <code>其他</code></h3>
+
+<p>🔺 <strong>27</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49215786" target="_blank">24 评论</a> | 👤 ilamont</p>
+
+<h3>13. <a href="https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/" target="_blank">The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI</a> <code>其他</code></h3>
+
+<p>🔺 <strong>20</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49213016" target="_blank">5 评论</a> | 👤 swolpers</p>
+
+<h3>14. <a href="https://twitter.com/ClaudeDevs/status/2085794862608318627" target="_blank">Claude Code: Starting August 14, auto mode will be the default permission mode</a> <code>其他</code></h3>
+
+<p>🔺 <strong>16</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49214994" target="_blank">13 评论</a> | 👤 tosh</p>
+
+<h3>15. <a href="https://zenodo.org/records/21359923" target="_blank">Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters</a> <code>其他</code></h3>
+
+<p>🔺 <strong>16</strong> Points | 💬 <a href="https://news.ycombinator.com/item?id=49203707" target="_blank">1 评论</a> | 👤 purestatelabs</p>
+
+<hr>
+
+<h2>📄 arXiv 最新 AI 论文</h2>
+
+<h3>1. <a href="http://arxiv.org/abs/2608.06366v1" target="_blank">Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering</a></h3>
+
+<p class="italic-note"><em>Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering</em></p>
+
+<p>📝 Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al. | 📂 <code>cs.AI, cs.LG</code></p>
+
+<p>Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06366v1" target="_blank">PDF</a></p>
+
+<h3>2. <a href="http://arxiv.org/abs/2608.06361v1" target="_blank">The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping</a></h3>
+
+<p class="italic-note"><em>The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping</em></p>
+
+<p>📝 Sarvesh Baskar, Zikui Cai, Shayan Shabihi et al. | 📂 <code>cs.AI</code></p>
+
+<p>Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06361v1" target="_blank">PDF</a></p>
+
+<h3>3. <a href="http://arxiv.org/abs/2608.06351v1" target="_blank">Challenges in Evaluating Explanation Methods for Static and Evolving Data</a></h3>
+
+<p class="italic-note"><em>Challenges in Evaluating Explanation Methods for Static and Evolving Data</em></p>
+
+<p>📝 Jerzy Stefanowski | 📂 <code>cs.AI</code></p>
+
+<p>This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias de</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06351v1" target="_blank">PDF</a></p>
+
+<h3>4. <a href="http://arxiv.org/abs/2608.06346v1" target="_blank">TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories</a></h3>
+
+<p class="italic-note"><em>TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories</em></p>
+
+<p>📝 Yunjia Qi, Zehua Yin, Xintong Shi et al. | 📂 <code>cs.AI</code></p>
+
+<p>LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06346v1" target="_blank">PDF</a></p>
+
+<h3>5. <a href="http://arxiv.org/abs/2608.06377v1" target="_blank">Learning When to Trust via Selective Context Preference Optimization</a></h3>
+
+<p class="italic-note"><em>Learning When to Trust via Selective Context Preference Optimization</em></p>
+
+<p>📝 Xian Sun, Wei Chow, Yingshuo Wang et al. | 📂 <code>cs.CL, cs.AI, cs.LG</code></p>
+
+<p>Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06377v1" target="_blank">PDF</a></p>
+
+<h3>6. <a href="http://arxiv.org/abs/2608.06370v1" target="_blank">The Bitter Lesson of Tool Calling</a></h3>
+
+<p class="italic-note"><em>The Bitter Lesson of Tool Calling</em></p>
+
+<p>📝 Ishan Patel, Sahil Sen, Elias Lumer et al. | 📂 <code>cs.CL</code></p>
+
+<p>Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06370v1" target="_blank">PDF</a></p>
+
+<h3>7. <a href="http://arxiv.org/abs/2608.06347v1" target="_blank">RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer</a></h3>
+
+<p class="italic-note"><em>RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer</em></p>
+
+<p>📝 Xinye Wang, Junxiao Liu, Shujian Huang | 📂 <code>cs.CL</code></p>
+
+<p>Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06347v1" target="_blank">PDF</a></p>
+
+<h3>8. <a href="http://arxiv.org/abs/2608.06329v1" target="_blank">Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents</a></h3>
+
+<p class="italic-note"><em>Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents</em></p>
+
+<p>📝 Noam Koren, Roy Bar-Haim, Abigail Goldsteen | 📂 <code>cs.CL, cs.AI</code></p>
+
+<p>Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplis</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06329v1" target="_blank">PDF</a></p>
+
+<h3>9. <a href="http://arxiv.org/abs/2608.06363v1" target="_blank">An Optimal Agnostic PAC Algorithm</a></h3>
+
+<p class="italic-note"><em>An Optimal Agnostic PAC Algorithm</em></p>
+
+<p>📝 Markus Engelund Mathiasen, Jian Qian, Nikita Zhivotovskiy | 📂 <code>cs.LG, cs.AI, cs.DS</code></p>
+
+<p>Let $H\subseteq\{-1,+1\}^X$ be a class of finite VC dimension $d\ge1$. Writing $L$ for the binary risk and $L^*=\min_{h\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06363v1" target="_blank">PDF</a></p>
+
+<h3>10. <a href="http://arxiv.org/abs/2608.06352v1" target="_blank">CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks</a></h3>
+
+<p class="italic-note"><em>CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks</em></p>
+
+<p>📝 Fanzhe Meng, Guoxin Chen, Jiale Zhao et al. | 📂 <code>cs.LG, cs.CL</code></p>
+
+<p>Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06352v1" target="_blank">PDF</a></p>
+
+<h3>11. <a href="http://arxiv.org/abs/2608.06375v1" target="_blank">$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation</a></h3>
+
+<p class="italic-note"><em>$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation</em></p>
+
+<p>📝 Zhe Li, Zhenzhe Zhang, Yangyang Wei et al. | 📂 <code>cs.RO</code></p>
+
+<p>Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06375v1" target="_blank">PDF</a></p>
+
+<h3>12. <a href="http://arxiv.org/abs/2608.06374v1" target="_blank">DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation</a></h3>
+
+<p class="italic-note"><em>DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation</em></p>
+
+<p>📝 Junfeng Li, Junjie He, Zhide Zhong et al. | 📂 <code>cs.RO</code></p>
+
+<p>Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existin</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06374v1" target="_blank">PDF</a></p>
+
+<h3>13. <a href="http://arxiv.org/abs/2608.06364v1" target="_blank">Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria</a></h3>
+
+<p class="italic-note"><em>Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria</em></p>
+
+<p>📝 George Grispos, Sajda Qureshi | 📂 <code>cs.CY, cs.AI</code></p>
+
+<p>The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06364v1" target="_blank">PDF</a></p>
+
+<h3>14. <a href="http://arxiv.org/abs/2608.06362v1" target="_blank">AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games</a></h3>
+
+<p class="italic-note"><em>AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games</em></p>
+
+<p>📝 Boning Li, Yu Chen, Longbo Huang | 📂 <code>cs.GT, cs.AI, cs.CL</code></p>
+
+<p>Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06362v1" target="_blank">PDF</a></p>
+
+<h3>15. <a href="http://arxiv.org/abs/2608.06354v1" target="_blank">A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber</a></h3>
+
+<p class="italic-note"><em>A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber</em></p>
+
+<p>📝 Omar Curiel, Jing-Yuan Huang, Po-Chih Chen et al. | 📂 <code>cs.RO</code></p>
+
+<p>We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slav</p>
+
+<p>📥 <a href="https://arxiv.org/pdf/2608.06354v1" target="_blank">PDF</a></p>
+
+<hr>
+
+<p class="italic-note"><em>本日报由 <a href="https://github.com" target="_blank">AI Daily News</a> 自动生成，数据来源: GitHub Trending, Hacker News, arXiv</em></p>
+
+    </div>
+    <div class="footer">
+        <p>AI Daily News · 每日自动生成 · Powered by GitHub Actions + AI</p>
+    </div>
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme');
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+        (function() {
+            const saved = localStorage.getItem('theme');
+            if (saved) document.documentElement.setAttribute('data-theme', saved);
+        })();
+    </script>
+</body>
+</html>

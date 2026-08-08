@@ -1,0 +1,742 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:52:47.557409+08:00",
+  "github_trending": [
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "stars": 6527,
+      "forks": 519,
+      "language": "TypeScript",
+      "stars_today": 2293,
+      "source": "github_trending",
+      "summary_cn": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 208814,
+      "forks": 18023,
+      "language": "Shell",
+      "stars_today": 2152,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 83901,
+      "forks": 8965,
+      "language": "JavaScript",
+      "stars_today": 1131,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "description": "Give your agent a computer 👾",
+      "stars": 5714,
+      "forks": 288,
+      "language": "TypeScript",
+      "stars_today": 872,
+      "source": "github_trending",
+      "summary_cn": "Give your agent a computer 👾",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 268746,
+      "forks": 23998,
+      "language": "Shell",
+      "stars_today": 782,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "description": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "stars": 3396,
+      "forks": 266,
+      "language": "Python",
+      "stars_today": 624,
+      "source": "github_trending",
+      "summary_cn": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "stars": 29356,
+      "forks": 2692,
+      "language": "Python",
+      "stars_today": 450,
+      "source": "github_trending",
+      "summary_cn": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "stars": 186322,
+      "forks": 46061,
+      "language": "Python",
+      "stars_today": 355,
+      "source": "github_trending",
+      "summary_cn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "stars": 124660,
+      "forks": 14765,
+      "language": "Python",
+      "stars_today": 338,
+      "source": "github_trending",
+      "summary_cn": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
+      "stars": 16249,
+      "forks": 1289,
+      "language": "Python",
+      "stars_today": 327,
+      "source": "github_trending",
+      "summary_cn": "Agent Skills for Google products and technologies",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "stars": 19747,
+      "forks": 639,
+      "language": "Go",
+      "stars_today": 234,
+      "source": "github_trending",
+      "summary_cn": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 140608,
+      "forks": 22611,
+      "language": "Python",
+      "stars_today": 125,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "stars": 2347,
+      "forks": 305,
+      "language": "Python",
+      "stars_today": 122,
+      "source": "github_trending",
+      "summary_cn": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA-NeMo/Speech",
+      "url": "https://github.com/NVIDIA-NeMo/Speech",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "stars": 18019,
+      "forks": 3539,
+      "language": "Python",
+      "stars_today": 82,
+      "source": "github_trending",
+      "summary_cn": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "stars": 1830,
+      "forks": 201,
+      "language": "Clojure",
+      "stars_today": 81,
+      "source": "github_trending",
+      "summary_cn": "A simple tool for coordinating several AI agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 882,
+      "comments": 665,
+      "author": "itvision",
+      "time": "2026-08-06T20:23:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49201970",
+      "source": "hacker_news",
+      "title_cn": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "score": 533,
+      "comments": 341,
+      "author": "apitman",
+      "time": "2026-08-06T18:44:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49200652",
+      "source": "hacker_news",
+      "title_cn": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "score": 438,
+      "comments": 255,
+      "author": "tosh",
+      "time": "2026-08-07T17:56:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49214008",
+      "source": "hacker_news",
+      "title_cn": "DeepSeek V4 Flash 0731",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Software development with AI is starting to feel like cooking steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 398,
+      "comments": 412,
+      "author": "yusyd",
+      "time": "2026-08-06T15:30:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49198069",
+      "source": "hacker_news",
+      "title_cn": "Software development with AI is starting to feel like cooking steak",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 373,
+      "comments": 247,
+      "author": "delduca",
+      "time": "2026-08-07T17:36:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49213754",
+      "source": "hacker_news",
+      "title_cn": "Oracle bans AI-generated code from OpenJDK",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "score": 159,
+      "comments": 102,
+      "author": "rwmj",
+      "time": "2026-08-07T13:27:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49210077",
+      "source": "hacker_news",
+      "title_cn": "AI psychosis is the new leadership blind spot",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 155,
+      "comments": 158,
+      "author": "moonikakiss",
+      "time": "2026-08-07T18:25:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49214468",
+      "source": "hacker_news",
+      "title_cn": "Managing AI Coding Costs at Scale",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 142,
+      "comments": 9,
+      "author": "sebg",
+      "time": "2026-08-06T21:30:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49202852",
+      "source": "hacker_news",
+      "title_cn": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "score": 72,
+      "comments": 117,
+      "author": "champagnepapi",
+      "time": "2026-08-07T00:37:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49204546",
+      "source": "hacker_news",
+      "title_cn": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Artificial Intelligence used to design new viruses",
+      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo",
+      "score": 53,
+      "comments": 25,
+      "author": "CaRDiaK",
+      "time": "2026-08-07T06:31:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49206642",
+      "source": "hacker_news",
+      "title_cn": "Artificial Intelligence used to design new viruses",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "url": "https://theclaudyssey.com/",
+      "score": 40,
+      "comments": 56,
+      "author": "spinchange",
+      "time": "2026-08-07T17:55:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49213985",
+      "source": "hacker_news",
+      "title_cn": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 27,
+      "comments": 24,
+      "author": "ilamont",
+      "time": "2026-08-07T20:25:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49215786",
+      "source": "hacker_news",
+      "title_cn": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "url": "https://www.404media.co/the-tokenpocalypse-is-here-companies-are-scrambling-to-stop-spending-so-much-on-ai/",
+      "score": 20,
+      "comments": 5,
+      "author": "swolpers",
+      "time": "2026-08-07T16:38:57+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49213016",
+      "source": "hacker_news",
+      "title_cn": "The Tokenpocalypse Is Here: Companies Are Scrambling to Stop Spending on AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+      "url": "https://twitter.com/ClaudeDevs/status/2085794862608318627",
+      "score": 16,
+      "comments": 13,
+      "author": "tosh",
+      "time": "2026-08-07T19:11:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49214994",
+      "source": "hacker_news",
+      "title_cn": "Claude Code: Starting August 14, auto mode will be the default permission mode",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "score": 16,
+      "comments": 1,
+      "author": "purestatelabs",
+      "time": "2026-08-06T22:50:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49203707",
+      "source": "hacker_news",
+      "title_cn": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "authors": [
+        "Soorya Ram Shimgekar",
+        "Michelle Hu",
+        "Dorisa Shehi",
+        "Daniel Kang",
+        "Roy Ka-Wei Lee"
+      ],
+      "abstract": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure, which affects an estimated 6.7 million U.S. adults and requires integrating fragmented EHR data with disease-specific, guideline-based clinical reasoning. Existing rule-based and large language model (LLM)-based approaches offer only partial automation with limited maintainability and evidence traceability. We developed the Nimblemind Multi-Agent System (nMAS), an evidence-linked, rubric-grounded pipeline for automated heart-failure feature engineering, and evaluated it on 500 dummy patient records from nine EHR source tables. nMAS generated 132 structured and 70 rubric-scored aggregated features, verified for structural integrity, rubric compliance, and provenance, and audited by a restricted LLM. Adding the aggregated features improved held-out AUROC from 0.895 to 0.963 for HFrEF and 0.870 to 0.910 for HFpEF phenotyping, and an independent LLM-based rubric assessment of evidence support and methodological soundness scored the features at 81.5% of maximum points. These results demonstrate the feasibility of automated, auditable feature engineering for complex cardiovascular EHR data, though evaluation was limited to a single-institution cohort and external validation is needed.",
+      "url": "http://arxiv.org/abs/2608.06366v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06366v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-06T17:57:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "summary_cn": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "authors": [
+        "Sarvesh Baskar",
+        "Zikui Cai",
+        "Shayan Shabihi",
+        "Anirudh Satheesh",
+        "Muhammad R. Islam"
+      ],
+      "abstract": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control, they score only the final answer rather than auditing reported events against executable ground truth. To bridge this gap, we introduce trace-grounded parametric profiling for event counting in three controlled video tasks: bouncing-ball wall contacts, visual blinks, and categorical state transitions. Across 2,190 videos, we vary event count N and frequency F while holding rendering fixed. Each video includes an executable event trace for capability-surface estimation and timestamp-level evaluation. Our results reveal a staged temporal failure. At an 80% reliability threshold, Gemini 3.6 Flash reliably counts persistent state transitions up to 12 events at 0.5 and 1.0 Hz, yet demonstrates no reliable positive-count region for transient blinking events. Thus, event representation dictates whether a model initially accesses evidence -- a limitation that compounds as count and frequency increase. In the high-count, high-frequency regime, only 0.2% of final counts are correct and the model recovers just 18.1% of true events. To test if visual access is the primary bottleneck, we increase sampling rate. Although this boosts Bounce Ball accuracy from 19.6% to 29.3%, the reported sequence agrees with ground truth only 3.7% of the time. Extra frames can therefore inflate final scores without producing faithful event recovery. Different prompting strategies yield similarly limited gains, and real-world video evaluations show the same concentration of success at low event counts. Ultimately, trace-grounded profiling shifts video evaluation from aggregate accuracy metrics to a detailed diagnostic of where temporal reasoning fails.",
+      "url": "http://arxiv.org/abs/2608.06361v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06361v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-06T17:57:06+00:00",
+      "source": "arxiv",
+      "title_cn": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "summary_cn": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+      "authors": [
+        "Jerzy Stefanowski"
+      ],
+      "abstract": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias detection and concept unlearning. Then, an example of a human-grounded evaluation of methods for explaining image classification is presented. The paper further explores methods for adapting explanations to evolving data streams with concept drift. Experiences with adapting counterfactuals for this problem are discussed. Finally it is related to the challenges of tracking the co-evolution of data, models, and explanations.\\footnote{This paper has been accepted for a publication in J.Nalepa (ed) Explainable AI in Space. Proceedings of EASi 2026 Workshop at IJCAI-ECAI 2026 Bremen, Springer CCIS vol 3107 (2016).}",
+      "url": "http://arxiv.org/abs/2608.06351v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06351v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-06T17:53:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Challenges in Evaluating Explanation Methods for Static and Evolving Data",
+      "summary_cn": "This paper addresses the limitations of Explainable Artificial Intelligence (XAI) with respect to insufficient evaluation. They are illustrated through the DetoxAI image recognition system for bias de",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+      "authors": [
+        "Yunjia Qi",
+        "Zehua Yin",
+        "Xintong Shi",
+        "Hao Peng",
+        "Songyuanyi Lu"
+      ],
+      "abstract": "LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest error step in a failed trajectory that is responsible for the final failure. However, progress faces two main challenges. First, long trajectories make it difficult to identify individual errors, since the evidence for judging a step may be scattered across distant instructions, observations, and prior context. Second, failed trajectories often contain multiple local errors with different downstream effects, only some of which remain responsible for the final failure. In this work, we propose TrajDebug, an error-lifecycle tracing framework that addresses long-trajectory error discovery with multi-granularity history compression and evidence-based error identification, and supports critical attribution by tracing each error's resolution status and terminal impact. We further construct TrajErrBench, a benchmark of 486 manually annotated failed trajectories from Tau2Bench and SWE-Bench Pro, covering realistic tool-use and coding scenarios. Experiments across diverse agent benchmarks show that TrajDebug achieves the best overall performance over existing baselines, and application studies further demonstrate that its diagnoses provide actionable feedback for improving downstream agent success. We will release the codes and data to facilitate further research.",
+      "url": "http://arxiv.org/abs/2608.06346v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06346v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-06T17:51:20+00:00",
+      "source": "arxiv",
+      "title_cn": "TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories",
+      "summary_cn": "LLM-based agentic systems have shown remarkable capabilities in complex domains, while suffering from cascading errors and difficulty in debugging. Critical error detection aims to locate the earliest",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learning When to Trust via Selective Context Preference Optimization",
+      "authors": [
+        "Xian Sun",
+        "Wei Chow",
+        "Yingshuo Wang",
+        "Junhao Liu",
+        "Wei Gao"
+      ],
+      "abstract": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides a failure mode: a model that ignores all context looks robust yet is useless when the context is worth trusting. We recast the problem as selective trust and introduce MIST, a human-annotated benchmark that renders each reasoning item under four matched conditions (clean, misleading, correct-context, and irrelevant-context), together with SC2W, a paired metric counting how often a misleading signal flips a clean-correct answer to wrong. Across a comprehensive benchmark study, we observe that such a susceptibility is universal. We then propose SCOPE, which mines clean-correct/misleading-wrong failures and optimizes a standard Direct Preference Optimization (DPO) objective over matched preference pairs balanced equally across all four conditions, rather than over misleading items alone. Our approach substantially reduces SC2W on popular open-sourced models while preserving accuracy when the added context is clean, correct, or irrelevant. With this work, we argue that models should be judged on selective trust, not on resistance alone.",
+      "url": "http://arxiv.org/abs/2608.06377v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06377v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-08-06T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Learning When to Trust via Selective Context Preference Optimization",
+      "summary_cn": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The Bitter Lesson of Tool Calling",
+      "authors": [
+        "Ishan Patel",
+        "Sahil Sen",
+        "Elias Lumer",
+        "Vamse Kumar Subbiah"
+      ],
+      "abstract": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally. However, a systematic evaluation of tools as code on an established benchmark across current and prior model generations under real-world task conditions has not been conducted. In this work, we empirically compare programmatic tool calling (PTC) to native JSON tool calling across 14 language models on BFCL v4. In the programmatic tool calling paradigm, tools are exposed as typed Python stubs that the model invokes through code, with execution and results handled in a single agent turn. Programmatic tool calling matches or exceeds native JSON tool calling in 11 of 14 models on BFCL v4, with the GPT-5.6 family achieving a 10.6% improvement over the JSON tool calling baseline. Further, it matches or outperforms baseline in 13 of 14 models under parallel fan-out, and holds stable under context rot conditions where baseline degrades 2.3% on average. Our results demonstrate that programmatic tool calling is a viable and robust alternative to JSON tool calling, with performance tracking model capability across release generations.",
+      "url": "http://arxiv.org/abs/2608.06370v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06370v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-06T17:58:32+00:00",
+      "source": "arxiv",
+      "title_cn": "The Bitter Lesson of Tool Calling",
+      "summary_cn": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+      "authors": [
+        "Xinye Wang",
+        "Junxiao Liu",
+        "Shujian Huang"
+      ],
+      "abstract": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm, providing dense token-level supervision on student-generated rollouts, yet their objectives do not explicitly prioritize reasoning signals most critical to cross-lingual transfer. We characterize that target-language reasoning comprises the generation of both surface text and reasoning pivots, which are decisions that advance or redirect the reasoning process and shape subsequent inference. This motivates concentrating privileged distillation around such pivots. We therefore propose RP-OPSD, Reasoning-Pivot-guided On-Policy Self-Distillation, using the distributional shift between matched teacher views with and without an English reference solution as an operational proxy to guide privileged distillation and reference anchoring. Experiments on mathematical reasoning benchmarks covering 17 languages and multiple difficulty levels show that our method outperforms strong multilingual reasoning baselines and OPSD variants. Further analysis reveals that RP-OPSD concentrates privileged distillation on reasoning-control and problem-condistioned state-update tokens, while downweighting it for tokens that mainly support surface realization. Our code is available at https://github.com/NJUNLP/RP-OPSD.",
+      "url": "http://arxiv.org/abs/2608.06347v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06347v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-08-06T17:52:06+00:00",
+      "source": "arxiv",
+      "title_cn": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+      "summary_cn": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
+      "authors": [
+        "Noam Koren",
+        "Roy Bar-Haim",
+        "Abigail Goldsteen"
+      ],
+      "abstract": "Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplistic scenarios, or limited policy coverage, leading to unreliable evaluations. We introduce a reference-free framework that uses LLM judges to assess benchmark consistency, complexity, and policy coverage, while providing actionable diagnostics of weaknesses. We validate the framework by demonstrating agreement with independent human annotations and by evaluating benchmarks generated by LLMs of varying capabilities, as well as benchmarks subjected to controlled quality-degrading perturbations. Across domains and judge models, the proposed metrics consistently distinguish between benchmark quality levels. We further demonstrate the framework's applicability to manually curated benchmarks. Our framework offers a practical approach for evaluating synthetic and manually curated conversational-agent benchmarks.",
+      "url": "http://arxiv.org/abs/2608.06329v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06329v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-08-06T17:39:21+00:00",
+      "source": "arxiv",
+      "title_cn": "Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents",
+      "summary_cn": "Task-oriented conversational agents are evaluated using curated or automatically generated benchmarks, yet benchmark quality is rarely assessed. Poor benchmarks may contain inconsistent tasks, simplis",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "An Optimal Agnostic PAC Algorithm",
+      "authors": [
+        "Markus Engelund Mathiasen",
+        "Jian Qian",
+        "Nikita Zhivotovskiy"
+      ],
+      "abstract": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0<δ\\le 1/2$, with probability at least $1-δ$, \\[ L(\\widehat h) \\le L^*+ 7\\cdot10^8\\left( \\sqrt{\\frac{L^*(d+\\log(1/δ))}{n}} +\\frac{d+\\log(1/δ)}{n} \\right). \\] This settles the sample complexity of agnostic PAC learning up to universal constants at every fixed $L^*$, matching the lower bounds of Devroye, Györfi, and Lugosi [A Probabilistic Theory of Pattern Recognition, Springer, 1996].",
+      "url": "http://arxiv.org/abs/2608.06363v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06363v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DS",
+        "math.ST"
+      ],
+      "published": "2026-08-06T17:57:25+00:00",
+      "source": "arxiv",
+      "title_cn": "An Optimal Agnostic PAC Algorithm",
+      "summary_cn": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "authors": [
+        "Fanzhe Meng",
+        "Guoxin Chen",
+        "Jiale Zhao",
+        "Shuang Sun",
+        "Zhiyu Lin"
+      ],
+      "abstract": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to a given solver setting. In this paper, we present CalibForge, an autonomous terminal-task synthesis system that uses verified solver behavior to revise candidate tasks through adversarial solver calibration. Multi-solver calibration targets disagreement within a heterogeneous solver pool, whereas contrastive solver calibration targets a designated strong-pass/weak-fail relation; both operationalize a solver-relative learnable zone anchored in demonstrated solvability. Using CalibForge, we construct 5,431 calibrated terminal tasks. Our ablations show that both strategies yield more effective supervision than authoring and validation alone or ordinary single-solver feedback. Models trained on the full collection achieve 32.58% and 47.57% on Terminal-Bench 2.0. The largest improvements over the corresponding base model reach 24.71 percentage points on Terminal-Bench 2.0, 27.68 points on SWE-bench Pro, and 30.04 points on Doc2Repo. Together, these results support solver-relative learnability as a practical target for constructing effective and transferable agent training data.",
+      "url": "http://arxiv.org/abs/2608.06352v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06352v1",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "published": "2026-08-06T17:53:18+00:00",
+      "source": "arxiv",
+      "title_cn": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "summary_cn": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "authors": [
+        "Zhe Li",
+        "Zhenzhe Zhang",
+        "Yangyang Wei",
+        "Wenjie Zhang",
+        "Xichen Yuan"
+      ],
+      "abstract": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing humanoid policies typically decompose locomotion and manipulation, while recent world-action models remain either arm-centric or video-centered. We present $ω$-0, a latent predictive whole-body world-action model for real-world humanoid concurrent loco-manipulation. Given a language instruction, current visual observation, and robot proprioceptive state, $ω$-0 directly predicts controller-compatible whole-body action latents for real-robot execution. Rather than reconstructing future videos, $ω$-0 learns compact future observation embeddings as a lightweight predictive objective, coupling latent visual foresight with diffusion-based whole-body action generation. The model supports egocentric RGB, exocentric RGB, and exocentric depth inputs, and leverages controller-based simulation replay to ground human/public visual-motion priors into robot-executable action latents. We further collect $ω$-HOME, a 40+ hour real-world household humanoid dataset with synchronized multi-view observations, whole-body SMPL motions, robot states, and action latents. Real-world experiments on 11 household tasks demonstrate that a single $ω$-0 model can produce smooth manipulate-while-moving behaviors and consistently outperform representative imitation learning, VLA, humanoid, and WAM baselines.",
+      "url": "http://arxiv.org/abs/2608.06375v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06375v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-06T17:59:31+00:00",
+      "source": "arxiv",
+      "title_cn": "$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation",
+      "summary_cn": "Humanoid household tasks often require concurrent loco-manipulation, where the robot must move, adjust posture, maintain balance, and manipulate objects as a single coordinated behavior. Yet existing ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "authors": [
+        "Junfeng Li",
+        "Junjie He",
+        "Zhide Zhong",
+        "Yangyang Zheng",
+        "Pingyue Sheng"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existing methods have two main limitations. First, they underuse dynamics priors shared across diverse visual and interaction data, limiting cross-embodiment transfer. Second, they require extensive manual preprocessing to convert embodiment-specific actions into a common format. To overcome these limitations, we propose DyPES-VLA, a cross-embodiment VLA that learns shared Dynamics Priors and Embodiment-Specific control. First, we learn shared dynamics priors by training the vision-language model (VLM) with a future-prediction objective on cross-embodiment data, driving the shared query representation to capture object motion, contact, and interaction-induced scene changes. Second, an embodiment-specific Mixture-of-Experts (MoE) action head translates these shared dynamics priors into executable controls directly in each embodiment's native action space, without manually pre-aligning heterogeneous actions into a common format. This head shares attention layers to capture common temporal action structures, while its embodiment-specific feed-forward experts resolve the unique kinematic constraints and control semantics of distinct embodiments. As a generalist policy, our \\ourmethod achieves state-of-the-art performance across simulation and real-world evaluations, reaching 98.0% success on LIBERO, 59.25% on RoboCasa-GR1, and 89.02% on RoboTwin~2.0.",
+      "url": "http://arxiv.org/abs/2608.06374v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06374v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-06T17:59:20+00:00",
+      "source": "arxiv",
+      "title_cn": "DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation",
+      "summary_cn": "Vision-Language-Action (VLA) models have become a powerful paradigm for robot manipulation, but training a single generalist policy for heterogeneous robot embodiments remains an open problem. Existin",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+      "authors": [
+        "George Grispos",
+        "Sajda Qureshi"
+      ],
+      "abstract": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about digital sovereignty. This research examines how Artificial Intelligence (AI) in Nigerian mobile applications affects digital sovereignty, examined through platform transparency as a key indicator of user awareness and control. Using an interpretive approach, the research combines the forensic analysis of selected Android applications with contextual document analysis to identify AI features and evaluate disclosure practices. The findings show that AI is widely implemented in the applications, yet transparency about its use remains limited. A socio-economic analysis of Nigeria further shows an increasing dependence on consumer digital platforms, moderate AI awareness, and uneven patterns of interaction. By providing empirical evidence on AI transparency and platform practices, this study advances understanding of individual digital sovereignty and highlights challenges for protecting user control in AI-driven digital environments.",
+      "url": "http://arxiv.org/abs/2608.06364v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06364v1",
+      "categories": [
+        "cs.CY",
+        "cs.AI"
+      ],
+      "published": "2026-08-06T17:57:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+      "summary_cn": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "authors": [
+        "Boning Li",
+        "Yu Chen",
+        "Longbo Huang"
+      ],
+      "abstract": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep paying after the result is settled or stop before the agents can be told apart, while naive optional stopping with an ordinary confidence interval invalidates the stated level. We make such an evaluation stop as soon as its evidence suffices, with the guarantee intact. The Action-Informed Value Assessment Tool (AIVAT) reduces variance in imperfect-information games through conditional mean-zero corrections, by a median $54\\times$ across 15 LLM agent configurations spanning 71,439 paired Heads-Up No-Limit Hold'em (HUNL) hands, but does not say when to stop. We combine AIVAT with continuously monitored Confidence Sequences (CSs) into anytime-valid AIVAT (AV-AIVAT), whose online value model learns only from past games so that no game scores its own correction. At the nominal 95\\% level and a target precision of $\\pm1$ Big Blind, raw outcomes need a median $74\\times$ as many hands as AIVAT-corrected outcomes to stop under the Asymptotic CS (AsympCS). Exact finite-sample certification uses the Empirical-Bernstein CS (EB-CS), which needs an independently justified bound on corrected payoffs. We establish such a bound structurally for Leduc hold'em and characterize a width floor set by the CS's bet cap and that bound, which governs how much of a variance gain becomes earlier stopping; the descriptive HUNL EB-CS runs show a median $1.37\\times$ stopping-time ratio. AV-AIVAT turns variance reduction into efficient, auditable early stopping while separating asymptotic screening from exact certification, so an evaluation can stop the moment its evidence suffices and hand a third party everything needed to recheck the verdict at that very stopping time.",
+      "url": "http://arxiv.org/abs/2608.06362v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06362v1",
+      "categories": [
+        "cs.GT",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-08-06T17:57:11+00:00",
+      "source": "arxiv",
+      "title_cn": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "summary_cn": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+      "authors": [
+        "Omar Curiel",
+        "Jing-Yuan Huang",
+        "Po-Chih Chen",
+        "Ji Ma",
+        "Qing Dai"
+      ],
+      "abstract": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slave manipulator via fluid transmission. Jointly, a digital master controller provides multimodal control capability beyond common split axis or mode switchable hybrid human-digital controller configurations found in previous studies. High input impedance, low-leakage, elastomeric fluid actuators are delegated to remote angulation control. Low-friction graphite piston cylinders are delegated to needle insertion axis remote actuation given the sub-newton force transparency and sub-millimeter motion transmission over bedside fluid piping lengths. The device enables real-time MRI guided interventions allowing manual, digital, hybrid, and collaborative control modes. Collaborative tasks such as assisted tissue penetration, fault-driven virtual fixture, and motion compensation through feedback control are presented in this paper. Preliminary MR scanner results demonstrate manipulator functional viability for an in-vivo pig experiment in bedside, manual control mode configuration.",
+      "url": "http://arxiv.org/abs/2608.06354v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.06354v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-08-06T17:53:32+00:00",
+      "source": "arxiv",
+      "title_cn": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+      "summary_cn": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slav",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
