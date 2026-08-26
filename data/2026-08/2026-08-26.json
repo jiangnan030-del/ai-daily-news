@@ -1,0 +1,747 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:40:47.786761+08:00",
+  "github_trending": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "stars": 17720,
+      "forks": 1833,
+      "language": "JavaScript",
+      "stars_today": 1698,
+      "source": "github_trending",
+      "summary_cn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 35263,
+      "forks": 12133,
+      "language": "Python",
+      "stars_today": 1265,
+      "source": "github_trending",
+      "summary_cn": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "stars": 118100,
+      "forks": 17995,
+      "language": "Rust",
+      "stars_today": 1181,
+      "source": "github_trending",
+      "summary_cn": "Lightweight coding agent that runs in your terminal",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 111004,
+      "forks": 6098,
+      "language": "JavaScript",
+      "stars_today": 982,
+      "source": "github_trending",
+      "summary_cn": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "stars": 207199,
+      "forks": 21144,
+      "language": "",
+      "stars_today": 830,
+      "source": "github_trending",
+      "summary_cn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "stars": 12711,
+      "forks": 1380,
+      "language": "Python",
+      "stars_today": 813,
+      "source": "github_trending",
+      "summary_cn": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 236411,
+      "forks": 47736,
+      "language": "Python",
+      "stars_today": 771,
+      "source": "github_trending",
+      "summary_cn": "The agent that grows with you",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 48963,
+      "forks": 8564,
+      "language": "Python",
+      "stars_today": 569,
+      "source": "github_trending",
+      "summary_cn": "Learn it. Build it. Ship it for others.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "stars": 3328,
+      "forks": 330,
+      "language": "TypeScript",
+      "stars_today": 543,
+      "source": "github_trending",
+      "summary_cn": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "stars": 37767,
+      "forks": 3735,
+      "language": "Rust",
+      "stars_today": 542,
+      "source": "github_trending",
+      "summary_cn": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 100241,
+      "forks": 19352,
+      "language": "Python",
+      "stars_today": 218,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "stars": 134225,
+      "forks": 19742,
+      "language": "Python",
+      "stars_today": 161,
+      "source": "github_trending",
+      "summary_cn": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目",
+      "stars": 3768,
+      "forks": 877,
+      "language": "Python",
+      "stars_today": 107,
+      "source": "github_trending",
+      "summary_cn": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非第三方官方项目",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "description": "The batteries-included agent harness.",
+      "stars": 28471,
+      "forks": 3985,
+      "language": "Python",
+      "stars_today": 94,
+      "source": "github_trending",
+      "summary_cn": "The batteries-included agent harness.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "pipecat-ai/pipecat",
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "description": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+      "stars": 14720,
+      "forks": 2545,
+      "language": "Python",
+      "stars_today": 73,
+      "source": "github_trending",
+      "summary_cn": "Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "url": "https://developers.openai.com/api/docs/pricing",
+      "score": 334,
+      "comments": 334,
+      "author": "tosh",
+      "time": "2026-08-24T15:22:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49421074",
+      "source": "hacker_news",
+      "title_cn": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "score": 310,
+      "comments": 137,
+      "author": "garo-pro",
+      "time": "2026-08-25T11:49:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49432317",
+      "source": "hacker_news",
+      "title_cn": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "score": 300,
+      "comments": 204,
+      "author": "bmulholland",
+      "time": "2026-08-25T14:06:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49434378",
+      "source": "hacker_news",
+      "title_cn": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+      "score": 246,
+      "comments": 288,
+      "author": "surprisetalk",
+      "time": "2026-08-25T15:23:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49435728",
+      "source": "hacker_news",
+      "title_cn": "How much of HN is AI?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "score": 188,
+      "comments": 95,
+      "author": "zdw",
+      "time": "2026-08-24T19:03:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49424387",
+      "source": "hacker_news",
+      "title_cn": "LLMs could control their host machines by exploiting inference engines",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "score": 153,
+      "comments": 29,
+      "author": "signor_bosco",
+      "time": "2026-08-24T21:01:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49425800",
+      "source": "hacker_news",
+      "title_cn": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "score": 134,
+      "comments": 156,
+      "author": "Brajeshwar",
+      "time": "2026-08-25T14:48:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49435147",
+      "source": "hacker_news",
+      "title_cn": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic tells staff to work from home due to possible security team strike",
+      "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+      "score": 116,
+      "comments": 123,
+      "author": "DGAP",
+      "time": "2026-08-25T14:00:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49434291",
+      "source": "hacker_news",
+      "title_cn": "Anthropic tells staff to work from home due to possible security team strike",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+      "score": 110,
+      "comments": 117,
+      "author": "MC995",
+      "time": "2026-08-25T12:33:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49432879",
+      "source": "hacker_news",
+      "title_cn": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "score": 89,
+      "comments": 19,
+      "author": "petruspennanen",
+      "time": "2026-08-25T15:20:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49435675",
+      "source": "hacker_news",
+      "title_cn": "Show HN: I made a Raspberry with Qwen my local car AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Characterizing Agentic Flooding of Government Services",
+      "url": "https://arxiv.org/abs/2608.16603",
+      "score": 77,
+      "comments": 84,
+      "author": "lensecat",
+      "time": "2026-08-24T16:30:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49422227",
+      "source": "hacker_news",
+      "title_cn": "Characterizing Agentic Flooding of Government Services",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "score": 61,
+      "comments": 25,
+      "author": "Dramatize",
+      "time": "2026-08-25T04:33:24+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49429095",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "url": "https://www.zdnet.com/article/i-cant-stop-80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "score": 38,
+      "comments": 4,
+      "author": "jethronethro",
+      "time": "2026-08-25T02:09:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49428303",
+      "source": "hacker_news",
+      "title_cn": "80% of developers find AI coding more addictive than helpful",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "score": 36,
+      "comments": 7,
+      "author": "swimmingbrain",
+      "time": "2026-08-25T22:08:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49441375",
+      "source": "hacker_news",
+      "title_cn": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI's Head of Data Centers Has Left the Company",
+      "url": "https://www.wsj.com/tech/ai/openais-head-of-data-centers-has-left-company-6d24fd83",
+      "score": 35,
+      "comments": 13,
+      "author": "root-parent",
+      "time": "2026-08-25T19:37:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49439489",
+      "source": "hacker_news",
+      "title_cn": "OpenAI's Head of Data Centers Has Left the Company",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "authors": [
+        "Zhifei Chen",
+        "Luozhou Wang",
+        "Guibao Shen",
+        "Dongyu Yan",
+        "Shuai Yang"
+      ],
+      "abstract": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounded one. ReWorld separates the two during training and bounds them at inference. Mixed per-head attention windows confine most heads to the recent past while a small set of global heads attends over the entire history, and random head routing keeps either capability from binding to particular heads; random chunk dropping makes sparse histories in-distribution. At inference the whole past lives under a fixed budget: a bounded KV cache backed by a pose-indexed landmark bank, from which the model retrieves the landmarks nearest the current pose. A metric-scale-aligned data engine places eight sources -- Unreal-rendered fly-throughs, game roaming, and real-world footage -- on one physical action scale, so the same key press moves the camera the same distance in every source, and palindrome trajectories supply the revisit evidence that memory training needs. Distribution-matching distillation confined to a LoRA adapter then compresses sampling to four steps: one backbone serves both a high-fidelity multi-step mode and a real-time interactive one, streaming 704x1280 video across photorealistic, game-style, and stylized worlds. Under a three-axis protocol covering action following, long-horizon recall, and video quality, against six recent interactive world models it attains the best control fidelity ($11.95^\\circ$ rotation error and the best camera-motion consistency) and the best generation quality; and on minute-long out-and-back rollouts ($64$\\,s, $384$ latents), its fixed 12-chunk cache still regenerates the starting view -- at rollout lengths where a sliding window has long evicted the evidence and full-KV attention runs out of memory.",
+      "url": "http://arxiv.org/abs/2608.23565v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23565v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-24T17:59:05+00:00",
+      "source": "arxiv",
+      "title_cn": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+      "summary_cn": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Prime Agent: A Self-Improving RLM Harness",
+      "authors": [
+        "Seth Karten",
+        "Alex L. Zhang",
+        "Kevin Thomas",
+        "Sebastian Müller",
+        "Elie Bakouch"
+      ],
+      "abstract": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long-horizon evaluation and coding-agent workflows. A persistent IPython REPL follows the Recursive Language Model abstraction for programmatic context processing and test-time compute, while Continual Harness preserves histories, memories, skills, prompts, and subagent specifications across trajectories. Recursive subagents coordinate through direct agent-to-agent communication, and the Agents View lets humans inspect and manage daemon-backed sessions. Prime Agent standardizes execution, recovery, verification, and resource accounting while leaving strategy construction to the model. This low-friction, expressive membrane prevents harness failures from becoming model failures and pushes measurement toward the model's true maximal underlying capability. Prime Agent raises ARC-AGI-3 RHAE Best@1 from 30% to 95.5% and matches or exceeds native and popular harnesses across long-context coding, GPU-kernel generation, emulator construction, and autonomous nanoGPT speedruns. On Factorio, we find refinement allows for continuous technology progression and dedicated subagents enable parallelized work. Code is available at https://github.com/PrimeIntellect-ai/prime-agent.",
+      "url": "http://arxiv.org/abs/2608.23552v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23552v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.SE"
+      ],
+      "published": "2026-08-24T17:54:19+00:00",
+      "source": "arxiv",
+      "title_cn": "Prime Agent: A Self-Improving RLM Harness",
+      "summary_cn": "Language models are sequential processors, but long-horizon agency requires external information and computation beyond model weights and active context. Prime Agent is an open-source harness for long",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+      "authors": [
+        "Shang Wu",
+        "Catarina G Belem",
+        "Shuyuan Fu",
+        "Mark Steyvers",
+        "Padhraic Smyth"
+      ],
+      "abstract": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle experiment involving on-demand AI assistance, where participants complete tasks before, during, and after AI is available. By experimentally varying AI request costs, we find that lower-cost assistance induces more frequent AI use. We also find that participants who request AI assistance during the AI-access phase perform worse at the task after assistance is removed, and their subsequent unassisted performance is overestimated when predicted from earlier AI-assisted performance. We use a Bayesian latent ability model to separate initial ability, post-AI ability, and participant-specific skill change, while estimating how independent reasoning during the AI-access phase relates to skill development. The results show that greater independent problem-solving effort is associated with larger gains in latent ability, consistent with the interpretation that skill development is weaker when AI assistance substitutes for independent reasoning.",
+      "url": "http://arxiv.org/abs/2608.23543v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23543v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-24T17:46:11+00:00",
+      "source": "arxiv",
+      "title_cn": "How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles",
+      "summary_cn": "While AI assistance can improve human task performance in the short term, it may also undermine the development of skills in the longer term. We examine this tension in a controlled logic-puzzle exper",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Correcting a learned physical invariant improves world-model rollouts",
+      "authors": [
+        "Richard Bao"
+      ],
+      "abstract": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-like invariant across independently trained conservative models, while the same procedure finds no comparable invariant in matched damped models. During autonomous rollouts, this quantity drifts. Projecting the latent state back toward its initial level set reduces rollout error in all three conservative models, whereas matched random constraints usually increase it. These results distinguish a dynamically meaningful invariant from a merely decodable correlate and reveal a concrete failure mode: a world model can learn a physical constraint from pixels yet violate that constraint when it imagines forward.",
+      "url": "http://arxiv.org/abs/2608.23526v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23526v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-24T17:29:40+00:00",
+      "source": "arxiv",
+      "title_cn": "Correcting a learned physical invariant improves world-model rollouts",
+      "summary_cn": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "authors": [
+        "Zhiqing Cui",
+        "Xinxiang Yin",
+        "Yihong Tang",
+        "Xinglang Zhang",
+        "Yuanzhe Hu"
+      ],
+      "abstract": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of severity, exposure, and mechanism. We introduce EarthVerse, a benchmark that evaluates scientific agents through package-scoped investigations. Its 405 reproducible tasks are grounded in 199 documented events and 19 hazard families. Agents inspect heterogeneous event packages, choose compatible evidence, execute transparent calculations, reconcile source differences, and preserve provenance in the final answer. We provide executable ground truth that decomposes each task into fine-grained answer units, together with task-specific rubrics that assess the supporting research process while allowing multiple valid paths. We evaluate 25 model and agent systems under a controlled tool-using protocol, then use controlled studies to locate failures in evidence access, tool selection, memory, reasoning, interaction, and scientific execution. Across systems, the best mean answer-unit accuracy is 84.65%, while the highest Strict@95 is only 34.81%. The gap shows that current agents often complete individual steps without maintaining a consistent chain across evidence, scales, units, calculations, and physical interpretation. EarthVerse provides a reproducible basis for measuring end-to-end scientific reliability in dynamic Earth systems.",
+      "url": "http://arxiv.org/abs/2608.23525v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23525v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-08-24T17:29:16+00:00",
+      "source": "arxiv",
+      "title_cn": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+      "summary_cn": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "authors": [
+        "Deyao Hong",
+        "Yizhe Chi",
+        "Wenyi Li",
+        "Xiaoqiu Wang",
+        "Mingju Gao"
+      ],
+      "abstract": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they autonomously perform such migrations? Existing benchmarks cannot answer this question because they evaluate only behavioural correctness, not whether the migration actually occurred. This leads an easy hack: agents copy the original implementation to make tests pass. We call this Blindness. To address this problem, we introduce SWE Refactor Bench, a benchmark comprising 20 whole-repository migrations, covering 4 kinds of technical debt. A three-stage evaluation protocol measures both migration completeness and behavioural correctness. (1) Migration Audit verifies that the migration occurred. (2) Behavioural Tests measure correctness with a fixed test suite. (3) Agentic Verification uses 6 independent coding agents to generate targeted tests for hidden behavioural differences. Across 520 runs from 8 frontier models and 26 model-effort configurations, only 28 of 520 runs ($5.4\\%$) pass all three stages, 13 of the 20 tasks receive no accepted solution, and the best model (claude-opus-5) scores $47.0/100$. Migration completeness and behavioural correctness are distinct abilities: a few runs preserve behaviour by skipping the migration and are stopped at Migration Audit; most attempt it and break behaviour, and are stopped at Behavioural Tests. Agents cannot deliver a perfect migration: among the 340 runs that pass Migration Audit, $58\\%$ reach $99\\%$ of the fixed checks, yet only $26\\%$ reach $100\\%$. Agent capability differs across migration categories: agents score $31.4$ on build toolchain rewrites but only $5.6$ on language rewrites. Together, these findings position SWE Refactor Bench as a rigorous testbed for developing coding agents for reliable whole-repository migrations.",
+      "url": "http://arxiv.org/abs/2608.23564v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23564v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.SE"
+      ],
+      "published": "2026-08-24T17:59:04+00:00",
+      "source": "arxiv",
+      "title_cn": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+      "summary_cn": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "authors": [
+        "Na Li",
+        "Yuchen Jiao",
+        "Changxiao Cai",
+        "Gen Li"
+      ],
+      "abstract": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders supervised with cross entropy (CE) because the flow trajectories are not guaranteed to terminate at valid token embeddings. Motivated by this limitation, we introduce \\textbf{ConvergeFlow}, an embedding-space flow-based LM, which constrains the data predictor to the convex hull of token embeddings and trains it solely with the mean squared error objective induced by flow matching. Under suitable regularity conditions, we prove that the resulting flow converges to valid token embeddings despite errors in the data predictor, enabling direct token prediction without a CE-supervised decoder. We further develop three sampling mechanisms for controlling the trade-off between the generative perplexity and entropy. Experiments on OpenWebText demonstrate that ConvergeFlow achieves performance competitive with existing continuous and discrete diffusion LMs. These findings demonstrate the potential of the flow-based paradigm for language modeling. Our code is available at https://github.com/Na-Li66/ConvergeFlow.",
+      "url": "http://arxiv.org/abs/2608.23551v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23551v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-08-24T17:54:14+00:00",
+      "source": "arxiv",
+      "title_cn": "ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings",
+      "summary_cn": "Recent advances in continuous diffusion and flow-based language models (LMs) have achieved performance competitive with discrete LMs. However, existing continuous frameworks still rely on decoders sup",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How to Train a Critic Stably and Efficiently",
+      "authors": [
+        "Penghui Qi",
+        "Xiangxin Zhou",
+        "Wee Sun Lee"
+      ],
+      "abstract": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the effect of each design choice. Across mathematical reasoning tasks with models ranging from 1.5B parameters to 30B-A3B mixtures of experts, BPCO improves a strong critic-based baseline consistently, and matches or exceeds a group-based baseline while sampling one response per prompt. The same recipe also improves learning with rubric-based rewards. These results show that a carefully designed critic provides a reliable alternative to group-relative advantage estimation. Code is available at https://github.com/QPHutu/golden_critic",
+      "url": "http://arxiv.org/abs/2608.23566v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23566v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-08-24T17:59:39+00:00",
+      "source": "arxiv",
+      "title_cn": "How to Train a Critic Stably and Efficiently",
+      "summary_cn": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+      "authors": [
+        "Daniil Dmitriev",
+        "Zhihan Huang",
+        "Yuting Wei"
+      ],
+      "abstract": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward process and the sampler. For the uniform forward process, existing lower bounds for the standard $τ$-leaping sampler scale linearly with the ambient dimension $d$, raising the question of whether this dependence is intrinsic to the forward process. We answer this question in the negative. We consider a first-order sampler based on the leave-one-out denoiser for uniform and remasking processes whose coordinate updates can be performed in parallel. In both cases, the sampler can correct denoising mistakes during the sampling process, which becomes necessary when many coordinates are updated together. Our main result establishes an adaptive sampling guarantee: up to logarithmic factors, $N = O(\\mathrm{DTC}(X_0) / \\varepsilon)$ discretization steps suffice to achieve sampling error $O(\\varepsilon_{\\mathrm{score}}+\\varepsilon)$, where $\\varepsilon_{\\mathrm{score}}$ is the error in score estimation. Thus, the sampling complexity is governed by the intrinsic dependence structure of the target distribution, as measured by its dual total correlation $\\mathrm{DTC}(X_0)$, rather than directly by the ambient dimension $d$. Our analysis proceeds through a Bayes-optimal auxiliary sampler that separates discretization error from score-estimation error. We also derive an exact information-theoretic representation of the discretization error in terms of the mutual information between different coordinates of the forward process at different times. This representation applies to general forward processes and, in the uniform and remasking cases, can be controlled by $\\mathrm{DTC}(X_0)$. Numerical experiments on structured synthetic distributions illustrate the predicted dimension-adaptive behavior.",
+      "url": "http://arxiv.org/abs/2608.23554v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23554v1",
+      "categories": [
+        "cs.LG",
+        "cs.IT",
+        "math.ST",
+        "stat.ML"
+      ],
+      "published": "2026-08-24T17:54:51+00:00",
+      "source": "arxiv",
+      "title_cn": "Provably adaptive sampling with uniform and remasking discrete diffusion models",
+      "summary_cn": "Discrete diffusion models offer a promising alternative to autoregressive generation by enabling parallel updates, but their sampling efficiency can depend strongly on the choice of the forward proces",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "authors": [
+        "Md Thamed Bin Zaman Chowdhury",
+        "Moazzem Hossain"
+      ],
+      "abstract": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and the high cost of large-scale field inspections. To address this problem, we propose Expert-Grounded Distillation (EGD), a novel artificial intelligence framework that transfers institutional road safety expertise into a compact vision-language model for scalable visual road safety auditing. The key innovation is a quantified expert-grounding stage in which the teacher vision-language model is calibrated against authoritative field audits. Large-scale annotation is permitted only after the teacher reaches substantial agreement with expert risk assessments (Cohen's kappa = 0.74). The calibrated teacher then generates structured supervision that is distilled into an 8-billion-parameter student vision-language model using Low-Rank Adaptation and a single leakage-free prompt. We also introduce Bangladesh Road Safety Audit (BD-ARSA), the first open, expert-grounded Bangladeshi visual road safety audit dataset containing 21,947 image-audit records with near-national coverage, and Expert-Grounded Road Safety Auditor (EG-ARSA), the first vision-language model developed specifically for this task. Experimental results show that grounded fine-tuning substantially improves ordinal risk assessment over the zero-shot baseline, while blind expert evaluation demonstrates that the compact student outperforms both its 31 billion-parameter teacher and Gemini-2.5-Flash. These findings demonstrate that EGD provides an effective and scalable engineering solution for proactive road safety auditing in resource-constrained environments.",
+      "url": "http://arxiv.org/abs/2608.23563v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23563v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-08-24T17:58:41+00:00",
+      "source": "arxiv",
+      "title_cn": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+      "summary_cn": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+      "authors": [
+        "Khiem Vuong",
+        "Deva Ramanan",
+        "Srinivasa Narasimhan"
+      ],
+      "abstract": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes, or even point clouds produces artifacts when input views are sparse or target views lie far from the input. Recent work mitigates these artifacts using diffusion-based generative priors, but is specialized to individual representations and require custom architectures or extensive retraining. We present FixAnything, a single model for fixing a wide range of rendering artifacts. It does so by repurposing a pretrained video generative model, leveraging its implicit multi-view priors with only minimal modification and lightweight finetuning. Our key insight is that even noisily-rendered sequences preserve camera motion and coarse scene structure, allowing cleanup to be formulated as video-to-video translation. To control what scene structure should be preserved, we introduce a binary mask denoting the clean pixels, enabling the model to anchor its output to high-quality inputs (e.g. training views) while refining the rest. To encourage FixAnything to produce 3D-consistent renderings that support downstream reconstruction, we use camera pose accuracy (recovered via structure-from-motion) as a reward signal for direct preference optimization (DPO). Across four distinct 3D representations, FixAnything consistently improves rendering quality with lightweight finetuning, demonstrating that a single generalist video prior can replace multiple specialist refinement pipelines. The simplicity of the framework enables immediate adoption of stronger future video models without architectural redesign.",
+      "url": "http://arxiv.org/abs/2608.23549v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23549v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-24T17:51:33+00:00",
+      "source": "arxiv",
+      "title_cn": "FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors",
+      "summary_cn": "Rendering views using 3D scene representations such as Gaussian Splatting (3DGS), Neural Radiance Fields (NeRF), meshes, or even point clouds produces artifacts when input views are sparse or target v",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
+      "authors": [
+        "Santosh Ray",
+        "Pratik K. Mishra",
+        "Ali Abedi",
+        "Charlene H. Chu",
+        "Amir Ahmad"
+      ],
+      "abstract": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their joint impact on recovery. This study used the MAISON-LLF dataset, which contains multimodal sensor and clinical assessment data from 18 older adults recovering in the community after lower-limb fracture or hip replacement. Participants were monitored for up to eight weeks, corresponding to a maximum of 1,008 participant-days of sensor monitoring. Forty-six daily features were extracted from indoor motion, acceleration, step count, heart rate, out-of-home mobility, and sleep data. Five clinical outcomes were assessed every two weeks: the Social Isolation Scale, Oxford Hip Score, Oxford Knee Score, Timed Up and Go test, and 30-second Chair Stand test. We utilize an inherent relationship between multi-modal sensor data and different clinical scores and formulate it as a multi-output regression problem. We tested various machine learning and deep learning single- and multi-output regression algorithms to predict these scores simultaneously. The results showed that predicting clinical scores jointly was better than separately. The tabular DL multi-output regressor, NODE, gave a remarkable performance of MSE=3.96 and MAE=1.02 in comparison to other multi- and single-output regressors. The SHAP feature analysis further showed the importance of including multimodal sensors to provide a good estimate of patients' recovery trajectory. This work may support the simultaneous assessment of functional recovery and social engagement among community-dwelling older adults and ultimately help improve their care and quality of life.",
+      "url": "http://arxiv.org/abs/2608.23531v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23531v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-08-24T17:33:17+00:00",
+      "source": "arxiv",
+      "title_cn": "Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement",
+      "summary_cn": "Older adults recovering after lower-limb fracture or hip replacement may experience complex recovery trajectories. Most of the time, these clinical aspects are studied in isolation, masking their join",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Investigating Relational Reasoning in VLMs",
+      "authors": [
+        "Adhithya Laxman Ravi Shankar Geetha",
+        "Aulia Kharis Rakhmasari",
+        "Haleema Ramzan",
+        "Xander Yap"
+      ],
+      "abstract": "Vision-Language Models (VLMs) achieve strong performance in visual reasoning tasks, but it remains unclear whether they understand visual relations, or simply employ shortcuts such as language cues or priors. To investigate this, we use the Qwen3-VL-4B (Bai et al., 2025), a modern VLM, to decode how visual information is encoded across depths. For this, we propose a synthetic dataset of simple geometric shapes for controlled analysis, along with queries crafted to precisely test language cues. Furthermore, the dataset is modified to test causal reliance on visual evidence. Our results show that current VLMs combine genuine visual reasoning with shortcut strategies primarily rooted in language cues.",
+      "url": "http://arxiv.org/abs/2608.23518v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23518v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-08-24T17:23:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Investigating Relational Reasoning in VLMs",
+      "summary_cn": "Vision-Language Models (VLMs) achieve strong performance in visual reasoning tasks, but it remains unclear whether they understand visual relations, or simply employ shortcuts such as language cues or",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "authors": [
+        "Yuanyuan Zhang",
+        "Yida Zhang",
+        "Jiahui Li",
+        "Yuyan Wu",
+        "Fei Dou"
+      ],
+      "abstract": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed interaction with shifted fiducial points in temporal or amplitude axis, and BP varies with personal hemodynamic changes, causing misaligned representations that affect model generalizability and robustness. In this work, we propose a non-invasive BP estimation framework, Phy-BP, based on triaxial bodyseismography (BSG) as an extension of BCG. Firstly, an adaptive quality-control algorithm is designed to select BSG segments enriched with cardiogenic components by jointly considering neighboring beat patterns and universal cardiogenic templates. Furthermore, a physical model is established to describe 3D wave propagation in the body-bed system and is subsequently embedded into the deep learning model to characterize the intrinsic coupling among triaxial BSG signals driven by a single cardiogenic excitation. Thus, multi-axis features are aligned during model training, improving robustness against distortions in real scenarios. Experiments on a 162-hour hospital dataset collected from 21 subjects reveal that the proposed Phy-BP can dynamically filter out low-quality measurements, and the deep learning model training is constrained by physical consistency across different axes to provide faithful BP monitoring, especially when training samples are limited.",
+      "url": "http://arxiv.org/abs/2608.23562v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23562v1",
+      "categories": [
+        "eess.SP",
+        "cs.AI",
+        "physics.bio-ph"
+      ],
+      "published": "2026-08-24T17:58:35+00:00",
+      "source": "arxiv",
+      "title_cn": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+      "summary_cn": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+      "authors": [
+        "Mustafa Umut Ozbek",
+        "Taiwo Ojo",
+        "Pooria Madani",
+        "Khalil El-Khatib",
+        "Li Yang"
+      ],
+      "abstract": "Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be corrupted through compromised logs, labeling errors, manipulated historian records, or unsafe retraining processes. This paper evaluates the robustness of offline ICS anomaly-detection pipelines on the Secure Water Treatment (SWaT) benchmark under training-time contamination. We assess 11 heterogeneous anomaly detectors under three contamination strategies: random injection, similarity-targeted injection, and feature-noise injection. The first two insert attack samples into the nominal training pool, while the third adds bounded Gaussian noise to selected normal training samples. These attacks are contamination-based rather than gradient-driven poisoning methods. Contamination budgets from 1% to 10% are evaluated using clean validation and test sets under a unified offline protocol. The results show that robustness is strongly model-dependent and cannot be predicted from clean-data performance alone. Injection-based contamination causes the greatest degradation, particularly for local-density and distance-based detectors, whereas feature-noise contamination has a comparatively limited effect. PCA, SVM, HBOS, and IForest remain relatively stable, while the tuned neural detectors demonstrate intermediate robustness. Overall, the findings highlight the importance of training-data integrity in ML-enabled ICS monitoring, subject to the evaluated dataset, models, and threat assumptions.",
+      "url": "http://arxiv.org/abs/2608.23547v1",
+      "pdf_url": "https://arxiv.org/pdf/2608.23547v1",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ],
+      "published": "2026-08-24T17:49:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination",
+      "summary_cn": "Machine-learning-based anomaly detection is increasingly used in industrial control systems (ICS), yet most studies assume that detector training data is trustworthy. In practice, training data may be",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
