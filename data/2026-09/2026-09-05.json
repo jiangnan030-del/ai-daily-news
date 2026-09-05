@@ -1,0 +1,742 @@
+{
+  "date": "2026-09-05",
+  "generated_at": "2026-09-05T09:59:28.762756+08:00",
+  "github_trending": [
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 250470,
+      "forks": 21164,
+      "language": "Shell",
+      "stars_today": 2758,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 126115,
+      "forks": 6770,
+      "language": "JavaScript",
+      "stars_today": 1679,
+      "source": "github_trending",
+      "summary_cn": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 248545,
+      "forks": 37464,
+      "language": "JavaScript",
+      "stars_today": 1135,
+      "source": "github_trending",
+      "summary_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 42741,
+      "forks": 3609,
+      "language": "Python",
+      "stars_today": 1130,
+      "source": "github_trending",
+      "summary_cn": "Agent skill that removes signs of AI-generated writing from text",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 35483,
+      "forks": 8558,
+      "language": "Python",
+      "stars_today": 836,
+      "source": "github_trending",
+      "summary_cn": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "stars": 241505,
+      "forks": 49568,
+      "language": "Python",
+      "stars_today": 720,
+      "source": "github_trending",
+      "summary_cn": "The agent that grows with you",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 174143,
+      "forks": 20643,
+      "language": "Python",
+      "stars_today": 511,
+      "source": "github_trending",
+      "summary_cn": "Public repository for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 30962,
+      "forks": 1986,
+      "language": "HTML",
+      "stars_today": 437,
+      "source": "github_trending",
+      "summary_cn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "stars": 2512,
+      "forks": 184,
+      "language": "TypeScript",
+      "stars_today": 391,
+      "source": "github_trending",
+      "summary_cn": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "stars": 204148,
+      "forks": 26634,
+      "language": "TypeScript",
+      "stars_today": 345,
+      "source": "github_trending",
+      "summary_cn": "The open source coding agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 31064,
+      "forks": 2960,
+      "language": "Python",
+      "stars_today": 342,
+      "source": "github_trending",
+      "summary_cn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "stars": 58545,
+      "forks": 7606,
+      "language": "Python",
+      "stars_today": 297,
+      "source": "github_trending",
+      "summary_cn": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "stars": 16163,
+      "forks": 1371,
+      "language": "Python",
+      "stars_today": 254,
+      "source": "github_trending",
+      "summary_cn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "stars": 77012,
+      "forks": 9588,
+      "language": "Python",
+      "stars_today": 209,
+      "source": "github_trending",
+      "summary_cn": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 144095,
+      "forks": 23018,
+      "language": "Python",
+      "stars_today": 157,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 2155,
+      "comments": 1975,
+      "author": "kibae",
+      "time": "2026-09-03T18:41:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49554643",
+      "source": "hacker_news",
+      "title_cn": "GPT-6 Astra",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "score": 1482,
+      "comments": 1191,
+      "author": "moultano",
+      "time": "2026-09-04T11:54:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49563355",
+      "source": "hacker_news",
+      "title_cn": "Discovery of a new OpenAI agent message board",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 676,
+      "comments": 223,
+      "author": "altertable",
+      "time": "2026-09-03T18:32:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49554520",
+      "source": "hacker_news",
+      "title_cn": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+      "score": 493,
+      "comments": 319,
+      "author": "jlebar",
+      "time": "2026-09-04T18:42:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49568506",
+      "source": "hacker_news",
+      "title_cn": "Formalizing Fermat's Last Theorem",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "score": 392,
+      "comments": 682,
+      "author": "halcdev",
+      "time": "2026-09-03T15:07:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49551096",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "score": 369,
+      "comments": 72,
+      "author": "DeepLogin",
+      "time": "2026-09-04T11:59:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49563386",
+      "source": "hacker_news",
+      "title_cn": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 365,
+      "comments": 127,
+      "author": "rabahs",
+      "time": "2026-09-03T14:28:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49550375",
+      "source": "hacker_news",
+      "title_cn": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 289,
+      "comments": 145,
+      "author": "screm",
+      "time": "2026-09-03T21:20:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49557206",
+      "source": "hacker_news",
+      "title_cn": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "score": 268,
+      "comments": 251,
+      "author": "aaraujo002",
+      "time": "2026-09-04T15:33:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49566137",
+      "source": "hacker_news",
+      "title_cn": "Corporate America is getting hooked on open-source AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "score": 232,
+      "comments": 78,
+      "author": "stingrae",
+      "time": "2026-09-04T17:18:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49567437",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Open-Source eInk Bike Computer",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 232,
+      "comments": 145,
+      "author": "vignesh_warar",
+      "time": "2026-09-03T19:45:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49555691",
+      "source": "hacker_news",
+      "title_cn": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 164,
+      "comments": 107,
+      "author": "iopapa",
+      "time": "2026-09-04T19:48:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49569366",
+      "source": "hacker_news",
+      "title_cn": "Can AI design circuit boards yet?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "score": 121,
+      "comments": 65,
+      "author": "Topfi",
+      "time": "2026-09-04T21:39:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49570545",
+      "source": "hacker_news",
+      "title_cn": "GPT-6 Astra on OpenRouter",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "score": 91,
+      "comments": 28,
+      "author": "gioscarab",
+      "time": "2026-09-04T09:03:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49562219",
+      "source": "hacker_news",
+      "title_cn": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "url": "https://twitter.com/ggerganov/status/2095897173376618881",
+      "score": 71,
+      "comments": 25,
+      "author": "theanonymousone",
+      "time": "2026-09-04T17:12:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49567357",
+      "source": "hacker_news",
+      "title_cn": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "authors": [
+        "Haoyaun Zhu",
+        "Jie Zhang"
+      ],
+      "abstract": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to the same model name, reads the same tomorrow. We audited that assumption in two preregistered campaigns with every threshold fixed in advance; neither got past validating its instrument. Across 52,988 audited request attempts, same-window repeat rankings agreed at Spearman 0.400 against a required 0.90, and byte-identical next-day replays agreed at 0.78 against a required 0.99, each time with the execution record at ceiling. Three mechanisms explain the gap: a label-to-meaning mapping that biased readouts as strongly as the signal; candidate gaps seven orders of magnitude below the instrument's own noise floor; and byte-identical inputs returning different rankings, a noise that exact-permutation readouts compound. Neither metric substitution nor sampling repaired it on the tested grid. Preregistered follow-ups bound the problem: waiting did not help on the days sampled (0.805 versus 0.800, replicated over five further days); switching providers did not help (four providers share the floor, medians 0.74 to 0.88, predicted by none of the metadata fields they expose); self-hosting on batch-invariant kernels helped only while the server was quiet; and on constructed errors with known gaps, the readout's separation tracks error type, not size. We distill the evidence into a three-level snapshot-identity ladder, eight design rules, and a reporting checklist; a pilot at roughly 2% of the study's call volume would have exposed both unreachable gates in advance. All results concern externally measured behaviour on shared serving infrastructure. On a shared endpoint, a model name is not a frozen instrument; a preregistered evaluation must measure its instrument before freezing any gate on it.",
+      "url": "http://arxiv.org/abs/2609.04198v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04198v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-09-03T17:59:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+      "summary_cn": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+      "authors": [
+        "Rafal Urbaniak",
+        "Sam Witty",
+        "Daniel Waxman",
+        "Andy Zane",
+        "Poorva Garg"
+      ],
+      "abstract": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory of actual causality (AC) gives principled verdicts, but only for toy-sized models, because computing them requires enumerating counterfactual scenarios. Scalable attribution methods like SHAP (or even causal SHAP) at least partially ignore the causal structure that generated the data, and can give answers that conflict with a careful causal analysis. We close this gap with Probabilistic Causal Impact (PCI). PCI builds on actual causality and on Pearl's notions of probability of necessity and sufficiency, but recasts the question of explainability as an estimation problem on a probabilistic causal model that is easily approximated via Monte Carlo. By specifying a distribution over \"candidate explanations,\" a distribution over counterfactual values, and a scoring function, PCI provides tractable, causally grounded, graded explanations, generalizing AC and Pearl's probability of causation as degenerate cases. We evaluate PCI in synthetic and real-world examples, spanning consistency checks with AC, scaling experiments, complex continuous-valued dynamical systems, and a real-world deployed causal machine learning model trained on millions of datapoints.",
+      "url": "http://arxiv.org/abs/2609.04177v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04177v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-03T17:55:43+00:00",
+      "source": "arxiv",
+      "title_cn": "A Computationally Feasible Framework for Causal Probabilistic Explanation",
+      "summary_cn": "Explaining why a specific outcome occurred, and which inputs deserve the blame or credit, is central to philosophical, scientific, and policy analysis. Existing tools split into two camps. The theory ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "authors": [
+        "Zixuan Fu",
+        "Bingxiang He",
+        "Yuxin Zuo",
+        "Haohuan Huang",
+        "Jinqian Zhang"
+      ],
+      "abstract": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of training data unclear. We examine this role at the data-minimal limit by training on a single query. One-shot OPD keeps improving for hundreds of steps and recovers most of full-data OPD's gain across task domains and model families. We explain this result through the states visited during training and the rate at which the student aligns with the teacher. We measure \\emph{state coverage}, the fraction of the states full-data OPD visits that a query set's rollouts reach. A single query already reaches \\(71.5\\%\\), most of it within the first 100 steps. Adding semantically distinct queries raises coverage and validation accuracy together, until 16 queries reach \\(98.9\\%\\) and match full-data training. Yet alignment slows at a similar pace whether OPD trains on one query or the whole dataset, and even a fixed set of states takes hundreds of steps to absorb. OPD is therefore data-overfed but algorithm-starved. Its rollouts quickly expose broad supervision, while the student absorbs that supervision increasingly slowly. The state-coverage result extends to multi-teacher OPD, where 16 semantically diverse queries per domain match full-data MOPD. As a further stress test, content-light templates and off-domain WildChat queries also approach the real-query baseline. Task content and induced state coverage can therefore come apart. We hope these findings direct future work toward the step efficiency of OPD, and prompt a re-examination of the data and the mechanisms behind its recent successes in frontier post-training.",
+      "url": "http://arxiv.org/abs/2609.04172v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04172v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-09-03T17:54:38+00:00",
+      "source": "arxiv",
+      "title_cn": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "summary_cn": "On-policy distillation (OPD) combines student-generated rollouts with dense token-level supervision from a teacher. Existing work has mainly studied its algorithmic behavior, leaving the role of train",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "authors": [
+        "Davide Paglieri",
+        "Logan Cross",
+        "Tim Genewein",
+        "Joel Z. Leibo",
+        "Nenad Tomasev"
+      ],
+      "abstract": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerabilities by creating a substrate for the contagious spread of unintended and undesirable behaviors. We report a case study on a research collective of 100 autonomous LLM agents tasked with proving formal mathematical conjectures. Within the swarm, cheating spontaneously emerged and was later challenged by whistleblowers - both without any external intervention. When a single agent discovered an exploit in the evaluation system, it propagated across the collective via a shared knowledge library and later through peer-to-peer messages. Despite early reluctance, a cohort of agents adopted the exploit in response to competitive pressure. A separate group of agents produced an emergent counter-response: auditing fraudulent proofs, alerting peers across broadcast and private channels, staging boycotts, lodging formal complaints, and proposing validation patches. In recent incidents, agent swarms coordinated covertly through improvised side-channels (Dalton and Wallace, 2026; Greenblatt et al., 2026). Our setting differs: the same transparent channels that carried the exploit also gave non-cheating agents the visibility they needed to detect fraud, organize resistance, and enforce norms. We cast the problem of managing the agents' shared infrastructure as the knowledge commons governance problem (Ostrom, 1990). To protect the commons from exploits, we propose to adopt institutional mechanisms, such as graduated sanctioning and collective-choice rules, to support decentralized self-governance in autonomous swarms.",
+      "url": "http://arxiv.org/abs/2609.04170v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04170v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-03T17:54:09+00:00",
+      "source": "arxiv",
+      "title_cn": "A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms",
+      "summary_cn": "Multi-agent AI science ecosystems rely on agents possessing tools that allow them to communicate, coordinate, and build on each other's work. Yet this shared infrastructure can also introduce vulnerab",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "authors": [
+        "Yuntian Deng",
+        "Pengyu Nie",
+        "Stuart Shieber"
+      ],
+      "abstract": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a provider. We present compile by training, which turns a natural-language specification into a reusable neural function. At compile time, teacher models generate task-specific examples that are used to train a small adapter for a compact interpreter. The resulting function runs without the teachers and can be stored, versioned, and composed like ordinary software. On FuzzyBench-Hard, a subset on which the Program-as-Weights fast compiler produced no exact matches, compile by training reaches 83.6% semantic accuracy. This higher accuracy comes with a higher compile-time cost: roughly a minute rather than seconds for the fast compiler. We deploy the compiler in a public interactive service and demonstrate compiled functions in a multi-site website helper, a language-controlled 3D avatar, and a bidirectional English-Claudish translator.",
+      "url": "http://arxiv.org/abs/2609.04199v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04199v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-09-03T17:59:49+00:00",
+      "source": "arxiv",
+      "title_cn": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "summary_cn": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "authors": [
+        "Lihao Liu",
+        "Peng Tang",
+        "Kunwar Yashraj Singh",
+        "Shabnam Ghadar"
+      ],
+      "abstract": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three deficiencies - incomplete error observation, limited search diversity, and unreliable selection - and propose ESPO (Error-Structured Prompt Optimization), which decomposes prompt optimization into three phases: Diagnose clusters all training errors into structural patterns in one round; Propose generates candidates via four complementary strategies with independent biases; Select applies bootstrap stability selection. On seven public NLP benchmarks - Tweet, MMLU, GSM8K, HotpotQA, ScoNe, HoVer, and PUPA - ESPO improves average accuracy by $+$3.76 pp over the state-of-the-art (74.67% vs 70.91% for GEPA), matching or exceeding GEPA on every dataset while producing prompts 47% shorter (1,004 vs 1,878 chars) and faster at inference. Cross-model experiments across four additional student models (Gemma 3 12B, Mistral 14B, Qwen3 32B, Claude Haiku 4.5) show ESPO yields the best average accuracy on every model tested, with the largest gap on Qwen3 GSM8K (15.00% $\\to$ 91.40%). A generalization bound (Appendix) grounds each phase in a corresponding term of the test-time gap, and the ablation confirms a key prediction: adding diversity without bootstrap selection actually hurts performance ($-$1.20%).",
+      "url": "http://arxiv.org/abs/2609.04197v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04197v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-03T17:59:37+00:00",
+      "source": "arxiv",
+      "title_cn": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+      "summary_cn": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three de",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "authors": [
+        "Kevin Du",
+        "Alexander Hoyle",
+        "Laura Ruis",
+        "Acyr Locatelli"
+      ],
+      "abstract": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide step-level supervision via process reward models and generative critics. These practices rely on the text of a reasoning step carrying information about its functional role. But does the text actually encode information about which reasoning steps matter? We operationalize the importance of a reasoning step as its advantage: the change in expected reward, e.g., producing the correct final answer, from including that step, estimated via Monte Carlo rollouts. Basing ground truth on these estimates, we evaluate whether LLM judges can identify high-advantage steps and find that sufficiently capable LLMs can outperform a prevalence baseline but fall well short of a noise ceiling. Fine-tuning a model as a step-level critic yields strong improvement for incorrect responses but remains distant from ceiling for correct responses, suggesting that step importance is only partially recoverable from the text of the reasoning trace. Our findings contribute to a growing body of chain-of-thought faithfulness work that cautions against treating the legibility of reasoning traces as interpretability, especially with implications for process reward modeling.",
+      "url": "http://arxiv.org/abs/2609.04194v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04194v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-09-03T17:59:08+00:00",
+      "source": "arxiv",
+      "title_cn": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+      "summary_cn": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+      "authors": [
+        "Joseph Lee",
+        "Yidi Huang",
+        "Dokyoon Kim",
+        "Shu Yang",
+        "Li Shen"
+      ],
+      "abstract": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learning. We design controlled experiments to isolate this. First, we confirm that repetition is necessary for acquisition and clarify that paraphrasing helps only at smaller batch sizes. Second, holding the token budget fixed, allocating tokens from document repetition to auxiliary views improves learning, counterintuitively, even for factual recall. Third, the effectiveness of auxiliary views is not contingent on the strength of the teacher model that generates them. Fourth, we identify forms of knowledge, contextual and foundational, that aid learning in the presence of prior knowledge gaps. Finally, we examine how these effects manifest mechanistically via layer-wise biases and compression. Together, our findings suggest that auxiliary representations of knowledge, which arise naturally in large pre-training corpora, are a key factor in the success of pre-training and offer a plausible explanation for why data diversity matters.",
+      "url": "http://arxiv.org/abs/2609.04180v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04180v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-03T17:57:02+00:00",
+      "source": "arxiv",
+      "title_cn": "Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views",
+      "summary_cn": "Gaps remain in our understanding of how large language models (LLMs) acquire knowledge during pre-training. We posit that auxiliary views, reformulations of knowledge, are causally helpful for learnin",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Last Translation Benchmark",
+      "authors": [
+        "Vilém Zouhar",
+        "Niyati Bafna",
+        "Mukund Choudhary",
+        "Maike Züfle",
+        "Sara Rajaee"
+      ],
+      "abstract": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for machine translation are approaching saturation. Further, automatic translation metrics are unreliable, vulnerable to reward-hacking, and provide unactionable assessments. Even gold human evaluation is not problem-free, because it often lacks reproducibility, objectivity, and scalability. Overall, this prevents us from tracking objective progress in the field and identifying pathways for improvement. We introduce the Last Translation Benchmark, a collection of human-authored and peer-reviewed examples (texts, images, audio, videos) that break leading machine translation models. We also present a new evaluation approach: each example comes with handcrafted verification rules describing concrete failure cases on that example, therefore allowing reliable and actionable future evaluation. The Last Translation Benchmark is a live dataset that accepts ongoing contributions. The latest version is LTBv1, containing accepted contributions prior to September 1st 2026, with future releases planned as new data is continuously collected.",
+      "url": "http://arxiv.org/abs/2609.04173v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04173v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-03T17:54:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Last Translation Benchmark",
+      "summary_cn": "For scientific progress, we need benchmarks that test the limits of state-of-the-art models, and evaluation methods that inform us about failure cases. As models get stronger, standard benchmarks for ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Robust PAC Learning of Concurrent Stochastic Games",
+      "authors": [
+        "Angel Y. He",
+        "David Parker"
+      ],
+      "abstract": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash equilibrium (NE) existence. Our algorithm maintains data-driven $L^1$ confidence sets over transition kernels and solves a robust CSG to compute a social-welfare optimal $\\varepsilon$-NE, using a robust MDP-based exploration mechanism to drive joint state-action coverage. Crucially, we introduce a Nash margin characterisation that enables principled reasoning about equilibrium existence: the framework either returns an $\\varepsilon$-approximate NE whose social-welfare value is $\\varepsilon$-close to optimal, or provides a sound certificate that no exact NE exists. Under a minimum reachability condition $p_{\\mathrm{reach}}>0$ over relevant state-action pairs, the algorithm terminates after a polynomial number of trajectory samples, with sample complexity $\\widetilde{O}\\left( {R_{\\max}^2 H^4 |S|^2 |A| / (p_{\\mathrm{reach}} \\varepsilon^2)} \\right)$. Empirical results on benchmark CSGs demonstrate near-optimal performance, correct handling of equilibrium (non-)existence, and sample complexity consistent with theory.",
+      "url": "http://arxiv.org/abs/2609.04189v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04189v1",
+      "categories": [
+        "cs.LG",
+        "cs.GT",
+        "cs.LO",
+        "cs.MA"
+      ],
+      "published": "2026-09-03T17:58:57+00:00",
+      "source": "arxiv",
+      "title_cn": "Robust PAC Learning of Concurrent Stochastic Games",
+      "summary_cn": "We introduce the first Probably Approximately Correct (PAC) learning framework for general-sum concurrent stochastic games (CSGs) with transition uncertainty, while addressing the challenge of Nash eq",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+      "authors": [
+        "Shravan Venkatraman",
+        "Wenshuai Zhao",
+        "Mohammad Hassan Vali",
+        "Arno Solin"
+      ],
+      "abstract": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method treats temporal sampling density as privileged information, based on the hypothesis that a denser view of the same clip recovers the running state more accurately. This view serves as the teacher, while a sparse-view student with the same weights learns to match its next-token distribution. The model generates its own target, so training requires no labels, separate teacher, or reward signal, and adds no inference cost. On LLaVA-OneVision-2-8B, S$^3$T improves VSTAT accuracy by $+1.74$ as a single model, $+2.38$ with souping, and $+2.70$ with additional vision-encoder adaptation, while prior self-evolving methods leave state tracking largely unchanged. The capability learned from unlabeled synthetic clips transfers to real videos, improving performance by $+7.95$ on VSTAT-YouTube state-tracking questions and $+4.50$ on MVBench Action Count.",
+      "url": "http://arxiv.org/abs/2609.04203v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04203v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-03T17:59:55+00:00",
+      "source": "arxiv",
+      "title_cn": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+      "summary_cn": "We introduce S$^3$T (Self-Supervised Self-Distillation over Time), which, to the best of our knowledge, is the first fully self-contained framework for continuous video state tracking. Our method trea",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+      "authors": [
+        "Adeela Islam",
+        "Zorah Lähner",
+        "Vittorio Murino",
+        "Vladislav Golyanik"
+      ],
+      "abstract": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Existing learning-based approaches often rely on hand-crafted descriptors or template-based representations, whereas recent generative models over functional maps suffer from high inference cost, limited interpretability, and poor generalisation to partial shapes. In response to these limitations, this paper introduces TokenMatch, a new transformer-based unified model for estimating 3D shape correspondences. Our feed-forward approach trained exclusively on BeCoS, a challenging non-isometric partial-to-partial shape-matching dataset, can generalise to matching full shapes without retraining or fine-tuning. TokenMatch uses self- and cross-attention mechanisms to efficiently learn patch-level and point-level relations as well as dense correspondences between shape pairs. Our core insight is that meshes can be adaptively tokenised into patches using shape curvature guidance, enabling effective learning of shape-specific geometric descriptors for correspondence estimation. We evaluate TokenMatch on standard benchmarks for partial and full shape matching, including CP2P, PSMAL, BeCoS, FAUST, SCAPE, and SHREC'19. Our method achieves consistently high performance, in most cases outperforming existing methods for partial and full shape matching in the mean geodesic error and intersection-over-union metrics, while also running faster at sub-second inference speeds.",
+      "url": "http://arxiv.org/abs/2609.04202v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04202v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-03T17:59:55+00:00",
+      "source": "arxiv",
+      "title_cn": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+      "summary_cn": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Exist",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "authors": [
+        "Chin-Yang Lin",
+        "Yang-Che Sun",
+        "Cheng Sun",
+        "Fu-En Yang",
+        "Min-Hung Chen"
+      ],
+      "abstract": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. Small drifts accumulate and amplify into significant geometric collapse. However, we observe that per-frame depth remains stable throughout this failure. The backbone's local geometry remains intact; only the global pose head breaks down. Motivated by this decoupling, we introduce Scal3R. This approach reformulates online reconstruction as multi-reference relative pose querying. We use lightweight learnable tokens, which make up about ~1% of the parameters, and inject them into a completely frozen backbone via asymmetric attention. This setup queries poses relative to multiple past keyframes. An online pose-graph optimization system with loop closure suppresses long-range drift. Scal3R reaches convergence in 8 hours on a single GPU. It reduces the average ATE by over 60% on KITTI compared to the online baseline. It also achieves state-of-the-art performance across Virtual KITTI, Sintel, TUM-Dynamic, ScanNet, and 7-Scenes. Project page: https://linjohnss.github.io/scal3r/",
+      "url": "http://arxiv.org/abs/2609.04201v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04201v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-03T17:59:53+00:00",
+      "source": "arxiv",
+      "title_cn": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "summary_cn": "Online 3D reconstruction models perform poorly on long videos. This happens because regressing poses relative to a fixed first-frame anchor forces extrapolation far beyond the training distribution. S",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "authors": [
+        "Varun Varma Thozhiyoor",
+        "Shivam Tripathi",
+        "Venkatesh Babu Radhakrishnan",
+        "Anand Bhattad"
+      ],
+      "abstract": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a different approach. When two objects in the same scene obey the same physical law, their motions must satisfy predictable relationships, and these relationships hold independent of calibration. We introduce Principia, a benchmark that evaluates Newtonian physics through relational consistency between paired objects. Principia spans eight phenomena - gravity, restitution, friction, rotational inertia, projectile motion, momentum, pendulum, and mass-spring oscillation - across translational, rotational, collisional, and oscillatory dynamics, using real-world scenes recorded under controlled protocols. We also introduce a calibration-independent consistency score that quantifies physical violation directly in image space. Across thousands of generations from six state-of-the-art video generators, no model exceeds 0.42 on Principia despite all scoring around 0.8 on VBench. Vision-language models are evaluated on their ability to detect relational physics violations, with the best model achieving only 67% accuracy and most performing near chance level.",
+      "url": "http://arxiv.org/abs/2609.04200v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04200v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-03T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "Principia: Relational Physics Tests for Video Models",
+      "summary_cn": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavaila",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "authors": [
+        "Kang Liao",
+        "Yihang Luo",
+        "Xiao-Ming Wu",
+        "Linyi Jin",
+        "Size Wu"
+      ],
+      "abstract": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and interact with 3D worlds, our framework jointly models three native world states: physics (gravity field and latitude), geometry (depth), and appearance (image), together with a unified Omni-Camera representation that supports diverse tasks and flexible motions. Beyond modeling these states, we introduce a strategy for propagating physical dynamics across future frames. By grounding absolute camera properties in the real world, Puffin-World enables physically consistent and visually stable world generation. We further couple appearance and geometry within a single generative process, jointly synthesizing each future view and reconstructing its underlying geometry. This unified paradigm enables interleaved closed-loop applications requiring synergy across multiple tasks, including mimic and self-calibrated world exploration. To scale Puffin-World to complex scenarios, we construct Puffin-16M, comprising 15 million vision-language-camera triplets and 1 million trajectories featuring various and challenging motions. To foster further research in this area, we released the code, models, and datasets.",
+      "url": "http://arxiv.org/abs/2609.04196v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.04196v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-03T17:59:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "summary_cn": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline mo",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
