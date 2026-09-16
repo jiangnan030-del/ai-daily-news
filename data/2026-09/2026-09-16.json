@@ -1,0 +1,745 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T10:20:37.521839+08:00",
+  "github_trending": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 28800,
+      "forks": 2060,
+      "language": "Go",
+      "stars_today": 2756,
+      "source": "github_trending",
+      "summary_cn": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 82077,
+      "forks": 7151,
+      "language": "Python",
+      "stars_today": 960,
+      "source": "github_trending",
+      "summary_cn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": 106717,
+      "forks": 20394,
+      "language": "Python",
+      "stars_today": 727,
+      "source": "github_trending",
+      "summary_cn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 9004,
+      "forks": 978,
+      "language": "Python",
+      "stars_today": 701,
+      "source": "github_trending",
+      "summary_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 5417,
+      "forks": 701,
+      "language": "Python",
+      "stars_today": 699,
+      "source": "github_trending",
+      "summary_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "stars": 47670,
+      "forks": 5318,
+      "language": "Python",
+      "stars_today": 660,
+      "source": "github_trending",
+      "summary_cn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 3422,
+      "forks": 225,
+      "language": "Rust",
+      "stars_today": 531,
+      "source": "github_trending",
+      "summary_cn": "Turn your coding agents into research agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "stars": 105768,
+      "forks": 13293,
+      "language": "TypeScript",
+      "stars_today": 458,
+      "source": "github_trending",
+      "summary_cn": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 94844,
+      "forks": 10064,
+      "language": "JavaScript",
+      "stars_today": 307,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 59336,
+      "forks": 7465,
+      "language": "Python",
+      "stars_today": 273,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "stars": 42988,
+      "forks": 14720,
+      "language": "Python",
+      "stars_today": 258,
+      "source": "github_trending",
+      "summary_cn": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "stars": 43872,
+      "forks": 9027,
+      "language": "TypeScript",
+      "stars_today": 254,
+      "source": "github_trending",
+      "summary_cn": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "stars": 2869,
+      "forks": 685,
+      "language": "TypeScript",
+      "stars_today": 193,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "stars": 1214,
+      "forks": 199,
+      "language": "Python",
+      "stars_today": 129,
+      "source": "github_trending",
+      "summary_cn": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "stars": 4657,
+      "forks": 281,
+      "language": "Rust",
+      "stars_today": 91,
+      "source": "github_trending",
+      "summary_cn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "url": "https://www.effort.news/irregular",
+      "score": 473,
+      "comments": 167,
+      "author": "yusufozkan",
+      "time": "2026-09-14T21:15:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49704132",
+      "source": "hacker_news",
+      "title_cn": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 317,
+      "comments": 194,
+      "author": "leumon",
+      "time": "2026-09-15T17:38:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49715947",
+      "source": "hacker_news",
+      "title_cn": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "url": "https://withcapsule.app/",
+      "score": 287,
+      "comments": 119,
+      "author": "bashtian",
+      "time": "2026-09-15T13:31:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49712278",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "score": 220,
+      "comments": 134,
+      "author": "throwworhtthrow",
+      "time": "2026-09-15T00:40:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49706223",
+      "source": "hacker_news",
+      "title_cn": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "score": 214,
+      "comments": 149,
+      "author": "pavel_lishin",
+      "time": "2026-09-15T16:38:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49715113",
+      "source": "hacker_news",
+      "title_cn": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 159,
+      "comments": 151,
+      "author": "theanonymousone",
+      "time": "2026-09-14T19:56:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49703003",
+      "source": "hacker_news",
+      "title_cn": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 149,
+      "comments": 29,
+      "author": "nathannaveen",
+      "time": "2026-09-14T14:29:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49697477",
+      "source": "hacker_news",
+      "title_cn": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "score": 133,
+      "comments": 91,
+      "author": "Betelbuddy",
+      "time": "2026-09-14T16:32:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49699648",
+      "source": "hacker_news",
+      "title_cn": "Why don't machine learning research agents overfit?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Hugging Face is billing OpenAI $100M for hacking it",
+      "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
+      "score": 132,
+      "comments": 44,
+      "author": "cwwc",
+      "time": "2026-09-15T17:56:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49716241",
+      "source": "hacker_news",
+      "title_cn": "Hugging Face is billing OpenAI $100M for hacking it",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "How much of F-Droid is LLM generated?",
+      "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+      "score": 125,
+      "comments": 167,
+      "author": "_ZeD_",
+      "time": "2026-09-15T09:47:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49710015",
+      "source": "hacker_news",
+      "title_cn": "How much of F-Droid is LLM generated?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "score": 123,
+      "comments": 97,
+      "author": "myth_drannon",
+      "time": "2026-09-15T12:01:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49711240",
+      "source": "hacker_news",
+      "title_cn": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Inference Hardware Revolution of 2026",
+      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
+      "score": 112,
+      "comments": 12,
+      "author": "vinhnx",
+      "time": "2026-09-15T14:24:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49713024",
+      "source": "hacker_news",
+      "title_cn": "The Inference Hardware Revolution of 2026",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 94,
+      "comments": 78,
+      "author": "eustoria",
+      "time": "2026-09-15T15:26:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49713999",
+      "source": "hacker_news",
+      "title_cn": "Cartesian – AI 3D Modeling for Design",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "score": 89,
+      "comments": 31,
+      "author": "toebee",
+      "time": "2026-09-14T16:07:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49699267",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "score": 84,
+      "comments": 74,
+      "author": "jbkcc",
+      "time": "2026-09-15T13:41:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49712416",
+      "source": "hacker_news",
+      "title_cn": "AI is breaking our proxies for expertise",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "authors": [
+        "Shuhan Xue",
+        "Jianyuan Zhong",
+        "Ziyuan Nan",
+        "Wenbin Li",
+        "Zhaochen Yu"
+      ],
+      "abstract": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carrying out scientific tasks while transforming their requests, feedback, and execution evidence into tasks and evaluation rubrics for continual learning. At its core is recursive-in-recursive self-improvement, a paradigm that couples harness evolution with model reinforcement learning: the inner recursion improves the harness with the model fixed, while the outer recursion trains the model under the improved harness. Harness evolution shapes training experience, and model learning creates new opportunities for harness adaptation. We present case studies of researcher interaction, harness refinement, and model learning, with the benchmark cases spanning four scientific task families. By releasing ScienceBuddy as a research product, we make this paradigm available to the scientific community and take a step toward discovery intelligence: scientific AI that advances through sustained collaboration with researchers and evolves alongside the research it supports. Website: http://science-buddy.io",
+      "url": "http://arxiv.org/abs/2609.17523v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17523v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-09-15T17:55:28+00:00",
+      "source": "arxiv",
+      "title_cn": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "summary_cn": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "authors": [
+        "Amir Taubenfeld",
+        "Zorik Gekhman",
+        "Avigail Grinstein-Dabush",
+        "Itay Laish",
+        "Ariel Goldstein"
+      ],
+      "abstract": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situations from subjective user narratives, and (ii) social properties, such as others' intentions, typically lack verifiable ground truth. To address these challenges, we introduce Fuse, a multi-agent simulation framework for studying user-mediated social reasoning. In Fuse, a target agent with a hidden motive interacts with other agents including one representing the user, who then consults the evaluated assistant to infer the target's motive, providing verifiable ground truth by construction. Simulation faithfulness is validated through a human study with 24k annotations. We apply Fuse to 12 LLMs and demonstrate its analytical utility by systematically isolating key factors, showing that (i) user mediation compounds the inherent difficulty of social reasoning; (ii) LLMs exhibit systematic sensitivity to biased user framing; (iii) models can require more details than humans need to reach a correct prediction; and (iv) longer conversations do not always improve performance despite providing opportunities for clarifying questions. We open-source Fuse and a dataset with 21k examples.",
+      "url": "http://arxiv.org/abs/2609.17496v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17496v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-09-15T17:37:29+00:00",
+      "source": "arxiv",
+      "title_cn": "Verifiable Social Reasoning for LLM Assistants",
+      "summary_cn": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "authors": [
+        "Xingxuan Zhang",
+        "Gang Ren",
+        "Hao Yuan",
+        "Hao Zou",
+        "Hongze Tan"
+      ],
+      "abstract": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMNs) paradigm and is pretrained with Context-Conditional Masked Modeling (CCMM). CMNs shifts the organizing principle of in-context learning from target-centric prediction to mechanism-oriented joint modeling. Rather than centering the network on the $p(y \\mid x, D_{\\mathrm{context}})$ objective of conventional tabular PFNs, it is designed around learning $p(x, y \\mid D_{\\mathrm{context}})$, a context-dependent representation of the joint structure underlying data generation. Pretraining uses synthetic datasets generated by structural causal models (SCMs) spanning diverse graph structures, functional mechanisms, and observation processes. Evaluations on TabArena, TALENT, and BCCO show that LimiX-2 outperforms current dataset-specific models and tabular foundation models. Beyond predictive performance, the CMN paradigm also promotes causal awareness in LimiX-2: its feature attention encodes direct causal relationships, enabling accurate causal skeleton recovery.",
+      "url": "http://arxiv.org/abs/2609.17488v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17488v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-15T17:30:02+00:00",
+      "source": "arxiv",
+      "title_cn": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "summary_cn": "We introduce LimiX-2, a new model in the LimiX family, developed through model and data scaling guided by our previously established scaling laws. LimiX-2 adopts the Contextual Mechanism Networks (CMN",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "authors": [
+        "Yuhua Chen"
+      ],
+      "abstract": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVExec for compressed KV execution, PhaseSwap for component residency, and StateTrans for state-preserving serving transitions. These mechanisms fuse reconstruction and coordinate just-in-time materialization and release, independently of model-weight quantization. In full-execution capacity tests on a 24 GiB M4 Pro MacBook running Qwen3.8-27B MXFP4, three independent runs complete 196,608 input and 16,384 output tokens, increasing completed single-request context from the mlx-vlm baseline's 30,720 positions to 212,992 (6.93x); a separate two-request run retains 229,376 positions in aggregate. In separate performance tests, a 32K-input, 64-output probe reaches 19.11 tokens/s, and a repeated 32K+6K workload has a median peak process footprint of 16,374 MiB. The integrated runtime answers 29 of 30 AIME 2026 problems correctly, showing how compact state and lifetime-aware execution expand local serving capacity while supporting extended generated reasoning.",
+      "url": "http://arxiv.org/abs/2609.17475v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17475v1",
+      "categories": [
+        "cs.AI",
+        "cs.PF"
+      ],
+      "published": "2026-09-15T17:15:48+00:00",
+      "source": "arxiv",
+      "title_cn": "JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management",
+      "summary_cn": "Capable open-weight models make local coding and reasoning attractive, but their context and execution state strain laptop memory. We present JustFit, an MLX-based inference runtime that combines KVEx",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "authors": [
+        "Ali Şenol"
+      ],
+      "abstract": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an explicit assessment of the information required to answer a question. We evaluate three CoSQ variants under seventeen conditions on the 817-item TruthfulQA multiple-choice validation set using eleven open-weight and hosted model families. In the final balanced-option protocol, Grounded-CoSQ at τ=0.90 reduces the mean unconditional wrong-commitment rate from 13.1% under chain-of-thought prompting to 8.9%, a 32.1% relative reduction, while increasing answered accuracy from 86.9% to 89.7% and answering 87.6% of questions. Both improvements hold for all eleven models and at every evaluated threshold. Critical-CoSQ and Adaptive-CoSQ provide neighboring operating points with 88.6% and 86.5% coverage, respectively, while remaining more reliable than the baseline. A secondary Natural Questions Short-Answer evaluation provides convergent open-form evidence. These findings show that self-assessment can support explicit, tunable answer-or-abstain decisions when an unsupported commitment is more costly than referral or review.",
+      "url": "http://arxiv.org/abs/2609.17516v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17516v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-15T17:52:24+00:00",
+      "source": "arxiv",
+      "title_cn": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "summary_cn": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "authors": [
+        "Congjing Zhang",
+        "Vashishtha Patil",
+        "Henning Lange",
+        "Usman Aleem"
+      ],
+      "abstract": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution.",
+      "url": "http://arxiv.org/abs/2609.17515v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17515v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-15T17:51:48+00:00",
+      "source": "arxiv",
+      "title_cn": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+      "summary_cn": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "authors": [
+        "Vicky Feliren",
+        "A. Taufiq Asyhari",
+        "Muhamad Risqi U. Saputra"
+      ],
+      "abstract": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the most advanced uncertainty estimation frameworks, conformal prediction (CP) offers a promising approach for uncertainty estimation in VLN. However, given that VLN agent requires a sequence of steps, standard calibration in conformal prediction fails to provide coverage guarantee it promises over a dependent, variable-length VLN episode. To this end, we propose Episode-Normalized Conformal Prediction (ENCP), which rescales a nonconformity score by the policy's residual confidence and calibrates one maximum score per episode. Under exchangeable calibration and test episodes, this construction covers the ground truth at every step with probability at least $1 - α$, while allowing dependence among steps within an episode. Across four VLN policies and three nonconformity scores on R2R and REVERIE dataset, ENCP meets all reported empirical step-coverage targets on the seen-to-unseen evaluation. These results demonstrate that ENCP can provide model-agnostic uncertainty estimates, which might be useful for determining when a VLN agent should defer to a more capable predictor, including human assistance.",
+      "url": "http://arxiv.org/abs/2609.17499v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17499v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.RO"
+      ],
+      "published": "2026-09-15T17:42:15+00:00",
+      "source": "arxiv",
+      "title_cn": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "summary_cn": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decision",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
+      "authors": [
+        "Xiaoxuan Huang",
+        "Jinlong Xu",
+        "YiZhe Wang",
+        "Meng Zhang",
+        "Xian Li"
+      ],
+      "abstract": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization fingerprints (SFPFs) capture device-dependent responses across multiple frequencies and directions, but their frequency and spatial dimensions exhibit different structural dependencies. We propose FreqSpaNet, an SFPF representation learning network for open set hardware anomaly detection. A frequency branch captures local variations among neighboring frequencies, while a geometry-aware spatial branch models directional relationships using angular information. The two representations are combined through adaptive fusion, and complementary pretraining further captures shared information while preserving the distinct characteristics of the frequency and spatial representations. Experiments show that FreqSpaNet achieves a mean AUROC of 96.31\\%, 9.05 points above the baseline. Results under seven hardware replacement scenarios further verify the effectiveness of FreqSpaNet.",
+      "url": "http://arxiv.org/abs/2609.17491v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17491v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-15T17:32:12+00:00",
+      "source": "arxiv",
+      "title_cn": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
+      "summary_cn": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "authors": [
+        "Haichen Hu",
+        "Yuheng Zhang",
+        "David Simchi-Levi"
+      ],
+      "abstract": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and errors. This challenge is particularly pronounced under covariate shift, when the teacher's reliability on target questions is uncertain and target-domain reward feedback is unavailable. We propose Coupled Calibration and Learning (CCL), an LLM distillation algorithm that couples teacher calibration with student updates through token-level branching, using reward feedback only on source questions. Each iteration calibrates the teacher using source feedback and then uses the calibrated teacher to train the student on target questions. The updated student, in turn, informs subsequent calibration. In an autoregressive policy framework, we prove that the output student's expected average Kullback-Leibler divergence to the oracle student converges to zero at a polynomial rate in the number of iterations. The oracle maximizes the true reference-regularized target reward within the student class, which need not represent the unrestricted optimal policy. Our analysis quantifies the progress of projected student gradient updates while controlling the error in teacher calibration. We further establish a separation from regularized direct matching: its error relative to the oracle student can remain bounded away from zero even when the teacher achieves higher regularized target reward than every student policy. These results demonstrate that LLM distillation can overcome persistent teacher bias and recover the optimal student through coupled calibration and learning, without target-domain reward feedback.",
+      "url": "http://arxiv.org/abs/2609.17474v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17474v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.ST",
+        "stat.ML"
+      ],
+      "published": "2026-09-15T17:15:40+00:00",
+      "source": "arxiv",
+      "title_cn": "Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback",
+      "summary_cn": "Large language model (LLM) distillation aims to transfer the capabilities of a powerful teacher to a smaller student. Direct imitation, however, can also transfer the teacher's systematic bias and err",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "authors": [
+        "Chuhao Chen",
+        "Peter Wonka",
+        "Chaoyang Wang",
+        "Chen Wang",
+        "Qiao Feng"
+      ],
+      "abstract": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control schedule before generation starts, or use pixel-space signals that dictate object positions rather than physical dynamics. To address these limitations, we propose PhysStream, an autoregressive model for physics-grounded image-to-video synthesis that incorporates structured scene memory---positional maps and object tracking maps derived online from previously generated frames---and supports fine-grained motion control via sparse velocity-increment signals that encode physical quantities, letting the model learn the underlying dynamics. We train our model in two stages: a bidirectional model is first finetuned with motion-control conditioning, then a causal autoregressive model is trained with additional structured scene memory, further improving physical consistency. PhysStream enables interactive, mid-generation control over multi-object tabletop rigid-body scenes---a capability not supported by prior methods---reducing motion distribution distance (FVMD) by 33% and trajectory error by 12% over the strongest baselines on synthetic benchmarks, and is preferred by human evaluators in over 85% of in-the-wild comparisons. Please check our website for more details: https://czzzzh.github.io/PhysStream",
+      "url": "http://arxiv.org/abs/2609.17521v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17521v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR"
+      ],
+      "published": "2026-09-15T17:55:13+00:00",
+      "source": "arxiv",
+      "title_cn": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "summary_cn": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "authors": [
+        "Jiayi Zhou",
+        "David W. Johnston",
+        "Brinnae Bent"
+      ],
+      "abstract": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classification-oriented explainability tools are ill-suited to detection tasks involving imagery of social organisms or those with colonial life histories, as they ignore multiple detections within a scene and produce single-instance outputs that blur evidence across individuals. These methods also generate low-resolution, often biologically irrelevant visuals, limiting their utility for debugging, targeted data augmentation, and refined data collection. We proposed Det-LIME, a detector-aware, multi-instance adaptation of Local Interpretable Model-Agnostic Explanations (LIME) that produced instance-specific, box-aligned explanations by combining per-detection weighting, a proximity kernel that emphasizes regions near each box, and Intersection-over-Union-based matching to track the same instance across perturbations. We evaluated Det-LIME on aerial drone imagery for harbor seal detection, with an additional seabird case study to assess generality, and compared it with vanilla LIME, Stabilized LIME, Deterministic LIME, and gradient-based attribution methods. Using the Attribution Ratio and Max Saliency Hit Rate metrics, we showed that Det-LIME consistently improved multi-instance attribution. In practice, these higher-resolution, instance-aware explanations provide insight into model outputs and support post-processing, debugging, and actionable improvements in modeling and data collection or augmentation.",
+      "url": "http://arxiv.org/abs/2609.17479v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17479v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-09-15T17:20:16+00:00",
+      "source": "arxiv",
+      "title_cn": "Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection",
+      "summary_cn": "Despite the rapid uptake of black-box object detectors in marine mammal research and monitoring, explainability techniques are rarely integrated into conservation workflows. Furthermore, most classifi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Tables Decoded: DELTA for Structure, TARQA for Understanding",
+      "authors": [
+        "Jahanvi Rajput",
+        "Dhruv Kudale",
+        "Saikiran Kasturi",
+        "Utkarsh Verma",
+        "Ganesh Ramakrishnan"
+      ],
+      "abstract": "Table understanding is a core task in document intelligence, encompassing two key subtasks: table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly rely on vision- language models (VLMs) operating on table images, we propose a more scalable and effective alternative based on structured textual representations. These representations are easier to process, align more naturally with LLMs, and eliminate the need for language-specific visual encoders, making them particularly suitable for multilingual documents. We present DELTA, which separates physical structure recognition, logical structure recognition, and OCR to extract both layout and content accurately. DELTA outputs tables in Optimised Table Structure Language (OTSL), a compact and unified format that encodes cell arrangements and textual content. On table structure recognition (TSR), DELTA achieves TEDS- Structure scores comparable with state-of-the-art methods across FinTabNet, PubTabNet, and PubTables-1M. We further establish its robustness on non-English tables through our curated Hindi benchmark, TORQUE. Building on this, we introduce TARQA, an LLM fine-tuned on OTSL sequences. Our approach yields gains of 9.3 p.p. on WTQ (TabQA) and 9.2 p.p. on FinTabNetQA (TabVQA), respectively. On TORQUE, our method ranks second among all VLMs and DELTA + LLM variants. We release our code, models, and benchmark at: https://github.com/Tihiitborg/Tables-Decoded",
+      "url": "http://arxiv.org/abs/2609.17458v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17458v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-09-15T16:59:42+00:00",
+      "source": "arxiv",
+      "title_cn": "Tables Decoded: DELTA for Structure, TARQA for Understanding",
+      "summary_cn": "Table understanding is a core task in document intelligence, encompassing two key subtasks: table reconstruction and table visual question answering (TabVQA). While recent approaches predominantly rel",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agentic Societies Need a Social Harness",
+      "authors": [
+        "Tapan Chugh",
+        "Vidushi Singh",
+        "Krish Jain",
+        "Arvind Krishnamurthy",
+        "Ratul Mahajan"
+      ],
+      "abstract": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic societies even honest, competent agents often fail to reach satisfactory outcomes with existing harnesses and messaging primitives, and that faulty or malicious agents can stall collaboration, influence outcomes, and pursue other harmful goals by exploiting vulnerabilities in communication (``speech''). We argue that agentic societies need a \\emph{social harness} for inter-agent interactions, in addition to each agent's \\emph{personal harness}, which manages its private context and communication with its principal. We propose a layered architecture for social harnesses which (i) prevents classes of failures outright, (ii) enables agents to detect invalid messages at runtime, and (iii) supports post-facto investigation and consequences, and highlight directions for future research to realize these capabilities.",
+      "url": "http://arxiv.org/abs/2609.17527v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17527v1",
+      "categories": [
+        "cs.MA",
+        "cs.AI",
+        "cs.NI"
+      ],
+      "published": "2026-09-15T17:57:27+00:00",
+      "source": "arxiv",
+      "title_cn": "Agentic Societies Need a Social Harness",
+      "summary_cn": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Modality-Autoregressive World-Action Models",
+      "authors": [
+        "Adam Hung",
+        "Bardienus P. Duisterhof",
+        "Deva Ramanan",
+        "Jeffrey Ichnowski"
+      ],
+      "abstract": "World-action models (WAMs) jointly model future observations and actions, typically predicting the future as RGB images. Other visual modalities such as depth, pretrained visual features, and point tracks can more efficiently capture geometric, semantic, and motion features. However, how best to combine these modalities within WAMs remains an open question. We introduce ModAR, the first WAM to autoregressively denoise multiple future modalities before predicting actions. This allows each prediction to condition on previously generated modalities. We train from scratch to systematically study how training-data mixtures, predicted modalities, and WAM formulations affect performance. In our evaluations, WAMs benefit from predicting point tracks, DINO features, and depth maps, while additionally predicting future RGB does not provide a consistent benefit. We also find that ModAR's sequential generation outperforms existing WAM formulations, with the highest average success rate at all evaluated data scales. We also fine-tune the video-model-initialized WAM Flex-$π$ on the same data; ModAR achieves a slightly higher observed average success rate (75% vs. 72%) while using approximately $20\\times$ fewer training FLOPs and no pretraining. On three real-world bimanual tasks, ModAR outperforms baselines and improves with human videos.",
+      "url": "http://arxiv.org/abs/2609.17524v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17524v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-09-15T17:56:24+00:00",
+      "source": "arxiv",
+      "title_cn": "Modality-Autoregressive World-Action Models",
+      "summary_cn": "World-action models (WAMs) jointly model future observations and actions, typically predicting the future as RGB images. Other visual modalities such as depth, pretrained visual features, and point tr",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "authors": [
+        "Thanapat Trachu",
+        "Samuele Cornell",
+        "William Chen",
+        "Shinji Watanabe"
+      ],
+      "abstract": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing the effective frame rate using a compression step to merge multiple frames together. However, most prior methods either operate on single-codebook codecs or apply a single compression step before multi-layer quantization. This forces all quantization layers to share the same segmentation boundaries, despite the residual embeddings at different quantization layers exhibiting different rates of change over time. We propose LACE (Layer-Adaptive Codec Encoding), a dynamic frame rate codec that applies an independent compression step at each quantization layer, enabling layer-specific segmentation boundaries. To use LACE tokens in downstream text-to-speech (TTS), we further introduce union alignment and boundary anchor mechanisms to make durations consistent across layers while preserving compression benefits. Experiments on LibriTTS show that LACE offers a better rate-quality tradeoff than prior dynamic frame rate methods on the reconstruction task and improves TTS inference efficiency while maintaining competitive synthesis quality. Our code is released as part of the ESPnet3 codec recipe.",
+      "url": "http://arxiv.org/abs/2609.17509v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.17509v1",
+      "categories": [
+        "cs.SD",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-09-15T17:46:51+00:00",
+      "source": "arxiv",
+      "title_cn": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "summary_cn": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate t",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
