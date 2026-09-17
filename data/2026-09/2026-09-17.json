@@ -1,0 +1,741 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T10:24:44.207094+08:00",
+  "github_trending": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 32132,
+      "forks": 2271,
+      "language": "Go",
+      "stars_today": 3231,
+      "source": "github_trending",
+      "summary_cn": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 25415,
+      "forks": 3487,
+      "language": "Go",
+      "stars_today": 1197,
+      "source": "github_trending",
+      "summary_cn": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 260342,
+      "forks": 38967,
+      "language": "JavaScript",
+      "stars_today": 1057,
+      "source": "github_trending",
+      "summary_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 4461,
+      "forks": 275,
+      "language": "Rust",
+      "stars_today": 1017,
+      "source": "github_trending",
+      "summary_cn": "Turn your coding agents into research agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 7430,
+      "forks": 429,
+      "language": "JavaScript",
+      "stars_today": 927,
+      "source": "github_trending",
+      "summary_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95492,
+      "forks": 10113,
+      "language": "JavaScript",
+      "stars_today": 658,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 82547,
+      "forks": 7217,
+      "language": "Python",
+      "stars_today": 476,
+      "source": "github_trending",
+      "summary_cn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 54427,
+      "forks": 6792,
+      "language": "TypeScript",
+      "stars_today": 417,
+      "source": "github_trending",
+      "summary_cn": "The open-source AI voice studio. Clone, dictate, create.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 3011,
+      "forks": 314,
+      "language": "Python",
+      "stars_today": 396,
+      "source": "github_trending",
+      "summary_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 5797,
+      "forks": 743,
+      "language": "Python",
+      "stars_today": 367,
+      "source": "github_trending",
+      "summary_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "stars": 9392,
+      "forks": 1012,
+      "language": "Python",
+      "stars_today": 332,
+      "source": "github_trending",
+      "summary_cn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "stars": 37788,
+      "forks": 2920,
+      "language": "Python",
+      "stars_today": 276,
+      "source": "github_trending",
+      "summary_cn": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145549,
+      "forks": 23492,
+      "language": "TypeScript",
+      "stars_today": 165,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 109766,
+      "forks": 14047,
+      "language": "TypeScript",
+      "stars_today": 120,
+      "source": "github_trending",
+      "summary_cn": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": 68395,
+      "forks": 7388,
+      "language": "TypeScript",
+      "stars_today": 112,
+      "source": "github_trending",
+      "summary_cn": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "score": 540,
+      "comments": 187,
+      "author": "vertigoruntime",
+      "time": "2026-09-16T08:08:57+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49723408",
+      "source": "hacker_news",
+      "title_cn": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 481,
+      "comments": 322,
+      "author": "leumon",
+      "time": "2026-09-15T17:38:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49715947",
+      "source": "hacker_news",
+      "title_cn": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 203,
+      "comments": 208,
+      "author": "vertigoruntime",
+      "time": "2026-09-16T16:26:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49729412",
+      "source": "hacker_news",
+      "title_cn": "Claude Cowork and chat are now one Claude",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
+      "score": 159,
+      "comments": 66,
+      "author": "talhof8",
+      "time": "2026-09-16T12:19:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49725800",
+      "source": "hacker_news",
+      "title_cn": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai/",
+      "score": 151,
+      "comments": 171,
+      "author": "vertigoruntime",
+      "time": "2026-09-16T13:51:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49727041",
+      "source": "hacker_news",
+      "title_cn": "OpenAI expands ChatGPT ads with Sponsored Agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Cartesian – AI 3D Modeling for Design",
+      "url": "https://www.formas.ai/cartesian",
+      "score": 113,
+      "comments": 79,
+      "author": "eustoria",
+      "time": "2026-09-15T15:26:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49713999",
+      "source": "hacker_news",
+      "title_cn": "Cartesian – AI 3D Modeling for Design",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "score": 84,
+      "comments": 51,
+      "author": "djfergus",
+      "time": "2026-09-16T02:25:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49721435",
+      "source": "hacker_news",
+      "title_cn": "Stay discoverable in search while disallowing AI training",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 75,
+      "comments": 27,
+      "author": "etoxin",
+      "time": "2026-09-16T23:06:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49734264",
+      "source": "hacker_news",
+      "title_cn": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "url": "https://stale.jock.pl/",
+      "score": 70,
+      "comments": 44,
+      "author": "joozio",
+      "time": "2026-09-16T13:01:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49726343",
+      "source": "hacker_news",
+      "title_cn": "Show HN: How Stale Is Your AI? Release age and training cutoff for 20 models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "score": 68,
+      "comments": 248,
+      "author": "TMWNN",
+      "time": "2026-09-16T18:59:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49731395",
+      "source": "hacker_news",
+      "title_cn": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "url": "https://github.com/pizza-bot-app/pizza-bot",
+      "score": 56,
+      "comments": 33,
+      "author": "jd_",
+      "time": "2026-09-15T15:20:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49713894",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "score": 42,
+      "comments": 34,
+      "author": "jbegley",
+      "time": "2026-09-17T01:02:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49735180",
+      "source": "hacker_news",
+      "title_cn": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Backflip: Apple now wants to train AI models with user data after all",
+      "url": "https://www.heise.de/en/news/Backflip-Apple-now-wants-to-train-AI-models-with-user-data-after-all-11451252.html",
+      "score": 31,
+      "comments": 5,
+      "author": "Topfi",
+      "time": "2026-09-16T16:18:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49729307",
+      "source": "hacker_news",
+      "title_cn": "Backflip: Apple now wants to train AI models with user data after all",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+      "url": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
+      "score": 26,
+      "comments": 11,
+      "author": "kisjovan",
+      "time": "2026-09-16T14:24:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49727511",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Swift-Qwen3.8-27B, -58.3% thinking, x1.95 speed, accuracy of xhigh",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+      "url": "https://nypost.com/2026/09/14/business/big-short-trader-michael-burry-slams-openai-anthropic-for-self-serving-calls-to-slow-ai/",
+      "score": 14,
+      "comments": 0,
+      "author": "nsagent",
+      "time": "2026-09-17T01:30:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49735351",
+      "source": "hacker_news",
+      "title_cn": "Michael Burry slams OpenAI, Anthropic for 'self-serving' calls to slow AI",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "authors": [
+        "João Meneses dos Santos",
+        "Arlindo L. Oliveira"
+      ],
+      "abstract": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that combines a fast action proposer with a slower planner, using two modular cognitive extensions: an Adaptive Memory Module (AMM) for salience-gated episodic storage and trigger-driven retrieval, and a Self-Reflection Module (SRM) for bounded execution-time validation and corrective intervention. Both modules are implemented as feature-flagged extensions over the same execution substrate, enabling controlled ablations on ScienceWorld. Across four configurations---baseline, baseline+AMM, baseline+SRM, and the full system---the full system achieves the best mean final score (64.62), success rate (43.17%), and successful-step efficiency (19.33 steps), while SRM is the strongest standalone contributor. The results suggest that execution-time control is the dominant bottleneck in this setting, while episodic memory becomes most useful once the runtime loop is stabilized.",
+      "url": "http://arxiv.org/abs/2609.19128v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19128v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-09-16T17:50:42+00:00",
+      "source": "arxiv",
+      "title_cn": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+      "summary_cn": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-proc",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+      "authors": [
+        "Elizabeth Pavlova",
+        "Hidenori Tanaka"
+      ],
+      "abstract": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic understanding is crucial for collective alignment. To this end, we introduce the Flag Game, a toy model for studying the mechanisms of collective belief formation. Concretely, a hidden country flag defines the ground truth, and each bounded agent directly observes only a private crop but can exchange beliefs and weigh social evidence from peers. Despite its simplicity, the Flag Game reproduces rich collective phenomenology: non-monotonic scaling of performance with population size, accuracy gains from social-awareness prompting and team diversity, and strong effects of organizational structure. In particular, we identify that collective belief collapse at small population sizes turns into collective belief polarization as the population grows. This polarization causes the performance decline at large population sizes, but creates diversity in collective beliefs. Finally, we dissect the mechanisms underlying collective belief collapse and polarization with two complementary approaches. We first introduce social circuit attribution, a technique to predict which agent, and what view, matters most to collective dynamics, and verify its predictions by causal interventions on agents, tracing how agent patching changes collective outcomes. However, the efficacy of causal interventions on agents decreases as the population grows. We therefore develop a statistical mechanical theory for larger populations and verify that it matches the empirical phase diagram. Together, these results take a first step toward mechanistic swarm interpretability, a science of how the properties of individual agents and their communication give rise to emergent collective behavior.",
+      "url": "http://arxiv.org/abs/2609.19124v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19124v1",
+      "categories": [
+        "cs.AI",
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "cs.MA",
+        "physics.soc-ph"
+      ],
+      "published": "2026-09-16T17:46:06+00:00",
+      "source": "arxiv",
+      "title_cn": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+      "summary_cn": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and me",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+      "authors": [
+        "Ahmetcan Yavuz",
+        "Clara Meister",
+        "Tiago Pimentel"
+      ],
+      "abstract": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) and their search procedure (bottom-up merging vs. top-down pruning). Existing comparisons confound these axes, making it unclear whether their observed differences stem from what is being optimised vs. how it is being optimised. We disentangle the two by introducing two new tokenisation algorithms that complete this 2x2 design space: BottomUpLL, a bottom-up likelihood-based tokeniser, and TopDownComp, a top-down compression-based tokeniser. We train language models with tokenisers produced by each algorithm, varying: model size, vocabulary sizes, and domain (English-only vs. multilingual). Evaluating models on bits-per-byte, we find that the search procedure -- not the objective -- is the dominant factor: bottom-up tokenisers consistently achieve lower bits-per-byte in most settings. Evaluating models on the BLiMP task, however, shows no consistent relationship between design choice and performance. Overall, our results disentangle the effect of tokeniser design choices on language modelling performance, offering concrete guidance for their more principled construction.",
+      "url": "http://arxiv.org/abs/2609.19145v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19145v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-16T17:59:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+      "summary_cn": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "authors": [
+        "Peter Chen",
+        "Xi Chen",
+        "Wotao Yin",
+        "Tianyi Lin"
+      ],
+      "abstract": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alternative ways to extract information from preference pairs with small likelihood margins. In this paper, we propose and analyze Comparison-based Preference Optimization (ComPO), a zeroth-order alignment method based on comparison oracles. ComPO extracts directional information from these pairs without directly optimizing a differentiable preference loss on them. We establish a convergence guarantee for its basic offline scheme under smoothness, gradient sparsity, and compatibility between the oracle and a latent objective. We further introduce online ComPO, which retains the offline comparison mechanism and uses unlabeled policy generations for reverse-KL control relative to a reference policy. Following the coverage perspective of preference fine-tuning, we establish a performance guarantee for a basic constrained scheme under local coverage and in-distribution pairwise reward accuracy. Experiments on Mistral, Llama, Gemma-2, Qwen3, and Gemma-3 models demonstrate improvements over existing direct alignment methods, including length-controlled win rates, with pair-level diagnostics providing evidence consistent with mitigating likelihood displacement.",
+      "url": "http://arxiv.org/abs/2609.19144v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19144v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-09-16T17:59:35+00:00",
+      "source": "arxiv",
+      "title_cn": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+      "summary_cn": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "authors": [
+        "Hejia Geng",
+        "Zesen Huang",
+        "Haoyang Li",
+        "Wenbin Li",
+        "Koutian Wu"
+      ],
+      "abstract": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to convert into reliable learning experience-a challenge we call the scientific experience bottleneck. We introduce ScienceIDE, infrastructure for turning the world's scientific code into programmable environments for scientific agents. Guided by expert-defined scientific cases and acceptance criteria, agents transform repositories into executable environments that support task generation, execution, and scientific verification. These environments provide a shared foundation for supervised fine-tuning, reinforcement learning, and evaluation. Using verified interaction trajectories, we train PhAI-IDE-72B, PhAI-IDE-9B, and PhAI-IDE-4B. The model family shows gains in held-out scientific-code repair and across selected general-purpose benchmarks in code, reasoning, and knowledge, providing evidence of positive transfer from scientific experience to broader capabilities. ScienceIDE lays the foundation for an integrated workspace for agent learning and scientific practice, making humanity's scientific software a shared substrate for developing scientific intelligence. Code: https://github.com/aitofound/ScienceIDE",
+      "url": "http://arxiv.org/abs/2609.19134v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19134v1",
+      "categories": [
+        "cs.CL",
+        "cs.CY"
+      ],
+      "published": "2026-09-16T17:55:47+00:00",
+      "source": "arxiv",
+      "title_cn": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "summary_cn": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria ma",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+      "authors": [
+        "Peter Potash"
+      ],
+      "abstract": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ yes/no questions. An answerer sees only the target and the question, and replies with one word. Both roles run on the same provider, so the game measures how well a model communicates with itself across an information asymmetry. We run 408 games over document sets of 4 to 1024 paragraphs at a total API cost of \\$363. One model finishes well behind the others: Claude Opus 5 wins 28 of 68 games, against 45 to 56 for GLM-5.3, GPT-5.6 Sol, Grok 4.6, Gemini 3.8 Flash and Kimi K3. The leading five are only marginally separable. Pooling those five, win rate declines with set size at $r=-0.973$ and is fit by a single per-round reliability parameter. The form is $\\text{win}=p^{\\log_2 N}$ with $p=0.928$. Losses divide into answer errors and discrimination failures in roughly equal measure, and models almost never name a document their own evidence excludes. Every unanimous answer error from the weakest model was inspected: 32 of 34 are ``No'' answers, on properties stated in the document's first sentence, under an instruction that explicitly warns against defaulting to ``No''. Information per question, estimated from answer balance, correlates with win rate at $r=+0.88$. The only two models to extract a full bit per question are the only two that partition on document titles, a strategy absent below $N{=}32$ and used in a quarter of questions above it. Reasoning-token expenditure varies $4.5\\times$ across models with little relation to success, and the trace grows as the candidate set shrinks without a matching gain in reliability.",
+      "url": "http://arxiv.org/abs/2609.19113v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19113v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-16T17:41:12+00:00",
+      "source": "arxiv",
+      "title_cn": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+      "summary_cn": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+      "authors": [
+        "Leon Bergen",
+        "Usha Bhalla",
+        "Andrew Lee",
+        "Barak Widawsky",
+        "Linas Nasvytis"
+      ],
+      "abstract": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is represented internally in frontier open source LLMs, and how those representations can be used to understand and discover the range of hacking behaviors a model displays. In particular, we find that simple difference of means vectors coherently represent reward hacking in Kimi K3, GLM 5.2, and Qwen 3.8 Max across a variety of behaviors in common evaluations. Despite their simplicity, these vectors are both generalizable and interpretable, and we can use them to reliably detect reward hacking. We first evaluate reward hacking in commonly reported benchmarks like DeepSWE and SWE-bench, finding that models reward hack excessively in these environments; GLM 5.2 hacks in 57.2% of rollouts on DeepSWE and in 73% of rollouts on SWE-bench. Catching these requires monitors; LLM monitors are effective, but expensive detectors. We show that DoM vectors are similarly effective but virtually free, catching 3.1% more hacks in Kimi K3 and 7.9% fewer hacks in GLM 5.2 on DeepSWE at a monitor matched false positive rate. DoM vectors run on the chain-of-thought also predict reward hacks in the model's subsequent actions, meaning we can run them online and catch potential hacks before they occur. Finally, we analyze probe-hits that LLM monitors do not catch and discover other undesirable behaviors, as well as show transfer to finding hacks in non-SWE evaluations. Together, these results provide evidence that simple, white-box methods can be used to scalably study and monitor reward hacking behaviors in frontier open source models",
+      "url": "http://arxiv.org/abs/2609.19101v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19101v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-09-16T17:31:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+      "summary_cn": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+      "authors": [
+        "Daniel P. Jeong",
+        "Charles Q. Li",
+        "Hossein Hosseiny",
+        "Nitya M. Bhalla",
+        "Fatma Uyar Morency"
+      ],
+      "abstract": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports, varying in terminology, shorthand, formatting, and level of detail. These variations in reporting norms represent an under-appreciated obstacle in efforts to evaluate AI-based radiology report generation (RRG) models, where machine-generated reports are typically assessed based on their concordance with human-generated references. In this paper, we quantify the sensitivity of established evaluation metrics to variations in reporting practices, revealing impacts large enough to alter the rankings of models. We introduce a radiologist-informed taxonomy of variations in radiology reporting practice and a method (ReRef) that rewrites reference reports along the axes of our taxonomy while preserving clinical interpretation. For instance, when comparing the performance of nine RRG models on MIMIC-CXR using RadCliQ-v1, condensing the discussion of normal findings in the reference reports causes Libra to drop from first to second place while CheXOne rises from third to first. Our results suggest that many current metrics fail to decouple clinical interpretation from conformity to reporting practices and that choosing the ``right'' references that accurately reflect the desired reporting practices can be important in practice. To support future research, we release MIMIC-CXR-Ext-ReRef, a radiologist-validated dataset of 120 (original, alternative) reference report pairs derived from MIMIC-CXR.",
+      "url": "http://arxiv.org/abs/2609.19093v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19093v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-16T17:28:51+00:00",
+      "source": "arxiv",
+      "title_cn": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+      "summary_cn": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports, v",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "authors": [
+        "Pranaya Jajoo"
+      ],
+      "abstract": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we construct two POMDPs with at most two latent states per stage, three actions, and a common logger with three memory states. Action coverage, belief coverage, and two behavior-marginal outcome-revealing conditions all have constants independent of $H$. Nevertheless, evaluating a known deterministic target policy to accuracy $1/8$ requires $Θ((3/2)^H \\log(1/δ))$ logged episodes at confidence $1-δ$, for $0 < δ\\le 1/4$, even when both candidate models are known. The mechanism is simple: a reset erases the unknown transition that determines the target value. We characterize the resulting statistical experiment exactly and obtain a matching optimal estimator. A directed two-lane gridworld realizes the construction, and trajectory simulations agree with its finite-sample prediction. The result establishes intractability for the history-dependent-logging, model-based case posed by Zhang and Jiang (2025, arXiv:2503.01134), under their behavior-marginal definition of revealing.",
+      "url": "http://arxiv.org/abs/2609.19135v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19135v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-16T17:56:12+00:00",
+      "source": "arxiv",
+      "title_cn": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+      "summary_cn": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horiz",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+      "authors": [
+        "Zixi Chen",
+        "Akshay Vegesna",
+        "Samip Dahal",
+        "Andrew Gordon Wilson"
+      ],
+      "abstract": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential improvements in performance with increases in computation. As an anchoring point, we consider the architectural formulation of looped transformers. Although not typically used in this way, looping, also known as recursive depth, provides a mechanism for model growth, by increasing the number of loops during training. Model growth, with and without shared weights, provides the biggest changes to the scaling exponents. In particular, a 7.4B model growth architecture matches GPT-3 13B on CORE with roughly $20\\times$ less compute, and has compute efficiency gains that increase with scale. Moreover, simply using a boundary operator in a vanilla transformer, which normalizes and injects an earlier block, also provides increasing compute-efficiency gains, although to a lesser extent. In the data-constrained, multi-epoch setting, standard looping has a useful regularizing effect, where we find it is compute-optimal to increase the number of loops with scale. These results can be understood through the lens of computational depth: for a given computational budget, we wish to increase the usable depth of the transformer, which can lead to efficiency gains that increase with scale.",
+      "url": "http://arxiv.org/abs/2609.19107v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19107v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-16T17:36:13+00:00",
+      "source": "arxiv",
+      "title_cn": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+      "summary_cn": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+      "authors": [
+        "Michael M. Craig",
+        "Riley J. Hickman",
+        "Yingshan Ma",
+        "Rémi Piché-Taillefer",
+        "Christine Allen"
+      ],
+      "abstract": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present Andromeda 2, an agentic system that reasons over structured in-house experimental evidence and invokes computational and experimental tools to design and execute successive formulation batches. Using a miniaturized automated laboratory at a matched budget, we benchmark it against Andromeda 1, a probabilistic optimization model deployed across dozens of live development projects, and a wet-lab design-of-experiments (DoE) campaign. For paclitaxel, Andromeda 2 achieved a 50% high-performance hit rate versus 17% for Andromeda 1 and 2% for DoE, and identified 12 formulations meeting all four target product profile (TPP) objectives versus 6 and 0, respectively. Median $AUC_{10-240}$ was 70.1, 12.0, and 3.5 mg$\\cdot$min/mL, while maximum AUC was comparable between Andromeda 2 and Andromeda 1. A selected full-TPP formulation achieved an apparent effective paclitaxel loading of $19 \\pm 5\\%$ w/w at the first FaSSIF measurement, approximately 3.3-fold higher than the 5.7% w/w loading reported for a published paclitaxel S-SEDDS. A controlled ablation showed that access to structured in-house experimental evidence increased mean AUC by 34%.",
+      "url": "http://arxiv.org/abs/2609.19099v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19099v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-16T17:31:27+00:00",
+      "source": "arxiv",
+      "title_cn": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+      "summary_cn": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present A",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "authors": [
+        "Sara Pieri",
+        "Evangelos Kazakos",
+        "Shizhe Chen",
+        "Josef Sivic",
+        "Cordelia Schmid"
+      ],
+      "abstract": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them with image pixels remains challenging. Existing methods that combine dense captioning with pixel-level grounding often produce either incomplete descriptions or inaccurate segmentation masks. We study this problem through panoptic grounded captioning, a task that requires a VLM to describe both foreground objects and background regions while grounding each referring phrase with pixel-level masks. We make three contributions. First, we introduce PanoCaps, a human-annotated benchmark constructed from panoptic segmentation datasets. It provides dense captions with near-complete pixel coverage and image-text alignments at the entity level, supporting both training and evaluation. We further propose a phrase-mask matching protocol and a generalized Panoptic Quality (gPQ) metric that jointly evaluates textual and mask agreement. Second, we formulate phrase grounding as selection from a phrase-conditioned pool of mask proposals and introduce PANORAMA, a VLM that conditions a pretrained segmenter on contextualized phrase representations to obtain candidate masks and learns to select those corresponding to each phrase. Training this interface jointly with caption generation enables PANORAMA to produce high-quality masks while allowing each phrase to refer to a single region or multiple instances. Third, PANORAMA achieves the best overall grounding on PanoCaps and matches or exceeds specialized models across several pixel-level grounding tasks. Experiments show that our method produces precise entity-level segmentations while maintaining detailed, mask-consistent captions. Code, data and models are available at https://www.di.ens.fr/willow/research/panorama/.",
+      "url": "http://arxiv.org/abs/2609.19143v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19143v1",
+      "categories": [
+        "cs.CV",
+        "cs.CL"
+      ],
+      "published": "2026-09-16T17:59:30+00:00",
+      "source": "arxiv",
+      "title_cn": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "summary_cn": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+      "authors": [
+        "Bardienus P. Duisterhof",
+        "Kaifeng Zhang",
+        "Adam Hung",
+        "Bowen Wen",
+        "Stan Birchfield"
+      ],
+      "abstract": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into downstream applications. Existing methods typically require robot action labels to learn action-conditioned 3D dynamics, which excludes web video data from the training pool. We study 3D point track completion as a pre-training objective for learning transferable 3D dynamics without robot data. Given a single RGB-D observation and sparse partial 3D trajectories (tracks), we predict future 3D tracks of all observed points. We show this objective produces a rich 3D dynamics prior, without requiring robot action labels. We contribute a diverse dataset of 2.9 million synthetic frames spanning deformable, articulated, and rigid objects, and use it to train PointZero. We show that a flexible and expressive transformer, PointZero, outperforms prior methods on the same data. We demonstrate the utility of our pre-training objective by post-training PointZero for two downstream applications: (1) action-conditioned 3D dynamics prediction and (2) imitation learning. When fine-tuned to condition on end-effector pose, PointZero outperforms the baselines on the recent PGND 3D dynamics benchmark. When fine-tuned to predict robot actions and 3D tracks, PointZero outperforms or matches the baselines on 6/7 simulated and real-world robot manipulation tasks. We furthermore evaluate training PointZero from scratch to isolate the benefits of our proposed architecture from those of our proposed pre-training objective and dataset. We release the dataset, checkpoints, and full training recipe.",
+      "url": "http://arxiv.org/abs/2609.19142v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19142v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-09-16T17:59:30+00:00",
+      "source": "arxiv",
+      "title_cn": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+      "summary_cn": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into do",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "In-Context Robot Learning with VLM Agents",
+      "authors": [
+        "Dongzhou Cheng",
+        "Taoran Yi",
+        "Ye Fang",
+        "Xingwu Zhang",
+        "Fan Feng"
+      ],
+      "abstract": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will encounter, making the ability to learn from context at deployment essential for generalization. Such in-context learning (ICL), however, remains largely beyond the reach of existing robotic policies. The broad agentic capabilities of commercial vision-language models (VLMs), such as GPT-6 Astra, raise a compelling question: can these models learn from demonstrations, examples, and interaction feedback, then translate that information into executable and verifiable robot behavior from a new initial state without gradient updates or persistent changes to task-specific parameters? We introduce GPT-Policy, a general-agent framework for in-context robot learning. GPT-Policy integrates a context compiler that preserves task-relevant visual transitions, a VLM that proposes robot-tool actions, and a constrained controller that verifies and executes each action and reports its outcome. We evaluate its reliability and limitations through task success and efficiency metrics, matched comparisons across models, and controlled context ablations. In real-robot trials, human video demonstrations improve task completion even without robot action labels, while aligned action references yield further gains on contact-sensitive tasks. These findings position GPT-Policy as a step toward robot adaptation through in-context learning, providing an empirical foundation for translating the general-purpose capabilities of VLMs into physical behavior and clarifying the challenges that must be overcome for reliable deployment.",
+      "url": "http://arxiv.org/abs/2609.19138v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19138v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-09-16T17:58:35+00:00",
+      "source": "arxiv",
+      "title_cn": "In-Context Robot Learning with VLM Agents",
+      "summary_cn": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
+      "authors": [
+        "Meng'en Qin",
+        "Yinchen Liu",
+        "Mingxuan Cui",
+        "Youlu Xing"
+      ],
+      "abstract": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components while preserving signal content, but its sparsity coefficient is typically fixed and manually selected. We propose an adaptive convolutional sparse coding framework for robust visual signal representation. Specifically, we unfold the CSC optimization with the Fast Iterative Shrinkage-Thresholding Algorithm (FISTA) and treat the sparsity coefficient as a differentiable variable jointly learned with the network parameters. From the information bottleneck perspective, this coefficient controls the trade-off between information retention and compression: the sparsity term promotes compact representations, while the reconstruction term together with task loss preserves task-relevant signal content. We further introduce a label-free post-training strategy that adjusts the compression strength for corrupted inputs with the main network parameters fixed. Experiments on CIFAR and ImageNet demonstrate competitive clean-data recognition and greatly improved robustness under different input perturbations.",
+      "url": "http://arxiv.org/abs/2609.19122v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.19122v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-16T17:43:46+00:00",
+      "source": "arxiv",
+      "title_cn": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
+      "summary_cn": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
