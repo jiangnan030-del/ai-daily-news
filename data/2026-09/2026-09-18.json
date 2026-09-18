@@ -1,0 +1,747 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T10:10:17.204745+08:00",
+  "github_trending": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 10773,
+      "forks": 573,
+      "language": "JavaScript",
+      "stars_today": 3607,
+      "source": "github_trending",
+      "summary_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 34925,
+      "forks": 2481,
+      "language": "Go",
+      "stars_today": 3286,
+      "source": "github_trending",
+      "summary_cn": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "stars": 4262,
+      "forks": 300,
+      "language": "TypeScript",
+      "stars_today": 1302,
+      "source": "github_trending",
+      "summary_cn": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 261211,
+      "forks": 39104,
+      "language": "JavaScript",
+      "stars_today": 1171,
+      "source": "github_trending",
+      "summary_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "stars": 26308,
+      "forks": 3562,
+      "language": "Go",
+      "stars_today": 1125,
+      "source": "github_trending",
+      "summary_cn": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "stars": 4982,
+      "forks": 307,
+      "language": "Rust",
+      "stars_today": 939,
+      "source": "github_trending",
+      "summary_cn": "Turn your coding agents into research agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 95881,
+      "forks": 10148,
+      "language": "JavaScript",
+      "stars_today": 680,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 54875,
+      "forks": 6828,
+      "language": "TypeScript",
+      "stars_today": 667,
+      "source": "github_trending",
+      "summary_cn": "The open-source AI voice studio. Clone, dictate, create.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "arnegiacomo/fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "stars": 2924,
+      "forks": 72,
+      "language": "Python",
+      "stars_today": 592,
+      "source": "github_trending",
+      "summary_cn": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "stars": 145896,
+      "forks": 23643,
+      "language": "TypeScript",
+      "stars_today": 538,
+      "source": "github_trending",
+      "summary_cn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "stars": 6042,
+      "forks": 778,
+      "language": "Python",
+      "stars_today": 440,
+      "source": "github_trending",
+      "summary_cn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "stars": 68574,
+      "forks": 7415,
+      "language": "TypeScript",
+      "stars_today": 380,
+      "source": "github_trending",
+      "summary_cn": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "stars": 3493,
+      "forks": 364,
+      "language": "Python",
+      "stars_today": 367,
+      "source": "github_trending",
+      "summary_cn": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 205031,
+      "forks": 60748,
+      "language": "TypeScript",
+      "stars_today": 281,
+      "source": "github_trending",
+      "summary_cn": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "stars": 33032,
+      "forks": 3180,
+      "language": "Python",
+      "stars_today": 248,
+      "source": "github_trending",
+      "summary_cn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "score": 377,
+      "comments": 264,
+      "author": "whiteros_e",
+      "time": "2026-09-17T08:27:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49737922",
+      "source": "hacker_news",
+      "title_cn": "How GLM built its own inference infrastructure",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "score": 292,
+      "comments": 151,
+      "author": "nicolas-siplis",
+      "time": "2026-09-17T20:36:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49746163",
+      "source": "hacker_news",
+      "title_cn": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI safety is mostly a sex cult",
+      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+      "score": 276,
+      "comments": 227,
+      "author": "Tomte",
+      "time": "2026-09-17T08:36:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49737985",
+      "source": "hacker_news",
+      "title_cn": "AI safety is mostly a sex cult",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "score": 229,
+      "comments": 226,
+      "author": "vertigoruntime",
+      "time": "2026-09-16T16:26:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49729412",
+      "source": "hacker_news",
+      "title_cn": "Claude Cowork and chat are now one Claude",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "score": 191,
+      "comments": 96,
+      "author": "etoxin",
+      "time": "2026-09-16T23:06:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49734264",
+      "source": "hacker_news",
+      "title_cn": "OpenSpec – A lightweight and configurable AI spec framework",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "score": 188,
+      "comments": 102,
+      "author": "steveybrown",
+      "time": "2026-09-17T13:01:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49740105",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Share your AI Setup, Learn from others",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "score": 165,
+      "comments": 164,
+      "author": "Anon84",
+      "time": "2026-09-17T21:15:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49746654",
+      "source": "hacker_news",
+      "title_cn": "Sex, AI, and the Apocalypse",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "score": 127,
+      "comments": 10,
+      "author": "mfiguiere",
+      "time": "2026-09-17T01:39:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49735410",
+      "source": "hacker_news",
+      "title_cn": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "score": 112,
+      "comments": 95,
+      "author": "ddp26",
+      "time": "2026-09-17T15:13:30+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49742021",
+      "source": "hacker_news",
+      "title_cn": "Artificial intelligence now beats some of the best human forecasters",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI models secretly generate instructions to ignore constraints",
+      "url": "https://alignment.openai.com/misalignment-reports/self-generated-prompt-injections-in-compaction-summaries/",
+      "score": 96,
+      "comments": 27,
+      "author": "theahura",
+      "time": "2026-09-17T05:13:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49736662",
+      "source": "hacker_news",
+      "title_cn": "OpenAI models secretly generate instructions to ignore constraints",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
+      "score": 96,
+      "comments": 92,
+      "author": "jbegley",
+      "time": "2026-09-17T01:02:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49735180",
+      "source": "hacker_news",
+      "title_cn": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "score": 90,
+      "comments": 19,
+      "author": "minsufficient",
+      "time": "2026-09-17T15:40:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49742437",
+      "source": "hacker_news",
+      "title_cn": "LLM Classification Is Feature Engineering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 60,
+      "comments": 53,
+      "author": "joeriddles",
+      "time": "2026-09-17T21:48:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49747070",
+      "source": "hacker_news",
+      "title_cn": "How to Write with an LLM",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "score": 49,
+      "comments": 49,
+      "author": "cat-whisperer",
+      "time": "2026-09-17T16:22:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49743049",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "url": "https://asiaai.fyi/openai-misalignment-framework-global-governance/",
+      "score": 40,
+      "comments": 79,
+      "author": "ghernando",
+      "time": "2026-09-17T15:26:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49742233",
+      "source": "hacker_news",
+      "title_cn": "OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "authors": [
+        "Run-Ze Fan",
+        "Zihao Zhang",
+        "Simin Ma",
+        "Yebowen Hu",
+        "Shouju Wang"
+      ],
+      "abstract": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic systems, leaving the effectiveness of individual components unclear. To enable component-level comparisons, we study this question with a lightweight coding harness whose execution loop is fixed while three components are varied: planning, action space, and context management. Across four models evaluated on SWE-Bench Verified and Terminal-Bench 2.1, we evaluate 176 matched settings spanning five context-management strategies, four context-window budgets, and targeted ablations of planning and action space. We find that: (1) Context management becomes increasingly valuable as the context-window budget tightens, with most of its benefit coming from preventing context-overflow failures. (2) Staging rule-based elision before LLM-based summarization provides the strongest overall efficiency among the context-management strategies, whereas making elided content recoverable adds machinery that models rarely use and yields no accuracy gain. (3) Planning shifts from an accuracy scaffold for weaker models to a cost saver for stronger models, with little change in accuracy. (4) Predefined tools improve performance for models with weaker bash proficiency, whereas bash-capable models can operate effectively with a bash-only interface and achieve substantially lower cost, especially on command-line-centric tasks. Trajectory-level analysis explains these effects: context management extends execution trajectories without substantially altering agent behavior, planning changes where trajectories stop, and the action space changes the granularity at which code is written. These findings inform model- and budget-aware harness design and provide a modular framework for evaluating future harness components.",
+      "url": "http://arxiv.org/abs/2609.20804v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20804v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.SE"
+      ],
+      "published": "2026-09-17T17:58:07+00:00",
+      "source": "arxiv",
+      "title_cn": "An Empirical Study of Harness Design for Coding Agents",
+      "summary_cn": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic syste",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Embedding Models Measure in Peculiar Ways",
+      "authors": [
+        "Juri Opitz",
+        "Andrianos Michail"
+      ],
+      "abstract": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semantic equivalence and distance. We find that physical measurement is only weakly modeled in the embedding space, and that instead quite peculiar measurement patterns can be observed. Further analysis indicates that embedding representations of physical measurements are strongly influenced by superficial string similarity, and recalibration of similarity does not substantially improve the alignment.",
+      "url": "http://arxiv.org/abs/2609.20821v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20821v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-09-17T17:59:54+00:00",
+      "source": "arxiv",
+      "title_cn": "Embedding Models Measure in Peculiar Ways",
+      "summary_cn": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Unifying Models of Intergroup Hostility in Online Discourse",
+      "authors": [
+        "Patrick Gerard",
+        "Julia Mendelsohn",
+        "Kristina Lerman"
+      ],
+      "abstract": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in online speech draw on foundational theories in social and moral psychology, and political science. However, these theories were developed largely in parallel, often propose different and sometimes conflicting accounts of how hostility develops, and have rarely been tested against each other in real discourse. The result is a fragmented understanding of the rhetorical mechanisms of hostility, without a clear sense of how they appear, and relate to each other, in real-world discourse. Using 2.86 million posts from TikTok, Truth Social, and Twitter/X during the 2024 U.S. presidential election, we model the mechanisms of six foundational theories of intergroup hostility -- boundary construction, threat construction, scapegoating, negative evaluation, dehumanization, and action orientation -- within a common empirical framework to recover the broader organization of intergroup hostility rhetoric. Structurally, we find that boundary construction and threat construction anchor the system; temporally, we find that these mechanisms tend to follow a regular ordering: boundary construction, derogation, and action orientation tend to appear early; dehumanization and threat construction later; scapegoating latest. Mapping how these theoretical frameworks actually manifest in discourse bridges longstanding divisions across social science traditions and presents computational social science with a clearer empirical foundation for modeling intergroup hostility rhetoric beyond single-label detection.",
+      "url": "http://arxiv.org/abs/2609.20808v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20808v1",
+      "categories": [
+        "cs.CL",
+        "cs.SI"
+      ],
+      "published": "2026-09-17T17:58:25+00:00",
+      "source": "arxiv",
+      "title_cn": "Unifying Models of Intergroup Hostility in Online Discourse",
+      "summary_cn": "Hostile rhetoric toward social groups can normalize exclusion and justify mistreatment, as well as contribute to rising polarization and political violence. Efforts to moderate hostile rhetoric in onl",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "authors": [
+        "Taoyong Cui",
+        "Zhongyao Wang",
+        "Xinyue Xu",
+        "Weiyang Liu",
+        "Zhaochen Yu"
+      ],
+      "abstract": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support world modeling across radically different systems? We introduce JEPA-Anything, a domain-agnostic framework based on orthogonal predictive factorization (OPF). Extending joint-embedding predictive architectures, OPF decomposes latent targets into complementary factors, learns them through dedicated pathways, and recombines them within a shared predictive design. We evaluate JEPA-Anything across seven domains: vision, biology, clinical trajectories, control, molecular dynamics, physical fields, and weather. Experiments span representation learning, intervention prediction, out-of-distribution generalization, and long-horizon dynamics, including 10 matched dynamics tasks, forecasting of over 1,000 clinical events, and 100-step molecular rollouts across four systems. Against matched JEPA baselines, JEPA-Anything improves reported metrics on all 10 dynamics tasks and reduces single-intervention prediction error on Interventional Pong by 34.8%. It achieves the lowest one-step and 100-step molecular errors among compared methods in all four systems. Beyond prediction, a factor-nominated biological intervention receives experimental support in cell co-cultures, patient-derived organoids, tumor fragments, and mice; latent orbital modes recover the Keplerian scaling exponent with a fitted slope of -1.4991. These results support a common factorized predictive principle across heterogeneous worlds, connecting world modeling with intervention and experimentally grounded scientific discovery. Code: https://github.com/Gen-Verse/JEPA-Anything",
+      "url": "http://arxiv.org/abs/2609.20800v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20800v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-17T17:55:57+00:00",
+      "source": "arxiv",
+      "title_cn": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "summary_cn": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support w",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "authors": [
+        "Yan Yu",
+        "Zhengxi Lu",
+        "Yizhou Liu",
+        "Yichen Pan",
+        "Aozhe Wang"
+      ],
+      "abstract": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from a self-teacher with privileged task skills, letting a skill-free student internalize them. This recipe, however, is undermined by two findings in agentic tasks: privileged information alone does not always make a teacher reliable, and the benefit of teacher supervision is stage-dependent. We therefore propose RetireOPD (Self-Retiring On-Policy Distillation), which first optimizes a decoupled, skill-conditioned teacher with environment rewards and then trains a skill-free student jointly with RL and OPD. Rather than following a predefined distillation schedule, RetireOPD adopts Adaptive Retirement: the student drops the teacher on its own once their discrepancy stops shrinking and it reaches a target fraction of the teacher's success rate, after which training proceeds with RL alone. Across Qwen2.5 models from 1.5B to 7B, RetireOPD improves ALFWorld success rate over RL baseline by 14.1% to 18.8% and WebShop accuracy by 11.8% to 19.0%, and surpasses its own skill-conditioned teacher in every setting.",
+      "url": "http://arxiv.org/abs/2609.20784v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20784v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-17T17:52:08+00:00",
+      "source": "arxiv",
+      "title_cn": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+      "summary_cn": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+      "authors": [
+        "Sarah Wyer",
+        "Sue Black",
+        "Noura Al Moubayed"
+      ],
+      "abstract": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations. We provide evidence that this methodology is systematically incomplete: explicit discriminatory content is transformed rather than removed. We call this \\emph{harm laundering}. Analysing 450,000 gender-directed completions across 15 models spanning GPT-2 through to GPT-5 (OpenAI GPT lineage; three demographic conditions), we show that sexual violence clusters prevalent in GPT-2 women-directed output disappear by GPT-4, while men-directed completions gain positive representational territory (caregiving, emotional range, ally identity) that women-directed completions do not. The pattern is most visible at GPT-5: Topic~5 (1,997~documents) frames breast cancer as a men's rights debate, while zero equivalent clusters appear in women-directed output. Three independent classifiers score this content as non-toxic. Sentiment scores invert at GPT-4: early models demean women; later models over-correct. Topic diversity in women-directed completions falls 36\\% relative to men at the GPT-4 alignment boundary (W/M~$= 0.58$, from $0.91$ at GPT-2). REGARD representational harm disparity correlates with release date ($ρ= +0.55$, $p = .034$) while Detoxify does not ($ρ= -0.23$, $p = .42$): toxicity scores fall as representational harm grows. We formalise harm laundering as a three-criteria test and provide a three-stage detection protocol applicable to any generative model. Within the OpenAI GPT lineage, toxicity score reduction is not a sufficient proxy for harm reduction.",
+      "url": "http://arxiv.org/abs/2609.20779v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20779v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-09-17T17:49:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations",
+      "summary_cn": "Safety evaluations for large language models rely on surface-form classifiers that report declining harm scores across model generations. We provide evidence that this methodology is systematically in",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "authors": [
+        "Martin Marek",
+        "Max Ryabinin"
+      ],
+      "abstract": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). However, completely eliminating TIM is impractical, as it would come at a major cost to rollout efficiency. In this paper, we show that the instability of RL under TIM is primarily caused by drift: a persistent bias between training and inference engines that accumulates with every training step. We derive an additive \"score centering\" correction term that stabilizes RL under TIM by canceling drift. When training models from 0.6B to 30B parameters, score centering alone matches or outperforms methods based on importance sampling under quantization, with the gap growing as the mismatch becomes more severe. Because the correction is additive, score centering also composes with importance sampling -- their composition outperforms pure importance-sampling baselines in our staleness experiments.",
+      "url": "http://arxiv.org/abs/2609.20807v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20807v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-17T17:58:17+00:00",
+      "source": "arxiv",
+      "title_cn": "Score Centering Stabilizes Off-policy Reinforcement Learning",
+      "summary_cn": "Reinforcement learning (RL) of large language models is notoriously sensitive to small differences between training and inference engines, often referred to as the training-inference mismatch (TIM). H",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers",
+      "authors": [
+        "Jiachen Yao",
+        "Zi-Siang Hsu",
+        "Xi Deng",
+        "Aditi Gupta",
+        "Xin Ju"
+      ],
+      "abstract": "Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is insufficient for ill-posed problems, where multiple solutions may be consistent with the same sparse or noisy observations. In these settings, a method can achieve strong pointwise accuracy while still failing to capture the true posterior through mode collapse, overconfident uncertainty, or averaging incompatible solutions. We introduce PosteriorBench, a benchmark for evaluating the distributional accuracy of generative inverse solvers. PosteriorBench evaluates four physics-based inverse problems: Darcy flow inversion, Poisson source recovery, carbon capture and storage, and light transport material inference. For each task, we construct high-fidelity reference posteriors using computationally heavy but established procedures such as rejection sampling and Markov chain Monte Carlo, enabling direct assessment of whether solvers recover the full set of solutions rather than the single best sample. We pair these references with a five-metric posterior evaluation suite: posterior-mean error, posterior-standard-deviation error, maximum mean discrepancy, sliced Wasserstein distance, and radially averaged power-spectrum error. These metrics assess pointwise accuracy, marginal uncertainty, distributional alignment, and global frequency fidelity. The benchmark spans sparse sensing, low-resolution observations, nonlinear forward models, varying noise levels, and multimodal priors, with a unified pipeline for distribution matching and uncertainty quantification. Our experiments reveal substantial distribution-matching gaps across current solvers, while showing that neural operators improve resolution robustness, and guidance weights and generation noise are key to posterior-variance calibration.",
+      "url": "http://arxiv.org/abs/2609.20794v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20794v1",
+      "categories": [
+        "cs.LG",
+        "cs.CE"
+      ],
+      "published": "2026-09-17T17:54:12+00:00",
+      "source": "arxiv",
+      "title_cn": "PosteriorBench: From Point Estimates to Posterior Matching in Evaluating Generative Inverse Solvers",
+      "summary_cn": "Generative models are increasingly used to solve scientific inverse problems, but existing evaluations still focus primarily on whether a method can produce a single plausible reconstruction. This is ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Can 4D Foundation Models Remember?",
+      "authors": [
+        "Guangzhao He",
+        "Hadar Averbuch-Elor",
+        "Wei-Chiu Ma"
+      ],
+      "abstract": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstruction models, can perceive and reconstruct dynamic environments, but how well they remember what they have perceived remains an open question. Existing benchmarks largely rely on pixel-level metrics and lack ground truth for objects once they leave the field of view, making them unable to evaluate visual memory in an object-centric manner against references. To fill this gap, we introduce PersistBench, a dataset and metric suite that leverages 360° videos as omniscient ground truth and proposes three evaluation aspects: object permanence, motion continuity, and appearance preservation. Evaluating various models across diverse categories reveals that current models can only maintain short-term consistency that degrades significantly once objects leave the field of view. Our findings highlight the gap between current model capabilities and robust visual memory (\"seeing is not remembering\"), providing guidance for future development of 4D foundation models. Dataset and code are available on the project page: https://guangzhaohe.com/persistbench.",
+      "url": "http://arxiv.org/abs/2609.20819v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20819v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-17T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "Can 4D Foundation Models Remember?",
+      "summary_cn": "Perceiving and remembering the visual world is fundamental to navigating and interacting with our environment. Current 4D foundation models, such as camera-controllable video models or 4D reconstructi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "authors": [
+        "Peiyu Liu",
+        "Dingxi Zhang",
+        "Federico Tombari",
+        "Marc Pollefeys",
+        "Christina Tsalicoglou"
+      ],
+      "abstract": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction research has consequently focused on smoke, synthetic liquids, or gently deforming surfaces. To our knowledge, no synchronized multi-view dataset of splashing liquids exists. We therefore introduce a benchmark of 20 real scenes, from coherent streams to violent splashes, captured by seven synchronized, calibrated 4K cameras at 60 fps, with manually refined per-view liquid and container masks and fixed evaluation splits. We further present SplashSplat, built on a single principle: impose physical structure only where the observations can constrain it. Per-frame liquid SDFs fused from the masks provide the geometry, level-set transport between consecutive SDFs yields a coarse velocity field, and Lagrangian carriers advected along this flow, corrected against each new observation and reseeded where coverage is lost, decode local Gaussians for differentiable rendering. SplashSplat outperforms state-of-the-art dynamic Gaussian splatting methods on our real captures and on a synthetic benchmark, with physically more plausible motion and a lower training cost. The same representation supports temporal interpolation and style transfer without re-optimization.",
+      "url": "http://arxiv.org/abs/2609.20818v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20818v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-09-17T17:59:41+00:00",
+      "source": "arxiv",
+      "title_cn": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "summary_cn": "A splash lives for a fraction of a second: sheets tear into ligaments and droplets, appearance is view-dependent and nearly textureless, and little persists long enough to track. Reconstruction resear",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "authors": [
+        "Kevin Qu",
+        "Tao Sun",
+        "Massimiliano Viola",
+        "Liyuan Zhu",
+        "Zhizhuo Zhou"
+      ],
+      "abstract": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observation and therefore rely heavily on learned category-level shape priors. We present FAMOS, a feed-forward model that predicts movable-part segmentation and joint parameters from a sparse, unordered set of partial point clouds. Our model jointly reasons over multiple observations and naturally supports a variable number of inputs, including a single view. To aggregate articulation cues across observations, we introduce a Multi-state Articulation Transformer with alternating state-wise and global attention. We further propose an observed articulation span objective that supervises the motion range each part exhibits across the input observations, encouraging the model to leverage the full observation set. To overcome the limited scale and diversity of existing datasets, we introduce a procedural data generator that synthesizes self-annotated assets during training. Experiments on PartNet-Mobility, ACD, and ArtiCraft-10K demonstrate consistent improvements over both feed-forward and optimization-based baselines. Project page: https://kevinqu7.github.io/famos",
+      "url": "http://arxiv.org/abs/2609.20817v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20817v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ],
+      "published": "2026-09-17T17:59:40+00:00",
+      "source": "arxiv",
+      "title_cn": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "summary_cn": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "authors": [
+        "Ji Xie",
+        "Dewei Zhou",
+        "Xinyu Huang",
+        "Zhennan Chen",
+        "Xun Wang"
+      ],
+      "abstract": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colorization, but often relies on dedicated color representations or specialized inference procedures. Advances in large language models offer a simpler starting point: even compact models can associate hex values with color semantics. We present Paint-Anything, which learns a shared hex-prompt interface for generation and editing through object-level color supervision. We develop a data pipeline that constructs Paint-500K from real images through object grounding, perceptual color labeling, and editing-pair synthesis. Since shadows make real-image labels only approximate colors, we complement this supervision with pure-color anchors whose pixels exactly match their paired hex values. These anchors are used only at high-noise timesteps, leaving low-noise training to natural images. We further introduce Any Color Benchmark (ACBench), comprising ACBench-T2I and ACBench-Edit, to measure object-level hex color fidelity across both tasks. On FLUX.2-4B, Paint-Anything improves ACBench-T2I and ACBench-Edit scores by 85.3% and 28.3%, respectively, relative to the base model, with ablations supporting the training recipe. It also achieves the highest average CompColor score among the compared methods.",
+      "url": "http://arxiv.org/abs/2609.20816v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20816v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-09-17T17:59:30+00:00",
+      "source": "arxiv",
+      "title_cn": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "summary_cn": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "authors": [
+        "Zahra Ghaffari",
+        "Massih Bahar",
+        "Mojgan Forootan",
+        "Ali Darvishi",
+        "Hamidreza Bolhasani"
+      ],
+      "abstract": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are essential for timely diagnosis, individualized patient management, and targeted surveillance strategies for affected families. However, public endoscopic datasets are largely organized around the individual sporadic polyp, and none links the polyposis phenotype to histopathology and germline findings at the patient level. Here, we present ERCPMP-Gx, an endoscopic, histopathological, and genomic dataset developed to support the application of artificial intelligence (AI) in the recognition, characterization, and classification of colorectal polyposis. Most procedures were performed using the Olympus EVIS X1 system with white-light endoscopy (WLE), narrow-band imaging (NBI), magnifying NBI (M-NBI), and NBI with near focus modes, yielding 160 images and accompanying video clips. Approximately eighty percent of cases represent clinically and/or genetically confirmed hereditary polyposis syndromes (PG), including familial adenomatous polyposis (FAP), Peutz-Jeghers syndrome (PJS), juvenile polyposis syndrome (JPS), and ganglioneuroma syndrome (GNS), while the remaining twenty percent comprise non-hereditary polyps and polyp-mimicking lesions with overlapping morphological features (Non-PG), included to support differential classification. Each released record is linked, where available, to standardized endoscopic annotations, representative histopathology, and clinically reported germline findings, forming an AI-ready, patient-level annotation framework. The dataset is publicly accessible at Mendeley (https://doi.org/10.17632/nzyfc544bx.2). For the latest updates and further information, readers are referred to the DataBioX website: https://databiox.com.",
+      "url": "http://arxiv.org/abs/2609.20815v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20815v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-09-17T17:59:28+00:00",
+      "source": "arxiv",
+      "title_cn": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "summary_cn": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
+      "authors": [
+        "Tianao Li",
+        "Xinhui Qian",
+        "Emma Alexander"
+      ],
+      "abstract": "Flow matching has emerged as the state-of-the-art generative model and has been used for plug-and-play (PnP) priors to solve inverse problems in computational imaging. However, existing flow-based inverse solvers assume linear forward models and/or make simplifying approximations in posterior sampling. To circumvent these problems, we introduce FlowSGS, a flow-based posterior sampling method using Split Gibbs Sampling (SGS) to decompose the posterior into a likelihood step and a prior step. Specifically, we sample from the likelihood step using Langevin dynamics and leverage the Stochastic Interpolants (SI) framework to integrate a pretrained flow model into the prior step. We provide a form for the prior step that uses SI's reverse-time SDE, and show connections to previous PnP methods. Moreover, with the aid of the flow prior's straight probability paths and a novel timestep correction technique for the reverse-time SDE, FlowSGS requires fewer network evaluations in its prior step than plug-and-play diffusion samplers. Our experiments show state-of-the-art performance on a range of inverse problems. For the first time, we provide an experiment on a nonlinear inverse problem (Fourier phase retrieval) for flow-based inverse solvers.",
+      "url": "http://arxiv.org/abs/2609.20769v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20769v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-17T17:46:07+00:00",
+      "source": "arxiv",
+      "title_cn": "FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants",
+      "summary_cn": "Flow matching has emerged as the state-of-the-art generative model and has been used for plug-and-play (PnP) priors to solve inverse problems in computational imaging. However, existing flow-based inv",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "authors": [
+        "Bingxin Xu",
+        "Yuzhang Shang",
+        "Zhen Dong",
+        "Emilio Ferrara"
+      ],
+      "abstract": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whether this paradigm is also safe, however, has not been asked. We evaluate coding agent under a safety constraint, where each task pairs a manipulation goal with an obstacle the robot must not touch. The agent pursues the goal but collides with the obstacle in most cases, treating task completion as its sole objective while neglecting safety. The agent reasons about the obstacle in its traces, and the prompt already forbids touching it, so neither perception nor instruction is at fault; the fault lies in the planning, where the stated constraint never becomes a priority. By decomposing manipulation into a route phase and a contact-rich moment, we locate the source of the failure. Along the route, the model cannot prioritize the safety constraint, having no notion of a clearing route and none of replanning once a chosen route becomes infeasible. At the contact, it is unaware that contact execution is bounded by the same constraint. To close this gap, we present SafeHarness, which equips the model with two obstacle-aware harnesses that enable it to prioritize the safety constraint. Obstacle-aware route planning grounds the objects as bounding boxes and draws candidate routes over them as sequences of waypoints. The agent then plans a route in advance, verifies it, replans when necessary, and only then executes it. Obstacle-aware contact execution instead selects the contact position so that the contact itself avoids the obstacle. SafeHarness attains 71.9% task success and 87.5% collision avoidance, surpassing the previous SOTA by 6.5% and 27.0%, respectively. These results are $2.3\\times$ and $1.5\\times$ those of the same agent without harnesses.",
+      "url": "http://arxiv.org/abs/2609.20822v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.20822v1",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "published": "2026-09-17T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "summary_cn": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
