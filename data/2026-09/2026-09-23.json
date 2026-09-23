@@ -1,0 +1,646 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T10:25:16.629470+08:00",
+  "github_trending": [
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": 7706,
+      "forks": 360,
+      "language": "Go",
+      "stars_today": 2305,
+      "source": "github_trending",
+      "summary_cn": "Google's open agentic orchestration runtime",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "stars": 8729,
+      "forks": 1611,
+      "language": "Python",
+      "stars_today": 594,
+      "source": "github_trending",
+      "summary_cn": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 15519,
+      "forks": 1385,
+      "language": "TypeScript",
+      "stars_today": 255,
+      "source": "github_trending",
+      "summary_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "stars": 3010,
+      "forks": 387,
+      "language": "Go",
+      "stars_today": 245,
+      "source": "github_trending",
+      "summary_cn": "Agent Substrate: the core system",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": 2262,
+      "forks": 220,
+      "language": "Python",
+      "stars_today": 230,
+      "source": "github_trending",
+      "summary_cn": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 25889,
+      "forks": 3120,
+      "language": "Python",
+      "stars_today": 191,
+      "source": "github_trending",
+      "summary_cn": "Edit videos with coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "TNT-Likely/PanWatch",
+      "url": "https://github.com/TNT-Likely/PanWatch",
+      "description": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "stars": 1314,
+      "forks": 282,
+      "language": "Python",
+      "stars_today": 175,
+      "source": "github_trending",
+      "summary_cn": "盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "stars": 10830,
+      "forks": 1519,
+      "language": "Python",
+      "stars_today": 141,
+      "source": "github_trending",
+      "summary_cn": "A straightforward method for training your LLM, from downloading data to generating text.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "score": 1229,
+      "comments": 829,
+      "author": "km144",
+      "time": "2026-09-22T16:29:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49803892",
+      "source": "hacker_news",
+      "title_cn": "Claude Opus 5.5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "score": 1207,
+      "comments": 615,
+      "author": "OfficialTurkey",
+      "time": "2026-09-22T18:00:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49805509",
+      "source": "hacker_news",
+      "title_cn": "GPT-6 Sol and Luna",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "score": 599,
+      "comments": 87,
+      "author": "aray07",
+      "time": "2026-09-21T19:43:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49792342",
+      "source": "hacker_news",
+      "title_cn": "Transformers Explained Visually",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "score": 566,
+      "comments": 361,
+      "author": "sohkamyung",
+      "time": "2026-09-22T13:52:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49801324",
+      "source": "hacker_news",
+      "title_cn": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "score": 441,
+      "comments": 228,
+      "author": "devonnull",
+      "time": "2026-09-22T19:03:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49806430",
+      "source": "hacker_news",
+      "title_cn": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "score": 372,
+      "comments": 146,
+      "author": "networked",
+      "time": "2026-09-22T06:08:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49797323",
+      "source": "hacker_news",
+      "title_cn": "Can gzip be a language model?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "score": 368,
+      "comments": 517,
+      "author": "dimonomid",
+      "time": "2026-09-22T12:11:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49799965",
+      "source": "hacker_news",
+      "title_cn": "AI Has No Wisdom and Neither Will You",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "score": 310,
+      "comments": 384,
+      "author": "julian_digital",
+      "time": "2026-09-21T19:23:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49792067",
+      "source": "hacker_news",
+      "title_cn": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "score": 264,
+      "comments": 196,
+      "author": "JohnBerryman",
+      "time": "2026-09-22T14:42:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49802161",
+      "source": "hacker_news",
+      "title_cn": "OpenAI is well positioned to fast-follow Jev",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "score": 237,
+      "comments": 72,
+      "author": "theanonymousone",
+      "time": "2026-09-22T16:51:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49804316",
+      "source": "hacker_news",
+      "title_cn": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "score": 178,
+      "comments": 102,
+      "author": "pretext",
+      "time": "2026-09-21T18:53:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49791647",
+      "source": "hacker_news",
+      "title_cn": "Frontier AI on Your Own Hardware",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
+      "score": 155,
+      "comments": 80,
+      "author": "digital55",
+      "time": "2026-09-21T19:17:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49791997",
+      "source": "hacker_news",
+      "title_cn": "The Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "score": 94,
+      "comments": 49,
+      "author": "tomjakubowski",
+      "time": "2026-09-22T00:24:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49795260",
+      "source": "hacker_news",
+      "title_cn": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+      "score": 73,
+      "comments": 53,
+      "author": "pier25",
+      "time": "2026-09-22T13:27:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49800953",
+      "source": "hacker_news",
+      "title_cn": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "url": "https://benchmarkheaven.com/jev-models",
+      "score": 68,
+      "comments": 17,
+      "author": "florianstandhar",
+      "time": "2026-09-22T13:01:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49800574",
+      "source": "hacker_news",
+      "title_cn": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+      "authors": [
+        "Trang Nguyen",
+        "Eulrang Cho",
+        "Bingqing Chen",
+        "Tim Dettmers"
+      ],
+      "abstract": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompaction technique that reduces cost by up to 50% under a bounded context while maintaining or improving performance on Terminal-Bench and achieving new levels of efficiency for test-time scaling and state-of-the-art results on KernelBench. The per-rollout savings of CliffCompaction make the performance--cost trade-off of test-time scaling more efficient, adding over 10 percentage points on Terminal-Bench for less than the cost of two full-context runs. Under parallel test-time scaling, CliffCompaction lets Kimi K2.6 match Opus 4.7, and exceed Opus 4.6 and GPT-5.3 Codex at lower cost. The key to CliffCompaction's effectiveness is that it keeps compacted information faithful by only truncating or dropping content, never rephrasing or rewriting it. We never compact a compaction---each pass operates only on original content, and prior compacted output is discarded, preventing context drift from accumulating. These properties sustain continual learning over sessions exceeding a million tokens: on KernelBench, CliffCompaction reaches CUDA kernel speedups of $2.23\\times$ after 200 steps and $3.58\\times$ after 400 steps, surpassing specialized search algorithms and trained agents despite being a general-purpose compaction technique. We open-source a scaffold-agnostic API-proxy implementation of CliffCompaction usable with Claude Code, Codex and other harnesses.",
+      "url": "http://arxiv.org/abs/2609.26779v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26779v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.SE"
+      ],
+      "published": "2026-09-22T17:55:59+00:00",
+      "source": "arxiv",
+      "title_cn": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+      "summary_cn": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompa",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+      "authors": [
+        "Jennifer Williams",
+        "Dave Farris",
+        "Jeff Farris",
+        "Jiantao Jiao"
+      ],
+      "abstract": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stack, including model support, runtime execution, and public APIs. Existing benchmarks provide limited coverage of production inference engineering: repository-level software engineering benchmarks do not target inference, while general terminal-agent benchmarks include only a few inference tasks. Dedicated inference benchmarks, meanwhile, focus primarily on isolated kernel generation or performance optimization rather than repository-scale production feature implementation. SWE-Serve provides 53 repository-grounded tasks derived from recent production changes to SGLang, spanning six inference engineering families. Each task executes on either CPU or a single GPU (H100) and is evaluated with hidden functional and regression tests, including, where applicable, end-to-end (E2E) serving tests and calibrated performance gates. Executable no-op and oracle controls, adversarial verifier review, and closed-book execution support task validity and evaluation integrity. Across 11 models and 31 model-effort configurations, the best-performing configuration achieves 75% mean pass@1. SWE-Serve exposes a substantial gap between completing tasks locally and achieving production correctness. On 19 tasks with end-to-end coverage, model-serving E2E tests reject roughly one-third of patches that pass every other test (45.9% under the verifier versus 69.4% with E2E tests excluded from scoring), with pass rate increasing for each model's best-performing configuration. By making the production correctness gap directly measurable, SWE-Serve enables the field to track whether future agents move beyond completing tasks locally to achieving production correctness.",
+      "url": "http://arxiv.org/abs/2609.26777v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26777v1",
+      "categories": [
+        "cs.AI",
+        "cs.SE"
+      ],
+      "published": "2026-09-22T17:54:59+00:00",
+      "source": "arxiv",
+      "title_cn": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+      "summary_cn": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stac",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+      "authors": [
+        "Laizhen Li",
+        "Jiarui Li",
+        "Juanjuan Zhao",
+        "Kejiang Ye",
+        "Ye Li"
+      ],
+      "abstract": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead turn recurring control into reusable executable code, while reserving LLM calls for task-specific semantic reasoning. We introduce Growing Harness, a failure-guided training paradigm that learns the agent harness itself from a strategy-free scaffold that exposes fixed model and tool interfaces but encodes no task-solving controller. Function-level execution traces localize each failure to a bounded code surface, an optimizer repairs a window of failures jointly, and a success-first held-out gate rolls back repair sequences that harm prior capability. Accepted edits accumulate in one shared harness, allowing its control structure to emerge from task feedback. Across BrowseComp-Plus and WebArena-Verified with three deployment models from 4B to 120B parameters, Growing Harness achieves the highest mean success in five of six benchmark-model settings and trails the best mean by 0.7 pp. in the sixth. Relative to a Tool-Calling agent, it reduces LLM calls by 76.0-91.8% and deployed-agent inference cost by 74.4-98.6%. On WebArena-Verified, its success remains 44.7-45.3% across model scales, whereas Tool-Calling falls to 6.7% with the 4B model. Ablations show that trace-local edits, joint repair, and gate-based rollback each improve final success. These results show that persistent program growth can move recurring control out of model context and into low-cost code, yielding reusable specialist agents that remain effective with smaller deployment models.",
+      "url": "http://arxiv.org/abs/2609.26760v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26760v1",
+      "categories": [
+        "cs.AI",
+        "cs.SE"
+      ],
+      "published": "2026-09-22T17:40:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+      "summary_cn": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+      "authors": [
+        "Yu Sun",
+        "Junhao Xu"
+      ],
+      "abstract": "Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generating free-form text, they return a decision over a predefined set of options. By construction, every output conforms to the required schema. Yet this guarantee does not tell us whether the model interprets the options as intended. We study Jev and two Jev-like models with open weights by changing how option names are assigned to rubrics. Each option consists of an option name and a textual rubric that defines what the option means. We change only which option name is assigned to each rubric; the question, state, rubric wording, and set of option names remain exactly the same. On 1200 workflow decisions with task-specific rubrics, renaming the two options from 0/1 to no/yes changes 70.4 more answers per hundred (95% CI: [67.6, 73.1]) and shifts AUC from .94 to .23, revealing a systematic reversal in the decision ranking rather than simple uncertainty. The same operation has little effect with neutral option names. This pattern holds across all 4 predicates, where the effect is at least 7.4x larger than under the neutral control, and becomes stronger as the number of options increases. The effect also depends on the read-out geometry: a second model family that mean-pools over the full option span flips 4.1x less often. The hosted model exhibits the same behavior: the swap changes AUC from .8146 to .5806 and produces 24x as many answer flips as its test-retest floor. In contrast, replacing the option names with random character strings returns all model families to the neutral-control regime without reducing accuracy. The failure therefore depends on the semantic polarity of the option names rather than on the renaming operation itself. Across all conditions, the type-error rate remains 0%, even when decision accuracy degrades substantially.",
+      "url": "http://arxiv.org/abs/2609.26758v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26758v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-22T17:38:12+00:00",
+      "source": "arxiv",
+      "title_cn": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+      "summary_cn": "Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generating free-form text, they return a decision over a predefined set of options. By co",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+      "authors": [
+        "Quan Nguyen-Tri",
+        "Mukul Ranjan",
+        "Zhiqiang Shen"
+      ],
+      "abstract": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference, largely due to the absence of effective Key-Value (KV) caching and scalable parallel decoding mechanisms. Existing acceleration methods typically study KV caching and parallel decoding in isolation, overlooking the I/O bottlenecks that arise when cache reuse and parallel token verification are jointly applied. In this work, we introduce $\\textbf{Flash-dLLM}$, a training-free inference acceleration framework for fast and memory-efficient dLLMs. Flash-dLLM first identifies GPU memory I/O as a dominant bottleneck in KV-cache-enabled dLLM inference and addresses it with an I/O-aware fused KV-cache kernel that reduces redundant memory movement. Building on this optimized cache mechanism, Flash-dLLM further proposes an efficient KV-cache-driven draft-and-verify decoding strategy, where the dLLM itself serves as both drafter and verifier without requiring an auxiliary model. This unified design enables faster decoding while preserving generation quality and improving scalability to longer sequences and larger batch size. Extensive experiments on mathematical reasoning and code-generation benchmarks demonstrate that Flash-dLLM consistently outperforms existing state-of-the-art dLLM acceleration methods in both inference speed and memory efficiency. In particular, it achieves $5.1\\times$ and $11.0\\times$ speedups over prior strongest baseline Elastic-Cache on GSM8K and HumanEval, respectively.",
+      "url": "http://arxiv.org/abs/2609.26796v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26796v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-22T17:59:57+00:00",
+      "source": "arxiv",
+      "title_cn": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+      "summary_cn": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+      "authors": [
+        "Zhihao Zhan",
+        "Ting Song",
+        "Li Dong",
+        "Shaohan Huang",
+        "Jianxun Lian"
+      ],
+      "abstract": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-agent harnesses is often constrained by a central orchestrator's capacity to allocate tasks and coordinate workers. To address this limitation, we introduce Agensh, a scalable self-organized multi-agent harness without a central orchestrator: concurrent workers execute a multi-agent cooperation loop, continuously gathering context, claiming and self-assigning sub-tasks, taking action and sharing findings, verifying results, and merging progress in an asynchronous manner. The loop is supported by the agentic organization infrastructure comprising three components: a shared workspace holds proposed, ongoing, and completed work; a message interface lets workers communicate; and shared context retains reusable findings and work intentions. To test the scalability of Agensh, we evaluate it on the five hardest ProgramBench tasks with GPT-5.6-sol (high). Scaling from 1 to 128 agents raises the mean final test-pass rate from 19.31% to 28.78%, an approximately 49% relative improvement. Larger organizations reach comparable test-pass rates earlier. On pandoc, scaling from 1 to 1,024 agents raises the final test-pass rate from 33.89% to 55.06%. Worker trajectories further show that different forms of self-organized cooperation gradually emerges and standardizes as the organization grows. These results reveal the number of agents as a new scaling dimension for multi-agent organizations to expand the frontier of general intelligence, offering a practical solution for complex tasks under hard latency constraints or time budgets.",
+      "url": "http://arxiv.org/abs/2609.26781v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26781v1",
+      "categories": [
+        "cs.CL",
+        "cs.MA"
+      ],
+      "published": "2026-09-22T17:56:25+00:00",
+      "source": "arxiv",
+      "title_cn": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+      "summary_cn": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "authors": [
+        "Haobo Zheng",
+        "Tan Tang",
+        "Yan Chen",
+        "Weijie Wang",
+        "Yingcai Wu"
+      ],
+      "abstract": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, how individuals perceive one another, what information is shared by the group, and how states change over time. Recent studies on multi-party dialogue benchmarks show that existing general-purpose LLM memory systems tend to lose person and group relations or struggle to integrate clues distributed across members, groups, and time. Together, these issues reveal two core bottlenecks: message attribution and relational understanding in multi-party dialogue, and state reconstruction from interleaved histories. To address both, we propose $\\textbf{SpeakerMem-R1}$: its dual-track memory stores speaker-labeled verbatim messages and derived states organized into person-level and group-level views, then combines evidence from both tracks by entity, event, and time at query time. To reduce attribution and update errors during structured memory construction while enabling local deployment, we train Writer-R1 with SpeakerLevenshtein and speaker-conditioned GRPO. On GroupMemBench, SocialMemBench, and EverMemBench, SpeakerMem-R1 achieves binary accuracies of 47.9%, 69.2%, and 61.9%, respectively. On the publicly reported EverMemBench leaderboard from EverMind-AI, we achieves 62.33%, the best reported result among the latest state-of-the-art frameworks. It also achieves 70.85% on all 1,986 LoCoMo questions, which we use as a two-person long-term conversation boundary test. In a controlled evaluation of 305 questions, RL raises the SFT Writer's mean accuracy from 57.38% to 68.20%. We report both binary accuracy and token-F1, and ablations show that the verbatim and structured tracks, as well as person-level and group-level views, are complementary under the standardized evaluation interface.",
+      "url": "http://arxiv.org/abs/2609.26780v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26780v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.IR",
+        "cs.LG"
+      ],
+      "published": "2026-09-22T17:56:12+00:00",
+      "source": "arxiv",
+      "title_cn": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "summary_cn": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+      "authors": [
+        "FNU Aditi"
+      ],
+      "abstract": "Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support important goals such as large- scale training, formal evaluation, specification-to-assertion generation, and mutation-based testing. A complemen- tary need is to study whether a generated assertion cap- tures externally observable behavior or depends on inci- dental details of one RTL implementation. We present EquivSVA, a formally verified dataset organized around behavior families. Each family contains four structurally distinct RTL implementations of the same externally ob- servable behavior, shared interface-level gold properties, three controlled mutants, and formal-validation evidence. EquivSVA contains 120 behavior families across 12 cat- egories, 480 reference RTL implementations, 914 gold properties, and 360 mutants. Every final family passes a fixed 17-job validation suite covering RTL equivalence, gold-property proofs, property reachability, mutant dis- tinguishability, and gold-property checks on mutants. We also provide fixed family-safe train, development, and test splits. As a small demonstration of the analyses en- abled by the dataset, we evaluate the publicly released, Apache-2.0-licensed Qwen2.5-Coder-7B-Instruct model on the held-out test split. Of 293 interface-only generated properties, 93 are formally sound, and the number of sound properties varies across equivalent implementations for 14 of 24 test families. These results illustrate how behavior-family organization can support controlled stud- ies of assertion-generation robustness without requiring changes in intended functionality. The dataset, generators, validation scripts, and case-study artifacts are publicly released at https://github.com/aditigupta96/EquivSVA.",
+      "url": "http://arxiv.org/abs/2609.26751v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26751v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-22T17:33:09+00:00",
+      "source": "arxiv",
+      "title_cn": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+      "summary_cn": "Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support im",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+      "authors": [
+        "Shufan Sun",
+        "Chen Wang",
+        "Enxin Song",
+        "Jiatao Gu",
+        "Lingjie Liu"
+      ],
+      "abstract": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with input images; and visual geometry foundation models that predict dense point maps from input images but the reconstruction quality is limited. Therefore, recovering a complete 3D scene from a single monocular image with accurate inter-object relationships and high-fidelity reconstruction quality remains challenging. In this paper, we present HARMONY, a hierarchical chain-of-thought framework that leverages both agentic reasoning and visual geometry foundation. Given an image of an indoor scene, starting from an empty 3D floorplan, HARMONY first calibrates the camera against the reference image to establish a semantically-grounded spatial frame, then uses agentic VLM reasoning to recover the 3D room layout and an initial placement order. It then places the objects in a hierarchical order, from wall-mounted elements, free-standing furniture, to dependent decorations on top of furniture. We also use depth-first traversal for furniture so each placement conditions on previously resolved structure and a reflective feedback loop to avoid error accumulation. After each object placement by VLM, we use the point cloud estimations to perform geometry-based refinement so that the rendered image aligns better with the input. HARMONY can produce 3D scenes that are semantically consistent and perceptually aligned with the reference image, extending single-image compositional reconstruction to complex indoor scene images. Experiments on synthetic and real-world images demonstrate that HARMONY outperforms the evaluated reconstruction baselines, while qualitative comparisons with GPT-6 Astra suggest more faithful object arrangements and better preservation of scene details.",
+      "url": "http://arxiv.org/abs/2609.26793v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26793v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-22T17:59:47+00:00",
+      "source": "arxiv",
+      "title_cn": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+      "summary_cn": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with i",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+      "authors": [
+        "Bao Tang",
+        "Jiahao Guo",
+        "Haoxiang Cao",
+        "Wenyu Liu",
+        "Changqian Yu"
+      ],
+      "abstract": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substantially advanced codebook utilization, training stability remains a critical and underexplored challenge. We argue that the root cause lies in the entanglement of the Encoder--Decoder and Codebook training: because neither module can reliably fulfill its own responsibility in isolation, the system can only function when the two subsystems happen to cooperate---a fragile condition that breaks down precisely when training is most stressed. We propose StableVQ, which revisits the proper learning objective of each module and resolves the problems that arise when each is trained to fulfill its own role independently. Concretely, (1) Dynamic STE corrects the instability in the Encoder's learning objective, enabling it to robustly optimize the reconstruction space under discrete regularization even when codebook utilization is low. (2) Region VQ Loss reconceives the Codebook's learning objective so that it can independently guarantee full tracking of the encoder output distribution, without relying on encoder oscillations to drive activation. (3) Decoupled Schedule recognizes that the distinct responsibilities of the Encoder--Decoder and the Codebook demand distinct optimization dynamics, and assigns each an independent learning rate schedule to ensure robust system-level behavior. Built on top of shared-projection codebooks, StableVQ is lightweight and introduces no learnable parameters. Experiments on ImageNet demonstrate consistent improvements in training stability, codebook utilization, and reconstruction quality across diverse codebook sizes and initialization settings.",
+      "url": "http://arxiv.org/abs/2609.26774v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26774v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-22T17:54:12+00:00",
+      "source": "arxiv",
+      "title_cn": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+      "summary_cn": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FleXray: Universal Clinical X-ray Segmentation",
+      "authors": [
+        "Victor Ion Butoi",
+        "Vivek Gopalakrishnan",
+        "John V. Guttag",
+        "Adrian V. Dalca",
+        "Neel Dey"
+      ],
+      "abstract": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing structures to overlap and anatomical boundaries to be ambiguous, even to experts. As a result, labeling X-ray databases for training general-purpose segmentation systems is impractical, leaving morphometric and functional X-ray analysis confined to narrow anatomical regions and applications. To this end, we present FleXray, a generalist model for anatomical segmentation across the entire body in clinical X-rays. Instead of curating large, manually annotated X-ray datasets, we build a scalable, physics-based generative X-ray data engine. Using existing 3D whole-body CT segmentation datasets and generative image-editing models, we simulate fully-annotated 2D X-rays with diverse appearances, physiological properties, and imaging geometries. Trained on these simulations, FleXray accurately segments 60 anatomical structures across unseen research datasets and in-the-wild X-rays. We further show that FleXray makes X-rays directly amenable to quantitative analysis, enabling automated measurements for disease grading, robust navigation during X-ray-guided interventions, and data-efficient learning of pathological targets. We release the model, code, a full-body X-ray segmentation dataset, and a local, easy-to-use browser-based tool at https://flexray.csail.mit.edu .",
+      "url": "http://arxiv.org/abs/2609.26756v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26756v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-09-22T17:37:55+00:00",
+      "source": "arxiv",
+      "title_cn": "FleXray: Universal Clinical X-ray Segmentation",
+      "summary_cn": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing s",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "authors": [
+        "Runyi Yang",
+        "Deheng Zhang",
+        "Xiaoye Wang",
+        "Kanzhi Wu",
+        "Lei Sun"
+      ],
+      "abstract": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction. Robot simulation instead requires object-level change, \\textit{i.e.}, objects must move independently, make contact, and reveal previously occluded surroundings. This gap arises because object appearance may remain entangled with the background, while hidden object geometry and occluded background content may be unobserved. To address this challenge, we present φ-RIE, a Gaussian-native pipeline that converts selected objects into movable simulator assets while preserving the remaining reconstruction. Our key observation is that asset construction and source removal should be coupled, \\textit{i.e.}, one object identity should define the movable asset and the scene content to remove and complete. Accordingly, Scene Observation supplies shared evidence to Coupled Scene Construction, which creates registered assets and completed background Gaussians for simulator-driven rendering in an Interactive Environment. This coupling preserves unedited Gaussians while aligning visual and physical state. On 50 ScanNet++ scenes, evidence-based selection and registration retry increase matched F1 at 20\\,mm from 0.336 to 0.383 at fixed retention. Further tests demonstrate asset executability, manipulation gains over a single-generator baseline, and the visual cost of conversion. Together, these results demonstrate that \\name\\ enables interactive scene conversion.",
+      "url": "http://arxiv.org/abs/2609.26795v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26795v1",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-09-22T17:59:52+00:00",
+      "source": "arxiv",
+      "title_cn": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "summary_cn": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction. Robot simulation instead requires ob",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+      "authors": [
+        "Ziyang Leng",
+        "Sicheng Mo",
+        "Seth Z. Zhao",
+        "Haoyuan Cai",
+        "Yu Zeng"
+      ],
+      "abstract": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existing platforms, however, exhibit a sim-to-real visual gap that corrupts policy perception, undermining their ability to assess a policy's closed-loop decision-making. To this end, we propose DreamStream, a generative, closed-loop simulator that achieves policy-oriented fidelity using a simulator-grounded autoregressive video model. Our video model is distilled from a large pretrained video model via traffic layout guidance, varying visual appearance while preserving policy-relevant features such as scenario layout and the temporal consistency of dynamic objects. We further observe that perceptual metrics like FID misrank how well these features are preserved. To tackle this, we introduce FD$π$, a new multi-representation metric that measures the sim-to-real gap as the Fréchet distance over scene-context features from public E2E policies. Under FD$π$, DreamStream improves over the strongest prior closed-loop simulator by $1.6\\times$ on nuScenes and $4.7\\times$ on NAVSIM, and induces the least perturbation to policy's perceptual observability. Based on DreamStream, we construct Navhard-CL benchmark, which turns non-reactive real-world benchmark NAVSIM into interactive testing environments with adversarial driving behaviors and weather variations. This benchmark exposes many failure modes of driving policies, such as scorer bias and lack of recovery behaviors, that prior closed-loop benchmarks overlook. Code and data are available at https://github.com/VAIL-UCLA/DreamStream.",
+      "url": "http://arxiv.org/abs/2609.26792v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26792v1",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-09-22T17:59:31+00:00",
+      "source": "arxiv",
+      "title_cn": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+      "summary_cn": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existin",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+      "authors": [
+        "Xiaoxing Ren",
+        "Thomas Parisini",
+        "Andreas A. Malikopoulos"
+      ],
+      "abstract": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank model representations to address cooperative decision-making in partially observable Markov decision processes without prior knowledge of the transition model. Each team member makes decisions based on local private information and delayed common information shared across the team. Using only this available information, each member learns an approximate low-rank Markov decision process and applies least-squares value iteration to compute its policy. This yields a fully decentralized learning and planning algorithm that requires neither a centralized coordinator nor centralized training. We show that the resulting member-side solutions approximate the centralized team solution: despite partial observability, unknown dynamics, and delayed common information, each member recovers the corresponding component of an approximate team-optimal policy. We further establish finite-sample performance guarantees and derive a corresponding sample-complexity bound for the proposed algorithm.",
+      "url": "http://arxiv.org/abs/2609.26783v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26783v1",
+      "categories": [
+        "math.OC",
+        "cs.LG",
+        "eess.SY",
+        "stat.ML"
+      ],
+      "published": "2026-09-22T17:56:46+00:00",
+      "source": "arxiv",
+      "title_cn": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+      "summary_cn": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation",
+      "authors": [
+        "Yanshuo Bai",
+        "Kanji Tanaka"
+      ],
+      "abstract": "Thermal Visual Place Recognition (Thermal VPR) maps camera observations to metric poses within a mapped environment, serving as a prerequisite for autonomous navigation. However, thermal VPR suffers from severe environmental dependence, heavy online retraining overheads, and an inability to model dynamic non-linear shifts, causing existing frameworks to fail during online deployment. To achieve robust domain-invariant place recognition, we bridge Analytic Class-Incremental Learning (ACIL) with domain-invariant VPR for the first time, revealing that its gradient-free matrix updates construct a surprisingly strong baseline that outperforms conventional fine-tuning. Nevertheless, standard ACIL exhibits a critical vulnerability to extreme non-linear thermal fluctuations due to its structural linear assumptions. To overcome this limitation, we exploit a novel algebraic equivalence between ACIL and modern control theory, proposing a framework which embeds Unscented propagation (U-ACIL), Gaussian Mixture partitioning (GMM-ACIL), and minimax $H_\\infty$ optimization ($H_\\infty$-ACIL) directly into the update loop. Our formulation guarantees exact closed-form matrix updates within $\\mathcal{O}(1)$ computational complexity, bypassing backpropagation to ensure that the online update latency ($Δt_{\\mathrm{learn}}$) remains strictly bounded below the sensor acquisition interval ($Δt_{\\mathrm{acquire}}$), thereby eliminating trajectory jumps in real-time SLAM pipelines.",
+      "url": "http://arxiv.org/abs/2609.26766v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.26766v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-09-22T17:46:31+00:00",
+      "source": "arxiv",
+      "title_cn": "TM-APR: Thermal Temporal-Memory Localization via Analytic Online Adaptation",
+      "summary_cn": "Thermal Visual Place Recognition (Thermal VPR) maps camera observations to metric poses within a mapped environment, serving as a prerequisite for autonomous navigation. However, thermal VPR suffers f",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
