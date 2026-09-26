@@ -1,0 +1,747 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T10:32:56.913585+08:00",
+  "github_trending": [
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 85072,
+      "forks": 15242,
+      "language": "TypeScript",
+      "stars_today": 2109,
+      "source": "github_trending",
+      "summary_cn": "The open-source app everyone uses to manage agents at work",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 29865,
+      "forks": 3159,
+      "language": "Python",
+      "stars_today": 1653,
+      "source": "github_trending",
+      "summary_cn": "Hindsight: Agent Memory That Learns",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "description": "Google's open agentic orchestration runtime",
+      "stars": 11533,
+      "forks": 555,
+      "language": "Go",
+      "stars_today": 1379,
+      "source": "github_trending",
+      "summary_cn": "Google's open agentic orchestration runtime",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 57561,
+      "forks": 10032,
+      "language": "Python",
+      "stars_today": 1177,
+      "source": "github_trending",
+      "summary_cn": "Learn it. Build it. Ship it for others.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 18467,
+      "forks": 1573,
+      "language": "TypeScript",
+      "stars_today": 1050,
+      "source": "github_trending",
+      "summary_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 269759,
+      "forks": 22733,
+      "language": "Shell",
+      "stars_today": 583,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 291688,
+      "forks": 26107,
+      "language": "Shell",
+      "stars_today": 468,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "stars": 4489,
+      "forks": 652,
+      "language": "Python",
+      "stars_today": 359,
+      "source": "github_trending",
+      "summary_cn": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "stars": 71223,
+      "forks": 4311,
+      "language": "JavaScript",
+      "stars_today": 306,
+      "source": "github_trending",
+      "summary_cn": "The design language that makes your AI harness better at design.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": 50548,
+      "forks": 4628,
+      "language": "Python",
+      "stars_today": 306,
+      "source": "github_trending",
+      "summary_cn": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "stars": 27149,
+      "forks": 3211,
+      "language": "Python",
+      "stars_today": 301,
+      "source": "github_trending",
+      "summary_cn": "Edit videos with coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": 3396,
+      "forks": 279,
+      "language": "Python",
+      "stars_today": 290,
+      "source": "github_trending",
+      "summary_cn": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "stars": 8420,
+      "forks": 1256,
+      "language": "Python",
+      "stars_today": 251,
+      "source": "github_trending",
+      "summary_cn": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 178340,
+      "forks": 21113,
+      "language": "Python",
+      "stars_today": 189,
+      "source": "github_trending",
+      "summary_cn": "Public repository for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google/langextract",
+      "url": "https://github.com/google/langextract",
+      "description": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "stars": 38869,
+      "forks": 2719,
+      "language": "Python",
+      "stars_today": 167,
+      "source": "github_trending",
+      "summary_cn": "A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "score": 399,
+      "comments": 129,
+      "author": "sidharthkmenon",
+      "time": "2026-09-24T17:21:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49833867",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "score": 397,
+      "comments": 709,
+      "author": "cramer4next",
+      "time": "2026-09-25T15:29:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49845977",
+      "source": "hacker_news",
+      "title_cn": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 235,
+      "comments": 149,
+      "author": "specked-citrus",
+      "time": "2026-09-25T21:09:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49849985",
+      "source": "hacker_news",
+      "title_cn": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "url": "https://koi.rest",
+      "score": 213,
+      "comments": 60,
+      "author": "hxii",
+      "time": "2026-09-24T21:33:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49837006",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Koi.rest – watch some fish and regain your balance",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Classified estimates show the NSA is paying billions to test AI models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "score": 170,
+      "comments": 101,
+      "author": "rdmuser",
+      "time": "2026-09-25T15:27:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49845952",
+      "source": "hacker_news",
+      "title_cn": "Classified estimates show the NSA is paying billions to test AI models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+      "score": 133,
+      "comments": 222,
+      "author": "theanonymousone",
+      "time": "2026-09-24T15:09:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49831690",
+      "source": "hacker_news",
+      "title_cn": "Tutoring company tells parents to save their money and 'use AI instead'",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "url": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "score": 126,
+      "comments": 24,
+      "author": "behoove",
+      "time": "2026-09-25T18:37:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49848295",
+      "source": "hacker_news",
+      "title_cn": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "url": "https://mouse.dev/blog/muse-special/",
+      "score": 115,
+      "comments": 46,
+      "author": "Aeroi",
+      "time": "2026-09-25T18:18:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49848095",
+      "source": "hacker_news",
+      "title_cn": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "score": 85,
+      "comments": 78,
+      "author": "sbulaev",
+      "time": "2026-09-25T14:07:08+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49844896",
+      "source": "hacker_news",
+      "title_cn": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tell HN: Codex Is Down [fixed]",
+      "url": "https://news.ycombinator.com/item?id=49851032",
+      "score": 64,
+      "comments": 68,
+      "author": "minimaxir",
+      "time": "2026-09-25T22:51:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49851032",
+      "source": "hacker_news",
+      "title_cn": "Tell HN: Codex Is Down [fixed]",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Doom or Bloom, map your AI worldview",
+      "url": "https://www.doom-or-bloom.com",
+      "score": 55,
+      "comments": 43,
+      "author": "transitivebs",
+      "time": "2026-09-25T16:51:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49846953",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Doom or Bloom, map your AI worldview",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Agentic CUDA Kernel Optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "score": 32,
+      "comments": 11,
+      "author": "bertaye",
+      "time": "2026-09-25T10:32:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49842596",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Agentic CUDA Kernel Optimizer",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+      "url": "https://www.docker.com/c/sbx-promo/",
+      "score": 27,
+      "comments": 7,
+      "author": "pheonixblade9",
+      "time": "2026-09-24T22:24:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49837567",
+      "source": "hacker_news",
+      "title_cn": "Docker releases cloud sandboxes, enabling safe agentic workloads in the cloud",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Pope: AI must serve humans not become tool of domination",
+      "url": "https://www.euronews.com/2026/09/25/ai-must-serve-humans-rather-than-become-an-instrument-of-domination-and-injustice-pope-war",
+      "score": 25,
+      "comments": 6,
+      "author": "jethronethro",
+      "time": "2026-09-25T19:18:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49848734",
+      "source": "hacker_news",
+      "title_cn": "Pope: AI must serve humans not become tool of domination",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "FTC chair suggests AI developers should be liable for conduct of agents",
+      "url": "https://www.reuters.com/business/ftc-chair-pushes-back-treating-ai-agents-independent-actors-2026-09-25/",
+      "score": 24,
+      "comments": 7,
+      "author": "usernomdeguerre",
+      "time": "2026-09-25T22:49:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49850999",
+      "source": "hacker_news",
+      "title_cn": "FTC chair suggests AI developers should be liable for conduct of agents",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+      "authors": [
+        "Jiabin Qiu",
+        "Zixuan Chen",
+        "Hongye Cao",
+        "Jieqi Shi",
+        "Jing Huo"
+      ],
+      "abstract": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low factual prediction error yet poorly distinguish candidate actions. We introduce AD-WM, an action-discriminative joint-embedding world model for counterfactual MPC. AD-WM combines residual latent dynamics with predictor-level action-recovery regularization, using inverse dynamics and a normalized recovery objective motivated by conditional mutual information. Both objectives encourage planning transitions to preserve action information; their auxiliary heads are discarded at test time, leaving MPC unchanged. On OGBench-Cube, AD-WM improves hard-start success from 3.7% to 52.0% over a matched LeWM baseline and improves mean success over the reproduced baseline in four of five simulation environments. Planning diagnostics show that factual prediction error and whole-bank action ranking do not follow the closed-loop success ordering, whereas CEM-aligned elite regret tracks success more closely. With a frozen V-JEPA 2 encoder and matched DROID post-training, AD-WM also improves zero-shot transfer to our Franka setup, increasing basic pick-and-place success from 42.2% to 71.1% without lab-specific adaptation. These results suggest that world models for planning should preserve action-dependent differences needed for counterfactual selection, rather than optimize factual prediction accuracy alone. More videos and code are available at https://ad-wm.github.io/.",
+      "url": "http://arxiv.org/abs/2609.30264v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30264v1",
+      "categories": [
+        "cs.AI",
+        "cs.RO"
+      ],
+      "published": "2026-09-24T17:59:41+00:00",
+      "source": "arxiv",
+      "title_cn": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+      "summary_cn": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agentic Detection of Online Conspiracies",
+      "authors": [
+        "Lior Biton",
+        "Oren Tsur"
+      ],
+      "abstract": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, satire, or mockery. The main challenge is therefore not only recognizing conspiracy-related claims, but inferring the speaker's intent -- the utterance's illocutionary force. We argue that this can be achieved through the use of relevant social contexts and propose an agentic framework, equipped with a set of tools supporting social queries. We demonstrate the benefits of our approach on a unique dataset of Hebrew tweets, covering 80\\%--90\\% of the public Hebrew tweets published over a four-year span (late 2018-- early 2023), encompassing several election cycles as well as the COVID pandemic years and related vaccination campaigns. This extensive coverage can be used in recovering different social contexts. Evaluating our framework on a manually-annotated adversarial dataset, we find that context-aware workflows consistently outperform text-only classification and that the agentic framework performs significantly better than other frameworks and settings, including a non-agentic model exposed to the same contexts available to the agent. We further provide an analysis of the results, the errors and efficiency (token economy) tradeoffs. These findings support viewing the task of conspiracy detection as a socially embedded interpretation task, in which effective classification depends not only on access to contexts, but also on adaptive reasoning in which the agent uses tools on a per-case basis, asking only for evidence relevant to its current reasoning step.",
+      "url": "http://arxiv.org/abs/2609.30250v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30250v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-09-24T17:58:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Agentic Detection of Online Conspiracies",
+      "summary_cn": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "JevOut: Natural Context Can Flip Decision Models",
+      "authors": [
+        "Zixiang Xu"
+      ],
+      "abstract": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. Yet real-world inputs rarely arrive in isolation: they come with background details and surrounding context. We find that short additions that fit naturally into this context can nevertheless redirect an otherwise correct decision, even when the correct answer remains unchanged. To study this behavior, we fix a wrong target option for each initially correct item and use the model's option probabilities to refine fluent context additions while preserving the source, question, choices, and gold answer. Within 64 accepted target evaluations, the optimizer identifies contexts that redirect Jev on 312 of 508 initially correct decisions (61.4%); in 229 cases, Jev assigns at least 0.7 probability to the fixed wrong option. Across seven datasets, three additional decision systems show targeted flip rates of 64.9%-73.2% on decisions they initially answer correctly. Taken together, these results expose a pronounced fragility in current decision models: short, ordinary-looking context can shift a correct choice to a high-confidence wrong one. Because these models turn language directly into downstream choices, this sensitivity raises concerns about treating their probability outputs as reliable decision interfaces.",
+      "url": "http://arxiv.org/abs/2609.30243v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30243v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-09-24T17:57:07+00:00",
+      "source": "arxiv",
+      "title_cn": "JevOut: Natural Context Can Flip Decision Models",
+      "summary_cn": "Dedicated decision models such as Jev map unstructured language to probability distributions over finite choices, allowing their outputs to directly route requests, select tools, and trigger actions. ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "authors": [
+        "Wenhao Li",
+        "Zhibin Wu",
+        "Chong Xiao",
+        "Qiangchang Wang"
+      ],
+      "abstract": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically compensate for missing information by reconstructing modality features or designing complicated fusion mechanisms. However, these methods still suffer from spurious generation and noisy guidance due to the lack of high-level semantic grounding in partially observed multimodal evidence. To address these issues, we propose SemMSA, a latent semantic-aided framework that constructs rich sentiment-relevant semantics with LLMs, fully integrating with all modalities via anchor-free spectral alignment. It mainly consists of Cross-modal Semantic Refinement (CSR) and Cross-modal Spectral Alignment (CSA). Specifically, CSR first adaptively extracts visual and acoustic representations by corresponding adapters to form a unified multimodal prefix with language in the frozen LLM embedding space. It then iteratively produces continuous discriminative semantic states through a token-efficient latent refinement process without decoding explicit text. Next, CSA simultaneously aligns the refined semantics with all modalities by enhancing the dominant spectral component of their kernel Gram matrix. This captures global nonlinear dependencies among all representations without relying on a predefined anchor modality. In addition, an instance-level spectral separation constraint preserves cross-sample discriminability and mitigates representation collapse. Extensive experiments on SIMS, MOSI, and MOSEI benchmarks demonstrate that SemMSA achieves state-of-the-art performance.",
+      "url": "http://arxiv.org/abs/2609.30238v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30238v1",
+      "categories": [
+        "cs.CL",
+        "cs.CV",
+        "cs.MM"
+      ],
+      "published": "2026-09-24T17:55:31+00:00",
+      "source": "arxiv",
+      "title_cn": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "summary_cn": "Recent research on Multimodal Sentiment Analysis (MSA) has focused on learning from language, visual, and acoustic modalities with incomplete data to infer human sentiment. Most studies typically comp",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+      "authors": [
+        "Sudip Bhujel",
+        "Shanghao Shi",
+        "Ruiquan Huang",
+        "Ning Zhang",
+        "Yang Xiao"
+      ],
+      "abstract": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal structure can amplify this leakage beyond single-frame attacks. We introduce Temporal Reconstruction Attack on Consecutive Encodings (TRACE), an amortized temporal gradient-inversion attack that autoregressively reconstructs the sequence of private observation-action trajectories from per-step policy-learning gradients. The attack exploits two structural signals ignored by prior single-frame methods: (i) cross-time correlation between successive embodied gradients, which we formalize via a conditional mutual-information bound, and (ii) closed-form action recovery from policy-head gradient structure, which we prove exact when standard entropy regularization is sufficiently small. On held-out embodied scenes, TRACE reaches $18.8$ dB PSNR with near-perfect action recovery at $3$-$4.5$ ms per reconstructed frame, dominating the learning-based baseline across all reconstruction metrics and exceeding optimization attacks while running orders of magnitude faster. Further evaluation demonstrates TRACE's broader applicability across recurrent, residual, and compact transformer victim architectures, multi-modal inputs, and larger discrete action spaces. Defense experiments suggest that protecting temporal gradient streams may require sequence-aware privacy mechanisms.",
+      "url": "http://arxiv.org/abs/2609.30258v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30258v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-24T17:59:18+00:00",
+      "source": "arxiv",
+      "title_cn": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+      "summary_cn": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal stru",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "authors": [
+        "Debajyoti Mazumder",
+        "Mamta",
+        "Abhirama Subramanyam Penamakuri"
+      ],
+      "abstract": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can verify claims directly from speech. We introduce VeriSpeak, a probe benchmark for studying speech-based fact verification in Large Audio Language Models (LALMs). VeriSpeak contains 3,879 spoken claims spanning temporal, geographical, and relational facts, with balanced true and false labels. The benchmark is designed to examine whether factual verification ability transfers from text to speech, and whether retrieval-augmented LALMs can use textual evidence to correctly support or refute spoken claims. Our experiments reveal a consistent text-speech modality gap: LALMs that verify written claims reliably often fail on the same claims when spoken. Moreover, retrieval alone provides limited gains because models frequently conflate retrieved evidence with the spoken claim. In contrast, retrieval combined with explicit reasoning improves claim-evidence comparison, with a thinking-tuned LALM reaching 86.1% accuracy. VeriSpeak highlights that effective speech misinformation detection requires not only speech understanding, but also grounded reasoning over retrieved evidence. The dataset is publicly available via Hugging Face at https://huggingface.co/datasets/abhiram4572/VeriSpeak.",
+      "url": "http://arxiv.org/abs/2609.30227v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30227v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.SD"
+      ],
+      "published": "2026-09-24T17:50:40+00:00",
+      "source": "arxiv",
+      "title_cn": "To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech",
+      "summary_cn": "Online misinformation increasingly appears in spoken formats such as news clips, podcasts, interviews, political speeches, and social media videos, creating a need for fact-checking systems that can v",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "authors": [
+        "Kimia Hamidieh",
+        "Giannis Daras",
+        "Antonio Torralba"
+      ],
+      "abstract": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes unstable, and has to be run from scratch every time the reward model changes or when we want to combine multiple rewards. We hence ask: given a new reward function, is it possible to predict the RL outcomes without actually running RL on it? We answer this in the affirmative by introducing PoEM, a framework to predict the outputs of RL on a new reward function using a set of models already post-trained on other rewards. First, we show that if the new reward function can be written as a linear combination of existing ones, then the new policy in log-space can be written as a linear combination of the existing log-policies. Surprisingly, even in cases where the rewards are not linearly connected, we observe that often log-policies from RL training span an approximately low-rank subspace across rewards. To our benefit, the weighting coefficients for this combination can be estimated using only the reward or basis policy outputs on the samples. We turn these observations into an algorithm that takes post-trained models and a new reward function, and approximates the target RL policy without actually running any additional RL training. We experimentally validate our approach across synthetic and real rewards, spanning both text and image modalities.",
+      "url": "http://arxiv.org/abs/2609.30226v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30226v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:50:25+00:00",
+      "source": "arxiv",
+      "title_cn": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "summary_cn": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computat",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Minimally Invasive Steering of Language Models",
+      "authors": [
+        "Taha Entesari",
+        "Jingyu Zhang",
+        "Daniel Khashabi",
+        "Mahyar Fazlyab"
+      ],
+      "abstract": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution and degrade generation quality. We propose Minimally Invasive Steering Vector Optimization (MISVO), which penalizes interventions using the local KL geometry of the induced token distribution. The resulting Fisher quadratic measures distributional sensitivity and admits an analytic gradient computed through matrix--vector products with the frozen language-model head. We derive an exact decomposition of the sequence-level KL gradient into an analytic Fisher term and a suffix score-function term. For a fixed generation horizon, we show that the suffix term is second order in the steering magnitude and that three Fisher surrogates agree with the full KL gradient to first order. MISVO uses the frozen-reference surrogate to optimize position-specific interventions without updating model parameters. Across preference and code-generation tasks on models with approximately 1B--14B parameters, MISVO achieves the highest mean reward in six of seven model--task settings, with diversity and coherence scores close to those of Best-of-N.",
+      "url": "http://arxiv.org/abs/2609.30218v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30218v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-09-24T17:46:46+00:00",
+      "source": "arxiv",
+      "title_cn": "Minimally Invasive Steering of Language Models",
+      "summary_cn": "Pre-logit steering adapts a frozen language model to a test-time reward by adding vectors to its final hidden states. Unregularized reward optimization can substantially alter the output distribution ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Towards Practical Compression of 3D Gaussian Splatting",
+      "authors": [
+        "Pengpeng Yu",
+        "Yueru Chen",
+        "Fei Song",
+        "Tai Qin",
+        "Qi Zhang"
+      ],
+      "abstract": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on spatial context modeling over irregular 3D representations, increasing the complexity of training and coding. Meanwhile, floating-point context inference can introduce numerical inconsistencies across platforms, causing entropy-decoding failures. To address these practical challenges, we propose COSA-GS, which constructs context without spatial aggregation through anchor-wise causal factorization. Specifically, we use geometry context derived from each anchor's coordinates to model a compact learnable anchor latent. The anchor latent is then fused with the geometry context to form an anchor context for attribute coding. The resulting context model features a simple architecture composed solely of linear transformations and activations. We train COSA-GS using rate--distortion optimization with adaptive Gaussian pruning. Further, we develop quantization-aware training and integer inference for the context model to achieve bit-exact consistency of entropy-decoded symbols across platforms. Experiments demonstrate that COSA-GS achieves state-of-the-art compression performance while retaining fast and consistent cross-platform decoding, providing a simple yet effective framework for practical 3DGS compression. Code is available at https://github.com/pengpeng-yu/COSA-GS.",
+      "url": "http://arxiv.org/abs/2609.30245v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30245v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:57:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Towards Practical Compression of 3D Gaussian Splatting",
+      "summary_cn": "3D Gaussian Splatting (3DGS) enables high-quality novel-view synthesis but requires substantial storage. Existing compression methods often rely on spatial context modeling over irregular 3D represent",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+      "authors": [
+        "Ding-Jiun Huang",
+        "Yuanhao Wang",
+        "Cheng Zhang",
+        "Hugo Bertiche",
+        "Alexandru-Eugen Ichim"
+      ],
+      "abstract": "Automated generation of production-ready 3D garment assets from a single image is a central challenge in digital content creation. While recent generative models have significantly advanced 3D geometry reconstruction, synthesizing high-quality textures remains a bottleneck. Existing methods often bake environmental illumination and shadows directly into the texture map, or they fail to maintain global structural coherence, making the resulting assets unusable for physical simulation and relighting. In this work, we introduce OmniFabric, a novel approach that synthesizes globally coherent texture maps directly within the 2D sewing pattern space. Given a single reference image, our pipeline utilizes an estimated 3D mesh and generative priors of powerful Vision-Language Models (VLM) to establish a complete but coarse texture initialization across the unwrapped sewing patterns. We then leverage a specialized diffusion transformer, trained via an automated synthetic data engine and conditioned on 3D positional features, to refine this initialization directly in the canonical UV domain. This effectively removes distortion and baked-in artifacts to extract a clean and normalized texture map that preserves the original garment design. Extensive experiments demonstrate that OmniFabric significantly outperforms state-of-the-art baselines, yielding photorealistic 3D garments with high-quality textures.",
+      "url": "http://arxiv.org/abs/2609.30234v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30234v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:53:55+00:00",
+      "source": "arxiv",
+      "title_cn": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+      "summary_cn": "Automated generation of production-ready 3D garment assets from a single image is a central challenge in digital content creation. While recent generative models have significantly advanced 3D geometr",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+      "authors": [
+        "Luc Bouteille",
+        "Frederic Jonske",
+        "Jens Kleesiek",
+        "Alexander Jaus"
+      ],
+      "abstract": "Common segmentation losses aggregate errors voxel-wise, so lesions influence the objective in proportion to their volume, giving small but clinically critical lesions disproportionately little weight. Instance-aware losses aim to address this mismatch by assigning each lesion its own term. However, blob loss and CC-DiceCE derive their regions solely from annotations, so false-positive components receive no instance-level term. This matters in computer-assisted review, where each false-positive component may require separate inspection, making precision and false-positive burden important alongside recall. We introduce the bidirectional connected-component loss (BiCC), which pairs annotation- and prediction-derived partitions to score predicted components on their own scale. By deriving instances from the predictions, this branch directly penalizes false-positive components regardless of their size. The balance parameter $α$ allows control over the lesion-wise precision-recall trade-off. Across five datasets with five-fold cross-validation using nnU-Net, BiCC outperforms CC-DiceCE in lesion-wise F1 on four datasets and blob loss on all five. It significantly improves over DiceCE on three datasets and matches it on two; CC-DiceCE instead loses up to 0.363 precision by favoring recall. Code is available at https://github.com/TIO-IKIM/BiCC-Loss.",
+      "url": "http://arxiv.org/abs/2609.30223v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30223v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:48:31+00:00",
+      "source": "arxiv",
+      "title_cn": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+      "summary_cn": "Common segmentation losses aggregate errors voxel-wise, so lesions influence the objective in proportion to their volume, giving small but clinically critical lesions disproportionately little weight.",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+      "authors": [
+        "Ayush Jain",
+        "Sreeharsha Paruchuri",
+        "Ishita Gupta",
+        "Fan Zhang",
+        "Tanner Schmidt"
+      ],
+      "abstract": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEverything, a 3D point tracker that breaks this trade-off by representing videos as persistent 3D scene tracks in world coordinates. Grounded in the insight that videos are 2D projections of an underlying 3D world, TrackEverything decouples model complexity from video duration, allowing it to scale with unique physical scene geometry instead. Our approach introduces three key innovations. First, we employ a voxelization-based de-duplication mechanism at sliding-window boundaries to merge co-located tracks, preventing repeated observations of the same surface from redundantly accumulating. Second, we decompose tracking into an endpoint refiner that predicts each point's destination and static-versus-dynamic classification, followed by a lightweight trajectory refiner that decodes dense trajectories exclusively for dynamic points. Third, we propose 3D WAFT, replacing memory-prohibitive 4D correlation volumes with efficient feature sampling in the scene cloud. To the best of our knowledge, TrackEverything is the first 3D tracker capable of tracking all visible points across videos exceeding 1000 frames within 40 GB of GPU memory. On TAPVid-3D, TrackEverything outperforms all open-source all-frame dense 3D trackers by more than 20% APD on short clips, while remaining competitive with state-of-the-art sparse trackers on long sequences, despite tracking far more points.",
+      "url": "http://arxiv.org/abs/2609.30222v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30222v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.RO"
+      ],
+      "published": "2026-09-24T17:48:20+00:00",
+      "source": "arxiv",
+      "title_cn": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+      "summary_cn": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEveryt",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "authors": [
+        "Yubo Zhu",
+        "Yawen Shao",
+        "Ziyun Dai",
+        "Zixun Fang",
+        "Kai Zhu"
+      ],
+      "abstract": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions, the textual prompt largely directs the production, planning how actions, camera trajectories, lighting, and sound unfold across multi-shot sequences. In this paper, we present WanPE, a 397B-parameter prompt enhancement model trained on 1.05M real-world videos to master director-level cinematic planning. WanPE formulates shot-level cinematic plans via video-grounded reverse construction and employs Semantic-Consistency GRPO (SC-GRPO) to faithfully preserve user requirements across shots and over time. To benchmark this capability, we curate WanPEval, a human-annotated testbed covering durations from 5 to 30 seconds across varying intent granularities, supported by approximately 11K blind pairwise assessments. When powering Wan3.0's video generator, WanPE-397B boosts human preference over raw user prompts by 10.66-18.84 points at 5-15 seconds and by a dramatic 50.86 points in the 30-second arena. Ablation studies show that reverse construction demonstrates clear superiority over forward rewriting, while SC-GRPO robustly preserves semantic fidelity across model scales. Ultimately, WanPE leads all evaluated commercial offerings at 5-15 seconds and remains competitive with Seedance 2.5 at 30 seconds.",
+      "url": "http://arxiv.org/abs/2609.30221v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30221v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:48:19+00:00",
+      "source": "arxiv",
+      "title_cn": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "summary_cn": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions,",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "authors": [
+        "Jeremy Qin",
+        "David Schmotz",
+        "Derck Prinzhorn",
+        "Luca Beurer-Kellner",
+        "Ameya Prabhu"
+      ],
+      "abstract": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own execution traces. We show that local LLM agents such as Claude Code, Codex, Antigravity, Open Code and Grok Build fail to enforce this boundary. All tested harnesses, except Muse Code, allowed agents to delete their traces when asked, without triggering monitor guardrails. We also validate that external attackers can exploit this gap to induce trace deletion. Finally, we show that trace tampering behavior emerges naturally in frontier models, when agents try to improve their rewards. We advise practitioners to ensure trace logging happens through an independent interception mechanism outside of the agent's control, preserving trace integrity even in cases of full host compromise. Overall, our findings identify a concrete failure of trace integrity in agent infrastructure which can be used to conceal misaligned behaviors like scheming or sabotage.",
+      "url": "http://arxiv.org/abs/2609.30266v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30266v1",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ],
+      "published": "2026-09-24T17:59:54+00:00",
+      "source": "arxiv",
+      "title_cn": "LLM Agents Can Easily Tamper With Their Own Traces",
+      "summary_cn": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "RAPID: Robot Agentic Programming from Demonstrations",
+      "authors": [
+        "Yuyao Liu",
+        "Jiayuan Mao",
+        "David Hsu",
+        "Leslie Pack Kaelbling",
+        "Tomás Lozano-Pérez"
+      ],
+      "abstract": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrations (RAPID), which automatically generates, verifies, and refines robot programs, given a single visual human demonstration. The iterative agentic loop of code refinement requires several key ingredients: (i) a testable task specification, (ii) action primitives for robot execution, and (iii) an interactive environment for program execution and verification. RAPID infers all three from the demonstration automatically. To make the resulting program reusable beyond the demonstration setting, RAPID uses an object-centric relational program representation that focuses on the underlying structure of the demonstrated strategy rather than the specific motion per se: it expresses the action primitives as trajectory-optimization programs that realize object-level motion effects, while composing them through relational constraints that capture scene-specific geometry at run time. We evaluated RAPID in simulation on eight challenging contact-rich nonprehensile manipulation tasks as well as general prehensile manipulation tasks in the LIBERO-Pro benchmark. We also successfully deployed it on a real Franka arm and evaluated on all eight nonprehensile tasks. In all experiments, RAPID demonstrated strong performance, with generalization over object pose, shape, material, and environment. Website: https://yuyaoliu.me/projects/rapid.",
+      "url": "http://arxiv.org/abs/2609.30249v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.30249v1",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-09-24T17:58:21+00:00",
+      "source": "arxiv",
+      "title_cn": "RAPID: Robot Agentic Programming from Demonstrations",
+      "summary_cn": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrati",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
