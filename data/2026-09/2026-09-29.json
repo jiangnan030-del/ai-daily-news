@@ -1,0 +1,723 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T11:17:00.919369+08:00",
+  "github_trending": [
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "stars": 41206,
+      "forks": 5562,
+      "language": "Python",
+      "stars_today": 4561,
+      "source": "github_trending",
+      "summary_cn": "Hindsight: Agent Memory That Learns",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 93075,
+      "forks": 15912,
+      "language": "TypeScript",
+      "stars_today": 3197,
+      "source": "github_trending",
+      "summary_cn": "The open-source app everyone uses to manage agents at work",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "stars": 60482,
+      "forks": 10413,
+      "language": "Python",
+      "stars_today": 1287,
+      "source": "github_trending",
+      "summary_cn": "Learn it. Build it. Ship it for others.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "stars": 21345,
+      "forks": 1807,
+      "language": "TypeScript",
+      "stars_today": 1099,
+      "source": "github_trending",
+      "summary_cn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "stars": 1807,
+      "forks": 142,
+      "language": "TypeScript",
+      "stars_today": 734,
+      "source": "github_trending",
+      "summary_cn": "Multi-agent harness that runs Claude Code and Codex together as one system",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "byoungd/up",
+      "url": "https://github.com/byoungd/up",
+      "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "stars": 64832,
+      "forks": 6521,
+      "language": "JavaScript",
+      "stars_today": 327,
+      "source": "github_trending",
+      "summary_cn": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "description": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "stars": 26783,
+      "forks": 3775,
+      "language": "Python",
+      "stars_today": 145,
+      "source": "github_trending",
+      "summary_cn": "380 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 380+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/SkillOpt",
+      "url": "https://github.com/microsoft/SkillOpt",
+      "description": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "stars": 17813,
+      "forks": 1671,
+      "language": "Python",
+      "stars_today": 136,
+      "source": "github_trending",
+      "summary_cn": "SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ashhart/TensorFold",
+      "url": "https://github.com/ashhart/TensorFold",
+      "description": "Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint",
+      "stars": 559,
+      "forks": 58,
+      "language": "Python",
+      "stars_today": 120,
+      "source": "github_trending",
+      "summary_cn": "Fast, exact LLM decoding on Apple Silicon (MLX) behind an OpenAI-compatible endpoint",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "stars": 31166,
+      "forks": 3126,
+      "language": "Python",
+      "stars_today": 96,
+      "source": "github_trending",
+      "summary_cn": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "samugit83/redamon",
+      "url": "https://github.com/samugit83/redamon",
+      "description": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.",
+      "stars": 2761,
+      "forks": 570,
+      "language": "Python",
+      "stars_today": 84,
+      "source": "github_trending",
+      "summary_cn": "An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "description": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "stars": 12222,
+      "forks": 2488,
+      "language": "Python",
+      "stars_today": 53,
+      "source": "github_trending",
+      "summary_cn": "HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Rizzo-AI-Academy/rizzo-pii",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-pii",
+      "description": "Local-first privacy guard: anonymize your documents before sharing with LLMs.",
+      "stars": 1101,
+      "forks": 81,
+      "language": "Python",
+      "stars_today": 21,
+      "source": "github_trending",
+      "summary_cn": "Local-first privacy guard: anonymize your documents before sharing with LLMs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "description": "Agent Zero AI framework",
+      "stars": 19336,
+      "forks": 3825,
+      "language": "Python",
+      "stars_today": 18,
+      "source": "github_trending",
+      "summary_cn": "Agent Zero AI framework",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "score": 351,
+      "comments": 225,
+      "author": "zazuke",
+      "time": "2026-09-28T16:11:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49880312",
+      "source": "hacker_news",
+      "title_cn": "The problem is not AI code, but not knowing about system architecture or intent",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "score": 331,
+      "comments": 130,
+      "author": "ibobev",
+      "time": "2026-09-28T19:53:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49883471",
+      "source": "hacker_news",
+      "title_cn": "It's Time to Investigate the AI Labs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Prompting Claude Opus 5.5",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
+      "score": 195,
+      "comments": 219,
+      "author": "Michelangelo11",
+      "time": "2026-09-28T07:33:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49874728",
+      "source": "hacker_news",
+      "title_cn": "Prompting Claude Opus 5.5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "score": 171,
+      "comments": 76,
+      "author": "teleforce",
+      "time": "2026-09-28T03:23:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49873241",
+      "source": "hacker_news",
+      "title_cn": "Thinking fast and slow in AI: The role of metacognition (2021)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "score": 149,
+      "comments": 66,
+      "author": "logicallee",
+      "time": "2026-09-28T18:58:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49882781",
+      "source": "hacker_news",
+      "title_cn": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "url": "https://hn.watch/",
+      "score": 136,
+      "comments": 82,
+      "author": "mrborgen",
+      "time": "2026-09-28T15:16:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49879401",
+      "source": "hacker_news",
+      "title_cn": "Show HN: HN.watch – Videos of all Hacker News posts",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "What would a serious AI product look like?",
+      "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+      "score": 135,
+      "comments": 53,
+      "author": "lumpa",
+      "time": "2026-09-28T11:02:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49876148",
+      "source": "hacker_news",
+      "title_cn": "What would a serious AI product look like?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "url": "https://github.com/seamusc/papermono-shopping-list",
+      "score": 131,
+      "comments": 54,
+      "author": "seamus_c",
+      "time": "2026-09-28T10:14:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49875801",
+      "source": "hacker_news",
+      "title_cn": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Cf: The Agentic CLI for the Cloudflare API",
+      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+      "score": 129,
+      "comments": 56,
+      "author": "macleos",
+      "time": "2026-09-28T15:28:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49879577",
+      "source": "hacker_news",
+      "title_cn": "Cf: The Agentic CLI for the Cloudflare API",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "score": 117,
+      "comments": 45,
+      "author": "hp6",
+      "time": "2026-09-27T15:51:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49867775",
+      "source": "hacker_news",
+      "title_cn": "Show HN: TinyAIArena watch AI agents battle it out",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+      "score": 115,
+      "comments": 153,
+      "author": "jonbaer",
+      "time": "2026-09-28T15:46:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49879883",
+      "source": "hacker_news",
+      "title_cn": "Nvidia wants to put a watchdog chip next to every AI agent",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "score": 104,
+      "comments": 104,
+      "author": "mikelgan",
+      "time": "2026-09-28T17:33:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49881484",
+      "source": "hacker_news",
+      "title_cn": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "score": 96,
+      "comments": 10,
+      "author": "mpweiher",
+      "time": "2026-09-27T19:28:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49869995",
+      "source": "hacker_news",
+      "title_cn": "Imp is a full port of DSPy to the BEAM",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "score": 84,
+      "comments": 35,
+      "author": "FKJ",
+      "time": "2026-09-27T17:24:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49868753",
+      "source": "hacker_news",
+      "title_cn": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "score": 77,
+      "comments": 73,
+      "author": "6thbit",
+      "time": "2026-09-28T23:40:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49886005",
+      "source": "hacker_news",
+      "title_cn": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "FONDANT: Strong and Best-Effort Planning via Antichains",
+      "authors": [
+        "Benjamin Aminof",
+        "Tuan Khai Nguyen",
+        "Sasha Rubin"
+      ],
+      "abstract": "A classical solution concept in fully observable nondeterministic (FOND) planning, is the strong policy (aka winning strategy in the closely related area of reactive synthesis), i.e., such a policy ensures that the goal is reached in an adversarial environment. When strong policies are not available or there is no evidence that the environment is adversarial, one can resort to best-effort policies, which always exist, and which follow the classic decision-theoretic principle that an agent should not use a dominated strategy. A typical positional best-effort policy works as follows: from every state, it follows a strong policy if one exists from that state (such states are called ``strong-winning''), else a weak policy if one exists from that state (``weak-winning''), and else is unconstrained (``losing''). In this work, we introduce a sound and complete planner for both best-effort planning and strong planning. The algorithm that underpins the planner is quite simple: it represents certain sets of states, such as the winning regions, by their $\\subseteq$-minimal elements. The algorithm returns uniform policies, i.e., it returns a policy $π_t$ that is a strong solution starting in every strong-winning state, and it returns a policy $π_w$ that is a weak solution starting in every weak-winning state, and it provides a certificate for the set of losing states. We implemented the algorithm with some simple optimizations (calling it FONDANT), and evaluated it on a benchmark set consisting of the instances that were used in the evaluation of leading strong planners PR2 and FOND-SAT, and the best-effort planner BeSyftP. On coverage, our implementation is at least as good on all domains, and outperforms on some domains; and on wall time, it is slower on small and medium-sized instances, and outperforms on larger instances.",
+      "url": "http://arxiv.org/abs/2609.35160v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35160v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-28T13:36:01+00:00",
+      "source": "arxiv",
+      "title_cn": "FONDANT: Strong and Best-Effort Planning via Antichains",
+      "summary_cn": "A classical solution concept in fully observable nondeterministic (FOND) planning, is the strong policy (aka winning strategy in the closely related area of reactive synthesis), i.e., such a policy en",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PEARL: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning",
+      "authors": [
+        "Jiaan Zhu",
+        "Wei Gao",
+        "Youhui Bai",
+        "Zewen Jin",
+        "Ju Huang"
+      ],
+      "abstract": "Multi-turn rollout dominates the cost of agentic reinforcement learning (RL). Asynchronous execution and elastic GPU resources can accelerate this stage, but adding rollout replicas yields diminishing returns while training GPUs remain idle between updates. We observe that effective resource use also depends on the prefill--decode (PD) configuration. Both the choice between colocation and disaggregation and the optimal PD ratio vary with the workload, making resource scaling and PD configuration interdependent. Exploiting this opportunity requires selecting effective configurations and realizing their benefits within transient resource-availability windows despite reconfiguration costs. We present PEARL, an asynchronous agentic RL system that coordinates external resource elasticity, temporary reuse of idle training GPUs, and adaptive PD execution. PEARL maintains a unified GPU--worker--role state and uses runtime profiles to predict rollout batch completion time, accounting for environment-induced reductions in decode concurrency. It selects the PD mode and ratio under the current GPU budget and translates each decision into an incremental transition plan that minimizes worker and role changes. Cost-aware switching and borrowing policies suppress transitions with insufficient expected benefit while ensuring timely return of training GPUs. Our evaluation show that PEARL achieves $2.17$--$2.79\\times$ the throughput of fixed-resource ROLL across different LLMs. Compared with RLBoost+, throughput improves by up to approximately 26.9\\% for Qwen3-8B and 36.3\\% for Qwen3-30B-A3B.",
+      "url": "http://arxiv.org/abs/2609.35158v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35158v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-09-28T13:35:47+00:00",
+      "source": "arxiv",
+      "title_cn": "PEARL: Adaptive Prefill-Decode Execution with Elasticity for Agentic Reinforcement Learning",
+      "summary_cn": "Multi-turn rollout dominates the cost of agentic reinforcement learning (RL). Asynchronous execution and elastic GPU resources can accelerate this stage, but adding rollout replicas yields diminishing",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale",
+      "authors": [
+        "Yaxiao Liu",
+        "Pengbo Liu",
+        "Yiwen Liu",
+        "Yihua Guan",
+        "Jiaxing Song"
+      ],
+      "abstract": "Agents need calibration when deployment conditions change: replacing a driving model, including a foundation-to-post-trained transition; crossing jurisdictions; or scaling across heterogeneous markets and sources. Interface compatibility alone does not establish capability retention or target-contract satisfaction. We formulate agent calibration as constrained behavioral adaptation across three interacting layers: information preservation, harness adaptation, and user acceptance; the layers apply to every scenario, not one-to-one to the three. The basic objective is non-degradation on prespecified capability measures while satisfying target requirements; aggregate improvement is stronger. Information calibration preserves independently validated source content still applicable to the target task. Harness calibration aligns observable artifacts at semantic checkpoints and repairs them through iteration, tool substitution, or local replanning within explicit budgets. User calibration enforces recipient-specific output contracts: templates, schemas, and section-level preferences. A global e-commerce example shows how shared standards coexist with site- and market-specific adapters and validation. We distinguish trainable policies from frozen-backbone configuration or controller optimization, and evidence verification from relative judgment and DPO/GRPO optimization. Recent harness-transfer and judge-validity studies motivate target-native execution records, separate audits of task validity and near-tie ranking, and matched target-native optimization controls. We propose held-out evaluations for model changes, cross-border adaptation, and scale, including a factorial test of source evidence and checkpoint repair and group-level reporting to prevent aggregate gains from masking local failures. This is a methodological proposal; implementation and empirical validation remain future work.",
+      "url": "http://arxiv.org/abs/2609.35149v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35149v1",
+      "categories": [
+        "cs.AI",
+        "cs.MA",
+        "cs.SE"
+      ],
+      "published": "2026-09-28T13:31:46+00:00",
+      "source": "arxiv",
+      "title_cn": "From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale",
+      "summary_cn": "Agents need calibration when deployment conditions change: replacing a driving model, including a foundation-to-post-trained transition; crossing jurisdictions; or scaling across heterogeneous markets",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation",
+      "authors": [
+        "Yueming Lyu"
+      ],
+      "abstract": "Estimating integrals of black-box, high-dimensional functions, from expectations and kernel mean embeddings to the softmax kernel in self-attention, is a basic subroutine in machine learning. Rank-1 lattice rules suit this setting: they query the integrand only at a fixed point set and need no gradients. When the $n$ points serve as a design matrix $X\\in\\mathbb{R}^{n\\times d}$ for a feature map, however, computing $Ψ(X)^\\top v$ or $Ψ(X)w$ for an elementwise nonlinearity $Ψ$ costs $O(nd)$ time and memory for any standard quasi-Monte Carlo point set. We study subgroup rank-1 lattices, whose Korobov generator $(1,t,\\dots,t^{d-1})$ uses a scalar $t$ of fixed multiplicative order $m$. Splitting $\\mathbb{F}_n^\\times$ into cosets of $\\langle t\\rangle$ reduces both maps to short cyclic correlations evaluated by FFT, giving exact results for arbitrary $Ψ$ in $O(n\\log m)$ time and $O(n)$ memory, without forming $X$. Since fixing $m$ falls outside classical component-by-component theory, we prove convergence directly: via resultants with the cyclotomic polynomial $Φ_m$, the squared worst-case error in the Korobov space decays as $O(n^{-(α-1)/(m-1)})$ for prime $m\\ge d+1$, and this threshold is exact. Using the splitting of $n$ in $\\mathbb{Q}(ζ_m)$, averaging over the $m-1$ admissible generators improves the constant by a factor $Θ(m-1)$. Empirically, the subgroup lattice beats Gaussian and orthogonal random features and scrambled Sobol' and Halton points in 49 of 54 synthetic kernel-estimation settings and all 45 softmax-attention settings on nine real datasets, and builds a sample set with $d=2048$, $n\\approx4.1\\times10^7$ in 2.3 ms.",
+      "url": "http://arxiv.org/abs/2609.35177v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35177v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:42:53+00:00",
+      "source": "arxiv",
+      "title_cn": "Subgroup Rank-1 Lattice for Practical High-dimensional Black-box Integral Approximation",
+      "summary_cn": "Estimating integrals of black-box, high-dimensional functions, from expectations and kernel mean embeddings to the softmax kernel in self-attention, is a basic subroutine in machine learning. Rank-1 l",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models",
+      "authors": [
+        "Robert Lampel",
+        "Timon Klein",
+        "Sebastian Sager"
+      ],
+      "abstract": "We propose a lifted reformulation of supervised classification that improves the final accuracy of standard classifiers without changing the architecture at inference time. A network $N=N_2\\circ N_1$ is split at a single semantic interface and one learnable prototype per class is inserted there. Training combines a quadratic consensus penalty that pulls $N_1(x)$ toward the prototype of its class with a classification loss of $N_2$ evaluated on samples drawn around the prototypes, whereat no gradient crosses the interface. At inference the prototypes are discarded and the unmodified network $N_2\\circ N_1$ is used. Across CIFAR-10, CIFAR-100, and TinyImageNet with ResNet and vision transformer backbones, lifted training improves test accuracy by up to five percentage points over variants without lifting under a shared tuning protocol. Moreover, we provide theoretical justification of those results.",
+      "url": "http://arxiv.org/abs/2609.35174v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35174v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:41:48+00:00",
+      "source": "arxiv",
+      "title_cn": "ProtoSeam: Lifting Classifier Training with Latent Gaussian Mixture Models",
+      "summary_cn": "We propose a lifted reformulation of supervised classification that improves the final accuracy of standard classifiers without changing the architecture at inference time. A network $N=N_2\\circ N_1$ ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency",
+      "authors": [
+        "Shihao Wang",
+        "Rui Kong",
+        "Xinran Chen",
+        "Hui Wu",
+        "Qipeng Qian"
+      ],
+      "abstract": "Saved checkpoints record states along a training trajectory, but generally do not determine the updates at states that would be visited under a different schedule. We study how accurately these checkpoints can reconstruct the endpoint of a sequential reference with prescribed update strengths. Under a common local transition model, two checkpoint-index moment conditions characterize all convex merges that agree with this reference through second order. We then prove an information limit that for nondegenerate profiles, no algorithm using only a fixed-length gradient-descent (GD) history with step size $h$ can achieve $o(h^3)$ endpoint error uniformly over a fixed class of smooth, strongly convex losses. The lower bound follows from two losses with identical GD checkpoint histories but sequential reference endpoints separated by $Ω(h^3)$. \\textbf{Quadratic-Accurate Merging} (QAM) achieves a matching uniform $O(h^3)$ endpoint error bound. Its explicit coefficients also define the unique profile-dependent merge that exactly matches the sequential GD reference across all fixed quadratic objectives. Across two public Adam checkpoint trajectories (SmolLM3-3B and OpenEuroLLM-Prelude-9B), three windows and three profiles per model, and 15 tasks, QAM shows mixed results for short windows and broader advantages over \\textbf{Warmup-Stable and Merge} (WSM) for longer windows. Matched-moment GSM8K diagnostics further show that local consistency alone does not fully determine downstream scores. These results characterize the reconstruction limits of saved histories, provide a coefficient rule that attains the optimal rate, and assess its practical utility.",
+      "url": "http://arxiv.org/abs/2609.35168v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35168v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-09-28T13:39:41+00:00",
+      "source": "arxiv",
+      "title_cn": "QAM: Quadratic-Accurate Checkpoint Merging via Sequential Consistency",
+      "summary_cn": "Saved checkpoints record states along a training trajectory, but generally do not determine the updates at states that would be visited under a different schedule. We study how accurately these checkp",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "EdgeCraft: Automated Model Crafting for Edge IoT",
+      "authors": [
+        "Genglin Wang",
+        "Kaiwei Liu",
+        "Liekang Zeng",
+        "Wangsong Yin",
+        "Shangcheng Jin"
+      ],
+      "abstract": "Machine learning (ML) increasingly powers Internet of Things (IoT) applications at the edge. Yet producing a deployable edge ML artifact for a specific scenario requires navigating a huge search space spanning data representation, model design, training on domain-specific data, and runtime customization. This workflow is fragmented and difficult to scale across diverse edge applications. We present EdgeCraft, an LLM-driven system that turns high-level intent into deployable edge ML artifacts. Building such a system raises two challenges: (1) How can an LLM be guided to find high-quality solutions that meet dynamic SLOs for task quality, latency, and energy? (2) How can trustworthy target-device verification be obtained at low cost? EdgeCraft addresses these challenges with two designs. (1) A constraint-aware synthesis tree explores alternative candidates and uses measured SLO gaps to guide each improvement. (2) A multi-fidelity verifier progressively combines low-cost checks with full target-device verification to reduce verification cost while preserving reliable verification results. It also records verified failures for reuse, avoiding repeated device work. To support concurrency, EdgeCraft provides a multi-tenant runtime that runs cloud training and target-device verification in parallel while isolating requests. Across 50 public tasks, EdgeCraft exceeds the task-specific Reference in best-observed quality on 40 tasks and finds an SLO-feasible artifact on 45, with the two outcomes overlapping on 38 tasks. Moreover, EdgeCraft achieves competitive performance on our self-collected SEN dataset, suggesting its generalizability to real-world IoT sensing tasks.",
+      "url": "http://arxiv.org/abs/2609.35167v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35167v1",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ],
+      "published": "2026-09-28T13:39:03+00:00",
+      "source": "arxiv",
+      "title_cn": "EdgeCraft: Automated Model Crafting for Edge IoT",
+      "summary_cn": "Machine learning (ML) increasingly powers Internet of Things (IoT) applications at the edge. Yet producing a deployable edge ML artifact for a specific scenario requires navigating a huge search space",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion",
+      "authors": [
+        "Dmitrii Moor",
+        "Federico Tomasi",
+        "Paul N. Bennett",
+        "Alice Wang",
+        "Mounia Lalmas"
+      ],
+      "abstract": "Discrete diffusion models offer the ability to re-draft, revisiting and correcting earlier tokens throughout generation. This capability depends on the forward corruption process that defines what the denoiser learns to correct. Masked diffusion models fix tokens once they are unmasked, while uniform diffusion permits revisions but relies on uniformly random token substitutions. We instead learn which substitutions are most useful for training the denoiser to re-draft. We introduce Variational Stackelberg Discrete Diffusion (VSDD), a framework for learning a semantically aware corruption process. VSDD formulates training as a leader-follower game: the leader defines a Markovian corruption process parameterized by the denoiser's token embeddings, while the follower optimizes a variational denoising objective with the corruption process held fixed. The leader rewards corruptions based on how much the denoiser improves after learning from them, rather than on how easily the current denoiser can reconstruct them. We measure this improvement under a fixed reference corruption process, approximate the follower's response with a one-step gradient update, and optimize the leader using a score-function estimator. We evaluate VSDD across molecular, text, and playlist generation. VSDD substantially improves molecular validity over uniform and masked diffusion, reduces text perplexity relative to uniform diffusion while remaining competitive with masked diffusion, and achieves sizable improvements in offline playlist recommendation metrics.",
+      "url": "http://arxiv.org/abs/2609.35166v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35166v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-09-28T13:38:38+00:00",
+      "source": "arxiv",
+      "title_cn": "Learning to Re-Draft: A Variational Stackelberg Game for Discrete Diffusion",
+      "summary_cn": "Discrete diffusion models offer the ability to re-draft, revisiting and correcting earlier tokens throughout generation. This capability depends on the forward corruption process that defines what the",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Small transformers track Bayesian evidence for latent common causes via a context-invariant mechanism",
+      "authors": [
+        "Amir Mohammadpour",
+        "Michael Franke"
+      ],
+      "abstract": "We present an in-depth investigation of how a form of Bayesian reasoning about common causes can emerge as a cross-contextual generalization in small, tractable transformers. Incrementing on recent work, our set-up (i) disentangles causal mechanisms in the model from the causal structure of the true data-generating process, (ii) orients more towards natural language prediction by considering inference of latent common causes, and (iii) considers whether and how Bayesian evidence accumulation for latent common causes can be implemented in representations and mechanisms that allow for cross-context generalization to novel test cases.",
+      "url": "http://arxiv.org/abs/2609.35161v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35161v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:36:19+00:00",
+      "source": "arxiv",
+      "title_cn": "Small transformers track Bayesian evidence for latent common causes via a context-invariant mechanism",
+      "summary_cn": "We present an in-depth investigation of how a form of Bayesian reasoning about common causes can emerge as a cross-contextual generalization in small, tractable transformers. Incrementing on recent wo",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion",
+      "authors": [
+        "Genglin Wang",
+        "Wangsong Yin",
+        "Yeerzhati Abudunuer",
+        "Haoxuan Xu",
+        "Guoliang Xing"
+      ],
+      "abstract": "Multi-document retrieval-augmented generation (RAG) requires a language model to process multiple retrieved text chunks before answering a question. Precomputing each chunk's KV cache independently and concatenating the caches when the chunks are retrieved can accelerate this step. However, the assembled cache lacks cross-chunk attention information, reducing answer quality. Selective recomputation methods recover the missing cross-chunk context by rerunning the target LLM on selected tokens, incurring substantial online computation. We introduce CacheRepair, a lightweight network that learns the difference between independently computed KV caches and those produced by processing the chunks together. The network combines compressed KV features with token embeddings and uses attention that is bidirectional within each chunk and flows from earlier to later chunks. Each repair block receives the compressed cache features, and the predicted residual is added to every document token's cache. Each repair network is trained for a specific frozen target LLM on a generic retrieval corpus and reused across downstream datasets. Our analysis shows that repair reduces KV errors both near chunk boundaries and throughout chunk interiors. Evaluation across three target LLMs and four downstream datasets places CacheRepair on the measured answer-quality-latency Pareto frontier in eleven of twelve model-dataset combinations. Reported time to first token (TTFT) includes online cache transfer and repair. Across all twelve combinations, the largest repairers achieve 1.69-4.61$\\times$ speedups in median TTFT over full prefill and improve mean F1 by 2.1-26.1 percentage points over direct cache reuse.",
+      "url": "http://arxiv.org/abs/2609.35139v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35139v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:26:55+00:00",
+      "source": "arxiv",
+      "title_cn": "CacheRepair: Learning to Repair Cross-Chunk Context in RAG for KV Cache Fusion",
+      "summary_cn": "Multi-document retrieval-augmented generation (RAG) requires a language model to process multiple retrieved text chunks before answering a question. Precomputing each chunk's KV cache independently an",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales",
+      "authors": [
+        "Shidu Ren",
+        "Qilin Gu",
+        "Zhenghao Ni",
+        "Junhan Sun",
+        "Jiaqi Wang"
+      ],
+      "abstract": "Latent world models predict future states for goal-directed planning using action chunks spanning multiple primitive steps. Existing methods typically use fixed-length chunks and either omit goal-conditioned action generation or limit their supervision to short goal spans. We introduce FlexiWorld, a JEPA-based world model that combines mixed-span goal supervision with variable-length action chunks to improve long-horizon control. During training, we sample varying goal spans and randomly partition the actions into variable-length chunks. We jointly train the world model with a causal action encoder that embeds variable-length chunks and an autoregressive actor that generates primitive actions sequentially. Student Forcing reduces exposure bias by training on generated action prefixes. For planning, Actor-Residual Cross-Entropy Method (ARCEM) combines action-residual search with within-chunk autoregressive feedback and chunk-boundary latent prediction. Across four benchmarks and goal distances, FlexiWorld with ARCEM achieves 89.29% mean success, compared with 83.98% for the strongest baseline. PushT ablations show improved direct control from mixed-span supervision, variable-length chunks, and Student Forcing. Without retraining, FlexiWorld supports different planning chunk lengths: longer chunks accelerate ARCEM by approximately $1.3\\times$ on average while maintaining comparable average success.",
+      "url": "http://arxiv.org/abs/2609.35138v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35138v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:26:49+00:00",
+      "source": "arxiv",
+      "title_cn": "FlexiWorld: Learning and Planning via Flexible Action Chunks Across Multiple Time Scales",
+      "summary_cn": "Latent world models predict future states for goal-directed planning using action chunks spanning multiple primitive steps. Existing methods typically use fixed-length chunks and either omit goal-cond",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning",
+      "authors": [
+        "Junkang Liu"
+      ],
+      "abstract": "Communication-efficient federated optimization commonly spends several gradient evaluations between server updates. Existing local-update methods use this computation to advance an independent model on each client. Under heterogeneous data, however, these models evaluate gradients at different locations, making the aggregated update difficult to interpret as a gradient of the global objective. We study an alternative use of the same computation budget: \\emph{evaluate the global objective along a shared, predicted path}. We propose Common-Trajectory Predictive Federated Learning (\\texttt{CTP-FL}). At each round, all clients construct the same sequence of query points from the current global model and the previous aggregated direction, evaluate $K$ stochastic gradients along this sequence, and upload their average. The server then performs a single global update. Thus, \\texttt{CTP-FL} uses $K$ mini-batch gradients per client and one model-sized vector in each communication direction, matching the per-round computation and communication of full-participation FedAvg-M. Shared query points make the aggregated direction an unbiased estimator of the average \\emph{global} gradient along the predicted path. The remaining discrepancy from the gradient at the current model is controlled by the path length, without assuming bounded client-gradient dissimilarity or bounded gradients. For smooth non-convex objectives, we establish an $\\mathcal{O}\\!\\left( \\sqrt{LΔσ^2/(NKR)}+LΔ/R \\right)$ average-stationarity bound under full participation. The analysis isolates a testable trade-off: extending the prediction path provides more forward-looking gradient information but increases its displacement bias.",
+      "url": "http://arxiv.org/abs/2609.35130v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35130v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-09-28T13:22:45+00:00",
+      "source": "arxiv",
+      "title_cn": "CTP-FL: Common-Trajectory Gradient Prediction for Federated Learning",
+      "summary_cn": "Communication-efficient federated optimization commonly spends several gradient evaluations between server updates. Existing local-update methods use this computation to advance an independent model o",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation",
+      "authors": [
+        "Ping Xiong",
+        "Shanglin Li",
+        "Yi Ding",
+        "Thomas Schnake",
+        "Shinichi Nakajima"
+      ],
+      "abstract": "Hyperbolic neural networks introduce geometric operations that require explicit treatment in relevance propagation. Equivalent geometric realizations can produce different feature attributions, even when local relevance is conserved. We study this problem through Geometric Representation Invariance (GRI), a specialization of Implementation Invariance, and zero-curvature consistency, which requires identity relevance propagation when a geometric module approaches the identity. We propose LRP-radial-all for origin-centered radial modules, treating geometric scaling as modulation and assigning relevance entirely to the signal branch. The rule conserves relevance, is invariant to equivalent radial factorizations, and satisfies zero-curvature consistency, yielding GRI for a specified Poincaré-Lorentz logarithmic-map construction. In contrast, a conservative LRP-half baseline can violate both consistency criteria. Experiments on hyperbolic MNIST, sEEG, and CIFAR-10 classifiers assess attribution fidelity, qualitative explanations, and runtime. LRP-radial-all achieves competitive attribution fidelity across datasets with runtime comparable to Gradient$\\times$Input and substantially lower than Integrated Gradients. These findings motivate geometry-aware propagation rules that distinguish relevance conservation from consistency across equivalent computations.",
+      "url": "http://arxiv.org/abs/2609.35128v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35128v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-09-28T13:22:23+00:00",
+      "source": "arxiv",
+      "title_cn": "Explaining Hyperbolic Neural Networks via Geometry-Aware Relevance Propagation",
+      "summary_cn": "Hyperbolic neural networks introduce geometric operations that require explicit treatment in relevance propagation. Equivalent geometric realizations can produce different feature attributions, even w",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Multimodal Autonomic Sensing Framework for Objective Assessment of Patient Responses to Dental Pulp Stimulation",
+      "authors": [
+        "Youngsun Kong",
+        "Yubin Choi",
+        "Dongjin Song",
+        "Dong-Guk Shin",
+        "I-Ping Chen"
+      ],
+      "abstract": "Patient responses to dental pulp testing, ranging from no sensation to intense pain, provide important information for assessing pulp status in endodontic diagnosis. However, pain is a subjective sensory and emotional experience that varies considerably across individuals and can be difficult to communicate. We investigated whether complementary autonomic signals could support objective assessment of responses during dental examination. Forty-nine patients underwent cold pulp testing, yielding no-response, mild-response, and intense-response conditions. The framework integrated ECG-derived skin nerve activity (SKNA) and R-R intervals (RRI), together with electrodermal activity (EDA), using temporal convolutional network encoders with attention-based mid-level fusion. Individual baseline signals and subject-level covariates, including anxiety scores and biological sex, were also incorporated. The framework achieved 80.2% balanced accuracy, 75.2% sensitivity, and 85.2% specificity for binary classification of no response versus mild or intense response. For three-class classification, it achieved 60.0% balanced accuracy and a 58.8% macro-averaged F1 score. Ablation and attention-weight analyses indicated that EDA contributed most strongly to model performance, followed by RRI, while SKNA improved balanced accuracy by approximately five percentage points. Age was significantly associated with model performance. These findings support the feasibility of multimodal autonomic sensing for objective, non-invasive assessment of responses to dental pulp stimulation.",
+      "url": "http://arxiv.org/abs/2609.35121v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35121v1",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ],
+      "published": "2026-09-28T13:18:58+00:00",
+      "source": "arxiv",
+      "title_cn": "A Multimodal Autonomic Sensing Framework for Objective Assessment of Patient Responses to Dental Pulp Stimulation",
+      "summary_cn": "Patient responses to dental pulp testing, ranging from no sensation to intense pain, provide important information for assessing pulp status in endodontic diagnosis. However, pain is a subjective sens",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut",
+      "authors": [
+        "Gunin Gupta",
+        "Nirmit Arora",
+        "Pavan Kalyan Tankala"
+      ],
+      "abstract": "AI agents increasingly carry out long-horizon professional work, but their evaluations rarely require a finished creative deliverable. To this end, we introduce Timeline-Bench, a benchmark of 56 real video-editing tasks, each asking an agent to turn raw production material into a finished video. Tasks range from selecting dialog takes and shaping interview footage into a story to cutting commercials from product shots, voiceovers and graphics. Every task provides a brief, source assets, a container and a set of tests. A task is resolved when the output passes every test. The tests check the delivery format, the content and the brief's explicit requirements, and include a quality test calibrated on 2,582 blind judgments by 43 video editors. We evaluate 16 agents that pair frontier models with coding-agent harnesses such as Codex, Claude Code and OpenCode. The best, GPT-6 Astra in Codex with curated editorial guidance, resolves only 15 of the 56 tasks (26.8%), and the average agent resolves 14.0%. Human editors prefer the reference edit in 83.5% of judgments. Most unresolved runs (562 of 771) fail only the quality test: agents perceive footage through stills and transcripts and check their renders for defects, not craft. We release the tasks, verifier and per-run results at https://timelinebench.tensortest.com.",
+      "url": "http://arxiv.org/abs/2609.35143v1",
+      "pdf_url": "https://arxiv.org/pdf/2609.35143v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.MM"
+      ],
+      "published": "2026-09-28T13:28:17+00:00",
+      "source": "arxiv",
+      "title_cn": "Timeline-Bench: Evaluating Agents on Realistic Video-Editing Tasks, from Raw Footage to Final Cut",
+      "summary_cn": "AI agents increasingly carry out long-horizon professional work, but their evaluations rarely require a finished creative deliverable. To this end, we introduce Timeline-Bench, a benchmark of 56 real ",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
