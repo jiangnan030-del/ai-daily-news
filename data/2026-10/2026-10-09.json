@@ -1,0 +1,695 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T11:39:08.624641+08:00",
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 28825,
+      "forks": 3384,
+      "language": "TypeScript",
+      "stars_today": 7738,
+      "source": "github_trending",
+      "summary_cn": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 281291,
+      "forks": 23571,
+      "language": "Shell",
+      "stars_today": 1774,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "stars": 46609,
+      "forks": 2962,
+      "language": "HTML",
+      "stars_today": 1160,
+      "source": "github_trending",
+      "summary_cn": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "stars": 55843,
+      "forks": 3188,
+      "language": "Python",
+      "stars_today": 845,
+      "source": "github_trending",
+      "summary_cn": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 98599,
+      "forks": 8645,
+      "language": "TypeScript",
+      "stars_today": 670,
+      "source": "github_trending",
+      "summary_cn": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "CursorTouch/Windows-MCP",
+      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "description": "MCP Server for Computer Use in Windows",
+      "stars": 8350,
+      "forks": 926,
+      "language": "Python",
+      "stars_today": 360,
+      "source": "github_trending",
+      "summary_cn": "MCP Server for Computer Use in Windows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "Give your agent CAD superpowers.",
+      "stars": 18514,
+      "forks": 1836,
+      "language": "Python",
+      "stars_today": 159,
+      "source": "github_trending",
+      "summary_cn": "Give your agent CAD superpowers.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "description": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "stars": 4866,
+      "forks": 395,
+      "language": "Python",
+      "stars_today": 119,
+      "source": "github_trending",
+      "summary_cn": "OpenRouter for agent tools. Join community here:https://discord.gg/6mQYYfFMAn",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Tracer-Cloud/opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "stars": 11664,
+      "forks": 1706,
+      "language": "Python",
+      "stars_today": 81,
+      "source": "github_trending",
+      "summary_cn": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "bmad-code-org/BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "stars": 53960,
+      "forks": 6074,
+      "language": "Python",
+      "stars_today": 51,
+      "source": "github_trending",
+      "summary_cn": "Breakthrough Method for Agile Ai Driven Development",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "microsoft/agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "stars": 14022,
+      "forks": 2448,
+      "language": "Python",
+      "stars_today": 27,
+      "source": "github_trending",
+      "summary_cn": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "score": 1034,
+      "comments": 482,
+      "author": "sfkgtbor",
+      "time": "2026-10-07T18:01:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49996437",
+      "source": "hacker_news",
+      "title_cn": "Claude Haiku 5.5",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "score": 478,
+      "comments": 409,
+      "author": "jonotime",
+      "time": "2026-10-08T00:14:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50000488",
+      "source": "hacker_news",
+      "title_cn": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "score": 367,
+      "comments": 381,
+      "author": "speckx",
+      "time": "2026-10-07T18:49:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49997161",
+      "source": "hacker_news",
+      "title_cn": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "score": 363,
+      "comments": 246,
+      "author": "mfiguiere",
+      "time": "2026-10-08T16:45:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50008187",
+      "source": "hacker_news",
+      "title_cn": "OpenAI annualised revenues $20B less than previously signalled",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "score": 254,
+      "comments": 550,
+      "author": "sashank_1509",
+      "time": "2026-10-08T07:05:40+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50002650",
+      "source": "hacker_news",
+      "title_cn": "OpenAI withdraws three mathematical results",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "score": 118,
+      "comments": 50,
+      "author": "pyduan",
+      "time": "2026-10-08T07:07:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50002665",
+      "source": "hacker_news",
+      "title_cn": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "score": 110,
+      "comments": 207,
+      "author": "jcbhmr",
+      "time": "2026-10-08T00:46:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50000676",
+      "source": "hacker_news",
+      "title_cn": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "score": 87,
+      "comments": 10,
+      "author": "ray__",
+      "time": "2026-10-08T20:46:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50011999",
+      "source": "hacker_news",
+      "title_cn": "AI-ready biological data: $1.8B global commitment",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "score": 86,
+      "comments": 110,
+      "author": "md224",
+      "time": "2026-10-08T23:29:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50013902",
+      "source": "hacker_news",
+      "title_cn": "OpenAI, the Partition Principle, and Mathematics",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "url": "https://github.com/SamsungLabs/LittleBit",
+      "score": 77,
+      "comments": 23,
+      "author": "brainless",
+      "time": "2026-10-08T13:29:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50005608",
+      "source": "hacker_news",
+      "title_cn": "Sub-1-Bit LLM Compression via Latent Factorization",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "score": 67,
+      "comments": 47,
+      "author": "screm",
+      "time": "2026-10-07T16:59:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=49995539",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "score": 60,
+      "comments": 51,
+      "author": "firstcomm",
+      "time": "2026-10-08T19:17:51+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50010656",
+      "source": "hacker_news",
+      "title_cn": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "score": 43,
+      "comments": 6,
+      "author": "felix089",
+      "time": "2026-10-08T16:34:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50007993",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Jevman – AI decision models play Pac-Man",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "url": "https://www.youtube.com/watch?v=3TNpOD6bov8",
+      "score": 42,
+      "comments": 11,
+      "author": "edmorley",
+      "time": "2026-10-08T18:55:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50010330",
+      "source": "hacker_news",
+      "title_cn": "LGTM (Looks Good to Me) – Claude Opus 5.5 Music Video",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Clojure in the age of language models",
+      "url": "https://yogthos.net/posts/2026-10-07-clojure-llms.html",
+      "score": 35,
+      "comments": 13,
+      "author": "silcoon",
+      "time": "2026-10-08T05:56:31+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50002215",
+      "source": "hacker_news",
+      "title_cn": "Clojure in the age of language models",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "authors": [
+        "Drew T. Nguyen",
+        "William Fithian"
+      ],
+      "abstract": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and 26 AIs, we recompute the time horizons using splines and item-response theory to relax the assumption that the AI difficulty of a task depends linearly on the log of human time. Our fitted spline can be interpreted as a function that \\emph{converts} human time to AI difficulty; it is nearly flat in a region from 2--30 min but close to linear elsewhere. Hence, a time-horizon jump from 3 min to 30 min is much easier than one from 30 min to 5 hours despite the same multiplier of $10 \\times$. Overall, we contribute time-horizon point estimates that perform better under a cross-validated suite of proper scoring rules, as well as diagnostic plots for assessing time horizons' construct validity. We suggest that time horizons be interpreted together with the diagnostic plots, especially as new time-horizon-based benchmarks are proposed or existing ones grow to include longer tasks.",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12466v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-10-08T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "summary_cn": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "authors": [
+        "Peter Kulits",
+        "Yiqing Xu",
+        "R. Kenny Jones",
+        "Cordelia Schmid",
+        "Jiajun Wu"
+      ],
+      "abstract": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints. We score validity, alignment, and design across three settings that vary in scale and part availability. We provide BrickAgent, an environment for coding agents to construct, inspect, and validate their designs. We find that leading agents largely satisfy verifiable physical and semantic requirements, but fall short of human designs. We release our benchmark and environment at http://www.brickben.ch",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12452v1",
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-10-08T17:58:56+00:00",
+      "source": "arxiv",
+      "title_cn": "BrickBench: Evaluating Agentic Brick Design",
+      "summary_cn": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "authors": [
+        "Anna Zimmel",
+        "Fleur Hendriks",
+        "Markus Holzleitner",
+        "Florian Sestak",
+        "Martin Weichselbaumer"
+      ],
+      "abstract": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a single input admits multiple equally valid solutions, violating the one-to-one assumption underlying most learned physical surrogates. We introduce Bi-FORK, a generative framework for learning these one-to-many solution maps in high-dimensional systems. Bi-FORK generates complete trajectories through latent flow matching, preserving space and time coherence, and uses repulsion-guided sampling to recover distinct solution branches in a single amortized pass. We evaluate Bi-FORK on buckling beams, mechanical metamaterials, and Allen-Cahn phase separation, spanning continuous, discrete, and field-valued bifurcations with discretizations up to 260,000 points. Bi-FORK recovers the multimodal solution structure while scaling several orders of magnitude beyond prior approaches, opening generative modeling to high-dimensional bifurcating physical systems.",
+      "url": "http://arxiv.org/abs/2610.12449v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12449v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CE",
+        "physics.comp-ph"
+      ],
+      "published": "2026-10-08T17:58:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "summary_cn": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "authors": [
+        "Oskar J. Hollinsworth",
+        "Alex F. Spies",
+        "Tigist Diriba",
+        "Adam Gleave",
+        "Chris Cundy"
+      ],
+      "abstract": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the largest deception dataset to date for training probes and introducing a novel probe architecture which can aggregate information across many layers and tokens. Our probes achieve 98.8% AUC in SHADE-Arena, surpassing an Opus 5.5 text-monitoring baseline, and show improved efficacy as the underlying model is scaled up. To push our probes to their limit, we test them on several cases where deception cannot be determined from the context alone. In these cases, which we refer to as introspective deception, the ground truth can only be determined through careful elicitation or thorough knowledge of a model's training data. In one such evaluation, we show that probes can distinguish transcripts containing a model's true hidden goal from other goals with an AUC of up to 99.7%. Our probes also readily detect deception on prominent open-weight models which lie about politically sensitive topics, and about their beliefs when put under pressure. We release our training dataset, dubbed FIBS, to help drive frontier deployment of effective probes, and encourage the community to expand upon it with further examples of deception and sabotage.",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12445v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-10-08T17:58:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "summary_cn": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "authors": [
+        "Hanyang Li",
+        "Shao Tang",
+        "Daniel Thomas Braithwaite",
+        "Gregory Dexter",
+        "Leonardo Neves"
+      ],
+      "abstract": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-state quantization for AdamW from the perspective of \\emph{rounding space}: the coordinate in which a quantizer chooses between adjacent reconstruction levels. For the second moment, a local analysis of the quantization cell adjacent to zero shows that small mean state error need not imply small mean preconditioner error at the next step. A one-dimensional quadratic construction further shows qualitatively different optimization dynamics under state-space and preconditioner-space rounding. These results motivate Zero-Inclusive Preconditioner-space Stochastic Rounding (\\textbf{ZIP-SR}), which retains zero in the second-moment codebook and computes stochastic-rounding probabilities in preconditioner space. As a complementary route, Zero-Excluding EDEN calibration (\\textbf{ZE-EDEN}) uses a zero-excluding second-moment codebook and rescales the quantized second-moment block to mitigate the preconditioner distortion caused by the positive quantization floor. Both configurations use 4-bit NormalFloat (NF4) for the first moment, with targeted stochastic rounding of the LM-head first moment during the final 10\\% of training. Across GPT- and Llama-style pretraining experiments ranging from \\textbf{130M} to \\textbf{2.7B} parameters, both methods reduce TorchAO 4-bit AdamW's mean validation-loss gap to 32-bit AdamW at every evaluated model size, with the largest reported gap reduction reaching \\textbf{70\\%}. In full-parameter supervised fine-tuning, both recipes achieve lower validation loss than TorchAO while remaining close to 32-bit AdamW on downstream tasks.",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12444v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-10-08T17:58:09+00:00",
+      "source": "arxiv",
+      "title_cn": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "summary_cn": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "authors": [
+        "Ritesh Thawkar",
+        "Shubham Patle",
+        "Shravan Venkatraman",
+        "Rao Muhammad Anwer"
+      ],
+      "abstract": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and can reward plausible failures: a realistic output may leave the requested change undone or alter content that should be preserved. In this work, we strive to improve a pretrained image editor using only its own generations, without human-edited targets or an external training-time reward model. To this end, we propose a self-evolving framework, named Rubric-CEPR, that verifies the editor's own samples with its internal representations through a rubric-augmented Contrastive Edit-Preservation Reward (CEPR). A Planner proposes structured edit instructions from unlabeled images, the Editor samples multiple candidate edits, and a frozen Critic scores each candidate with decomposed rubric checks for edit realization, removal of the old state, and content preservation, using features already exposed by the editor. Non-compensatory gates reject infeasible candidates, and the best verified candidate is distilled into the editor through lightweight adapter training. On Qwen-Image-Edit, Rubric-CEPR improves ImgEdit from 4.36 to 4.60 (+5.5%), with a +24.9% gain on object isolation, and transfers to GEdit-Bench and Complex-Edit. The same procedure also improves Step1X-Edit by +7.8% on ImgEdit. We hope our approach will serve as a solid baseline for image editors that improve themselves from their own verified samples. Our code is publicly available at $\\href{https://riteshthawkar.github.io/Rubric-CEPR/}{\\text{this URL}}$",
+      "url": "http://arxiv.org/abs/2610.12469v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12469v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "summary_cn": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "authors": [
+        "Jiahua Dong",
+        "Anurag Bagchi",
+        "Yash Jangir",
+        "Muhammad Zubair Irshad",
+        "Sergey Zakharov"
+      ],
+      "abstract": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types and 14,000 contributors. Rather than relying on opaque downstream metrics, we directly evaluate agent and object-interaction fidelity on a challenging out-of-distribution benchmark. Increasing training data by 100x improves both, but unevenly: the agent is modeled well, while object fidelity remains far lower and improves slowly. We show that the agent gains need not come from data, and a careful visual conditioning design saturates fidelity with a fraction of it, which lets us measure object fidelity on its own and discover its saturation point. We then introduce a supervision scheme that shifts capacity from scene appearance toward object dynamics, improving object fidelity though a substantial gap remains. Finally, our conclusions transfer to downstream humanoid modeling. Overall, our results suggest that scaling ego-centric data brings agent modeling close to its limit while leaving its effects on the world far behind, and that closing this gap will depend on how models are trained, not only on how much data they see.",
+      "url": "http://arxiv.org/abs/2610.12464v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12464v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:49+00:00",
+      "source": "arxiv",
+      "title_cn": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "summary_cn": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+      "authors": [
+        "You-Zhe Xie",
+        "Ting-Wei Chou",
+        "Yu-Hsuan Li",
+        "Kaipeng Zhang",
+        "Zhixiang Wang"
+      ],
+      "abstract": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph: a dynamic scene with vivid, diverse motion looping seamlessly from any viewpoint. A vision-language model infers plausible dynamics and guides a video model to synthesize a reference video, which we lift and complete into multi-view videos. To learn from this imperfect supervision, we propose Inconsistency-Robust Periodic 4DGS: a Fourier-series deformation field guarantees looping by construction, while a Grounded Drift Field anchored at the reference view absorbs cross-view inconsistency. Unlike prior Eulerian methods limited to fluid-like motion, we capture general deformation, object motion, and illumination change. We introduce a ground-truth-free evaluation covering vividness, naturalness, loop seam coherence, and scene quality. On 39 reconstructed and generated scenes, OuroWorld outperforms all baselines and wins 70.8%-99.0% of user-study comparisons. Project page: https://ouroworld.userwei.com",
+      "url": "http://arxiv.org/abs/2610.12461v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12461v1",
+      "categories": [
+        "cs.CV",
+        "cs.GR"
+      ],
+      "published": "2026-10-08T17:59:46+00:00",
+      "source": "arxiv",
+      "title_cn": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+      "summary_cn": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+      "authors": [
+        "Ankan Deria",
+        "Komal Kumar",
+        "Hisham Cholakkal",
+        "Fahad Shahbaz Khan",
+        "Salman Khan"
+      ],
+      "abstract": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model must determine the next action from its generated state, execute that action, and recognize when the task is complete. Open-loop generation cannot adapt to execution outcomes, while existing closed-loop systems often rely on pretrained executors or indirect verification. This leaves a gap between deciding an action and successfully realizing it. We formulate procedural video generation as \\emph{closed-loop task execution in visual world space} and introduce \\textbf{WorldGuide}. Given only an initial image and a task goal, WorldGuide predicts an atomic action, generates its corresponding video clip, and uses the generated result to select the next action or terminate. The Planner and Executor are trained on the same step-level procedural demonstrations: the Planner learns to predict the next atomic action or task completion from visual progress, while the Executor is directly trained to realize the predicted actions. Hierarchical visual memory maintains state across long-horizon execution with bounded history token cost. Due to the lack of step-level action-video supervision for joint planner-executor training, we introduce \\textbf{WorldGuide Bench}: approximately 59K step-annotated videos across 245 tasks and 27 procedural categories. WorldGuide achieves a 33.33\\% Task Success on \\textbf{WorldGuide-Bench}, compared with 29.90\\% for the strong recent video model MiniMax-H3, even though MiniMax-H3 receives reference action plans, and achieves 47.69\\% on \\textbf{VideoCraft-Bench} compared with 32.73\\% for MiniMax-H3 under goal-only conditioning. These results demonstrate the importance of coupling planning with learned execution for goal-directed procedural video generation.",
+      "url": "http://arxiv.org/abs/2610.12459v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12459v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:31+00:00",
+      "source": "arxiv",
+      "title_cn": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+      "summary_cn": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model mu",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+      "authors": [
+        "Zhongyu Yang",
+        "Jiale Tao",
+        "Ruitao Chen",
+        "Zuhao Yang",
+        "Yingfang Yuan"
+      ],
+      "abstract": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task, yet current benchmarks face a coupled trade-off: whole-caption scores provide coverage without localization, local probes provide localization without coverage, and unconstrained LLM judges introduce instability. We introduce OmniCapBench (Omni-Video Caption Benchmark), a benchmark that reframes audio--visual caption evaluation as a deep-structured diagnostic framework. OmniCapBench shifts the prediction target from free-form text to sets of atomic, verifiable evaluation units across three tracks: entity references, visual shots, and audio events, enabling reliable scoring with deterministic constraint checks and localized LLM-based semantic comparisons. With 786 densely annotated videos, OmniCapBench effectively distinguishes MLLM perception errors, including temporal grounding failures, identity drift, cross-modal misalignment, and hallucinated descriptions. Evaluating frontier MLLMs reveals strong local perception but weak long-horizon audio--visual reasoning, particularly in identity drift and cross-modal misalignment, providing a fine-grained roadmap for omnimodal development.",
+      "url": "http://arxiv.org/abs/2610.12458v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12458v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:21+00:00",
+      "source": "arxiv",
+      "title_cn": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+      "summary_cn": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+      "authors": [
+        "Boyao Han",
+        "Chen Shi",
+        "Jingjing Qian",
+        "ZhuoTan Tian",
+        "Li Jiang"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in camera count or pose during deployment. To overcome these limitations, we propose VersaCamVLA, a camera-configurable framework that decouples camera-set representation from action learning. VersaCamVLA learns a unified scene-token interface that maps an arbitrary, variable set of posed RGB views into fixed-size latent scene tokens. This is achieved via multi-signal target-view prediction and Wrist-Augmented Pose Sampling (WAPS), which leverages natural wrist-camera motion for free pose diversity. At deployment, a lightweight spatial encoder injects these compact scene tokens into a pretrained base VLA as a supplementary visual condition, requiring no explicit 3D sensing or novel-view rendering. Experiments on RoboTwin, LIBERO, and a real-robot platform demonstrate that VersaCamVLA consistently outperforms prior VLA methods and direct multi-view baselines, maintaining robust performance across varying camera counts and unseen camera poses.",
+      "url": "http://arxiv.org/abs/2610.12451v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12451v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-10-08T17:58:47+00:00",
+      "source": "arxiv",
+      "title_cn": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+      "summary_cn": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in ca",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "authors": [
+        "Adrian Bulat",
+        "Yassine Ouali",
+        "Georgios Tzimiropoulos"
+      ],
+      "abstract": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillation. reViT restores depth-specific transformations by representing the FFN at each recurrent depth as a convex combination of a small shared expert bank. A continuous normalized-depth coordinate programs this mixture, defining a resampleable trajectory through FFN parameter space. We evaluate this design in two regimes: supervised ImageNet-1k training and distillation from a DINOv2 teacher. Across both regimes, controlled adaptations identify weight-space merging as the strongest tested MoE family at a matching one-FFN budget, ahead of the token-dispatch and output-mixture alternatives. Trained from scratch, reViT-B/16 attains DeiT III accuracy with about 70\\% fewer stored parameters. An 8-experts model distilled using only the teacher's output features retains nearly all of its DINOv2 teacher's linear-probe accuracy and transfers across classification, segmentation, and depth prediction. Elastic-depth training allows one checkpoint (trained model) to operate at multiple tested depths by resampling the same normalized coordinate interval. For fixed-depth deployment, the recurrent block can be materialized as a conventional dense graph, removing online routing and merging without changing the one-FFN-per-depth compute but expanding deployment storage.",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12448v1",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ],
+      "published": "2026-10-08T17:58:36+00:00",
+      "source": "arxiv",
+      "title_cn": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "summary_cn": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "authors": [
+        "Jusuk Lee",
+        "Sungha Kim",
+        "Yeonsoo Park",
+        "Jonguk Cheon",
+        "Yoonkyo Jung"
+      ],
+      "abstract": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such strict motion matching often limits generalization to initial object poses, goal poses, and grasps not shown in the video. Alternatively, discovering a policy via reinforcement learning (RL) allows for broad generalization, but without prior guidance, it struggles with high-dimensional exploration in complex, multi-stage tasks. To address these coupled generalization and exploration challenges, we present Dex-One2Many, a real-to-sim-to-real framework that learns a generalizable dexterous manipulation policy from a single human video. Our key insight is to abstract the video into sequential scene graphs that guide RL, enabling efficient exploration while preserving broad generalizability. The graphs serve as generative constraints for sampling diverse reset states and provide dense rewards for each stage. Because the graphs constrain relations rather than exact poses, these reset states cover object poses and grasps beyond the video, while initializing each stage from them with dense rewards keeps exploration short and guided. Trained entirely in simulation, Dex-One2Many transfers zero-shot to a real multi-fingered hand. Across five tool-use and manipulation tasks, Dex-One2Many exceeds baselines by 6.5% in seen configurations, while its robust generalization widens this gap to 71% in unseen scenarios.",
+      "url": "http://arxiv.org/abs/2610.12470v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12470v1",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "summary_cn": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "authors": [
+        "Junyan Li",
+        "Ruizhi Li",
+        "Yu Liu",
+        "Xiangshuo Liu",
+        "Mingchao Sun"
+      ],
+      "abstract": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacles: imprecise calibration can impair action following, while limited coverage of unsuccessful interactions can bias predictions toward successful outcomes. To improve action following across embodiments, we render action trajectories into image-space conditions and introduce offline geometric calibration to align these conditions with the target videos. To broaden interaction coverage, we introduce counterfactual post-training, modifying recorded action trajectories and generating future videos under a wider range of actions and contact configurations. To provide feedback on these predictions without paired ground-truth futures, we construct a human-annotated video dataset covering robot, object, and interaction defects and use it to train an embodied video reward model. Its scores guide reinforcement-learning post-training toward more physically plausible interaction outcomes. On AgiBot, DreamTrue attains state-of-the-art action following, while reducing the human-assessed interaction defect rate from from 48.12% to 6.25%. Notably, our model ranks first in the world model track of the AgiBot World Challenge 2026. The project page can be found at https://brave-eai.github.io/DreamTrue.",
+      "url": "http://arxiv.org/abs/2610.12468v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12468v1",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-10-08T17:59:51+00:00",
+      "source": "arxiv",
+      "title_cn": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "summary_cn": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CSF: Contextual Safety Filtering for Motion Generators",
+      "authors": [
+        "Lizhi Yang",
+        "Yiling Hou",
+        "Yao Tang",
+        "Junheng Li",
+        "Daniel Weng"
+      ],
+      "abstract": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either inspect the prompt, require labeled motion data, or enforce geometric constraints; therefore, they do not directly account for how scene context changes a motion's meaning. We introduce contextual safety filtering (CSF), a training-free filter that grounds natural-language safety rules in safe and unsafe reference trajectories produced by the generator. For each active rule, safe and unsafe reference trajectories define an affine safety value that a safe reference tracking CBF-QP enforces. Across four pretrained generators with different architectures, CSF activates the intended rules in all explicit and scene-triggered unsafe cases and reduces the danger-event rate by up to 90%, while preserving 88-100% of benign motions. We demonstrate the complete system on a real-world Unitree G1, where it successfully prevents unsafe motions in a variety of scenarios, including interactions with humans and objects.",
+      "url": "http://arxiv.org/abs/2610.12467v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.12467v1",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ],
+      "published": "2026-10-08T17:59:50+00:00",
+      "source": "arxiv",
+      "title_cn": "CSF: Contextual Safety Filtering for Motion Generators",
+      "summary_cn": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
