@@ -1,0 +1,700 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T10:21:44.807542+08:00",
+  "github_trending": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "stars": 244640,
+      "forks": 61147,
+      "language": "TypeScript",
+      "stars_today": 41034,
+      "source": "github_trending",
+      "summary_cn": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 27525,
+      "forks": 1507,
+      "language": "Python",
+      "stars_today": 2109,
+      "source": "github_trending",
+      "summary_cn": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "stars": 29592,
+      "forks": 4440,
+      "language": "Go",
+      "stars_today": 1025,
+      "source": "github_trending",
+      "summary_cn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "stars": 29192,
+      "forks": 2047,
+      "language": "TypeScript",
+      "stars_today": 947,
+      "source": "github_trending",
+      "summary_cn": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": 9040,
+      "forks": 1470,
+      "language": "Python",
+      "stars_today": 247,
+      "source": "github_trending",
+      "summary_cn": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "stars": 49429,
+      "forks": 4425,
+      "language": "Python",
+      "stars_today": 163,
+      "source": "github_trending",
+      "summary_cn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "stars": 57505,
+      "forks": 7198,
+      "language": "Python",
+      "stars_today": 121,
+      "source": "github_trending",
+      "summary_cn": "The open-source AI voice studio. Clone, dictate, create.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "stars": 40782,
+      "forks": 4328,
+      "language": "Python",
+      "stars_today": 118,
+      "source": "github_trending",
+      "summary_cn": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": 52566,
+      "forks": 4774,
+      "language": "Python",
+      "stars_today": 103,
+      "source": "github_trending",
+      "summary_cn": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "sgl-project/sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "stars": 37150,
+      "forks": 9563,
+      "language": "Python",
+      "stars_today": 54,
+      "source": "github_trending",
+      "summary_cn": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "isair/jarvis",
+      "url": "https://github.com/isair/jarvis",
+      "description": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.",
+      "stars": 2068,
+      "forks": 408,
+      "language": "Python",
+      "stars_today": 31,
+      "source": "github_trending",
+      "summary_cn": "Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "stars": 2878,
+      "forks": 370,
+      "language": "Python",
+      "stars_today": 16,
+      "source": "github_trending",
+      "summary_cn": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1435,
+      "comments": 1027,
+      "author": "737max",
+      "time": "2026-10-13T16:03:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50073879",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Argon",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 866,
+      "comments": 963,
+      "author": "Philpax",
+      "time": "2026-10-13T15:49:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50073633",
+      "source": "hacker_news",
+      "title_cn": "Redesigning source control at Anthropic",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "score": 842,
+      "comments": 452,
+      "author": "latexr",
+      "time": "2026-10-14T17:45:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50091788",
+      "source": "hacker_news",
+      "title_cn": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "score": 643,
+      "comments": 529,
+      "author": "forthwall",
+      "time": "2026-10-13T20:23:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50078141",
+      "source": "hacker_news",
+      "title_cn": "OpenAI engineer arrested in bugging of executive conference room",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 342,
+      "comments": 184,
+      "author": "sammy0910",
+      "time": "2026-10-13T15:25:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50073221",
+      "source": "hacker_news",
+      "title_cn": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "score": 304,
+      "comments": 222,
+      "author": "smartmic",
+      "time": "2026-10-14T18:32:52+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50092664",
+      "source": "hacker_news",
+      "title_cn": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "score": 261,
+      "comments": 114,
+      "author": "sunshowers",
+      "time": "2026-10-14T20:30:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50094694",
+      "source": "hacker_news",
+      "title_cn": "Anthropic's Scion is heavily inspired by Mononoke",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "score": 231,
+      "comments": 55,
+      "author": "xnx",
+      "time": "2026-10-13T16:55:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50074869",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Argon for Robotics",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+      "score": 168,
+      "comments": 168,
+      "author": "tartoran",
+      "time": "2026-10-14T14:38:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50088430",
+      "source": "hacker_news",
+      "title_cn": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why do LLM pelicans look like this?",
+      "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+      "score": 154,
+      "comments": 133,
+      "author": "pcwelder",
+      "time": "2026-10-14T16:33:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50090443",
+      "source": "hacker_news",
+      "title_cn": "Why do LLM pelicans look like this?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "TV4 postpones show after AI agent erases edited material",
+      "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+      "score": 141,
+      "comments": 80,
+      "author": "tobr",
+      "time": "2026-10-14T10:28:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50085323",
+      "source": "hacker_news",
+      "title_cn": "TV4 postpones show after AI agent erases edited material",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "url": "https://petal.live/",
+      "score": 116,
+      "comments": 30,
+      "author": "thedracle",
+      "time": "2026-10-14T18:23:14+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50092470",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: I built a tool to track what AI leaders say and how their views change",
+      "url": "https://blumify.io/people",
+      "score": 116,
+      "comments": 76,
+      "author": "gcsydney",
+      "time": "2026-10-14T01:09:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50081151",
+      "source": "hacker_news",
+      "title_cn": "Show HN: I built a tool to track what AI leaders say and how their views change",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 115,
+      "comments": 70,
+      "author": "niztk",
+      "time": "2026-10-13T23:13:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50080275",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Linus Torvalds's first LLM-assisted patch series",
+      "url": "https://lwn.net/Articles/1100449/",
+      "score": 113,
+      "comments": 95,
+      "author": "janvdberg",
+      "time": "2026-10-14T16:55:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50090842",
+      "source": "hacker_news",
+      "title_cn": "Linus Torvalds's first LLM-assisted patch series",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "authors": [
+        "Haofei Yu",
+        "Yixing Chen",
+        "Yining Zhao",
+        "Xuyan Ye",
+        "Yuxiang Liu"
+      ],
+      "abstract": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate steps largely unused. Prior work exploits this supervision through value targets that estimate per-step success probabilities or observation targets that fit environment response. Both are hard to construct well: (1) value targets come from the same single scalar signal for each step in the trajectory, and (2) observation targets, such as web pages and terminal logs, are long and noisy and reach only one step ahead. We propose \\name, which adds a third kind of multi-step action targets. On successful on-policy trajectories, \\name trains the policy backbone to generate the action sequences that follows each history. Each action is also supervised when forecast from the preceding histories, forming a temporal ensemble that the shared backbone absorbs during training, and this enables acting and forecasting to co-evolve. The policy still acts one step at a time at inference, with no overhead. Across five benchmarks (ALFWorld, ScienceWorld, WebShop, $τ^2$-bench, and AppWorld), \\name (1) achieves stronger aggregate performance than GRPO and RL baselines with predictive auxiliary targets across simulated environments, while improving overall performance on both realistic applications; (2) delivers up to $1.9\\times$ and $2.0\\times$ higher sample efficiency than ECHO and GRPO, respectively, on ScienceWorld; and (3) achieves these gains with a single policy backbone, without additional models, separate pretraining, or inference overhead. The codebase is available at https://github.com/ulab-uiuc/CoPE.",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20597v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-10-14T17:59:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Co-Evolving Acting and Forecasting for Language Agents",
+      "summary_cn": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Latent Compaction with Test-Time Training",
+      "authors": [
+        "Yingfa Chen",
+        "Xingyu Shen",
+        "Chaojun Xiao",
+        "Xu Han"
+      ],
+      "abstract": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Latent Compaction**, which learns a compact document-specific cache through test-time training. We initialize cache entries using reconstruction importance, teacher attention, and key-space diversity. Training first fits attention outputs and log-normalizers to those of the full cache, with reconstruction-selected entries held fixed. It then jointly optimizes the entire cache through end-to-end distillation from the full-cache model. Model weights remain frozen throughout, and training uses only generic prompts about the document, without access to downstream questions or answers. Experiments on RULER, LongBench, and Phonebook Lookup demonstrate substantial gains over budget-matched compression baselines. On a RULER, for example, our method achieves 96.7% accuracy at 32$\\times$ compression, compared with 40.0% for KVZip+. The method also transfers across model scales and families, with retrieval gains on both Qwen3 and MiniCPM5. These results show that treating the KV cache as a neural network and optimizing it with test-time training can preserve retrieval accuracy under aggressive compression. The code is released at https://www.github.com/THUNLP/latent-compaction",
+      "url": "http://arxiv.org/abs/2610.20582v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20582v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-10-14T17:57:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Latent Compaction with Test-Time Training",
+      "summary_cn": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Your Transformer Is Secretly Elastic",
+      "authors": [
+        "Walter Simoncini",
+        "Dheeraj Varghese",
+        "Gertjan J. Burghouts",
+        "Cees G. M. Snoek"
+      ],
+      "abstract": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to commit to a model based on hardware and latency constraints. This rigidity is often suboptimal under varying query loads. We introduce a retraining-free method that elastifies pre-trained transformers into a single model that adapts on-the-fly across a continuum of computational budgets. Our key contribution is a differentiable relaxation of the functional unit-ranking problem: unlike prior work, which optimizes a single importance weight per MLP block or attention head, we rank every individual MLP neuron and attention head jointly, on a common scale, by minimizing the model's loss under soft pruning across many sparsity targets, all at once. Across 27 vision and text transformer encoders ranging from 22M to 8B parameters, our method yields smooth degradation up to 60% sparsity and outperforms one-shot baselines under deep pruning. For example, pruning DINOv3 ViT-H+/16 to 50% sparsity removes 427M parameters while reducing ImageNet-1k linear-probing accuracy by only 0.8%, without the need for weight correction or retraining. At 60% sparsity, a pruned AugReg ViT-B/16 model achieves up to $1.80\\times$ higher throughput and $1.26\\times$ lower single-query latency on an A100 GPU. Elastic models are produced in minutes, with construction time scaling sub-linearly with parameter count.",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20588v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-10-14T17:58:08+00:00",
+      "source": "arxiv",
+      "title_cn": "Your Transformer Is Secretly Elastic",
+      "summary_cn": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Continuum Attention",
+      "authors": [
+        "Afshin Khadangi"
+      ],
+      "abstract": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an exponential relevance density along the curve. Integrating the density and interpolated values yields exact normalized attention from closed form exponential moments, including half token boundary contributions. The gradients follow analytically from moments of order at most two, enabling parallel GPU implementations while retaining quadratic sequence complexity and the standard Transformer decoder. Compared with ordinary softmax and focal attention, CA reduces mean validation negative log likelihood by 0.0200 and 0.0480 nats per byte, respectively, winning all paired comparisons. An additional disjoint validation slice yields a 0.0457 nats per byte advantage over the strongest selected softmax baseline, with a paired 95% confidence interval. These findings motivate continuous integration as a promising attention alternative while leaving larger scale generalization open.",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20586v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-10-14T17:57:40+00:00",
+      "source": "arxiv",
+      "title_cn": "Continuum Attention",
+      "summary_cn": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "authors": [
+        "Stavros Nousias",
+        "Akis Nousias",
+        "Konstantinos Gkrispanis"
+      ],
+      "abstract": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solution among vanilla transformer experts, each focused on a different spectral scale. The partition is built from a discrete Hodge Laplacian $L_0=\\star_0^{-1} d_0^{\\top}\\star_1 d_0$, that serves as a fitting layer measuring high-frequency content. A gating mechanism takes the mesh as input and produces the per-vertex weights that recombine the expert outputs. AirFRANS is a steady Reynolds-averaged Navier--Stokes (RANS) airfoil benchmark. We evaluate our approach in a reduced remeshed version of the benchmark with each unstructured mesh counting 9.6K faces and 4.9K vertices. We compare our approach with the Transolver on the same dataset and dataset slit. Our approach reduces relative $L_2$ error by 31\\% and interior mean squared error by 47\\%.",
+      "url": "http://arxiv.org/abs/2610.20585v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20585v1",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:57:24+00:00",
+      "source": "arxiv",
+      "title_cn": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "summary_cn": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that par",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "authors": [
+        "Artin Tajdini",
+        "Manpreet Kaur",
+        "Peng Qi"
+      ],
+      "abstract": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet make the agent worse at it. Scoring each sample independently means interface randomization only broadens this dependence from a single interface to the training interface distribution, so out-of-distribution perturbations still degrade the agent. We propose Cross-Interface Policy Regularization (CIPR), a self-supervised objective that replaces action names with uninformative identifiers and presents each training sample under two interfaces in which equivalent actions are identified by construction. CIPR penalizes the KL divergence between the action distributions induced under the two interfaces, so the policy behaves consistently across them. We evaluate CIPR in both supervised and reinforcement-learning post-training, where it improves robustness. On agentic function calling, held-out interface perturbations reduce the accuracy of a post-trained agent by nearly 25%, and CIPR recovers 10.5% while leaving accuracy on the unchanged interface intact.",
+      "url": "http://arxiv.org/abs/2610.20576v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20576v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-10-14T17:56:06+00:00",
+      "source": "arxiv",
+      "title_cn": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "summary_cn": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+      "authors": [
+        "Jahyeok Koo",
+        "Hyeonseo Yu",
+        "Seungho Jang",
+        "Jaewoo Jung",
+        "Jiwon Kang"
+      ],
+      "abstract": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture. Our model incorporates camera geometry into both VAE and ViT representations and leverages understanding features during generation through joint self-attention with a modality-aware attention masking strategy. Experiments demonstrate strong image quality and geometric consistency in novel-view generation, alongside competitive 3D language understanding. Further analysis shows that joint training improves cross-view correspondence in VAE representations and similarity in a 3D-aware feature space.",
+      "url": "http://arxiv.org/abs/2610.20610v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20610v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+      "summary_cn": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Representation Conditioning for Generation",
+      "authors": [
+        "Saeed Razavi",
+        "Xingjian Leng",
+        "Liang Zheng"
+      ],
+      "abstract": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion backbone. While this objective is achieved at early layers by back-propagating the alignment loss, there is no guarantee that later layers, supervised by the velocity prediction loss alone, can well access such semantics. We propose a simple solution, representation conditioning (RECON), to improve semantics in later layers. During training, we feed the pretrained vision encoder tokens into later layers; during inference, because we no longer have the clean image, we reuse the MLP head (as a proxy to the vision encoder) and project its output tokens to the later layers. Our method adds no parameters and leads to much faster convergence: RECON is $63\\times$ faster than SiT and $25\\times$ faster than REPA. Code is available at https://github.com/saeidrazavi/RECON",
+      "url": "http://arxiv.org/abs/2610.20608v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20608v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Representation Conditioning for Generation",
+      "summary_cn": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "VITAL: From Visual Motion to Precise Action",
+      "authors": [
+        "Ao Liang",
+        "Youquan Liu",
+        "Mingxiao Li",
+        "Wei Chow",
+        "Lingdong Kong"
+      ],
+      "abstract": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates deriving action targets directly from visual motion. We first examine a simpler setting in which trajectories are reconstructed from recorded future images. Even without the need for future prediction, reconstruction captures the dominant maneuver but leaves centimeter-scale errors. We therefore introduce VITAL (Vision-Induced Tokens for Action Learning), an action tokenizer that couples a visually derived motion scaffold with a compact residual encoding the trajectory error left by that scaffold. This representation makes visual motion the principal prediction target and gives small metric corrections a separate, normalized learning scale. Using flow matching, the action expert jointly predicts both components from the current image, ego state, and navigation command, without generating future images at inference. The same residual coordinates support bounded reinforcement post-training that refines execution while keeping the predicted visual scaffold fixed. With only one action denoising step, VITAL achieves 90.8 PDMS on NAVSIM v1 navtest, within 0.13 points of its ten-step score at 3.29x the end-to-end inference speed. Without retraining, it achieves 91.1 EPDMS on NAVSIM v2 navtest and 38.6 on navhard. Project page: https://worldbench.github.io/vital",
+      "url": "http://arxiv.org/abs/2610.20604v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20604v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:49+00:00",
+      "source": "arxiv",
+      "title_cn": "VITAL: From Visual Motion to Precise Action",
+      "summary_cn": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+      "authors": [
+        "Xiaoli Xu",
+        "Zhengtao Wu",
+        "Zhengze Xu",
+        "Tao Liu",
+        "Yongchao Du"
+      ],
+      "abstract": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of information extraction, semantic rewriting, and multi-condition generation: Prompt-Eval-Refine-Loop Agent (PERL-Agent) distills heterogeneous SKU metadata into concise selling-point text lists through an iterative closed loop of VLM and LLM roles scored by a reference-free rubric. Layout Thinker Optimization (LTO) aligns the rewriter with both caption and rendered-image quality via alternating domain-specific policy optimization. SKU-DiT, trained under Reinforce-Distill-Reinforce (RDR) progressive training, conditions jointly on the white-background product image, the trademark crop, and the structured layout to hold subject fidelity, trademark integrity, and character-level text accuracy together. The framework runs in production at a scale of millions of main images per day with a latency of a few seconds per image, which we believe makes it among the first systems of this kind to operate at commercial scale. We also release CommerceGen-Bench, a benchmark of hard cases collected from live traffic across all product categories. On it, our framework achieves the highest overall scores among the evaluated open-source baselines on both editing tracks, with and without prompt enhancement. It also matches much larger closed-source models, and beats several of them at Instruction Following and Product Integration - the two properties that determine whether an image can be published.",
+      "url": "http://arxiv.org/abs/2610.20603v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20603v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:48+00:00",
+      "source": "arxiv",
+      "title_cn": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+      "summary_cn": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+      "authors": [
+        "Qihang Cao",
+        "Haoyuan Li",
+        "Zihan Guo",
+        "Sensen Gao",
+        "Zihui Gao"
+      ],
+      "abstract": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken dynamic understanding, while 4D-specialized models often lack strong static 3D reasoning. Our analysis reveals that this spatial--dynamic interference is highly non-uniform across parameter groups, with the balance between static and dynamic capabilities particularly sensitive to changes in late-layer MLPs. To address this interference, we propose DynThinker, a unified framework for jointly strengthening static and dynamic spatial reasoning. Decoupled Exponential Moving Average (D-EMA) applies configurable group-wise averaging to constrain drift in interference-sensitive pretrained parameters while preserving flexibility for capability enhancement. Spatial-Dynamic Fusion (SDF) complements D-EMA by selectively integrating spatial and temporal priors from a dynamic geometry encoder into intermediate VLM representations under semantic guidance. Across ten metrics spanning nine static 3D and dynamic 4D benchmarks, DynThinker achieves the highest average score among all evaluated models. Notably, DynThinker achieves 56.0 on ReVSI, 67.2 on DSR-Bench, and 51.2 and 40.1 under the sample-wise and group-wise evaluation protocols of DSI-Bench, respectively, setting new state-of-the-art results among the compared open-source models across all four evaluations within a unified model.",
+      "url": "http://arxiv.org/abs/2610.20598v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20598v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:31+00:00",
+      "source": "arxiv",
+      "title_cn": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+      "summary_cn": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken d",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence",
+      "authors": [
+        "Haoyuan Li",
+        "Qihang Cao",
+        "Huanyuan Zhou",
+        "Xin Hu",
+        "Sijia Chen"
+      ],
+      "abstract": "Existing geometry-aware Multimodal Large Language Models (MLLMs) increasingly rely on external 3D encoders to provide structural priors, but executing these additional encoder paths at inference introduces substantial latency and computational overhead. We propose GeoThinker-$F$, an efficient framework that internalizes spatiotemporal perception by transforming causal MLLM hidden states into predictive latent world representations. Our key insight is that intermediate semantic representations contain sufficient information to predict useful representations of current geometry and future semantics, without requiring an exact reproduction of features from a dedicated 3D encoder. To realize this idea, GeoThinker-$F$ adopts a decoupled two-stage training strategy. In the first stage, the MLLM backbone is frozen while lightweight Latent Frame Prediction (LFP) heads learn from an offline 3D geometry expert and next-frame semantic targets. In the second stage, the external expert is removed, and the model is jointly optimized to generate and selectively integrate its self-predicted priors through a specialized Spatial-Grounded Temporal (SGT) Fusion module. Extensive evaluations show that GeoThinker-$F$ eliminates runtime dependence on external 3D geometry encoders while maintaining competitive performance across diverse spatial intelligence benchmarks. It achieves up to a $3.6\\times$ inference speedup, reducing latency from $1.45\\,\\mathrm{s}$ to $0.40\\,\\mathrm{s}$ while retaining strong spatial reasoning performance.",
+      "url": "http://arxiv.org/abs/2610.20592v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20592v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:59:03+00:00",
+      "source": "arxiv",
+      "title_cn": "GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence",
+      "summary_cn": "Existing geometry-aware Multimodal Large Language Models (MLLMs) increasingly rely on external 3D encoders to provide structural priors, but executing these additional encoder paths at inference intro",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting",
+      "authors": [
+        "Seungmi Choi",
+        "Ji-Hyoun Choi",
+        "Suhyun Jo",
+        "Tae-Gwon Park",
+        "Hui Yong Kim"
+      ],
+      "abstract": "Feed-forward 3D Gaussian Splatting (3DGS) methods enable efficient reconstruction of 3D scenes from sparse multi-view images in a single forward pass, without scene-specific optimization. However, existing feed-forward scene-coding pipelines first generate a complete Gaussian representation and then encode its geometry and appearance attributes separately, often involving non-differentiable operations. The resulting 'generate-then-compress' pipeline requires complex attribute-specific codec designs and limits rate-distortion performance by restricting the exploitation of cross-attribute redundancy. We propose multi-view feature coding for Gaussian splatting (MFGS), an end-to-end feed-forward framework for scene coding. Instead of compressing an explicit Gaussian representation, MFGS extracts multi-view features from the input images and encodes them into a compact bitstream. Through end-to-end rate-distortion training, MFGS learns compact multi-view features that jointly represent geometry and appearance, enabling the receiver to predict Gaussian attributes from the decoded features. We further introduce importance-guided Gaussian selection to accommodate different rendering budgets, allowing the receiver to adjust the number of Gaussians used for rendering from the same bitstream. Across RE10K, ACID, and DL3DV, MFGS achieves 99.76-99.86% bitrate savings over the generate-then-compress pipeline, as measured by BD-rate, while reducing total GMACs by 52-55% and providing an approximately 12 times end-to-end speedup.",
+      "url": "http://arxiv.org/abs/2610.20590v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20590v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-14T17:58:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting",
+      "summary_cn": "Feed-forward 3D Gaussian Splatting (3DGS) methods enable efficient reconstruction of 3D scenes from sparse multi-view images in a single forward pass, without scene-specific optimization. However, exi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "authors": [
+        "Mingyu Ouyang",
+        "Yiran Wang",
+        "Siyuan Hu",
+        "Xingyilang Yin",
+        "Huiqiang Sun"
+      ],
+      "abstract": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and offer a demanding next step toward general digital control. Current game-agent learning pipelines often rely on large-scale demonstrations with limited coverage of dynamic game states, while scalable environments for interactive training remain difficult to obtain. We introduce Player-1, a post-training framework for learning game control beyond demonstrations through synthetic experience. We extend the computer-use action space with relative pointer motion, sustained inputs, and composite actions. For supervised initialization, we fine-tune computer-use models on 6,044 curated gameplay trajectories that pair recorded actions with task instructions and visual reasoning. We construct Player-1-Gym, sixteen synthetic 2D and 3D environments designed around control demands shared across games. Programmatically verifiable rewards and randomized observations and control dynamics support multi-environment reinforcement learning with PPO. The resulting Player-1-9B and Player-1-35B-A3B improve MineDojo-300 success over their SFT policies by 27.8 and 17.7 percentage points, respectively. Player-1-9B reaches 38.33% success compared with 12.63% for the strongest evaluated baseline, with further gains over SFT on ViZDoom-10 and GameWorld. Further analyses show that broader synthetic environment coverage improves transfer, while the use of composite actions that combine multiple keyboard and mouse inputs increases during RL. We demonstrate that learning from synthetic experience substantially improves game control beyond supervised initialization, with gains that generalize beyond the RL training suite.",
+      "url": "http://arxiv.org/abs/2610.20584v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20584v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.HC"
+      ],
+      "published": "2026-10-14T17:57:12+00:00",
+      "source": "arxiv",
+      "title_cn": "Player-1: Learning to Play from Synthetic Experience",
+      "summary_cn": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remai",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+      "authors": [
+        "Shaoyuan Xie",
+        "Zihan Zhang",
+        "Jingxuan Wang",
+        "Jiashu Qu",
+        "Xiaoqing Liang"
+      ],
+      "abstract": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed command set to free-form natural-language instructions. However, this open-ended interface exposes a new vulnerability surface: an inattentive driver may issue instructions that are unsafe given the current scene, and a malicious user may issue dangerous ones on purpose. We present the first benchmark suite that evaluates navigation following and conflict awareness together, along with adversarial robustness. Existing VLAs fall short on both: SimLingo completes no language-instructed lane change in closed loop, and all models degrade sharply under conflicting signals. We propose SafeDriveVLA, the first driving VLA that (1) explicitly predicts a three-level navigation-compliance mode to decouple conflict reasoning from action generation, and (2) uses navigation-conditioned world model dreaming to inform this prediction. Unlike prior world models that roll out expert or planned actions, ours dreams of strictly following the navigation signal, showing when following is safe. SafeDriveVLA reaches 88.16 Driving Score (DS) and 68.64% Success Rate (SR) on Bench2Drive, lifts closed-loop language following by 49.3% and reduces collisions under unsafe instructions from 60 to 38 compared to the best SimLingo variant. Video demonstrations are available on our project page.",
+      "url": "http://arxiv.org/abs/2610.20609v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.20609v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-10-14T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving",
+      "summary_cn": "Vision-Language-Action (VLA) models are gaining attention in autonomous driving, inheriting commonsense priors from large language models (LLMs) and widening the navigation interface from a fixed comm",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
