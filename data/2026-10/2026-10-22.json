@@ -1,0 +1,735 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T10:27:19.118429+08:00",
+  "github_trending": [
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "stars": 171787,
+      "forks": 9348,
+      "language": "JavaScript",
+      "stars_today": 2079,
+      "source": "github_trending",
+      "summary_cn": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "stars": 36691,
+      "forks": 2292,
+      "language": "JavaScript",
+      "stars_today": 2012,
+      "source": "github_trending",
+      "summary_cn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "stars": 101414,
+      "forks": 6414,
+      "language": "TypeScript",
+      "stars_today": 1541,
+      "source": "github_trending",
+      "summary_cn": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "stars": 131745,
+      "forks": 12647,
+      "language": "Python",
+      "stars_today": 1433,
+      "source": "github_trending",
+      "summary_cn": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "stars": 141578,
+      "forks": 16732,
+      "language": "Python",
+      "stars_today": 939,
+      "source": "github_trending",
+      "summary_cn": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "supabase/supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "stars": 113051,
+      "forks": 16946,
+      "language": "TypeScript",
+      "stars_today": 504,
+      "source": "github_trending",
+      "summary_cn": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "stars": 77298,
+      "forks": 5999,
+      "language": "Python",
+      "stars_today": 474,
+      "source": "github_trending",
+      "summary_cn": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "stars": 94913,
+      "forks": 23753,
+      "language": "Python",
+      "stars_today": 441,
+      "source": "github_trending",
+      "summary_cn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "stars": 42510,
+      "forks": 5337,
+      "language": "Python",
+      "stars_today": 428,
+      "source": "github_trending",
+      "summary_cn": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "stars": 100683,
+      "forks": 8862,
+      "language": "Python",
+      "stars_today": 426,
+      "source": "github_trending",
+      "summary_cn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "stars": 70833,
+      "forks": 7853,
+      "language": "Python",
+      "stars_today": 394,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "stars": 12379,
+      "forks": 874,
+      "language": "Rust",
+      "stars_today": 286,
+      "source": "github_trending",
+      "summary_cn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "description": "The open alternative to Salesforce, designed for AI.",
+      "stars": 59219,
+      "forks": 9665,
+      "language": "TypeScript",
+      "stars_today": 112,
+      "source": "github_trending",
+      "summary_cn": "The open alternative to Salesforce, designed for AI.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Emily2040/seedance-2.0",
+      "url": "https://github.com/Emily2040/seedance-2.0",
+      "description": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+      "stars": 7884,
+      "forks": 1154,
+      "language": "Python",
+      "stars_today": 29,
+      "source": "github_trending",
+      "summary_cn": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "url": "https://www.wiz.io/blog/php2shell-php-rce",
+      "score": 436,
+      "comments": 172,
+      "author": "danlark1",
+      "time": "2026-10-21T13:43:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50180836",
+      "source": "hacker_news",
+      "title_cn": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "score": 320,
+      "comments": 280,
+      "author": "kuberwastaken",
+      "time": "2026-10-21T19:14:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50186037",
+      "source": "hacker_news",
+      "title_cn": "Claude Duet",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud/",
+      "score": 245,
+      "comments": 105,
+      "author": "armcat",
+      "time": "2026-10-21T12:53:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50180079",
+      "source": "hacker_news",
+      "title_cn": "OpenAI models are coming to Google Cloud",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic logged net loss of over $80B in first half of 2026",
+      "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+      "score": 187,
+      "comments": 94,
+      "author": "throwa356262",
+      "time": "2026-10-20T20:09:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50171966",
+      "source": "hacker_news",
+      "title_cn": "Anthropic logged net loss of over $80B in first half of 2026",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "score": 136,
+      "comments": 86,
+      "author": "raahelb",
+      "time": "2026-10-21T13:37:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50180752",
+      "source": "hacker_news",
+      "title_cn": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Using Claude to reduce the attack surface of code",
+      "url": "https://www.anthropic.com/research/attack-surface-reduction",
+      "score": 131,
+      "comments": 86,
+      "author": "dnw",
+      "time": "2026-10-21T03:36:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50175779",
+      "source": "hacker_news",
+      "title_cn": "Using Claude to reduce the attack surface of code",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "score": 117,
+      "comments": 75,
+      "author": "artninja1988",
+      "time": "2026-10-20T17:48:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50170021",
+      "source": "hacker_news",
+      "title_cn": "Claude designed protein binders against scorpion neurotoxins",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "score": 112,
+      "comments": 22,
+      "author": "saikatsg",
+      "time": "2026-10-21T19:14:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50186043",
+      "source": "hacker_news",
+      "title_cn": "Google staff resign in backlash over its AI contracts with military",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "On AI writing",
+      "url": "https://www.bolkunov.com/p/on-ai-writing",
+      "score": 92,
+      "comments": 60,
+      "author": "dbolkunov",
+      "time": "2026-10-20T19:55:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50171771",
+      "source": "hacker_news",
+      "title_cn": "On AI writing",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "url": "https://jevcards.com",
+      "score": 71,
+      "comments": 51,
+      "author": "totisjosema",
+      "time": "2026-10-20T15:11:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50167617",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LayerFS: The filesystem for AI coding agents",
+      "url": "https://layerfs.ai/",
+      "score": 70,
+      "comments": 42,
+      "author": "l2dy",
+      "time": "2026-10-21T12:34:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50179857",
+      "source": "hacker_news",
+      "title_cn": "LayerFS: The filesystem for AI coding agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "url": "https://rustoffrails.org/",
+      "score": 67,
+      "comments": 74,
+      "author": "mike1o1",
+      "time": "2026-10-21T16:34:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50183727",
+      "source": "hacker_news",
+      "title_cn": "Rust off Rails: The opinionated web stack for the AI era",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "url": "https://github.com/AbdullahAlhariri/penmentor",
+      "score": 64,
+      "comments": 7,
+      "author": "abdullahalharir",
+      "time": "2026-10-20T15:10:54+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50167604",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Duet",
+      "url": "https://claude.com/resources/articles/claude-duet",
+      "score": 61,
+      "comments": 6,
+      "author": "zaevlad",
+      "time": "2026-10-21T19:40:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50186455",
+      "source": "hacker_news",
+      "title_cn": "Claude Duet",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "url": "https://alterauth.com/",
+      "score": 53,
+      "comments": 22,
+      "author": "simfinii",
+      "time": "2026-10-21T06:42:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50176908",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "authors": [
+        "Zhennan Wan",
+        "Jianfei Chen"
+      ],
+      "abstract": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is expensive, naturally occurring data are too scarce to sustain RL, and existing synthesis methods depend on external corpora or stronger teacher models, which become harder to obtain as the trained models get stronger. Recently, RL from zero data, in which a model learns from tasks it proposes itself, has achieved excellent performance, but existing methods target short-context tasks. Therefore, we propose $\\textbf{LongZero}$, a method that lets an LLM improve its own long-context reasoning without any external data. Instead of writing questions and answers over existing documents, LongZero first has the model synthesize the question and answer with its supporting evidence in a compact structured form, and only then separately expands the evidence into a long multi-document context. LongZero combines these self-written multi-hop reasoning tasks with self-written multi-round retrieval tasks and trains the model with GRPO. We evaluate LongZero on two LLMs across five long-context reasoning benchmarks and compare it with RL on data synthesized from external corpora. Experimental results show that LongZero can generalize to real tasks, and outperforms both baselines, suggesting a viable and promising path to improving long-context reasoning of LLMs.",
+      "url": "http://arxiv.org/abs/2610.30132v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30132v1",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-10-21T17:59:14+00:00",
+      "source": "arxiv",
+      "title_cn": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
+      "summary_cn": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "authors": [
+        "Shibo Jin",
+        "Zhiqiu Xu",
+        "Yiling Zou",
+        "Shangyu Gong",
+        "Mayur Naik"
+      ],
+      "abstract": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem, as a creator and as a solver? We introduce Environment Duels, a dynamic agentic benchmark that evaluates both capabilities on interactive environments. Each model writes environments, each with a privileged hint, aiming for tasks that capable solvers fail without the hint and pass with it. Across nine frontier LLMs, solving and authoring prove to be distinct skills: the strongest solvers are not the strongest authors, while smaller models learn more from how others played and write the hardest environments and the most useful hints. Beyond the scores, the pairwise interactions form a microcosm of how models affect one another. Head-to-head outcomes are transitive and so yield a stable ranking; independent authors converge on the same designs; and in a reinforcement-learning study with Qwen3.8-27B, the learner's hint lift on an author's environments tracks how much training on those environments improves it on held-out reasoning and agentic benchmarks, whether the environments are its own or another model's. Each of these patterns has a counterpart in how models shape one another outside the duel. By staging these interactions under controlled conditions, Environment Duels offers a window onto how LLMs teach, challenge and learn from one another. Code is available at https://github.com/LLM-Duels/EnvDuels.",
+      "url": "http://arxiv.org/abs/2610.30116v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30116v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-10-21T17:55:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Environment Duels: A Microcosm of LLM Co-Evolution",
+      "summary_cn": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each m",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "authors": [
+        "Houde Qian",
+        "Zheng Jiang",
+        "Wenyi Li",
+        "Chenxi Xu",
+        "Xinjie Lin"
+      ],
+      "abstract": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual trading decisions, leaving open whether large language models (LLMs) can complete this loop and produce strategies that work beyond the research period. We introduce Quant-Arena, a benchmark and public leaderboard for end-to-end quantitative research on real A-share market data. A model constructs features and stock-scoring code, receives feedback only on 2022--2023, and freezes one strategy for assessment on the sealed year 2024. A cash-account evaluator applies trading constraints and costs, including market impact estimated from a simulated order book. Scores are dominated by realized excess return and complemented by signal quality and the diversity of features used by the strategy. We evaluate nine frontier models, among which GPT-6 Astra scores highest; yet no model beats the equal-weight market in 2024. Quant-Arena is open to submissions from any model or agent harness.",
+      "url": "http://arxiv.org/abs/2610.30113v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30113v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CE"
+      ],
+      "published": "2026-10-21T17:54:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "summary_cn": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+      "authors": [
+        "Imon Banerjee",
+        "Pierre Alquier"
+      ],
+      "abstract": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed cycle lengths and retains explicit terms for truncation and the cycle ending after the observation horizon. Selecting a tuning parameter from a finite deterministic collection gives a version of Bernstein inequality where all terms are empirical but one, related to the tails of the regeneration times. We then study this term in many regimes: it turns out that it is of second-order in many cases of interest. This is important for applications in machine learning: we prove generalization error bounds for classification with non-i.i.d., regenerative data. These bounds can be used to define learning objectives: by minimizing the first-order term only in the bound, we define agnostic classifiers that still satisfy oracle inequalities. We also show that the bound on the average deviation provided by our results is minimax-optimal in the sample size and in the expected regeneration time. Finally, we combine the Bernstein inequality with a regenerative strong approximation to obtain a Gaussian approximation using an observable block variance estimator.",
+      "url": "http://arxiv.org/abs/2610.30119v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30119v1",
+      "categories": [
+        "cs.LG",
+        "math.PR",
+        "math.ST"
+      ],
+      "published": "2026-10-21T17:56:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
+      "summary_cn": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed c",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "The role of locality and weight sharing in convolutional neural networks",
+      "authors": [
+        "Francesco Mori",
+        "Melanie Weber"
+      ],
+      "abstract": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-student model with a convolutional teacher acting on $P$ input positions with correlation $c$ between positions. We compare convolutional and locally connected students trained by online stochastic gradient descent, and derive ordinary differential equations that describe their dynamics exactly in the limit of large feature dimension $D$. For uncorrelated positions ($c = 0$), the two students follow the same learning trajectory, with the convolutional student learning exactly $P$ times faster. We also find that locality affects the sample complexity: a student that matches the kernel size of the teacher recovers it from $\\mathcal{O}_{D}(D)$ samples, whereas $\\mathcal{O}_{D}(D\\log(D))$ samples are needed with a larger kernel. For $c > 0$, spatial correlations can reduce the advantage of weight sharing. The asymptotic error of the convolutional student grows with $c$, whereas that of the locally connected student is independent of $c$ and overall lower when evaluated at the same learning rate. When the learning rate is instead tuned to the training horizon, however, the locally connected student wins at early times and the convolutional student at late times, with a transition that we predict analytically.",
+      "url": "http://arxiv.org/abs/2610.30118v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30118v1",
+      "categories": [
+        "cs.LG",
+        "cond-mat.dis-nn",
+        "cond-mat.stat-mech",
+        "stat.ML"
+      ],
+      "published": "2026-10-21T17:56:22+00:00",
+      "source": "arxiv",
+      "title_cn": "The role of locality and weight sharing in convolutional neural networks",
+      "summary_cn": "The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatia",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+      "authors": [
+        "Yunpeng Mei",
+        "Xiaowen Zhu",
+        "Chenyu Wang",
+        "Chenbo Xin",
+        "Hongjie Cao"
+      ],
+      "abstract": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remain data-limited. We introduce the Velocity Ambiguity Profile (VAP), $\\mathcal{A}_v(t)$, the time-local Bayes-risk floor of velocity prediction, and decompose time-resolved loss as $L_N(t)=\\mathcal{A}_v(t)+R(t;N)$, where only the excess term $R(t;N)$ is reducible by more data or a different estimator. For $N$ training samples and a $K$-component mixture in the structured example, we prove two statistical benchmarks. In an intrinsic local-regression benchmark, $\\mathcal{A}_v(t)$ enters the time-dependent noise factor of the standard nonparametric rate. In separated isotropic Gaussian mixtures, the Bayes velocity becomes locally affine, and a label-oracle residual-regression benchmark has parametric excess-risk scale $K\\mathcal{A}_v(t)/N$, matched within the same separated residual Gaussian-location subproblem. Controlled Gaussian-mixture experiments validate this diagnostic through a dense transition sweep, calibrated oracle-to-blind and empirical-proxy audits, and a local controlled time-sampler stress test in which a frozen reducible-error proxy reduces reducible loss while cross-cell sensitivity delimits aggressive sampling. On CIFAR-100 DINOv2 feature flow, guided time sampling reduces uniformly evaluated velocity loss by $6.78\\%$ and global feature Fréchet distance (FD) by $23.6\\%$, while class-conditional kernel inception distance (KID) shows no improvement. VAP turns an averaged flow-matching objective into a time-resolved diagnostic for locating ambiguity-limited and data-limited regions.",
+      "url": "http://arxiv.org/abs/2610.30107v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30107v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-10-21T17:52:40+00:00",
+      "source": "arxiv",
+      "title_cn": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Matching",
+      "summary_cn": "Flow matching trains a continuum of velocity regression problems but usually reports a loss averaged over interpolation time, obscuring which regions are limited by intrinsic ambiguity and which remai",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+      "authors": [
+        "Sonja Topf",
+        "Ana Sanchez-Fernandez",
+        "Günter Klambauer"
+      ],
+      "abstract": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental conditions. Although recent domain adaptation methods have made substantial progress, significant performance gaps under domain shift persist. To measure progress in this regard, we introduce BatchBench, a leaderboard that evaluates and compares the robustness of AI systems on biomedical images from unseen experimental batches and data sources. BatchBench is built on JUMP-CP, one of the largest publicly available biomedical imaging datasets. Generated using the Cell Painting assay, JUMP-CP exhibits pronounced batch effects and domain shifts, making it a challenging testbed for evaluating robustness to distributional changes.",
+      "url": "http://arxiv.org/abs/2610.30104v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30104v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-10-21T17:50:22+00:00",
+      "source": "arxiv",
+      "title_cn": "BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard",
+      "summary_cn": "Despite recent advances, current AI systems remain highly susceptible to domain shifts, particularly in biomedical imaging, where images are usually acquired under substantially different experimental",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Rethinking Video Autoencoders for Interactive World Models",
+      "authors": [
+        "Adrien Ramanana Rahary",
+        "Yutong Bai",
+        "Nicolas Dufour",
+        "Patrick Pérez",
+        "David Picard"
+      ],
+      "abstract": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video autoencoder, whose compression sets their cost per frame and how long each action waits to take effect. Yet world models often reuse the autoencoders of text-to-video generators, built for offline generation with no agent waiting and, without their training data and code, not retrainable at another compression. We therefore ask how, where and how much a world model should compress. We build CADRE, an open family of causal diffusion representation autoencoders spanning multiple spatio-temporal compressions. Its members differ only in a small bottleneck on frozen features and share a diffusion decoder self-distilled to one or a few steps. We train the same world model on each autoencoder in two domains, manipulation and navigation, with two environments each. CADRE forms most of the latency-quality frontier, especially with a moving camera. Our study also leads to four findings. At strong compression, a diffusion decoder is sharper than perceptual regression. In robot manipulation, temporal compression is more effective in the autoencoder than in the world model. Manipulation and navigation call for opposite compressions: temporal compression costs little when the camera is still, and spatial compression when it moves. Surprisingly, with a still camera, coarser spatial tokens hurt motion far more than image quality. Code, models and a live demo are at https://kyutai.org/blog/2026-10-21-cadre",
+      "url": "http://arxiv.org/abs/2610.30129v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30129v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-21T17:58:11+00:00",
+      "source": "arxiv",
+      "title_cn": "Rethinking Video Autoencoders for Interactive World Models",
+      "summary_cn": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate i",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+      "authors": [
+        "Zhichao Zhai",
+        "Menglei Zhao",
+        "Guikun Chen",
+        "Zihao Yan",
+        "Kanzhi Wu"
+      ],
+      "abstract": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references that language leaves implicit. In this work, we introduce VoxProg, which formulates 3D object placement through voxel programming: a language model translates task interpretations into executable programs over local voxel views of scene surfaces. Because these views index surface geometry on regular grids with explicit coordinates and neighborhood relations, an evidence program can isolate task-relevant regions and boundaries directly from scene meshes, and a downstream pose program can measure the resulting geometry to compute a target $SE(3)$ pose. Visual and numerical feedback from execution lets the model inspect intermediate selections and candidate placements to iteratively revise its code. To evaluate open-ended placement across functional use, geometric fit, and contextual arrangements, we introduce the 71-task VoxProg-Bench benchmark along with an evaluation suite pairing perceptual Intent Alignment and 3D Physical Validity. Across VoxProg-Bench and external benchmarks, VoxProg consistently outperforms relation-based, keypoint-based, and mesh-based baselines.",
+      "url": "http://arxiv.org/abs/2610.30127v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30127v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-21T17:58:05+00:00",
+      "source": "arxiv",
+      "title_cn": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+      "summary_cn": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geo",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ALPS: Visual State Encoders for World Models",
+      "authors": [
+        "Yanqing Liu",
+        "Letian Zhang",
+        "Chengzhi Liu",
+        "Zijun Wang",
+        "Jieru Mei"
+      ],
+      "abstract": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruction, so that a single representation can support prediction, instruction, and inspection. However, existing encoders typically specialize in only one or two of these capabilities; we therefore introduce ALPS, a pretrained visual state encoder that unifies all three in a single set of patch tokens. Using only still images and text, we pretrain a ViT-B/16 from scratch with language, reconstruction, and spatial correspondence objectives, and then refine it via cross-view self-distillation. In a unified evaluation across fifteen public encoders, ALPS achieves the lowest aggregate LIBERO state-probe error among ViT-B models (matching the 3.5x larger V-JEPA 2-L) while maintaining strong language alignment and accurate pixel reconstruction. Downstream, frozen ALPS tokens reach the highest mean policy success on LIBERO (85.5%) when paired with our native text tower, match or exceed leading encoders on world-model planning across PushT, Wall, and Granular, and allow predicted future tokens to be decoded directly into pixels for visual inspection. We hope this work helps establish visual pretraining as a shared foundation for understanding, prediction, and action in world models.",
+      "url": "http://arxiv.org/abs/2610.30120v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30120v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-10-21T17:57:11+00:00",
+      "source": "arxiv",
+      "title_cn": "ALPS: Visual State Encoders for World Models",
+      "summary_cn": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruct",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agentic World Action Models",
+      "authors": [
+        "Zhuoyang Liu",
+        "Dantong Niu",
+        "Botong Zhang",
+        "Boning Shao",
+        "Jing Wang"
+      ],
+      "abstract": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based planning and reasoning with reusable skills, but often lacks predictive grounding in physical dynamics. We introduce AW-0, an agentic world action model framework that integrates code-based planning with joint video and action prediction. We jointly model code, future video, and robot actions as three coupled generative streams within a unified mixture-of-transformers architecture. Within this architecture a code expert generates parameterized skill routines and control logic while video and action experts generate future visual states and low-level motor commands. Code serves two complementary roles: it structures multi-step prediction and control within the world model and represents skills as reusable programs for subsequent agentic execution. We further introduce an automated curation pipeline that labels robot and human video trajectories with aligned programs and consolidates recurring routines into reusable skill libraries. Evaluations on RoboTwin 2.0 and physical bimanual manipulation tasks show improved task performance over VLA and WAM baselines, alongside gains in language following, semantic reasoning and robustness, demonstrating that agentic code enables connection between planning, prediction and execution within WAMs.",
+      "url": "http://arxiv.org/abs/2610.30136v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30136v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-10-21T17:59:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Agentic World Action Models",
+      "summary_cn": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based plann",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "authors": [
+        "Zhanshuo Cao",
+        "Jiakai Tang",
+        "Yuqi Zhou",
+        "Sunhao Dai",
+        "Jun Xu"
+      ],
+      "abstract": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challenge this de facto design with two diagnostic findings. (1) Non-uniform computational need: items within the same sequence vary drastically in how much computation they require. Most converge after shallow processing while a critical minority only stabilizes at full depth. (2) Suboptimality of fixed allocation: given oracle access to the target item, a non-uniform depth assignment consistently outranks the fixed one, indicating that existing uniform computation both wastes capacity on already-converged items and sacrifices overall recommendation quality. These observations motivate a shift from fixed-depth computation to item-level adaptive reasoning. To this end, we propose LoopRec. LoopRec recursively applies a single weight-shared block and introduces a lightweight gate at each recursion boundary that makes a binary exit-or-continue decision for every item independently. Items whose representations have sufficiently matured exit early, while those requiring deeper reasoning continue to subsequent recursions. This design converts the fixed global depth into a learned, per-item property without auxiliary depth labels, and is readily adaptable to diverse backbone architectures. Extensive experiments on public benchmarks with four backbone families demonstrate that LoopRec consistently outperforms matched fixed-depth counterparts. Further analysis reveals that LoopRec's learned allocation exhibits interpretable patterns aligned with our post-hoc oracle analysis: lower-frequency items and more recent interactions naturally receive deeper computation. Our code is available at https://github.com/Elpmis117/LoopRec.",
+      "url": "http://arxiv.org/abs/2610.30128v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30128v1",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-10-21T17:58:06+00:00",
+      "source": "arxiv",
+      "title_cn": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "summary_cn": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "authors": [
+        "Yunhao Luo",
+        "Wentao He",
+        "Yinpei Dai",
+        "Hyelin Nam",
+        "Hongze Fu"
+      ],
+      "abstract": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dynamics, such as an object's mass distribution, joint damping, or surface friction. Without calibrating these physics factors for world models, predictions tend to regress toward an empirical prior and induce severe drift in novel test scenes. To this end, we propose PhysiCalWorld, which calibrates action-conditioned world models to the instance-specific dynamics via in-context prompting, without fine-tuning or analytical physics modeling. Our method encodes an exploratory interaction clip collected within the test scene into a compact physics descriptor token, which grounds subsequent predictions in the scene's actual physical behavior. PhysiCalWorld is trained end-to-end with the latent prediction loss alone, without physics labels. At inference time, the descriptor token is extracted once and can be reused across rollouts with negligible compute overhead. We evaluate PhysiCalWorld across four environments covering diverse physics variations and show that it substantially improves rollout prediction accuracy and visual planning success rate. The learned descriptors also form a physically structured latent space and generalize beyond the physics ranges seen during training.",
+      "url": "http://arxiv.org/abs/2610.30125v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30125v1",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ],
+      "published": "2026-10-21T17:57:59+00:00",
+      "source": "arxiv",
+      "title_cn": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "summary_cn": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+      "authors": [
+        "Ashkan Soleymani",
+        "Gabriele Farina"
+      ],
+      "abstract": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our method uses a boosting argument to geometrically shrink a search region. Among other consequences, our algorithm implies that simple stochastic games can be solved in quasipolynomial time.",
+      "url": "http://arxiv.org/abs/2610.30122v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30122v1",
+      "categories": [
+        "cs.GT",
+        "cs.CC",
+        "cs.LG",
+        "math.OC"
+      ],
+      "published": "2026-10-21T17:57:19+00:00",
+      "source": "arxiv",
+      "title_cn": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
+      "summary_cn": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our m",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Geometric Algebra for Neural Networks: A Survey",
+      "authors": [
+        "Tao Zhong",
+        "Kaison Fong",
+        "Keqin Wang",
+        "Christine Allen-Blanchette"
+      ],
+      "abstract": "Geometric algebra (GA) unifies geometric primitives and transformations in a single algebraic framework. Neural networks designed around this framework often represent features as multivectors and constrain layer operations to respect the algebraic structure, enabling principled treatment of geometric transformations and, in many cases, built-in equivariance. This survey reviews geometric algebra neural networks, including their building blocks, equivariant properties, application domains, empirical performance, and software support. We provide an algebra-selection guide, an empirical comparison of GA-based and other equivariant architectures, and a failure-mode analysis covering training pathologies, deployment constraints, and performance limitations. Across the surveyed literature, the strongest evidence for GA-based architectures appears in settings with explicit geometric symmetries and heterogeneous geometric entities; evidence for broader advantages in parameter efficiency, interpretability, and dense prediction is comparatively limited and uneven. We therefore conclude that geometric algebra neural networks are not universally superior to well-tuned non-GA equivariant baselines, and outline open problems in algebra selection, numerical stability, scalable implementation, and reproducible evaluation.",
+      "url": "http://arxiv.org/abs/2610.30121v1",
+      "pdf_url": "https://arxiv.org/pdf/2610.30121v1",
+      "categories": [
+        "eess.IV",
+        "stat.ML"
+      ],
+      "published": "2026-10-21T17:57:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Geometric Algebra for Neural Networks: A Survey",
+      "summary_cn": "Geometric algebra (GA) unifies geometric primitives and transformations in a single algebraic framework. Neural networks designed around this framework often represent features as multivectors and con",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
