@@ -1,0 +1,715 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T12:34:12.973565+08:00",
+  "github_trending": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 10396,
+      "forks": 699,
+      "language": "Rust",
+      "stars_today": 2275,
+      "source": "github_trending",
+      "summary_cn": "Computer use CLI for AI agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 110939,
+      "forks": 9673,
+      "language": "TypeScript",
+      "stars_today": 1803,
+      "source": "github_trending",
+      "summary_cn": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "stars": 33768,
+      "forks": 4533,
+      "language": "Shell",
+      "stars_today": 1379,
+      "source": "github_trending",
+      "summary_cn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 310400,
+      "forks": 26108,
+      "language": "Shell",
+      "stars_today": 858,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "stars": 93188,
+      "forks": 9803,
+      "language": "Python",
+      "stars_today": 706,
+      "source": "github_trending",
+      "summary_cn": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 75429,
+      "forks": 9952,
+      "language": "Python",
+      "stars_today": 693,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "beenuar/AiSOC",
+      "url": "https://github.com/beenuar/AiSOC",
+      "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "stars": 6745,
+      "forks": 690,
+      "language": "Python",
+      "stars_today": 659,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "stars": 38202,
+      "forks": 4331,
+      "language": "Python",
+      "stars_today": 420,
+      "source": "github_trending",
+      "summary_cn": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "stars": 12183,
+      "forks": 1493,
+      "language": "Python",
+      "stars_today": 412,
+      "source": "github_trending",
+      "summary_cn": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "stars": 110514,
+      "forks": 18293,
+      "language": "TypeScript",
+      "stars_today": 412,
+      "source": "github_trending",
+      "summary_cn": "The open-source app everyone uses to manage agents at work",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "stars": 59984,
+      "forks": 8417,
+      "language": "Python",
+      "stars_today": 321,
+      "source": "github_trending",
+      "summary_cn": "The best ChatGPT that $100 can buy.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 66389,
+      "forks": 5812,
+      "language": "Python",
+      "stars_today": 136,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 10117,
+      "forks": 366,
+      "language": "Rust",
+      "stars_today": 77,
+      "source": "github_trending",
+      "summary_cn": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 2170,
+      "comments": 706,
+      "author": "dbreunig",
+      "time": "2026-11-02T18:21:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50341174",
+      "source": "hacker_news",
+      "title_cn": "Astra can read and write weights to improve Qwen",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 602,
+      "comments": 319,
+      "author": "aarushyadav",
+      "time": "2026-11-02T17:16:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50340088",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Subvocal – Talk to your computer without making noise",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "score": 301,
+      "comments": 242,
+      "author": "entryleveljobsc",
+      "time": "2026-11-02T16:40:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50339494",
+      "source": "hacker_news",
+      "title_cn": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "score": 256,
+      "comments": 192,
+      "author": "cdrnsf",
+      "time": "2026-11-02T22:30:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50344919",
+      "source": "hacker_news",
+      "title_cn": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "score": 189,
+      "comments": 213,
+      "author": "cdrnsf",
+      "time": "2026-11-02T22:33:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50344958",
+      "source": "hacker_news",
+      "title_cn": "Anthropic's growth just flattened",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "score": 174,
+      "comments": 157,
+      "author": "smartmic",
+      "time": "2026-11-02T19:27:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50342284",
+      "source": "hacker_news",
+      "title_cn": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+      "score": 167,
+      "comments": 242,
+      "author": "mancerayder",
+      "time": "2026-11-02T14:40:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50337454",
+      "source": "hacker_news",
+      "title_cn": "Jobless tech workers are being left out of San Francisco's AI boom",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "score": 151,
+      "comments": 86,
+      "author": "jonnybgood",
+      "time": "2026-11-02T07:27:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50334038",
+      "source": "hacker_news",
+      "title_cn": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 134,
+      "comments": 89,
+      "author": "wuweiweiwu",
+      "time": "2026-11-02T17:05:25+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50339913",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "score": 132,
+      "comments": 92,
+      "author": "smilelamp",
+      "time": "2026-11-02T18:54:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50341736",
+      "source": "hacker_news",
+      "title_cn": "Egoless Mathematics in the AI Era",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Last night an AI agent performed brain surgery on a mouse",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "score": 125,
+      "comments": 100,
+      "author": "FacZap",
+      "time": "2026-11-02T12:50:59+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50336138",
+      "source": "hacker_news",
+      "title_cn": "Last night an AI agent performed brain surgery on a mouse",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 99,
+      "comments": 33,
+      "author": "makeramen",
+      "time": "2026-11-02T23:47:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50345924",
+      "source": "hacker_news",
+      "title_cn": "Scaling Git at OpenAI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Agentic backdoors via pretraining poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "score": 93,
+      "comments": 28,
+      "author": "gmays",
+      "time": "2026-11-02T18:30:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50341334",
+      "source": "hacker_news",
+      "title_cn": "Agentic backdoors via pretraining poisoning",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "url": "https://chaosmanage.github.io/i-killed-unlimited-chatgpt/",
+      "score": 90,
+      "comments": 53,
+      "author": "gulmothrowaway",
+      "time": "2026-11-01T17:01:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50327416",
+      "source": "hacker_news",
+      "title_cn": "I Am the Reason OpenAI Is Killing Unlimited Chats",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "url": "https://stephenjgallagher.substack.com/p/ai-can-draw-blueprints-now",
+      "score": 88,
+      "comments": 30,
+      "author": "SteveGallag",
+      "time": "2026-11-02T16:25:33+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50339224",
+      "source": "hacker_news",
+      "title_cn": "Claude Opus 5.5 Can Draw Permit-Level Architectural Drawings",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans in Long-Horizon Learning Environments",
+      "authors": [
+        "Bahar Radmehr",
+        "Jiaxu Zhao",
+        "Fatma Betül Güreş",
+        "Adish Singla",
+        "Tanja Käser"
+      ],
+      "abstract": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students and to augment scarce data for studying learning at scale. Existing LLM-based simulators primarily target short, language-centered interactions. In open-ended learning environments, however, student behavior emerges from patterns across long-horizon interaction trajectories, where turn-level prompting can drift from an assigned behavior profile. We introduce ALPS (Align Long-term by Planning Short-term), a hierarchical simulated student conditioned on observable, environment-specific behavior profiles. Rather than selecting every action independently, ALPS alternates between planning profile-aligned task segments and generating the corresponding actions. We evaluate ALPS in both data-sufficient and data-scarce settings, where supervision comes either from real student trajectories or from a teacher LLM. Across both settings, we compare in-context learning (ICL), supervised fine-tuning (SFT), reward-ranked fine-tuning (RAFT), and their sequential combination (SFT followed by RAFT). Experiments in an inquiry-based physics game and a pharmacy simulation evaluate behavioral density and coverage against held-out real data, and profile consistency using a human-aligned LLM judge. Across both settings, ALPS consistently outperforms turn-level generation, achieving comparable density and judge pass rates under scarce supervision, although coverage remains lower. These results show that hierarchical planning enables faithful, profile-aligned simulation over long interaction horizons, even with limited real student data.",
+      "url": "http://arxiv.org/abs/2611.02002v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.02002v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ],
+      "published": "2026-11-01T15:43:45+00:00",
+      "source": "arxiv",
+      "title_cn": "To Align Long, Plan Short: Simulating Diverse Profile-Aligned Students by Realizing Short-Term Plans in Long-Horizon Learning Environments",
+      "summary_cn": "Simulated students offer a scalable way to test learning platforms and AI tutors before deployment with real students and to augment scarce data for studying learning at scale. Existing LLM-based simu",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving",
+      "authors": [
+        "Zhengshu Zhou",
+        "Shaoyu Wang",
+        "Lu Tao",
+        "Xinhui Hu",
+        "Jiaqi Gu"
+      ],
+      "abstract": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fuses perception data from multiple sources to overcome the inherent line-of-sight and field-of-view limits of single-vehicle perception. However, DM still falls short on driving safety in two ways. First, DM data specifications already define road conditions semantically, but no pipeline yet turns real-world road observations into fine-grained risk entities in the DM. Second, existing DM systems lack a natural language interface for driving risks. To close these gaps, we propose Safety4DM, a safety-oriented language system for VRC dynamic maps. We first build RoadRisk, a real-world road image dataset that covers four types of road conditions and four risk levels. On this dataset, we fine-tune a vision-language model (VLM) for road safety risk perception. The model outputs structured risk representations that the DM can ingest directly. We then introduce a Safety-aware Step-wise Prompting (SafeStep) mechanism as the natural language query interface of the DM. SafeStep answers queries accurately and also generates actionable driving advice. To build and evaluate this interface, we develop SafeVRC-Sim, a VRC cooperative simulation framework, and SafeDM-QA, a safety question-answering benchmark. Experiments show that even the compact Qwen3-VL-4B reaches 89.83% accuracy on risk perception after fine-tuning. SafeStep also plugs easily into multiple LLM families. With medium and large models (20B and above) from five families, it achieves over 93% natural language query accuracy in every case, which shows strong generalization.",
+      "url": "http://arxiv.org/abs/2611.01996v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01996v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:34:04+00:00",
+      "source": "arxiv",
+      "title_cn": "Safety4DM: A Vision-Language Framework for Risk-Aware Dynamic Maps in Vehicle-Road-Cloud Collaborative Driving",
+      "summary_cn": "Dynamic map (DM) is a core information infrastructure for vehicle-road-cloud (VRC) cooperative autonomous driving. It fuses perception data from multiple sources to overcome the inherent line-of-sight",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "RubricWorld: World Model-Guided Rubric Optimization for LLM Graders",
+      "authors": [
+        "Hongji Pu",
+        "Hang Li",
+        "Yucheng Chu",
+        "Jiliang Tang"
+      ],
+      "abstract": "Rubric optimization improves LLM grading by revising scoring instructions while keeping the grader's parameters fixed. Existing optimizers often judge edits by aggregate validation performance, limiting the supervision they retain about which errors an edit corrects or introduces. Testing each candidate also requires rescoring validation answers, which limits how many edits can be explored within a fixed budget. We propose RubricWorld, a framework that learns from previous edit evaluations to guide further search. Its world model predicts an edit's correction and degradation rates at score boundaries, conditioned on the current rubric state. The training signal comes from paired grading results: scores for the same answers before and after an edit. Predictions select one candidate for direct evaluation, and held-out confidence bounds determine whether it corrects enough target errors while keeping new errors within prespecified limits. Measured effects update the model even when the edit is rejected. Across EIR (National), ASAP2.0, and ASAP-SAS with three frozen LLM graders, RubricWorld achieves the highest score in 20 of 27 metric comparisons. On ASAP2.0, it raises gpt-5-mini accuracy from 18.20% with the original rubric to 46.70%, exceeding the strongest baseline, APO, by 22.60 percentage points. code will be released upon acceptance.",
+      "url": "http://arxiv.org/abs/2611.01986v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01986v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:22:37+00:00",
+      "source": "arxiv",
+      "title_cn": "RubricWorld: World Model-Guided Rubric Optimization for LLM Graders",
+      "summary_cn": "Rubric optimization improves LLM grading by revising scoring instructions while keeping the grader's parameters fixed. Existing optimizers often judge edits by aggregate validation performance, limiti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Opening the Black Box of Neural Auction Mechanisms",
+      "authors": [
+        "Li Kong",
+        "Zilong Liu",
+        "Haoyang Zhou",
+        "Hanbing Liu",
+        "Qi Qi"
+      ],
+      "abstract": "Neural auction design has emerged as a powerful paradigm within automated mechanism design for modern Web platforms. Because these learned mechanisms directly dictate critical economic outcomes, their lack of internal transparency raises significant auditability and trust concerns. Opening this black box \\textit{post-hoc} is therefore essential, yet presents two distinctive challenges: (1) activation contexts are dense, correlated numerical profiles devoid of explicit semantic structure, and (2) feature interpretations can only be falsifiably audited if they map to measurable auction states or outcomes. In this paper, we propose a post-hoc white-box auditing framework for unpacking trained neural auctions. Using CITransNet as a representative testbed, we first employ sparse autoencoders to decompose hidden representations while faithfully preserving downstream auction behavior. Anchoring feature interpretations to native economic targets, we validate them through activation prediction and causal interventions to isolate verified features from the reconstruction dictionary. Finally, applying this pipeline across varied auction settings, we show that the verified features can serve as analytical instruments to examine how internal representations modulate strategic misreporting incentives, align with Myerson's optimal auction, and support the diagnosis of individual auctions. Our work highlights the potential of white-box mechanism auditing to build the foundational trust necessary for neural auctions to be deployed as widely adopted Web technologies. To enhance research transparency and facilitate independent inspection, we publicly release the experimental results supporting our findings at https://github.com/Li-Beverly-Kong/opening-neural-auctions.git",
+      "url": "http://arxiv.org/abs/2611.01981v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01981v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:18:05+00:00",
+      "source": "arxiv",
+      "title_cn": "Opening the Black Box of Neural Auction Mechanisms",
+      "summary_cn": "Neural auction design has emerged as a powerful paradigm within automated mechanism design for modern Web platforms. Because these learned mechanisms directly dictate critical economic outcomes, their",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
+      "authors": [
+        "Austin M. Y. Cheung",
+        "Harsh Vardhan Gupta",
+        "Go Nam Lui",
+        "Lok Kan Chan",
+        "Ginny Y. Wong"
+      ],
+      "abstract": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so remembering reduces largely to finding the turn in which something was said. Financial dialogue breaks this assumption: figures are revised, stances shift without being restated, rules stated once govern later questions, and a single company is discussed under several analytical lenses. Memory systems that retrieve the passages most similar to a question, or the most recent ones, therefore return superseded values, miss rules that share no wording with the question, and cannot recover a stance spread across sessions. We present TrackMem, a per-speaker graph memory that tracks the history of figures, separates perspectives by entity and lens, and preserves each speaker's actions in chronological order. To evaluate it, we introduce FinLoCoMo, a benchmark of 15 long-horizon investment conversations with 765 questions in two splits: one following the LoCoMo categories and one targeting four failure modes. With two readers, TrackMem outperforms existing memory systems on both splits. On the failure-mode split it reaches 73.9% macro accuracy against 69.4% for the strongest baseline, with the largest gains on questions about revised figures (86.5% against 73.4%).",
+      "url": "http://arxiv.org/abs/2611.02001v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.02001v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:43:41+00:00",
+      "source": "arxiv",
+      "title_cn": "TrackMem: Tracking Evolving Beliefs in Long-Horizon Financial Dialogue",
+      "summary_cn": "Memory systems for LLM agents are evaluated mostly on social dialogue, where facts accumulate and rarely change, so remembering reduces largely to finding the turn in which something was said. Financi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation",
+      "authors": [
+        "Ruoran Xu",
+        "Yilun Zhao",
+        "Ziyu Chen",
+        "Xiaoqiang kang",
+        "Arman Cohan"
+      ],
+      "abstract": "On-policy distillation (OPD) can improve answer accuracy while weakening responsiveness to supporting evidence. We investigate this separation in scientific-document question answering through matched document interventions that change the supported answer while preserving the question and unrelated context. We identify evidence bypass: a student retains an originally correct answer after the document changes to support a different one. On QASPER with a Qwen3-4B student, standard OPD raises original-document accuracy by 3.4 percentage points, lowers counterfactual accuracy by 5.3 points, and increases bypass by 15.7 points; the same directional pattern appears on PeerQA. Controlled perturbations localize the shift to answer-critical evidence, and bypass grows with the student's pre-distillation closed-book preference for the original answer. A factorized study of teacher targets, privileged information, divergence, and supervision density finds that explicitly supplying the teacher with annotated answer-critical spans yields the largest joint improvement in evidence response and claim support. These findings motivate Evidence-Paired OPD (EP-OPD), which combines on-policy supervision on matched documents supporting different answers to the same question with an answer-level margin that favors each document's supported answer over its paired alternative. Across both datasets and two student sizes, EP-OPD recovers 54-66% of standard OPD's counterfactual-accuracy loss while preserving 80-85% of its original-document accuracy gain. Our results establish evidence responsiveness as a distinct training and evaluation target alongside answer accuracy. Our code is publicly available at: https://github.com/RuoranXu/EP-OPD.",
+      "url": "http://arxiv.org/abs/2611.01967v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01967v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:05:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Better Answers, Weaker Evidence Control: Evidence Bypass in On-Policy Distillation",
+      "summary_cn": "On-policy distillation (OPD) can improve answer accuracy while weakening responsiveness to supporting evidence. We investigate this separation in scientific-document question answering through matched",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation",
+      "authors": [
+        "Hyeongyu Kim",
+        "Mingyeong Jang",
+        "Youngjun Song",
+        "GeonHui Han",
+        "Dosik Hwang"
+      ],
+      "abstract": "Test-time adaptation (TTA) updates a deployed model using only unlabeled target data, but standard entropy-based methods often rely on deterministic confidence and can reinforce overconfident errors under distribution shift. We propose MIRA, Mutual Information guided calibration for Reliable Test-Time Adaptation, a source-free online adaptation method that uses lightweight last-layer Gaussian perturbations to probe prediction reliability. For each target batch, MIRA reuses a single feature extraction pass and samples perturbed classifiers around the source classifier, forming an efficient local predictive distribution. Rather than fitting a Bayesian posterior, MIRA treats the perturbation scale as a local probing radius and selects a batch-specific scale using mutual information (MI) and prediction agreement. The resulting perturbation-sensitivity signal identifies predictions that are confident and locally stable under classifier perturbations, while suppressing brittle predictions with high stochastic disagreement. MIRA then performs adaptation with an MI-confidence weighted entropy loss, which down-weights perturbation-sensitive or low-confidence samples before they drive entropy minimization. This weighted loss reduces the influence of brittle predictions that can otherwise cause harmful adaptation under distribution shift. The method requires no source data, retraining, model ensembles, or offline posterior fitting, and can be applied as a plug-and-play modification to entropy-minimization TTA. Experiments on distribution-shift benchmarks show improvements in accuracy, calibration, and negative log-likelihood, suggesting that mutual-information-guided perturbation probing and weighted adaptation yield more robust online TTA than deterministic confidence.",
+      "url": "http://arxiv.org/abs/2611.02003v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.02003v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-01T15:43:52+00:00",
+      "source": "arxiv",
+      "title_cn": "MIRA: Mutual Information guided calibration for Reliable Test-Time Adaptation",
+      "summary_cn": "Test-time adaptation (TTA) updates a deployed model using only unlabeled target data, but standard entropy-based methods often rely on deterministic confidence and can reinforce overconfident errors u",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Large-Scale Bayesian Optimisation Using Uncertainty-Calibrated Product-of-Experts Gaussian Process Models with Trust Regions",
+      "authors": [
+        "Yean Hoon Ong"
+      ],
+      "abstract": "The use of collections of independent local Gaussian processes (GP-ind) combined with trust regions is a widely adopted approach for large-scale and high-dimensional Bayesian optimisation (BO). However, this approach suffers from several limitations, including discontinuities at the boundaries of disjoint regions, an inability to capture long-range spatial correlations, potential information loss, and abrupt increases in computational overhead. To address these limitations, this paper introduces a novel BO algorithm, termed BO-pro-c-tr. The proposed method employs a product-of-experts Gaussian process model with uncertainty calibration (GP-pro-c) as its surrogate model and incorporates a one-to-many association strategy for integrating GP-pro-c with trust regions. Empirical results suggest that, when combined with the GP-LCB acquisition function, BO-pro-c-tr achieves an average reduction of 2.6% in simple regret and 34.9% in computational overhead relative to BO algorithms based on independent local GP models coupled with trust regions.",
+      "url": "http://arxiv.org/abs/2611.01984v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01984v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-01T15:20:11+00:00",
+      "source": "arxiv",
+      "title_cn": "Large-Scale Bayesian Optimisation Using Uncertainty-Calibrated Product-of-Experts Gaussian Process Models with Trust Regions",
+      "summary_cn": "The use of collections of independent local Gaussian processes (GP-ind) combined with trust regions is a widely adopted approach for large-scale and high-dimensional Bayesian optimisation (BO). Howeve",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
+      "authors": [
+        "Ruoran Xu",
+        "Yilun Zhao",
+        "Ziyu Chen",
+        "Arman Cohan"
+      ],
+      "abstract": "Reverse and forward Kullback--Leibler (KL) divergences provide complementary supervision in on-policy distillation: reverse KL refines the student's active token rankings, and forward KL allocates mass to teacher-supported candidates. At student-generated prefixes, we form a four-observation matrix by treating the student and teacher as both candidate sources and evaluators. The diagonal self-observations measure uncertainty, while source-centered cross-observations recover the two KL objectives. We establish an exact identity equating the Fisher inverse-metric coupling of their logit gradients with the sum of these contrasts, yielding a common local descent direction for distinct positive distributions. Observation-coordinated on-policy distillation (OC-OPD) uses observations to set preferences, closed-form bargaining to coordinate gradients, and distributional discrepancy to scale the update. Across three heterogeneous student settings (non-thinking generation, thinking generation, and base-model initialization), OC-OPD achieves strong gains in mathematical reasoning and transfers effectively to out-of-distribution scientific question answering and code generation. Our code is publicly available at: https://github.com/RuoranXu/OC-OPD.",
+      "url": "http://arxiv.org/abs/2611.01965v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01965v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.OC"
+      ],
+      "published": "2026-11-01T15:02:05+00:00",
+      "source": "arxiv",
+      "title_cn": "OC-OPD: Observation-coordinated Supervision for On-Policy Distillation",
+      "summary_cn": "Reverse and forward Kullback--Leibler (KL) divergences provide complementary supervision in on-policy distillation: reverse KL refines the student's active token rankings, and forward KL allocates mas",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage",
+      "authors": [
+        "Danyal Sarfraz",
+        "Raja Mubashar Karim",
+        "KwanMyung Kim"
+      ],
+      "abstract": "Recent advances in generative AI have enabled multiple pathways for high-fidelity video synthesis: text-to-video, image-to-video animation, and video outpainting. Empirical side-by-side evaluations of how untrained viewers perceive and distinguish these outputs from real footage remain scarce. In this study, we systematically compare human detection accuracy across these three AI generation techniques within three thematic contexts: historical footage, film and media content, and natural environments. We constructed a balanced stimulus set comprising equal amounts of real and AI-generated videos (18 each). The AI clips were evenly distributed across the three generation methods using Google's Veo 3, Lightricks LTX Video, and Wan VACE. All videos were produced and standardized within the ComfyUI framework to ensure consistent quality and duration. 87 participants judged every clip in a binary forced-choice task (\"real\" vs. \"AI-generated\"). Participants correctly identified videos 60% of the time on average. Image-to-video clips were recognized most accurately (79%), followed by real footage (64%), outpainting (49%), and text-to-video (43%). Accuracy also varied by theme: film and historical scenes yielded higher detection rates than environmental clips, which were frequently mistaken for AI. Logistic regression confirmed significant effects of both technique and theme as well as their interaction (p < 0.001), indicating that detection success depends jointly on how the content was generated and what it depicts. Findings reveal a consistent bias toward assuming synthetic origins and highlight that perceptual realism in AI video is shaped more by context than by model type, underscoring the importance of media-literacy approaches and context-aware evaluation tools for navigating increasingly synthetic visual media.",
+      "url": "http://arxiv.org/abs/2611.01990v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01990v1",
+      "categories": [
+        "cs.CV",
+        "cs.HC"
+      ],
+      "published": "2026-11-01T15:26:04+00:00",
+      "source": "arxiv",
+      "title_cn": "Synthetic Realities: Evaluating Human Ability to Distinguish AIGenerated Videos from Real Footage",
+      "summary_cn": "Recent advances in generative AI have enabled multiple pathways for high-fidelity video synthesis: text-to-video, image-to-video animation, and video outpainting. Empirical side-by-side evaluations of",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SurgStream: A Workflow-Anchored Proactive Streaming Framework and Benchmark for Real-Time Surgical Video Understanding",
+      "authors": [
+        "Ruipeng Ma",
+        "Qing Xu",
+        "Jie Liang",
+        "Zhen Chen"
+      ],
+      "abstract": "Surgical video understanding is essential for intraoperative assistance such as workflow monitoring, instrument preparation and procedural documentation. Delivering such assistance in real time requires a model to jointly perceive the ongoing scene, remember past surgical events, and respond before clinically relevant moments pass. Existing approaches provide limited support for jointly retaining procedural evidence and deciding when to respond in streaming surgical video. In this work, we propose SurgStream, a workflow-anchored proactive streaming framework for real-time surgical video understanding. We first introduce Workflow-Anchored Memory (WAM) to record structured instrument-action-target observations and fold them into phase-level summaries, providing compact and queryable surgical memory. Deadline-aware Transition Learning (DTL) is then devised to supervise response states within clinical windows, enabling timely responses before procedural deadlines. We further introduce SurgStream-Bench, comprising 11.7K streaming interactions across various tasks covering real-time perception, backward memory queries, forward proactive QA, proactive alerts and caption memory. Experiments on SurgStream-Bench show gains over state-of-the-art methods, especially in memory and forward proactive QA. The source code will be available.",
+      "url": "http://arxiv.org/abs/2611.01982v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01982v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:18:31+00:00",
+      "source": "arxiv",
+      "title_cn": "SurgStream: A Workflow-Anchored Proactive Streaming Framework and Benchmark for Real-Time Surgical Video Understanding",
+      "summary_cn": "Surgical video understanding is essential for intraoperative assistance such as workflow monitoring, instrument preparation and procedural documentation. Delivering such assistance in real time requir",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Multimodal BVP and Respiration for Automated Pain Recognition with Hankel-FCN",
+      "authors": [
+        "Valentina Becchetti",
+        "Muhammad Umar Khan",
+        "Stefanos Gkikas",
+        "Alessandro Giuseppi",
+        "Raul Fernandez Rojas"
+      ],
+      "abstract": "Automated pain recognition is a fundamental challenge for the advancement of clinical care and empathetic human-computer interaction, due to the subjective and dynamic nature of pain. In this study, we propose a deep learning framework for objective pain assessment based on multimodal physiological signals from the AI4Pain dataset. The approach focuses on Blood Volume Pulse (BVP) and Respiration (RESP), capturing complementary aspects of autonomic responses to nociceptive stimulation. To explicitly model their temporal dynamics, the signals are transformed into structured trajectory representations using Hankel matrix embeddings, enabling the learning of dynamical patterns beyond conventional time-series representations. These embeddings are processed by modality-specific Fully Convolutional Networks, and their outputs are integrated through a late fusion strategy for three-class classification (No Pain, Low Pain, High Pain). Experimental results demonstrate that the proposed method achieves an accuracy of 67.09% and an F1-score of 66.41%, providing competitive performance compared to existing approaches, while relying on no handcrafted feature engineering. Multimodal fusion significantly outperformed either modality alone, and the Hankel embedding showed a trend towards further improvement. Further validation is required to establish generalisability to broader populations and clinical settings.",
+      "url": "http://arxiv.org/abs/2611.01978v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01978v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-01T15:15:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Multimodal BVP and Respiration for Automated Pain Recognition with Hankel-FCN",
+      "summary_cn": "Automated pain recognition is a fundamental challenge for the advancement of clinical care and empathetic human-computer interaction, due to the subjective and dynamic nature of pain. In this study, w",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MUPA${}^2$S: Multimodal Unified Perception with Asymmetric Attention for Stress Assessment",
+      "authors": [
+        "Stefanos Gkikas",
+        "Thomas Kassiotis",
+        "Yu Fang",
+        "Christian Arzate Cruz",
+        "Miao Cheng"
+      ],
+      "abstract": "Stress is a leading contributor to long-term physical and mental health decline. The automatic assessment of stress is a promising approach for continuous monitoring and mitigating human biases. However, the development of automated systems remains challenging due to the heterogeneity of physiological and behavioral signals. This paper presents MUPA${}^2$S, a multimodal framework for automatic stress assessment that combines facial video and ECG signals within a unified perception architecture. Both modalities are mapped into a shared token representation without modality-specific components, and processed through asymmetric attention comprising segment-local cross-attention and global self-attention across segment states. Experiments on a newly collected 58-subject stress dataset, evaluated under a stratified subject-level protocol, show that facial video achieves 69.44% test accuracy, while ECG-only performance remains close to chance under the proposed representation. Unified Video-ECG fusion achieves a test accuracy of 69.58% at approximately half the number of parameters of feature-level fusion, with negligible additional computational cost. Feature-level fusion does not exceed the video-only baseline, while unified input-level integration provides a parameter-efficient mechanism for jointly processing the two modalities.",
+      "url": "http://arxiv.org/abs/2611.01974v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01974v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:11:22+00:00",
+      "source": "arxiv",
+      "title_cn": "MUPA${}^2$S: Multimodal Unified Perception with Asymmetric Attention for Stress Assessment",
+      "summary_cn": "Stress is a leading contributor to long-term physical and mental health decline. The automatic assessment of stress is a promising approach for continuous monitoring and mitigating human biases. Howev",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Knowledge-Guided Floodwater Level Reasoning for Cloud-Edge Collaborative Monitoring",
+      "authors": [
+        "Zhengshu Zhou",
+        "Shaoyu Wang",
+        "Ziyi Geng",
+        "Lu Tao",
+        "Qian Long"
+      ],
+      "abstract": "Frequent urban floodwater poses a serious threat to the safety and efficiency of intelligent transportation systems. Existing vision-based methods for floodwater level detection face two main limitations. First, the lack of explicit reasoning leads to poor detection performance and little interpretability. Second, these methods struggle to generalize to the complex and varied real-world road scenes seen from different viewpoints. To address this, we reformulate the task as an explicit visual reasoning problem and propose HydroReasoner, a floodwater level reasoning framework designed for cloud-edge collaboration. HydroReasoner builds on Qwen2.5-VL and is trained with Group Relative Policy Optimization. To address the scarcity of reasoning process annotations, we build a floodwater domain knowledge graph HydroKG and design a novel KG path reward. Through deterministic graph traversal over HydroKG, this reward supervises the model's reasoning process at a fine granularity, which improves both reasoning and generalization. For edge deployment, we apply 4-bit quantization to the model, cutting GPU memory usage by 57% and inference latency by 43% while out-of-domain accuracy drops by only 0.2 percentage points. We also propose a confidence-based cloud-edge routing mechanism, which improves system safety and eases the computational load on the cloud. In addition, we build HydroLevel, a floodwater benchmark dataset of 3,000 images, for training and evaluating the model. Experimental results show that HydroReasoner achieves detection accuracy 4.0 and 13.6 percentage points higher than conventional vision baselines in the in-domain and out-of-domain evaluations respectively, with performance dropping by only 4.4 percentage points out of domain.",
+      "url": "http://arxiv.org/abs/2611.01970v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01970v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-01T15:07:07+00:00",
+      "source": "arxiv",
+      "title_cn": "Knowledge-Guided Floodwater Level Reasoning for Cloud-Edge Collaborative Monitoring",
+      "summary_cn": "Frequent urban floodwater poses a serious threat to the safety and efficiency of intelligent transportation systems. Existing vision-based methods for floodwater level detection face two main limitati",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Object-Only Is Not Context-Free: A Counterfactual Diagnostic for Context Removal in Object Retrieval",
+      "authors": [
+        "Boaz Meivar",
+        "Shai Avidan"
+      ],
+      "abstract": "Object-centric retrieval pipelines often mask the background before pooling backbone features, aiming for a descriptor that reflects the object rather than its scene. Whether this truly yields an object-only descriptor, however, is rarely tested. We introduce the Keyhole Aperture Probe (KAP), a counterfactual diagnostic that repurposes the ground-truth masks of existing panoptic segmentation datasets (COCO, ADE20K) for retrieval: it holds the pooled object region fixed and varies only the pixels outside it, summarizing a backbone's context dependence in a single number. We find that the pooled object region has already integrated its surround. Replacing the context, with a neutral fill or even a different real scene, changes the descriptor, and when retrieval fails under a blank fill, the descriptor matches plain-background images rather than its own object. Object-only is not context-free. Across ten modern backbones, object-only descriptors retain only about a quarter to two-thirds of their full-image accuracy, and the effect is not unique to Transformer self-attention: a convolutional backbone shows it too. The dependence is also reducible: a lightweight adapter that encourages the descriptor to stay stable as context is removed lowers it and improves full-image instance retrieval on INSTRE, transferring to ILIAS with accuracy improved or preserved. A matched contrastive-fine-tuning control does not reproduce those gains. We release KAP as a simple, backbone-agnostic evaluation protocol to measure and reduce this dependence before deployment.",
+      "url": "http://arxiv.org/abs/2611.01962v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.01962v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-01T14:57:32+00:00",
+      "source": "arxiv",
+      "title_cn": "Object-Only Is Not Context-Free: A Counterfactual Diagnostic for Context Removal in Object Retrieval",
+      "summary_cn": "Object-centric retrieval pipelines often mask the background before pooling backbone features, aiming for a descriptor that reflects the object rather than its scene. Whether this truly yields an obje",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
