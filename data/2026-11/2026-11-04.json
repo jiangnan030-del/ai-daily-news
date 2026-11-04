@@ -1,0 +1,737 @@
+{
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T11:54:23.848059+08:00",
+  "github_trending": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 13130,
+      "forks": 902,
+      "language": "Rust",
+      "stars_today": 3791,
+      "source": "github_trending",
+      "summary_cn": "Computer use CLI for AI agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "stars": 95109,
+      "forks": 9969,
+      "language": "Python",
+      "stars_today": 1658,
+      "source": "github_trending",
+      "summary_cn": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "stars": 34786,
+      "forks": 4607,
+      "language": "Shell",
+      "stars_today": 1182,
+      "source": "github_trending",
+      "summary_cn": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 311632,
+      "forks": 26184,
+      "language": "Shell",
+      "stars_today": 1164,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 112076,
+      "forks": 9752,
+      "language": "TypeScript",
+      "stars_today": 1139,
+      "source": "github_trending",
+      "summary_cn": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 76045,
+      "forks": 10075,
+      "language": "Python",
+      "stars_today": 814,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "stars": 47328,
+      "forks": 5469,
+      "language": "C",
+      "stars_today": 802,
+      "source": "github_trending",
+      "summary_cn": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "stars": 38897,
+      "forks": 4392,
+      "language": "Python",
+      "stars_today": 701,
+      "source": "github_trending",
+      "summary_cn": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "karpathy/nanochat",
+      "url": "https://github.com/karpathy/nanochat",
+      "description": "The best ChatGPT that $100 can buy.",
+      "stars": 60210,
+      "forks": 8436,
+      "language": "Python",
+      "stars_today": 479,
+      "source": "github_trending",
+      "summary_cn": "The best ChatGPT that $100 can buy.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 10583,
+      "forks": 383,
+      "language": "Rust",
+      "stars_today": 438,
+      "source": "github_trending",
+      "summary_cn": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "stars": 64473,
+      "forks": 5084,
+      "language": "Python",
+      "stars_today": 407,
+      "source": "github_trending",
+      "summary_cn": "Agent skill that removes signs of AI-generated writing from text",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kornia/kornia",
+      "url": "https://github.com/kornia/kornia",
+      "description": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "stars": 12314,
+      "forks": 1510,
+      "language": "Python",
+      "stars_today": 272,
+      "source": "github_trending",
+      "summary_cn": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "stars": 16650,
+      "forks": 2861,
+      "language": "Python",
+      "stars_today": 228,
+      "source": "github_trending",
+      "summary_cn": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "MakazhanAlpamys/Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "stars": 10104,
+      "forks": 1667,
+      "language": "Python",
+      "stars_today": 111,
+      "source": "github_trending",
+      "summary_cn": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "stars": 6997,
+      "forks": 1685,
+      "language": "Python",
+      "stars_today": 92,
+      "source": "github_trending",
+      "summary_cn": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "score": 2925,
+      "comments": 879,
+      "author": "dbreunig",
+      "time": "2026-11-02T18:21:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50341174",
+      "source": "hacker_news",
+      "title_cn": "Astra can read and write weights to improve Qwen",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1095,
+      "comments": 361,
+      "author": "sidgarimella",
+      "time": "2026-11-03T17:22:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "source": "hacker_news",
+      "title_cn": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
+      "score": 926,
+      "comments": 193,
+      "author": "syllogism",
+      "time": "2026-11-03T12:21:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50351111",
+      "source": "hacker_news",
+      "title_cn": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "score": 813,
+      "comments": 384,
+      "author": "aarushyadav",
+      "time": "2026-11-02T17:16:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50340088",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Subvocal – Talk to your computer without making noise",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 573,
+      "comments": 420,
+      "author": "ceejayoz",
+      "time": "2026-11-03T15:25:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50353192",
+      "source": "hacker_news",
+      "title_cn": "Google will turn off search for schools that reject AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 524,
+      "comments": 166,
+      "author": "theanonymousone",
+      "time": "2026-11-03T17:40:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "source": "hacker_news",
+      "title_cn": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "score": 446,
+      "comments": 141,
+      "author": "user052919",
+      "time": "2026-11-03T14:53:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "hacker_news",
+      "title_cn": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "score": 397,
+      "comments": 313,
+      "author": "cdrnsf",
+      "time": "2026-11-02T22:30:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50344919",
+      "source": "hacker_news",
+      "title_cn": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "score": 350,
+      "comments": 268,
+      "author": "entryleveljobsc",
+      "time": "2026-11-02T16:40:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50339494",
+      "source": "hacker_news",
+      "title_cn": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 302,
+      "comments": 130,
+      "author": "angry_impala",
+      "time": "2026-11-03T21:26:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "source": "hacker_news",
+      "title_cn": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 264,
+      "comments": 47,
+      "author": "ibobev",
+      "time": "2026-11-03T21:40:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "source": "hacker_news",
+      "title_cn": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 264,
+      "comments": 179,
+      "author": "makeramen",
+      "time": "2026-11-02T23:47:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50345924",
+      "source": "hacker_news",
+      "title_cn": "Scaling Git at OpenAI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 227,
+      "comments": 46,
+      "author": "dsalzman",
+      "time": "2026-11-03T01:18:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50346755",
+      "source": "hacker_news",
+      "title_cn": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "score": 197,
+      "comments": 173,
+      "author": "smartmic",
+      "time": "2026-11-02T19:27:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50342284",
+      "source": "hacker_news",
+      "title_cn": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "score": 182,
+      "comments": 153,
+      "author": "smilelamp",
+      "time": "2026-11-02T18:54:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50341736",
+      "source": "hacker_news",
+      "title_cn": "Egoless Mathematics in the AI Era",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+      "authors": [
+        "Andrew Semenov",
+        "Svyatoslav Dorofeev"
+      ],
+      "abstract": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Real deployments lack the ground truth needed to score a model's conclusions, and no benchmark evaluates these capabilities in a simulated environment. We present Kierston, a city-scale simulation engine, and KierstonBench, a benchmark that tests these capabilities against known simulated events. Kierston models approximately 125,000 residents of Allentown, Pennsylvania, generating their daily activities and the telecommunications, financial, administrative and license-plate records that surveillance and investigative systems collect about them. These records derive from a common behavioral timeline and are distributed across sources representing separate providers. Models investigate through a restricted records interface, linking observations across sources without access to the underlying simulation. The benchmark comprises 32 task families covering record linkage, routine reconstruction, incident investigation and assessment of deceptive accounts. In an evaluation of sixteen language models, most could not perform records investigation and submitted identifications the records did not support. A small number of frontier models solved most of the tasks and abstained when evidence was insufficient. In some cases these models still fell for common deceptions and assumptions, and none replaced an investigator.",
+      "url": "http://arxiv.org/abs/2611.04785v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04785v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:23:08+00:00",
+      "source": "arxiv",
+      "title_cn": "Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks",
+      "summary_cn": "Large language models are candidates for collecting and analyzing records in criminal investigations and mass surveillance. Their capability and accuracy in this work cannot currently be measured. Rea",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Reducing Logprob Without Causal Verification: Diagnosing SAE-Based PII Suppression in LLMs",
+      "authors": [
+        "Chaerin Lee",
+        "Wonho Lee",
+        "Sohee Park",
+        "Daeseon Choi"
+      ],
+      "abstract": "SAE-based feature-level interventions to suppress PII leakage in LLMs are primarily evaluated by log-probability reduction. We show that this criterion cannot distinguish feature specific suppression from a magnitude artifact: a direction-agnostic effect of sufficiently large activation perturbations. Across 36 (model, layer, PII type) cases, we compare selected SAE feature interventions with coherencematched random direction controls using logprob and rank-aware metrics. While 17 cases (47%) appear successful under logprob-only evaluation, only 1 case (2.8%) passes our multimetric framework. The rest reveal two failure modes: random directions outperform selected features, and feature selection collapse across PII types. These results indicate that existing evaluations cannot verify whether interventions target causal pathways of PII leakage. A 9,000 run causal mediation feasibility study corroborates this: the verifier separates candidates reliably, but correlation-selected candidates rarely pass it. We therefore propose a new research mission for NLP: causally grounded PII suppression through circuit-level localization and causal mediation analysis.",
+      "url": "http://arxiv.org/abs/2611.04782v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04782v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:22:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Reducing Logprob Without Causal Verification: Diagnosing SAE-Based PII Suppression in LLMs",
+      "summary_cn": "SAE-based feature-level interventions to suppress PII leakage in LLMs are primarily evaluated by log-probability reduction. We show that this criterion cannot distinguish feature specific suppression ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TactiNavi: Serving and Revising an LLM Game Coach with Explicit Strategy Conditions",
+      "authors": [
+        "Qi Liu",
+        "Xiaoyang Yuan",
+        "Zhuomeng Zhang",
+        "Yubin Ruan",
+        "Xinyi Mou"
+      ],
+      "abstract": "A deployed LLM coaching agent answers requests whose correct response depends on player state and game version, so advice that is right for one player can be wrong for the next. We describe TactiNavi, the serving system behind the LLM coach of a commercial open-world game, which makes strategy applicability an explicit artifact shared by offline compilation, online execution, failure diagnosis, and release. An offline compiler turns versioned game evidence and expert guidance into strategy packages with explicit prerequisites, the serving plane evaluates those prerequisites as three-valued conditions over structured player state and records decision traces, and a control plane uses the resulting condition-rule dependencies to validate revisions on held-out traffic before release. In a retrospective evaluation of 1,122 logged coaching turns from three deployment periods, condition-bearing packages raise correctness from 57.9% to 82.0% over atomic facts and reduce strategy misapplication under changed player state from 18.1% to 10.4%, while trace-based claim verification reaches 86.4% precision at a median reply latency of 2.07 s. The deployment also showed that most apparent fixes are generation noise, because an unchanged-system rerun recovers 38.4% of failing turns and only one of 15 shipped revision units passes the release checks retrospectively. We distill these results into lessons on treating applicability as a first-class serving object, sizing traces for later diagnosis, and building the null model into the release path.",
+      "url": "http://arxiv.org/abs/2611.04772v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04772v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:13:50+00:00",
+      "source": "arxiv",
+      "title_cn": "TactiNavi: Serving and Revising an LLM Game Coach with Explicit Strategy Conditions",
+      "summary_cn": "A deployed LLM coaching agent answers requests whose correct response depends on player state and game version, so advice that is right for one player can be wrong for the next. We describe TactiNavi,",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "When Should an LLM Steering Edit Depend on the Input?",
+      "authors": [
+        "Rachael Harkness",
+        "Konrad Rawlik"
+      ],
+      "abstract": "An activation steering edit should depend on the input exactly when the destination varies \\emph{inside} the class a query requests, and that is measurable before any rule is fitted or applied. Contrastive Activation Addition (CAA) adds one fixed direction to every input, the difference of the class means. Conditioning it on the requested class accounts for the between-class variation in the required displacement and leaves the within-class variation untouched, which no rule that reads only the source state can express. We study the impact of increasing input-dependence in the steering edit, moving from a difference of means to a destination retrieved per query --- the mean of the $k$ stored states nearest the query, inside the requested class --- in which the two baselines are endpoints: at $k$ equal to the class size the retrieved rule \\emph{is} the class-conditional difference of means. We measure input-dependent steering on six substitution corpora that vary in whether the edit changes a word or a clause, and on an external benchmark, and find that input-dependent steering outperforms fixed-direction steering when the destination varies within the class. Retrieval wins at every layer of every substitution corpus in two models, and the level of input-dependence needed governs how to apply it: word-level edits are best made in the first tenth of the network from a few neighbours, clause-level edits at any depth from the class mean. Where the class already determines the answer the class mean suffices and retrieval only matches it, though a fixed direction still fails there. Four quantities computed from the states alone identify the regime in which the edit should be applied.",
+      "url": "http://arxiv.org/abs/2611.04757v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04757v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:08:10+00:00",
+      "source": "arxiv",
+      "title_cn": "When Should an LLM Steering Edit Depend on the Input?",
+      "summary_cn": "An activation steering edit should depend on the input exactly when the destination varies \\emph{inside} the class a query requests, and that is measurable before any rule is fitted or applied. Contra",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement",
+      "authors": [
+        "Yao Cui",
+        "Zhen Yang",
+        "Yuandong Wang",
+        "Yangfu Zhu",
+        "Tianyu Wo"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) has become an effective approach for improving mathematical reasoning in large language models. However, a fundamental question remains: when a model fails to solve a problem, does it truly lack the underlying capability? In this work, we reveal that direct failure does not necessarily imply inability. Some reasoning failures can be recovered by exploring the model's own trajectories, exposing a recoverable capability frontier: a policy-dependent region where solutions are not reliably generated through direct decoding but can be elicited through trajectory-level search. Based on this observation, we introduce ReSI-Math, a framework that explores recoverable capability frontiers and converts recovered capabilities into data-efficient RLVR supervision. ReSI-Math uses Self-Judge-guided evolutionary search to identify recoverable failures under a fixed policy and adaptively selects frontier problems for sequential RLVR as the policy evolves. On Qwen3-VL-8B, correct-incorrect trajectory crossover produces 272 verifier-confirmed correct offspring from 621 attempts (43.8%). After three sequential one-shot RLVR stages, the MATH500 and WE-MATH average improves from 78.71 to 80.16. Under matched single-problem RLVR, random selection reaches only 53.31 versus 54.16 for frontier-guided Q1.",
+      "url": "http://arxiv.org/abs/2611.04787v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04787v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:25:56+00:00",
+      "source": "arxiv",
+      "title_cn": "ReSI-Math: Exploring Recoverable Capability Frontiers for Efficient Reasoning Improvement",
+      "summary_cn": "Reinforcement learning with verifiable rewards (RLVR) has become an effective approach for improving mathematical reasoning in large language models. However, a fundamental question remains: when a mo",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates",
+      "authors": [
+        "Liyan Tan",
+        "Yequan Zhao",
+        "Ziyue Liu",
+        "Yupeng Su",
+        "Ruijie Zhang"
+      ],
+      "abstract": "Large language models (LLMs) on personal devices keep user data local, but limited memory restricts their general capability. Since most user-specific tasks do not require the breadth of frontier models, a practical solution is to adapt a shared on-device model into lightweight specialists. However, backpropagation is prohibitive in memory, and users rarely provide labeled data. We present MobileSpec, a system that trains specialists with forward passes alone and learns from automatically checked task outcomes, as in reinforcement learning with verifiable rewards (RLVR). Because forward-only updates are built from random perturbations, training is efficient only when these perturbations resemble the weight changes of RLVR, which largely preserve the singular values of pretrained weights and rotate their singular vectors. The core algorithm of MobileSpec, FuRA-S, produces such perturbations while training only the block-spectral coordinates of pretrained weights, namely the singular values of their column blocks. As we show theoretically and empirically, rescaling these blocks independently shifts their relative contributions to each weight matrix and thereby rotates its singular vectors. Since this update can be rewritten as a transformation of the layer input, FuRA-S also adapts INT4 models without modifying their weights. With specialists of only 1-5 MB that update 0.015-0.05% of the parameters, MobileSpec raises the success rate of a phone-use agent from 6-23% up to 89-100% and trains a personalized 8B model on an iPhone 16 Pro overnight. On RLVR benchmarks, FuRA-S is competitive with full-parameter evolution strategies (ES) and outperforms ES over LoRA adapters and quantized ES on INT4 models.",
+      "url": "http://arxiv.org/abs/2611.04797v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04797v1",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ],
+      "published": "2026-11-03T12:32:03+00:00",
+      "source": "arxiv",
+      "title_cn": "Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates",
+      "summary_cn": "Large language models (LLMs) on personal devices keep user data local, but limited memory restricts their general capability. Since most user-specific tasks do not require the breadth of frontier mode",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
+      "authors": [
+        "Ria Shekhawat",
+        "Abhijeet Sinha",
+        "Yingtao Zhu",
+        "Dianbo Liu"
+      ],
+      "abstract": "Reinforcement learning objectives that maximize expected return can concentrate probability mass on a small subset of high-reward outcomes, limiting diversity when multiple distinct solutions are desirable. We introduce Density-Aware Reward Scaling (DARS), a simple reward-processing mechanism that promotes reward-proportional sampling in continuous outcome spaces while retaining standard policy-gradient training. DARS estimates the local density of outcomes within each on-policy rollout group and inversely scales rewards by this density. The method requires no learned density model, auxiliary objective, critic, or modification to the underlying policy-gradient objective. In a controlled multimodal navigation task, DARS-GRPO avoids the single-mode collapse exhibited by GRPO and closely recovers the target mode allocation. Applied to text-to-image prompt adaptation, DARS-GRPO consistently improves image and prompt diversity across datasets, Policy LMs, and reward settings while maintaining good semantic alignment. These results show that density-aware reward scaling provides a lightweight way to improve coverage of diverse high-reward outcomes within existing reinforcement-learning pipelines.",
+      "url": "http://arxiv.org/abs/2611.04792v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04792v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:29:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Density-Aware Reward Scaling: A Reinforcement Learning Framework for Reward-Proportional Sampling",
+      "summary_cn": "Reinforcement learning objectives that maximize expected return can concentrate probability mass on a small subset of high-reward outcomes, limiting diversity when multiple distinct solutions are desi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
+      "authors": [
+        "Yasaman Zolfimoselo",
+        "Nikolas Geroliminis",
+        "Maryam Kamgarpour"
+      ],
+      "abstract": "We study cooperative multi-agent reinforcement learning with decoupled dynamics and a monotone submodular reward function over joint trajectories. Due to the non-additive reward, an optimal policy may depend on the history of all agents. This dependence makes exact optimization exponential in the horizon and the number of agents. To overcome this challenge while retaining theoretical guarantees, we introduce pre-window curvature $c_m$, which quantifies how states visited more than $m$ steps earlier reduce current marginal gains. Using this curvature to control the error from restricting the policy of each agent to depend only on its last $m+1$ states, we propose a greedy algorithm that exploits the decoupled dynamics to optimize local policies sequentially. For fixed $m$, the algorithm achieves a $\\frac{1-c_m}{2-c_m}$ approximation guarantee up to estimation error, and its computation time is polynomial in the number of agents and the horizon. We recover the known $1/2$-factor approximation for time-additive rewards and obtain an approximation factor no smaller than the known total-curvature bound for a single agent. We formulate multi-agent traffic monitoring as an example of this framework and evaluate our algorithm on it.",
+      "url": "http://arxiv.org/abs/2611.04774v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04774v1",
+      "categories": [
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-11-03T12:14:56+00:00",
+      "source": "arxiv",
+      "title_cn": "Cooperative Multi-Agent Reinforcement Learning with Submodular Trajectory Rewards",
+      "summary_cn": "We study cooperative multi-agent reinforcement learning with decoupled dynamics and a monotone submodular reward function over joint trajectories. Due to the non-additive reward, an optimal policy may",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+      "authors": [
+        "Raz Marshanski",
+        "Liran Nochumsohn",
+        "Mayank Jauhari",
+        "Boris N. Oreshkin",
+        "Omri Azencot"
+      ],
+      "abstract": "Probabilistic time-series forecasting requires models that simultaneously capture structured temporal dynamics, expressive uncertainty, and efficient inference, yet existing approaches fall short of this goal: latent dynamical models impose structure but rely on restrictive generation mechanisms, while modern generative methods such as diffusion and flow matching achieve flexibility at the cost of iterative and computationally expensive sampling. We introduce the Koopman Generative Operator (KGO), a probabilistic forecasting method that conceptualizes prediction as the evolution of structured uncertainty. KGO integrates three core components: (1) Koopman Patch Embedding (KoPE) for temporally consistent latent trajectory extrapolation; (2) Koopman Flow Matching (KoFM), which enables fast, single-step generation through a closed-form matrix exponential in a Koopman latent space, bypassing iterative sampling; and (3) an Adaptive Uncertainty Gate (AUG), which provides probabilistic forecasts by adapting uncertainty per-variable and per-horizon, corresponding to a learned decomposition of aleatoric uncertainty without manual tuning. By unifying these components, KGO achieves state-of-the-art accuracy on 13/17 ProbTS benchmarks in CRPS and 16/17 in NMAE. Further, by eliminating iterative sampling, KGO delivers at least a 25$\\times$ reduction in inference time compared to iterative generative models. These results position KGO as a practical and principled framework that advances the accuracy-efficiency trade-off in probabilistic time-series forecasting, combining leading accuracy on the evaluated benchmarks with fast, single-step generation.",
+      "url": "http://arxiv.org/abs/2611.04760v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04760v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-03T12:08:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting",
+      "summary_cn": "Probabilistic time-series forecasting requires models that simultaneously capture structured temporal dynamics, expressive uncertainty, and efficient inference, yet existing approaches fall short of t",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Non-Interfering Asymmetric AdamW Updates for Constrained Exploration of Equifinality in Hybrid Models",
+      "authors": [
+        "Ekaterina Gikalo",
+        "Zavud Baghirov",
+        "Christian Reimers",
+        "Markus Reichstein",
+        "Martin Jung"
+      ],
+      "abstract": "Hybrid models let neural networks supply the unresolved parameters of a process-based simulator, and are fitted to observations that constrain aggregate fluxes and storages but not the internal partitioning that produces them. Such a fit is equifinal: configurations indistinguishable in the observed aggregates can disagree substantially about the unobserved internals, and therefore about the mechanism they attribute to the same data. We study evapotranspiration, whose total flux is observed while its split into transpiration and evaporation is not. A model ensemble built from random seeds alone spans only a narrow band of the partitionings the data admit. We produce the spread deliberately, training members under auxiliary repulsion on transpiration, subject to the fit to observations not degrading. Non-interference is usually arranged by making the auxiliary gradient orthogonal to the main one, but under AdamW the applied step is a preconditioned momentum direction, so orthogonality between raw gradients no longer implies it. We introduce Non-interfering Asymmetric Network Optimization (NANO), an update whose first-order effect on the main loss is exactly that of the main objective alone, whose auxiliary step is bounded, and which concentrates repulsion in the coordinates the main gradient leaves idle.",
+      "url": "http://arxiv.org/abs/2611.04756v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04756v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-03T12:07:05+00:00",
+      "source": "arxiv",
+      "title_cn": "Non-Interfering Asymmetric AdamW Updates for Constrained Exploration of Equifinality in Hybrid Models",
+      "summary_cn": "Hybrid models let neural networks supply the unresolved parameters of a process-based simulator, and are fitted to observations that constrain aggregate fluxes and storages but not the internal partit",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations",
+      "authors": [
+        "Rocco Mattia Di Mauro",
+        "Marco Grassia",
+        "Giuseppe Mangioni"
+      ],
+      "abstract": "Graph neural network explanations are often evaluated via deletion fidelity, i.e., by deleting their top-ranked edges and measuring the resulting change in model output. Yet, in a message-passing GNN, \"deleting an edge\" does not specify a unique intervention. Structural deletion removes the edge from the graph and recomputes quantities such as degree normalization and attention, whereas message suppression leaves this structural context intact while blocking the message carried by the edge. The meaning of deletion fidelity therefore depends on what the intervention targets in the model computation. We formalize this distinction and derive sufficient conditions for exact equivalence. The two interventions coincide for additive message passing with edge-set-independent coefficients, but can diverge when aggregation depends on the presence of zero messages or when removing an edge changes the coefficients applied to surviving messages. We then construct intervention-specific edge attributions and evaluate each resulting ranking under both interventions, testing whether their relative fidelity changes with the evaluation intervention. Across nine datasets and a panel of GIN, GCN, and GATv2 models at depths 2--5, all nine GIN controls satisfy the equivalence predicted by the theory. On the target logit, the relative fidelity of the two rankings depends on the evaluation intervention in 10 of 11 reportable GCN and GATv2 cells, and in nine of them each ranking has the larger deletion area under the intervention it was built with. Deletion fidelity is thus not a property of an edge ranking alone. Evaluation protocols should explicitly report the intervention, output functional, target, and perturbation unit, and test alternative intervention semantics when the scientific question does not uniquely determine one.",
+      "url": "http://arxiv.org/abs/2611.04751v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04751v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-03T12:05:39+00:00",
+      "source": "arxiv",
+      "title_cn": "What Does It Mean to Remove an Edge? Intervention-Aware Fidelity for Graph Neural Network Explanations",
+      "summary_cn": "Graph neural network explanations are often evaluated via deletion fidelity, i.e., by deleting their top-ranked edges and measuring the resulting change in model output. Yet, in a message-passing GNN,",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences",
+      "authors": [
+        "Ruobing Zuo",
+        "Weiyu Han",
+        "Huilin He",
+        "Haoyu Jiang",
+        "Ze Zhao"
+      ],
+      "abstract": "Transaction event sequences support diverse prediction tasks in online commerce and digital financial services. The same transaction records can yield prediction targets with different semantics, including values, changes, and relations to past events. These targets impose different constraints on history representations, but their predictability alone does not establish the downstream utility of a target set. Moreover, target-wise prediction losses do not explicitly model conditional co-occurrence among targets. To address these challenges, we propose TAPES, a task-aligned joint predictive pretraining framework for transaction sequences. TAPES constructs a finite collection of candidate target sets from admissible field-operator combinations. It selects a target set according to the downstream utility of representations learned through short joint pretraining trials under matched budgets. It then reinitializes the encoder and pretrains it on the selected targets through a joint likelihood parameterized by a shared discrete latent variable, before downstream supervised adaptation. Experiments in a real-world transaction-risk setting and on multiple public financial benchmarks spanning diverse downstream tasks demonstrate that TAPES outperforms representative baselines. Ablation studies further validate the contributions of predictive target selection and joint modeling.",
+      "url": "http://arxiv.org/abs/2611.04747v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04747v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-11-03T12:02:14+00:00",
+      "source": "arxiv",
+      "title_cn": "TAPES: Task-Aligned Joint Predictive Pretraining for Transaction Event Sequences",
+      "summary_cn": "Transaction event sequences support diverse prediction tasks in online commerce and digital financial services. The same transaction records can yield prediction targets with different semantics, incl",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Pixel-space video generation with U-JiT",
+      "authors": [
+        "Théophane Vallaeys",
+        "Jakob Verbeek",
+        "Matthieu Cord"
+      ],
+      "abstract": "Latent diffusion and flow matching models are ubiquitous in state-of-the-art generative video models. While highly effective, relying on pretrained autoencoders to compress the data into a lower-dimensional latent space also comes with drawbacks. First, training proceeds in two stages: autoencoder pretraining, with compression and reconstruction objectives, followed by latent generative model training, precluding fully end-to-end training. Second, autoencoders also lead to an inherent loss of signal, and the trade-off between reconstruction quality and generative performance in the latent space is still an active area of research. In this paper we explore the viability of generative video models directly in pixel space. We analyze recent approaches in pixel-space generative modeling of images that rely on basic transformer designs, and identify several shortcomings that limit their effectiveness for the high-dimensional pixel-space video generation. To overcome these limitations, we propose a UNet-like transformer architecture along with improvements to the training recipe and sampling strategy. We conduct controlled experiments, training latent and pixel-space models from scratch on Kinetics-600. For the standard frames-to-video task at 128 resolution, our U-JiT model improves generative FVD by 27% over prior state-of-the-art results, and by 14% against the JiT pixel-space baseline. Scaling to higher 256 resolution, we find the improvement over pixel-space and latent-based models grows as we increase the spatiotemporal compression rate up to $64 \\times 64 \\times 8$. Finally, we find that U-JiT improves per-frame FID by 27% over latent models and 61% over pixel-space models on class-to-video generation, with respectively 9% and 56% reduction in FVD.",
+      "url": "http://arxiv.org/abs/2611.04764v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04764v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-03T12:11:03+00:00",
+      "source": "arxiv",
+      "title_cn": "Pixel-space video generation with U-JiT",
+      "summary_cn": "Latent diffusion and flow matching models are ubiquitous in state-of-the-art generative video models. While highly effective, relying on pretrained autoencoders to compress the data into a lower-dimen",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Beyond Local Refinement: Wide-Area Precise Cross-View Localization",
+      "authors": [
+        "Qingguo Hu",
+        "Xinyu Ma",
+        "Yujie Lin",
+        "Yaoxiang Wang",
+        "Qi Shi"
+      ],
+      "abstract": "Fine-grained cross-view localization aims to precisely localize a ground camera against geo-referenced aerial imagery, but current methods typically assume a narrow geographic prior, substantially limiting their applicability when upstream localization remains coarse. To bridge this gap, we study this task over much larger aerial regions. However, this seemingly simple extension fundamentally changes the localization problem: the growing disparity in spatial extent between ground and aerial views makes reliable cross-view matching difficult to establish directly, while the increasing number of look-alike locations in larger regions introduces substantial visual ambiguity. To address these challenges, we propose RingMatch, a search-and-verification framework for wide-area cross-view localization. RingMatch first leverages predictive uncertainty to uncover plausible locations and progressively zooms into their surroundings to obtain increasingly fine-grained evidence, yielding a compact set of promising candidates. We then introduce the depth ring, a novel geometric representation that reveals subtle variations in the spatial layout around a location and serves as a view-shared spatial signature for an LVLM verifier to resolve residual ambiguity. To benchmark this setting, we construct VIGOR-Pro by composing VIGOR aerial tiles into contiguous regions with spatial extents of up to 400 m. Experiments show that RingMatch maintains strong localization performance as the aerial region expands, consistently outperforming representative end-to-end and retrieval-based methods.",
+      "url": "http://arxiv.org/abs/2611.04759v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04759v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-03T12:08:24+00:00",
+      "source": "arxiv",
+      "title_cn": "Beyond Local Refinement: Wide-Area Precise Cross-View Localization",
+      "summary_cn": "Fine-grained cross-view localization aims to precisely localize a ground camera against geo-referenced aerial imagery, but current methods typically assume a narrow geographic prior, substantially lim",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "iMED: A Multi-Endoscope Dataset for Surgical 3D Perception",
+      "authors": [
+        "Sierra Bonilla",
+        "Fengyi Jiang",
+        "Chinedu Nwoye",
+        "Jingpei Lu",
+        "Kailey Reardon"
+      ],
+      "abstract": "We introduce iMED, the first synchronized multi-endoscope dataset for robot-assisted minimally invasive surgery (RAMIS), designed to address a fundamental limitation in surgical vision benchmarking: the absence of independent held-out viewpoints. Existing surgical datasets capture single-trajectory sequences from a single endoscope, making it impossible to distinguish geometric generalization from photometric interpolation along a narrow forward-facing path. iMED provides 340 sequences ~170K synchronized timepoints with 4 views per timepoint) recorded simultaneously from two independent stereo endoscopes across ex vivo, postmortem, and live surgical settings, spanning 14 specimens with diverse anatomical regions and motion regimes. The dataset includes calibrated camera intrinsics, ArUco-based frame-wise pose estimates with uncertainty quantification, instrument segmentation masks, and rich clinical metadata. Using a train-on-one-endoscope, test-on-another evaluation protocol, we benchmark 23 state-of-the-art methods across rigid and deformable novel view synthesis, pose estimation, feature matching, and monocular depth estimation. Our experiments show that methods relying primarily on photometric supervision degrade substantially under this held-out-endoscope setting, while methods with explicit geometric regularization are more robust across views in our benchmark. Notably, large-scale foundation models transfer surprisingly well to surgical imagery, often outperforming domain-specific models, suggesting pitfalls in current fine-tuning protocols. iMED establishes a new evaluation protocol for geometric generalization in surgical vision.",
+      "url": "http://arxiv.org/abs/2611.04755v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.04755v1",
+      "categories": [
+        "cs.CV",
+        "cs.RO"
+      ],
+      "published": "2026-11-03T12:06:58+00:00",
+      "source": "arxiv",
+      "title_cn": "iMED: A Multi-Endoscope Dataset for Surgical 3D Perception",
+      "summary_cn": "We introduce iMED, the first synchronized multi-endoscope dataset for robot-assisted minimally invasive surgery (RAMIS), designed to address a fundamental limitation in surgical vision benchmarking: t",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
