@@ -1,0 +1,732 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T12:13:26.856643+08:00",
+  "github_trending": [
+    {
+      "name": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
+      "stars": 15469,
+      "forks": 1072,
+      "language": "Rust",
+      "stars_today": 2470,
+      "source": "github_trending",
+      "summary_cn": "Computer use CLI for AI agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "stars": 5458,
+      "forks": 428,
+      "language": "Python",
+      "stars_today": 2050,
+      "source": "github_trending",
+      "summary_cn": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "D4Vinci/Scrapling",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "stars": 96809,
+      "forks": 10143,
+      "language": "Python",
+      "stars_today": 2005,
+      "source": "github_trending",
+      "summary_cn": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "stars": 313566,
+      "forks": 26293,
+      "language": "Shell",
+      "stars_today": 1379,
+      "source": "github_trending",
+      "summary_cn": "Skills for Real Engineers. Straight from my .agents directory.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "stars": 112993,
+      "forks": 9810,
+      "language": "TypeScript",
+      "stars_today": 1172,
+      "source": "github_trending",
+      "summary_cn": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "stars": 17187,
+      "forks": 2910,
+      "language": "Python",
+      "stars_today": 984,
+      "source": "github_trending",
+      "summary_cn": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "stars": 139173,
+      "forks": 22207,
+      "language": "Python",
+      "stars_today": 617,
+      "source": "github_trending",
+      "summary_cn": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "stars": 76628,
+      "forks": 10163,
+      "language": "Python",
+      "stars_today": 577,
+      "source": "github_trending",
+      "summary_cn": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "stars": 11131,
+      "forks": 418,
+      "language": "Rust",
+      "stars_today": 531,
+      "source": "github_trending",
+      "summary_cn": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "stars": 10412,
+      "forks": 1639,
+      "language": "C",
+      "stars_today": 351,
+      "source": "github_trending",
+      "summary_cn": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "description": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "stars": 14854,
+      "forks": 2098,
+      "language": "Python",
+      "stars_today": 280,
+      "source": "github_trending",
+      "summary_cn": "🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "stars": 2542,
+      "forks": 249,
+      "language": "Python",
+      "stars_today": 224,
+      "source": "github_trending",
+      "summary_cn": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Thysrael/Horizon",
+      "url": "https://github.com/Thysrael/Horizon",
+      "description": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "stars": 12624,
+      "forks": 1828,
+      "language": "Python",
+      "stars_today": 121,
+      "source": "github_trending",
+      "summary_cn": "📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. | 用 AI 构建你专属的新闻雷达",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "Anil-matcha/open-duet",
+      "url": "https://github.com/Anil-matcha/open-duet",
+      "description": "Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act.",
+      "stars": 6778,
+      "forks": 869,
+      "language": "Python",
+      "stars_today": 72,
+      "source": "github_trending",
+      "summary_cn": "Open-source, self-hosted alternative to Grok Bot, Claude Duet, OpenAI Dots, Meta Muse, Instinct, Manus Cue: AI coworkers (named agents) with instructions, memory, routines, their own isolated computer, and your approval before they act.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "stars": 4226,
+      "forks": 182,
+      "language": "Python",
+      "stars_today": 36,
+      "source": "github_trending",
+      "summary_cn": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1493,
+      "comments": 487,
+      "author": "sidgarimella",
+      "time": "2026-11-03T17:22:37+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "source": "hacker_news",
+      "title_cn": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1115,
+      "comments": 650,
+      "author": "pseudolus",
+      "time": "2026-11-04T11:52:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "source": "hacker_news",
+      "title_cn": "AI is forcing us to pay off 40 years of technical debt",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 720,
+      "comments": 210,
+      "author": "theanonymousone",
+      "time": "2026-11-03T17:40:00+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "source": "hacker_news",
+      "title_cn": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "score": 637,
+      "comments": 165,
+      "author": "jameslk",
+      "time": "2026-11-04T10:10:27+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50363461",
+      "source": "hacker_news",
+      "title_cn": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 594,
+      "comments": 274,
+      "author": "novaRom",
+      "time": "2026-11-04T08:46:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "source": "hacker_news",
+      "title_cn": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 411,
+      "comments": 166,
+      "author": "angry_impala",
+      "time": "2026-11-03T21:26:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "source": "hacker_news",
+      "title_cn": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 384,
+      "comments": 60,
+      "author": "ibobev",
+      "time": "2026-11-03T21:40:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "source": "hacker_news",
+      "title_cn": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "score": 302,
+      "comments": 298,
+      "author": "alkyon",
+      "time": "2026-11-04T10:23:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50363554",
+      "source": "hacker_news",
+      "title_cn": "Geoffrey Hinton: it might turn out we were better off without AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 250,
+      "comments": 300,
+      "author": "citelao",
+      "time": "2026-11-03T18:11:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "source": "hacker_news",
+      "title_cn": "How I use AI (Oct 2026)",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 248,
+      "comments": 88,
+      "author": "Philpax",
+      "time": "2026-11-04T18:53:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50369925",
+      "source": "hacker_news",
+      "title_cn": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 211,
+      "comments": 63,
+      "author": "itunpredictable",
+      "time": "2026-11-04T15:21:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50366863",
+      "source": "hacker_news",
+      "title_cn": "OpenAI to acquire Pierre Computer Company",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 189,
+      "comments": 87,
+      "author": "ltononro",
+      "time": "2026-11-04T17:17:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "source": "hacker_news",
+      "title_cn": "Progress on provable inference for large language models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "score": 176,
+      "comments": 194,
+      "author": "eggbrain",
+      "time": "2026-11-04T14:37:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50366117",
+      "source": "hacker_news",
+      "title_cn": "Ask HN: What's your current AI agentic setup?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gitbook Breached",
+      "url": "https://news.ycombinator.com/item?id=50354336",
+      "score": 163,
+      "comments": 39,
+      "author": "punchmesan",
+      "time": "2026-11-03T16:45:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50354336",
+      "source": "hacker_news",
+      "title_cn": "Gitbook Breached",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Everything is an AI scam now",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "score": 131,
+      "comments": 48,
+      "author": "speckx",
+      "time": "2026-11-04T21:05:19+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50371508",
+      "source": "hacker_news",
+      "title_cn": "Everything is an AI scam now",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "authors": [
+        "Fei Lin",
+        "Tengchao Zhang",
+        "Ziyang Gong",
+        "Xiaotong Yu",
+        "Bohan Zhang"
+      ],
+      "abstract": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general scientific understanding, leaving their execution-oriented embodied capabilities underexplored. To fill this gap, we introduce BEAKER, a Benchmark for evaluating Embodied Actionability, Knowledge, Experimentation, and Reasoning in SDCLs. BEAKER contains 1,000 expert-curated question-answer samples across 11 image and video task types, covering key judgments required for chemical laboratory execution, including affordance grounding, trajectory planning, equipment, state, and safety recognition, apparatus setup, operation and step reasoning, and temporal procedure reasoning. All questions and annotations are manually created and reviewed by chemistry and embodied Artificial Intelligence (AI) experts, without AI-assisted generation or annotation. We evaluate 28 general-purpose, science-oriented, chemistry-specialized, and embodied MLLMs in an offline, single-turn setting. Results show that current models can follow coarse experimental procedures in videos, but still struggle to ground actions into operable regions and feasible trajectories, to recognize fine-grained laboratory apparatus, states, and safety norms, and to order steps in mid-length procedures. BEAKER thus reveals a clear gap between coarse procedural understanding and the precise, action-grounded perception required for laboratory execution, providing a diagnostic benchmark for future MLLMs in SDCLs.",
+      "url": "http://arxiv.org/abs/2611.06911v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06911v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-04T18:57:17+00:00",
+      "source": "arxiv",
+      "title_cn": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "summary_cn": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "authors": [
+        "Bingran You",
+        "Wenjun Ke",
+        "Ria Rosenauer",
+        "Bo Liu",
+        "Wenbo Chen"
+      ],
+      "abstract": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review the literature, develop a research plan, conduct research and experiments, and produce structured outputs and scientific manuscripts. Combining deterministic verifiers with expert-authored rubrics, FrontierPhysics evaluates whether agents' research is correct and publishable. Across 22 models in 26 configurations, no configuration passes more than 46 of its 168 rollouts. Manual review of agent trajectories shows that frontier agents' main weaknesses are insufficiently rigorous reasoning and limited expert intuition, rather than gaps in physics knowledge or execution errors.",
+      "url": "http://arxiv.org/abs/2611.06910v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06910v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-04T18:56:22+00:00",
+      "source": "arxiv",
+      "title_cn": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "summary_cn": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "authors": [
+        "Siyi Yu"
+      ],
+      "abstract": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher exposure is associated with lower condition scores under a large language model (LLM) measure and AI Occupational Exposure (AIOE), with equal occupation weights and employment weights. Adjustment for physical demands, required education, training and experience, and wages reduces the composite association. The adjusted confidence intervals include zero for LLM exposure and remain below zero for AIOE. Separating repetition from restricted discretion also changes what the combined Dull score conveys. These comparisons show how item groupings and occupational characteristics shape the interpretation of exposure estimates. Occupational profiles offer a starting point for selecting contrasting research settings. Establishing desired automation or realized relief requires evidence about workers' preferences and specific interventions.",
+      "url": "http://arxiv.org/abs/2611.06888v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06888v1",
+      "categories": [
+        "cs.AI",
+        "cs.HC",
+        "econ.GN"
+      ],
+      "published": "2026-11-04T18:41:40+00:00",
+      "source": "arxiv",
+      "title_cn": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "summary_cn": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher e",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+      "authors": [
+        "Samira Malek"
+      ],
+      "abstract": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative algorithms. In this paper, we propose a Generalized Belief Propagation Network (GBPNet) that preserves message-passing symmetry while enhancing the decoder's learning capability. The architecture uses cascaded variable-node updates and learned element-wise message scaling while retaining the Tanner graph structure. We also introduce two training strategies, progressive training and high-SNR training, that improve decoding accuracy. Experimental results on several linear codes show that GBPNet achieves lower bit error rates than conventional belief propagation and the evaluated state-of-the-art neural decoders.",
+      "url": "http://arxiv.org/abs/2611.06874v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06874v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-04T18:29:31+00:00",
+      "source": "arxiv",
+      "title_cn": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+      "summary_cn": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance ga",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+      "authors": [
+        "Jalaj Bhandari",
+        "Dhawal Gupta",
+        "Hongli Zhan",
+        "Zhenting Wang",
+        "Varad Pimpalkhute"
+      ],
+      "abstract": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina2025guided} who used critic models for guided search at inference time. Different from their work, we evaluate if off-the-shelf, open-weight LLMs can be effective at comparing different candidate actions directly. Experiments on long-horizon terminal tasks show that \\method can lead to significant performance improvements, both in terms of accuracy (5--10\\%) and consistency across repeated attempts. Analysis of agent trajectories reveal a shift in agent behaviour towards desirable patterns such as reduction in number of attempts to solve the task, improved task instruction following, debugging and testing.",
+      "url": "http://arxiv.org/abs/2611.06868v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06868v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-04T18:23:14+00:00",
+      "source": "arxiv",
+      "title_cn": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+      "summary_cn": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We in",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+      "authors": [
+        "Yulu An",
+        "Yifei Feng",
+        "Xiangyang Yin"
+      ],
+      "abstract": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing information retention against latency. We observe that structured summary slots can retain information when generated independently. Based on this observation, we present SpecCompact, a framework that accelerates compaction through slot-parallel semantic speculation. SpecCompact fine-tunes a small drafter and generates slots in parallel. The target model verifies each proposed line and repairs rejected content, while subsequent drafting uses the updated slot prefix. System optimizations further reduce repeated context processing and model calls. Across AppWorld and $τ^3$ benchmarks with two target models, SpecCompact achieves $2.04$--$5.63\\times$ compaction speedups over Hermes-style summarization. Separate downstream evaluations reveal model- and task-dependent performance trade-offs. A user study within Hermes further shows an $8.68\\times$ median compaction speedup.",
+      "url": "http://arxiv.org/abs/2611.06876v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06876v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-04T18:34:41+00:00",
+      "source": "arxiv",
+      "title_cn": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+      "summary_cn": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing in",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "authors": [
+        "Michal Korniak",
+        "Marco Bagatella",
+        "Ralf Römer",
+        "Michal Nauman",
+        "Yarden As"
+      ],
+      "abstract": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-shot generalization capabilities, they typically require an adaptation phase to achieve sufficient performance in deployment. Iterated self-improvement via reinforcement learning (RL) has demonstrated promise in enabling this adaptation, yet such approaches have been largely explored in single-task settings - where the goal is to simply improve on a narrow deployment task - which lies in stark contrast to the multi-task capabilities of the base policy. In this work we ask whether generalist robot policies are capable of multi-task, generalist improvement in deployment - targeting many diverse tasks simultaneously - and what algorithmic recipe enables this. To answer this question, we first develop a set of structured evaluations to test generalist improvement capabilities, and systematically evaluate algorithmic and practical design choices regarding value estimation, policy extraction and resource allocation. We show that not only can generalist policies be improved online across diverse tasks, but that the right recipe can enable generalization and increase performance on tasks not considered during online training. We characterize when this generalization occurs and show that both the training task distribution and the use of value-based RL are critical. To the best of our knowledge, this is among the first evidence for online generalist improvement for robot foundation models.",
+      "url": "http://arxiv.org/abs/2611.06905v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06905v1",
+      "categories": [
+        "cs.LG",
+        "cs.RO"
+      ],
+      "published": "2026-11-04T18:52:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "summary_cn": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+      "authors": [
+        "Benjamin Jacob Bodner"
+      ],
+      "abstract": "The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one benchmark, and few test an optimizer's implicit assumptions online. AMM (Adaptive Multi Mode) routes a known budget among quasi-Newton, trust-region, coordinate, multistart and evolution-strategy optimization engines with online probes of curvature, plateaus, separability, kinks, basins and fractal structure. Each probe has a default, a dimension-by-budget validity range and a cost charged to the budget. In its pre-registered development loop on bbob, 32 of 36 predictions held over the last 16 confirmations. AMM was then tested once on held-out bbob instances 101-110 (D=2-40, 10*D-1000*D) against up to seven competitors. It has the highest target share in 382 of 600 function-dimension-budget cells (236 outright, 146 tied) and, by a descriptive posterior rule, is credibly behind in 35, mostly at 10*D and 30*D. At every budget it also leads the controls built from its own engines (the best engine alone, the best engine per dimension and budget, and a greedy schedule), narrowly at 10*D and 30*D, and nevergrad's NgIohTuned. In pre-registered runs its lead over IPOP-CMA-ES holds under affine and box transformations, on box-constrained bbob and, pooled, on rotated f2-f4, but rotating the separable f3 and f4 removes most of the lead there. On held-out MA-BBOB its final share at 2000*D is level with IPOP-CMA-ES's and its anytime area lower. We published AMM as an open-source Python package (pip install amm-optimizer; https://github.com/BjBodner/amm-optimizer).",
+      "url": "http://arxiv.org/abs/2611.06879v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06879v1",
+      "categories": [
+        "cs.LG",
+        "cs.NE",
+        "math.OC"
+      ],
+      "published": "2026-11-04T18:35:35+00:00",
+      "source": "arxiv",
+      "title_cn": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+      "summary_cn": "The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one b",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "authors": [
+        "Weichen Fan",
+        "Haiwen Diao",
+        "Penghao Wu",
+        "Siyuan Hu",
+        "Ziqi Huang"
+      ],
+      "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a structurally encoder-free vision-language-action framework. Images are tokenized by lightweight patch convolutional layers and evolve jointly with language throughout the backbone, allowing a flow-matching action expert to draw from instruction-conditioned visual representations at different depths. This simple change reveals a consistent pattern. Native architectures outperform encoder-based counterparts under controlled comparisons; full fine-tuning reduces but does not erase the gap, and additional scale alone cannot recover it. More strikingly, layer-wise probing shows that the action-critical signals often peak well before the final visual representation. Across diverse manipulation settings and distribution shifts, NEO-VLA consequently achieves stronger and more robust control. Together, these results suggest that embodied control benefits from access to visual representations across the computational hierarchy, rather than a fixed encoder output.",
+      "url": "http://arxiv.org/abs/2611.06918v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06918v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-04T18:59:58+00:00",
+      "source": "arxiv",
+      "title_cn": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "summary_cn": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Motion-guided Contrastive Regularization For Latent World Models",
+      "authors": [
+        "Yiwen Chen",
+        "Qiqi Hou",
+        "Jisoo Jeong",
+        "Yinhao Zhu",
+        "Huaizu Jiang"
+      ],
+      "abstract": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve information needed for control. We identify static collapse, a failure mode in which the encoder preserves episode-specific static content while suppressing manipulation-relevant state changes. Because static content is temporally predictable yet diverse across episodes, this failure can persist despite regularizers such as SIGReg. A controlled study on OGBench-Cube shows that introducing randomized backgrounds substantially degrades planning performance while leaving the underlying manipulation task unchanged. To address this problem, we propose motion-guided contrastive regularization. Our approach compares predicted latent transitions with transitions to candidate observations from the same episode, reducing the usefulness of static background identity for distinguishing action outcomes. Optical-flow similarities provide soft contrastive targets, allowing candidates with similar motion to receive similar supervision. Combined with latent prediction and SIGReg, our objective encourages representations to preserve within-episode state distinctions and similarities between related transitions. Our method improves planning success over LeWorldModel (LeWM) from 52% to 78% on OGBench-Cube with randomized backgrounds and from 14% to 54% on LIBERO-Object, while maintaining comparable performance on four other visual-control benchmarks.",
+      "url": "http://arxiv.org/abs/2611.06901v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06901v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-04T18:49:35+00:00",
+      "source": "arxiv",
+      "title_cn": "Motion-guided Contrastive Regularization For Latent World Models",
+      "summary_cn": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve inform",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+      "authors": [
+        "Chibueze Praise Onyenweaku",
+        "Toyibat Adele",
+        "Sikirulahi Opeyemi Abdulkareem",
+        "Obed Honour Eje"
+      ],
+      "abstract": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployment settings rarely have. We show that occlusion can be read off two distance estimates a camera-only pipeline already computes. Apparent height is largely unchanged by occlusion, because the detected box still spans the whole person; monocular metric depth is pulled toward the occluder, because the nearest surface inside the box is what a depth map reports. Only their ordering matters, so no focal length, stature, or depth scale is needed, provided the depth model's error is close to a pure gain, a condition that can be checked without labels. The score detects heavy occlusion on KITTI with AUC 0.909 (0.888 over all annotated pedestrians, including those the detector misses), requires no training and no occlusion labels, and is not a proxy for range: within fixed distance bands it holds AUC 0.894-0.925 while true distance alone sits near chance. On synthetic CARLA scenes with measured visibility it reaches 0.819, against 0.644 for distance alone. We arrived here after measuring three standard architectural responses to occlusion, depth fusion, occlusion-simulating augmentation, and attention, none of which improved detection outside its training distribution in the configurations we tested, and after finding that a detector trained on German roads loses half its accuracy on self-annotated street scenes in Lagos, Nigeria. Signals that need no local annotation are worth more in settings that benchmarks do not represent.",
+      "url": "http://arxiv.org/abs/2611.06899v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06899v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-04T18:49:13+00:00",
+      "source": "arxiv",
+      "title_cn": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+      "summary_cn": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Procedural Adversarial Learning",
+      "authors": [
+        "Jack Nugent",
+        "Jia Deng"
+      ],
+      "abstract": "For many computer vision tasks, neural networks can be trained to produce a low average error, yet they still fail on seemingly simple scenes. Reducing these failures requires first finding them, but they may not be in a fixed dataset. We study procedural adversarial learning (PAL), a framework of minimax training and adversarial evaluation which searches the input space of a procedural generator for difficult instances. The procedural generator is an interpretable program mapping a low-dimensional vector of control parameters (e.g. layout, lighting, pose) to a rendered image and its label. We introduce the Simple-PAT algorithm, which uses zeroth-order optimization in the procedural generator's parameter space to propose adversarial training samples that are generated on demand. We also create PAL-Dojo, a collection of efficient procedural generators for surface normal estimation, image segmentation, and human pose estimation. Against a cross-model black-box adversary with 50M aggregate queries, Simple-PAT reduces worst-case error by a geometric mean of 3.15x compared to standard training and 2.63x compared to the strongest robust training baseline. Code is available at https://github.com/princeton-vl/procedural-adversarial-learning.",
+      "url": "http://arxiv.org/abs/2611.06890v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06890v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-04T18:42:28+00:00",
+      "source": "arxiv",
+      "title_cn": "Procedural Adversarial Learning",
+      "summary_cn": "For many computer vision tasks, neural networks can be trained to produce a low average error, yet they still fail on seemingly simple scenes. Reducing these failures requires first finding them, but ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories",
+      "authors": [
+        "Wanqi Yuan",
+        "Nianyi Li"
+      ],
+      "abstract": "Existing continuous space-time video super-resolution methods often infer motion from only two endpoint frames and model the two motion directions independently, making them vulnerable to ambiguous correspondence and inconsistent trajectories. We introduce a continuous STVSR framework that combines long-context encoding, continuous HR feature lifting, and an endpoint-anchored PixelSpline. Long-range observations provide more reliable endpoint representations, while continuous upsampling constructs detailed appearance features directly on the requested HR grid. PixelSpline explicitly models each pixel's motion as a single continuous trajectory shared by both endpoints. Using this trajectory, our method warps endpoint colors into a coarse intermediate frame and aligns the HR features for residual reconstruction. Experiments across spatial and temporal upsampling settings demonstrate that the proposed framework offers a favorable quality--efficiency trade-off.",
+      "url": "http://arxiv.org/abs/2611.06870v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06870v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-04T18:25:55+00:00",
+      "source": "arxiv",
+      "title_cn": "PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories",
+      "summary_cn": "Existing continuous space-time video super-resolution methods often infer motion from only two endpoint frames and model the two motion directions independently, making them vulnerable to ambiguous co",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+      "authors": [
+        "Ankit K. Upadhyay",
+        "Aleksandr Algasov",
+        "Ekaterina Nepovinnykh",
+        "Fedor Zolotarev",
+        "Tuomas Eerola"
+      ],
+      "abstract": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the evidence behind a match unresolved, i.e., high retrieval accuracy does not show whether a model used animal features or identity-correlated shortcuts. We address this with Counterfactual Foreground Retrieval (CFR), an evidence-aware evaluation protocol. CFR evaluates the same query-gallery task under different views: full image, foreground-only, and shortcut-only. The full-image measures standard retrieval performance; the foreground-only measures foreground-supported retrieval; and shortcut-only view measure how much identity signal is recoverable from background, or silhouette. This turns a retrieval score into an evidence profile: how well the model performs on the original images, how much of that performance remains when only the animal is visible, and how much identity signal remains recoverable when the animal is removed. We release around 0.5M masks for 34 datasets and code for mask generation and CFR evaluation.",
+      "url": "http://arxiv.org/abs/2611.06864v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06864v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-11-04T18:19:26+00:00",
+      "source": "arxiv",
+      "title_cn": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+      "summary_cn": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "authors": [
+        "Mattia Greiche",
+        "Reihaneh Rabbany",
+        "Maximilian Puelma Touzel"
+      ],
+      "abstract": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their behavior under meaning-preserving prompt variations, creating a validation problem for social simulation. One plausible hypothesis is that this brittleness reflects a lack of grounding and can be reduced by enriching the context provided to the agents. Whether richer context improves robustness remains unclear, in part because context richness and robustness are rarely defined in ways that support controlled comparisons. We address the first need with controlled context enrichment, a set of prompt substitution rules that systematically enriches distinct types of context: neutral padding, generic social background, descriptive decision grounding, and normative decision grounding. We address the second by introducing selective robustness as a validation criterion: insensitivity to meaning-preserving prompt variation combined with a directional response to decision-relevant changes in the social world. We demonstrate the framework in a Prisoner's Dilemma-like game, showing how it can be used to identify which forms of context enrichment produce more desirable and robust agent behavior. We find that these forms of enrichment produce distinct behavioral patterns that vary between the two models tested.",
+      "url": "http://arxiv.org/abs/2611.06914v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.06914v1",
+      "categories": [
+        "cs.MA",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-11-04T18:58:23+00:00",
+      "source": "arxiv",
+      "title_cn": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "summary_cn": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
