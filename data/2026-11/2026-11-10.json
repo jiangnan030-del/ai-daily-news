@@ -1,0 +1,695 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T13:12:42.950484+08:00",
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 20636,
+      "forks": 1565,
+      "language": "TypeScript",
+      "stars_today": 3278,
+      "source": "github_trending",
+      "summary_cn": "An open source design system that's fully customizable and agent ready",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 191282,
+      "forks": 22463,
+      "language": "Python",
+      "stars_today": 1038,
+      "source": "github_trending",
+      "summary_cn": "Public repository for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 48643,
+      "forks": 3313,
+      "language": "Rust",
+      "stars_today": 916,
+      "source": "github_trending",
+      "summary_cn": "Browser automation CLI for AI agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 69124,
+      "forks": 56449,
+      "language": "Python",
+      "stars_today": 506,
+      "source": "github_trending",
+      "summary_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "stars": 78180,
+      "forks": 13896,
+      "language": "Python",
+      "stars_today": 326,
+      "source": "github_trending",
+      "summary_cn": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "garrytan/gbrain",
+      "url": "https://github.com/garrytan/gbrain",
+      "description": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "stars": 32267,
+      "forks": 4777,
+      "language": "TypeScript",
+      "stars_today": 216,
+      "source": "github_trending",
+      "summary_cn": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "opensandbox-group/OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 16994,
+      "forks": 1600,
+      "language": "Python",
+      "stars_today": 168,
+      "source": "github_trending",
+      "summary_cn": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "description": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "stars": 13250,
+      "forks": 988,
+      "language": "Python",
+      "stars_today": 70,
+      "source": "github_trending",
+      "summary_cn": "💡 All-in-one AI framework for semantic search, LLM orchestration and language model workflows",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "snap-stanford/memorilla",
+      "url": "https://github.com/snap-stanford/memorilla",
+      "description": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+      "stars": 769,
+      "forks": 60,
+      "language": "Python",
+      "stars_today": 62,
+      "source": "github_trending",
+      "summary_cn": "🦍 Memorilla: Latent Semantic Memory for LLMs",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "stars": 39921,
+      "forks": 3194,
+      "language": "Python",
+      "stars_today": 44,
+      "source": "github_trending",
+      "summary_cn": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 6119,
+      "forks": 299,
+      "language": "Python",
+      "stars_today": 31,
+      "source": "github_trending",
+      "summary_cn": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "description": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "stars": 11531,
+      "forks": 1836,
+      "language": "Python",
+      "stars_today": 25,
+      "source": "github_trending",
+      "summary_cn": "Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 886,
+      "comments": 475,
+      "author": "TheWiggles",
+      "time": "2026-11-08T18:16:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50415628",
+      "source": "hacker_news",
+      "title_cn": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "score": 545,
+      "comments": 942,
+      "author": "matteoraso",
+      "time": "2026-11-08T23:44:36+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50418975",
+      "source": "hacker_news",
+      "title_cn": "I'm not convinced the AI bubble exists",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "score": 487,
+      "comments": 114,
+      "author": "gf74918",
+      "time": "2026-11-09T18:24:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429426",
+      "source": "hacker_news",
+      "title_cn": "Google Gemini routes personal Drive files and emails to human annotators",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 354,
+      "comments": 697,
+      "author": "lairv",
+      "time": "2026-11-09T18:01:10+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429068",
+      "source": "hacker_news",
+      "title_cn": "Claude Fable 5.2 and Mythos 5.2",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "score": 317,
+      "comments": 231,
+      "author": "theanonymousone",
+      "time": "2026-11-09T20:04:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50431144",
+      "source": "hacker_news",
+      "title_cn": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "How I'm fighting the AI brain fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 304,
+      "comments": 212,
+      "author": "kyunez",
+      "time": "2026-11-08T19:37:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "source": "hacker_news",
+      "title_cn": "How I'm fighting the AI brain fry",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "url": "https://news.ycombinator.com/item?id=50422628",
+      "score": 207,
+      "comments": 72,
+      "author": "DenGorbachev",
+      "time": "2026-11-09T08:17:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50422628",
+      "source": "hacker_news",
+      "title_cn": "ChatGPT Desktop forwards your SSH agent to remote machines",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+      "score": 145,
+      "comments": 22,
+      "author": "giuliomagnifico",
+      "time": "2026-11-09T18:33:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429545",
+      "source": "hacker_news",
+      "title_cn": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "score": 121,
+      "comments": 29,
+      "author": "unikcc",
+      "time": "2026-11-09T04:43:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50421155",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "url": "https://github.com/samir-sarwar/samir-vllm",
+      "score": 77,
+      "comments": 12,
+      "author": "samirswr",
+      "time": "2026-11-09T11:36:55+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50424199",
+      "source": "hacker_news",
+      "title_cn": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "score": 70,
+      "comments": 22,
+      "author": "Dodaios",
+      "time": "2026-11-09T18:05:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429144",
+      "source": "hacker_news",
+      "title_cn": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "score": 57,
+      "comments": 22,
+      "author": "lxm",
+      "time": "2026-11-10T03:20:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50435660",
+      "source": "hacker_news",
+      "title_cn": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Fable 5.2",
+      "url": "https://twitter.com/claudeai/status/2119867114450268322",
+      "score": 32,
+      "comments": 6,
+      "author": "denysvitali",
+      "time": "2026-11-09T18:58:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429947",
+      "source": "hacker_news",
+      "title_cn": "Claude Fable 5.2",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Sleep wearables are training AI on your brainwaves without explicit consent",
+      "url": "https://www.tomshardware.com/peripherals/wearable-tech/wearable-sleep-trackers-are-using-your-brainwaves-to-train-ai-models-without-explicit-user-consent-tens-of-millions-of-hours-of-eeg-data-harvested",
+      "score": 25,
+      "comments": 1,
+      "author": "rndsignals",
+      "time": "2026-11-09T18:29:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429502",
+      "source": "hacker_news",
+      "title_cn": "Sleep wearables are training AI on your brainwaves without explicit consent",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Testing Claude on real-world electronics design",
+      "url": "https://www.anthropic.com/research/claude-electronics-design",
+      "score": 24,
+      "comments": 4,
+      "author": "rbinv",
+      "time": "2026-11-09T18:58:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50429952",
+      "source": "hacker_news",
+      "title_cn": "Testing Claude on real-world electronics design",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories",
+      "authors": [
+        "Xuyu Dong",
+        "Yixuan Li",
+        "Jianguo Huang",
+        "Feng Chen",
+        "Yiyun Zhou"
+      ],
+      "abstract": "Large language models and the multi-agent systems built around them could accelerate materials discovery by connecting scientific knowledge with experimental decisions. Existing benchmarks establish capabilities in domain knowledge, multimodal interpretation and scientific tool use. As language models increasingly support materials research workflows, their ability to distinguish closely related material states and reason accurately with quantitative evidence remains insufficiently evaluated. These abilities are essential for comparing material responses, assessing mechanisms and maintaining reliable judgements as experimental evidence accumulates. We introduce MatScope to evaluate three connected capabilities. M1 tests unaided, condition-specific reasoning through 200 tasks spanning ten research functions, using aluminium and high-entropy alloys as representative material systems. M2 tests agent-assisted transfer of related knowledge to unresolved materials questions. MatEvoBench-20 tests initial forecasts across scientific dependency chains and revisions of still-hidden responses as observations accumulate. Across eleven model deployments, including GPT-6 Astra and Claude Fable 5.1, given-input calculations and many physical explanations are handled well. Fine-grained response estimates, comparisons between similar states and quantitatively supported choices remain substantially weaker. Related literature improves selected estimates, while condition and baseline mismatches limit transfer. Progressive observations calibrate some downstream responses and destabilize earlier accurate predictions. MatScope establishes measurable targets for developing reliable scientific reasoning in future self-evolving materials laboratories and materials-aware world models.",
+      "url": "http://arxiv.org/abs/2611.12014v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12014v1",
+      "categories": [
+        "cs.AI",
+        "cond-mat.mtrl-sci",
+        "cs.CE",
+        "cs.LG"
+      ],
+      "published": "2026-11-09T07:51:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Benchmarking language models and agents for scientific reasoning in evolving materials laboratories",
+      "summary_cn": "Large language models and the multi-agent systems built around them could accelerate materials discovery by connecting scientific knowledge with experimental decisions. Existing benchmarks establish c",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+      "authors": [
+        "Yu Zhang",
+        "Ruijie Yu",
+        "Xuelin Zhao",
+        "Jinming Yang",
+        "Feng Zhu"
+      ],
+      "abstract": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering the elementary reaction steps. Existing computational methods focus on single-step elementary reaction prediction, limiting their ability to generalize to unseen reaction spaces. We introduce a graph-guided framework for multi-step chemical mechanism prediction that leverages a chemical mechanism knowledge graph (ChemMechKG) to guide large language models (LLMs). To improve pathway prediction, we develop a graph-aligned reaction mechanism predictor (GRMP) that uses graph neural networks to generate synthetic candidate pathways for pathway optimization. During inference, we design a relation retrieval (RR) module to extract relevant graph evidence from the KG for pathway refinement. Experiments show that GRMP achieves the highest pathway accuracy among all compared methods on ChemMechQA and oMe-Gold, reaching 48.1% and 57.9%, respectively. On a fixed sample of 110 out-of-distribution reactions from ChemMechQA-Hard, GRMP achieves 36.4% top-1 pathway accuracy. LLM-as-Judge and human assessment further demonstrate its ability to generalize to unseen reactions.",
+      "url": "http://arxiv.org/abs/2611.12013v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12013v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-09T07:51:06+00:00",
+      "source": "arxiv",
+      "title_cn": "Enhancing Multi-Step Chemical Mechanism Prediction with Graph-Guided Preference Data",
+      "summary_cn": "Predicting multi-step chemical reaction mechanisms requires identifying plausible intermediates and correctly ordering the elementary reaction steps. Existing computational methods focus on single-ste",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks",
+      "authors": [
+        "Chao Chen",
+        "Jiashuo Zhang",
+        "Yunhang Shen",
+        "Liangyu Lian",
+        "Rongrong Ji"
+      ],
+      "abstract": "Large language model agents increasingly rely on reusable natural-language skills, yet growing skill collections remain accumulations of isolated text artifacts that are difficult to compare, deduplicate, and compose. We argue that the reusable content of a skill lies not in its surface wording but in its procedural transitions: which operation to execute under a given state and which observable outcome to produce. Based on this observation, we propose State-Move-Outcome (SMO), a compilation-like framework that decomposes raw skills into reusable procedural bricks and organizes admitted bricks as an externalized symbolic structure. When compiling a skill, SMO first retrieves and composes existing bricks, dynamically connects them through Outcome-to-State conditions, and creates a candidate brick only for an uncovered procedure; the candidate becomes reusable only after validation and admission. Experiments on SkillsBench v1.1 demonstrate that SMO represents 232 rawSkills from 87 underlying tasks with 95 shared bricks, reducing the corresponding skill representations from 366,472 to 149,154 tokens--a $\\mathbf{59.3}\\times$ reduction and $\\mathbf{2.46}\\times$ compression. Across 232 skill-conditioned evaluation instances, SMO raises the average task score from $\\mathbf{0.6379}$ to $\\mathbf{0.7478}$ and increases 5/5 Pass instances from $\\mathbf{138}$ to $\\mathbf{164}$, while matching or outperforming rawSkill on $\\mathbf{208}$ of $\\mathbf{232}$ instances. It also reduces average runtime token consumption by $\\mathbf{38.38\\%}$. These results show that compiling natural-language skills into shared procedural units can jointly improve skill reuse, representation efficiency, and downstream execution.",
+      "url": "http://arxiv.org/abs/2611.12041v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12041v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-09T08:19:04+00:00",
+      "source": "arxiv",
+      "title_cn": "SMO: Compiling Natural Language Skills into Graphs of Reusable State-Move-Outcome Bricks",
+      "summary_cn": "Large language model agents increasingly rely on reusable natural-language skills, yet growing skill collections remain accumulations of isolated text artifacts that are difficult to compare, deduplic",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A generalized transition framework for identifying reduction domains in non-binary constituency parsing",
+      "authors": [
+        "Jungyeul Park",
+        "Zihao Huang",
+        "Eunkyul Leah Jo"
+      ],
+      "abstract": "Direct non-binary constituency parsing must identify an ordered sequence of children at each phrase-level reduction. We extend our earlier delimiter-guided bottom-up construction to a common calculus for top-down, in-order, and bottom-up parsing. At reduction, the rightmost delimiter marks the left boundary, the nonterminal marker supplies the mother label, and the completed items in the delimited segment determine the children and arity. We use a stack invariant to prove soundness and completeness and derive the exact length of the static oracle's action sequence. A projection-and-lifting theorem shows that each delimiter-guided system and its canonical counterpart generate the same set of trees under both the structural and grammar-licensed transition relations. In controlled experiments on PTB and CTB, the delimiter-guided parsers achieve similar labeled accuracy to their canonical counterparts across all traversal orders. For bottom-up parsing, delimiter guidance reduces the number of action classes and increases the number of supervised decisions per tree.",
+      "url": "http://arxiv.org/abs/2611.12020v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12020v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-09T07:58:21+00:00",
+      "source": "arxiv",
+      "title_cn": "A generalized transition framework for identifying reduction domains in non-binary constituency parsing",
+      "summary_cn": "Direct non-binary constituency parsing must identify an ordered sequence of children at each phrase-level reduction. We extend our earlier delimiter-guided bottom-up construction to a common calculus ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillation",
+      "authors": [
+        "Yankai Chen",
+        "Sida Lin",
+        "Yifan Li",
+        "Hanjun Luo",
+        "Hanrong Zhang"
+      ],
+      "abstract": "Multi-teacher on-policy distillation (MOPD) merges the capabilities of multiple domain-expert teachers, such as mathematical reasoning, code generation, and instruction following, into a single compact student. Since all domains share a limited training budget, how to allocate it across domains directly determines the quality of distillation. Existing methods allocate the budget by each domain's learning progress, but offer no guarantee for lagging domains. We therefore introduce distributionally robust optimization (DRO) into MOPD to prioritize the worst-performing domain. However, the per-domain training signals are estimated from a few rollouts and are inherently noisy, so directly applying DRO mistakes noise for the worst case, lets occasional spikes hijack the budget, and protects inherently hard domains rather than truly regressing ones. To address these issues, we propose RDS-MOPD, which keeps the DRO objective and redesigns its three parts: it shifts the allocation only when differences clearly exceed the noise, bounds the influence of any single anomaly, and defines the worst case as the regression from each domain's own best level, all with theoretical guarantees. Experiments show that RDS-MOPD outperforms recent competing methods and ranks first on most mathematical reasoning, code generation, and instruction-following benchmarks.",
+      "url": "http://arxiv.org/abs/2611.12012v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12012v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-09T07:51:00+00:00",
+      "source": "arxiv",
+      "title_cn": "Robust Domain-Mixture Scheduling for Multi-Teacher On-Policy Distillation",
+      "summary_cn": "Multi-teacher on-policy distillation (MOPD) merges the capabilities of multiple domain-expert teachers, such as mathematical reasoning, code generation, and instruction following, into a single compac",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks",
+      "authors": [
+        "Shivam Pal",
+        "Piyush Rai"
+      ],
+      "abstract": "ReLU networks are well-known to have continuous scale symmetries; infinitely many reparameterized weight vectors that represent the same function. Dinh et al. (2017) have shown that, by reparameterizing, the geometry of the loss landscape (e.g., curvature) of these networks can be changed arbitrarily without affecting the underlying function. Thus, any quantity that depends on the network's geometry should be defined with care. In this paper, we show that the Empirical Bayes (EB) Laplace's approximation is not well-defined for ReLU networks, mainly due to Hessian dependence in computing the marginal likelihood, which is not invariant under ReLU scale symmetries. Thus, we can get different prior precisions, posterior covariances, and predictive uncertainties for a network having identical predictions under ReLU scaling. We define family of prior precision fields indexed by $γ$ and introduce $γ$-canonicalization, which first converts the network to its canonical representation by balancing the ratio of incoming to outgoing weights, and then fits the Empirical Bayes (EB) Laplace to the canonical representation. This procedure is equivalent to transporting the isotropic Gaussian prior from the canonical representation to the original coordinates, by producing a ReLU-scale-compatible precision field. This makes the marginal likelihood invariant under ReLU scaling, while allowing $γ$ to be selected by maximizing the marginal likelihood. The resulting EB Laplace approximation is well-defined on ReLU scale-equivalence classes and yields consistent prior precision selection and predictive uncertainties across functionally identical parameterizations.",
+      "url": "http://arxiv.org/abs/2611.12031v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12031v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-11-09T08:09:21+00:00",
+      "source": "arxiv",
+      "title_cn": "Scale-Invariant Empirical-Bayes Laplace Approximation for ReLU Networks",
+      "summary_cn": "ReLU networks are well-known to have continuous scale symmetries; infinitely many reparameterized weight vectors that represent the same function. Dinh et al. (2017) have shown that, by reparameterizi",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG",
+      "authors": [
+        "Ayesha Zulfiqar"
+      ],
+      "abstract": "Typical diagnosis of Parkinson's disease (PD) occurs only after significant dopaminergic loss, while resting-state EEG abnormalities like alpha slowing and reduced coherence occur earlier. While many published EEG-based PD detectors claim accuracy greater than 95%, many use epoch-level splits which leak subject identity. I introduce MambaPD, a bidirectional selective state space model for resting-state EEG-based PD detection, blending the channel mixing, patch tokenization and bidirectional Mamba encoder. It is compared with four baselines (TCN, BiLSTM with attention, EEGNet and a patch Transformer) in two public datasets (UNM, SanDiego) using subject-independent 5-fold cross-validation (checkpoints were selected on the held-out fold, so absolute estimates are optimistic). On UNM the accuracy is between 0.67 and 0.71, and MambaPD (0.714) is not statistically distinguishable from the Transformer (0.715), and TCN (0.708), with the highest sensitivity (0.82), while the lowest specificity (0.52). For the smaller SanDiego cohort, accuracy is in the range of 0.60 to 0.70, with the highest scores (0.703) from TCN and the lowest (0.601) from EEGNet, while MambaPD scores 0.631, with the lowest specificity (0.46) among the five models. The differences among the models on UNM are minor compared to the differences among folds. I report the whole pipeline, per-fold results, and the shortcomings of the protocol.",
+      "url": "http://arxiv.org/abs/2611.12026v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12026v1",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ],
+      "published": "2026-11-09T08:03:18+00:00",
+      "source": "arxiv",
+      "title_cn": "MambaPD: Bidirectional Selective State Space Model for Parkinson's Disease Detection from Resting-State EEG",
+      "summary_cn": "Typical diagnosis of Parkinson's disease (PD) occurs only after significant dopaminergic loss, while resting-state EEG abnormalities like alpha slowing and reduced coherence occur earlier. While many ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "FocusBranch: Combinatorial Branch-and-Bound for $\\ell_0$ Neural Network Robustness Verification",
+      "authors": [
+        "Renwei Deng",
+        "Yang He",
+        "Linyi Li",
+        "Yuepeng Wang"
+      ],
+      "abstract": "Verifying the local robustness of neural networks under $\\ell_0$ perturbations is inherently combinatorial, as it must reason over all sparse subsets of $ε$ perturbed pixels. This paper presents FocusBranch, a combinatorial branch-and-bound framework for $\\ell_0$ robustness verification. The key insight is to make the $\\ell_0$-ball decomposable and branchable using a node abstraction, which consists of a focus pixel set $\\mathcal{S}$ and a level $l$, permitting at most $ε-l$ pixels outside $\\mathcal{S}$. This abstraction unifies two branching mechanisms: concrete nodes branch through upper shadows to fix additional perturbed locations, while super nodes branch through covering designs to cover many perturbation cases with fewer child nodes. FocusBranch proves node safety by concretizing linear relaxations over node-constrained $\\ell_0$-balls and recursively branches on unknown nodes. Rather than relying on a fixed verification plan, it samples nodes across levels to estimate safe rates and costs, then selects a starting level and branching strategy predicted to minimize verification time. Experiments on fully connected and convolutional classifiers for MNIST, Fashion-MNIST, and CIFAR-10 show that FocusBranch verifies $\\ell_0$ robustness effectively across architectures and outperforms state-of-the-art verifiers. The code is available at: https://github.com/simpl-group/FocusBranch.",
+      "url": "http://arxiv.org/abs/2611.12024v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12024v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-09T08:00:51+00:00",
+      "source": "arxiv",
+      "title_cn": "FocusBranch: Combinatorial Branch-and-Bound for $\\ell_0$ Neural Network Robustness Verification",
+      "summary_cn": "Verifying the local robustness of neural networks under $\\ell_0$ perturbations is inherently combinatorial, as it must reason over all sparse subsets of $ε$ perturbed pixels. This paper presents Focus",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Speculative Self-Distillation enables Efficient Knowledge Internalization",
+      "authors": [
+        "Shayan Talaei",
+        "Agam Bhatia",
+        "Arshia Soltani Moakhar",
+        "Jonas Hübotter",
+        "Amin Saberi"
+      ],
+      "abstract": "Many real-world applications require language models to internalize knowledge that was absent from pretraining, to incorporate continually updated facts, or to learn new domain skills. Self-distillation has emerged as a natural approach for this task. A model conditioned on the source material acts as the teacher, and an unconditioned student is trained to reproduce the teacher's behavior closed-book. We propose Speculative Self-Distillation (SSD), an efficient per-token mixed-policy method for self-distillation. The student generates each rollout by default, while the teacher intervenes only at positions where its next-token distribution substantially diverges from the student's. Unlike off-policy distillation with teacher-generated prefixes, this design keeps training rollouts close to the student's test-time behavior, while avoiding the low-signal states that fully on-policy rollouts drift into. In effect, SSD lets the teacher steer the rollout exactly where the privileged context changes the prediction. On three closed-book QA benchmarks measuring fact recall, knowledge updates, and skill acquisition, SSD nearly matches on-policy distillation while using 38-69% fewer supervised tokens and consistently outperforms off-policy distillation on the held-out test set. On a forgetting stress test, SSD retains the most general capability while also achieving the best in-domain accuracy and using less supervision than the on-policy baseline. Overall, SSD establishes a new accuracy-efficiency-forgetting Pareto frontier for self-distillation.",
+      "url": "http://arxiv.org/abs/2611.12016v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12016v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ],
+      "published": "2026-11-09T07:53:11+00:00",
+      "source": "arxiv",
+      "title_cn": "Speculative Self-Distillation enables Efficient Knowledge Internalization",
+      "summary_cn": "Many real-world applications require language models to internalize knowledge that was absent from pretraining, to incorporate continually updated facts, or to learn new domain skills. Self-distillati",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Scalable Bayesian Optimization for Efficient Exploration of Moire Patterns",
+      "authors": [
+        "Panagiotis Krokidas",
+        "Christos Lazaridis",
+        "Vassilis Sioros",
+        "Efi-Maria Papia",
+        "Vassilios Constantoudis"
+      ],
+      "abstract": "Large materials design spaces often contain rare high-performing configurations that are difficult to identify through trial-and-error exploration or purely representative machine-learning (ML) sampling. In this work, we present FruBO, a flexible Bayesian Optimization framework for accelerating the discovery of optimal configurations in computationally demanding materials design problems. As a case study, we investigate multilayer Moiré patterns generated by the superposition of six rotated hexagonal lattices, where the objective is to identify the rotational conformation that maximizes pore-size uniformity, quantified using the Jain fairness index. The resulting benchmark contains 600,000 unique configurations and exhibits a highly skewed objective distribution, making the global optimum difficult to locate by random sampling. We compare random exploration, Gaussian Process-based Bayesian Optimization, and Bayesian Optimization using a lightweight CatBoost surrogate with committee-based uncertainty estimation. Random sampling identifies the global optimum only after 533,012 evaluations, requiring approximately 31 hours, while Gaussian Process-based BO becomes impractical due to GPU memory exhaustion after 290 acquired samples. In contrast, FruBO with CatBoost identifies the global optimum after 1,470 acquired samples and approximately 1.15 hours. These results demonstrate that scalable surrogate models can substantially improve the feasibility and efficiency of BO in large nanomaterials design spaces.",
+      "url": "http://arxiv.org/abs/2611.12010v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12010v1",
+      "categories": [
+        "cs.LG",
+        "physics.app-ph"
+      ],
+      "published": "2026-11-09T07:49:48+00:00",
+      "source": "arxiv",
+      "title_cn": "Scalable Bayesian Optimization for Efficient Exploration of Moire Patterns",
+      "summary_cn": "Large materials design spaces often contain rare high-performing configurations that are difficult to identify through trial-and-error exploration or purely representative machine-learning (ML) sampli",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training",
+      "authors": [
+        "Kairui Wen",
+        "Sheng Ye",
+        "Yong-Jin Liu"
+      ],
+      "abstract": "Generating text-bearing images requires coherent scenes and accurate characters. Large text-to-image models improve both capabilities through repeated denoising, at substantial sampling cost. Few-step distillation reduces this cost but requires the student to organize scenes and refine glyphs within a short trajectory. We present a four-step distillation framework combining local response regularization with teacher-guided text training. Built on distribution matching, the framework distills the GLM-Image DiT while retaining its autoregressive visual prior, glyph encoder, and VAE. A path-length penalty promotes consistent local responses of the conditional denoising field. Progressive training combines synthetic strings with teacher-generated imagery to preserve character accuracy and scene-integrated typography. The student achieves GenEval Overall 0.84 and CVTG-2K word accuracy 0.5045, compared with 0.81 and 0.1690 for four-step TDM. A coefficient study favors $10^{-5}$, and Qwen-Image experiments show additional gains from response regularization and text supervision. Single-image inference takes 1.742 s, compared with 5.818 s for the teacher, yielding a $3.34\\times$ speedup at the same 40 GB GPU memory requirement.",
+      "url": "http://arxiv.org/abs/2611.12042v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12042v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-09T08:20:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Four-Step Text-Bearing Image Generation via Distillation with Local Response Regularization and Teacher-Guided Training",
+      "summary_cn": "Generating text-bearing images requires coherent scenes and accurate characters. Large text-to-image models improve both capabilities through repeated denoising, at substantial sampling cost. Few-step",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training",
+      "authors": [
+        "Wentao Wu",
+        "Xiao Wang",
+        "Yi Wang",
+        "Chenglong Li",
+        "Yonghong Tian"
+      ],
+      "abstract": "In this paper, we propose CM3AE 2.0, a unified RGB Frame and Event-Voxel/-Frame pre-training framework. By jointly learning multimodal spatiotemporal representations and exploiting latent cross-modal dependencies through cross-modal generation, the framework enhances multimodal information interaction and collaborative modeling capabilities. Specifically, we first propose an Event-aware Spatiotemporal Masked Reconstruction (ESMR) strategy to learn unified multimodal spatiotemporal representations. It leverages event responses to guide masking toward dynamically salient regions. Through spatiotemporal masked reconstruction, it learns spatial structures and their temporal variations from continuous RGB-Event observations. In addition, it incorporates multimodal fusion reconstruction and cross-modal contrastive learning to facilitate the modeling of cross-modal complementary information and the learning of shared representations. Building upon this, we further propose a Hierarchical Cross-modal Generation (HCG) strategy to learn latent cross-modal dependencies through visual and language generation. At the visual level, Event-conditioned RGB generation is performed using a pre-trained diffusion model to capture visual associations between the two modalities. At the language level, video-level text description generation based on joint RGB-Event representations establishes connections between multimodal visual features and linguistic semantics, further enriching the learning of cross-modal dependencies. Extensive experiments on four diverse downstream tasks demonstrate that CM3AE 2.0 consistently improves performance, validating the effectiveness and generalization capability of the proposed pre-training framework.",
+      "url": "http://arxiv.org/abs/2611.12040v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12040v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-09T08:17:45+00:00",
+      "source": "arxiv",
+      "title_cn": "Leveraging Complementary Event Frame and Voxel Representations for RGB-Guided Multimodal Pre-training",
+      "summary_cn": "In this paper, we propose CM3AE 2.0, a unified RGB Frame and Event-Voxel/-Frame pre-training framework. By jointly learning multimodal spatiotemporal representations and exploiting latent cross-modal ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction",
+      "authors": [
+        "Yucheng Wang",
+        "Zedong Wang",
+        "Yuetong Wu",
+        "Yue Ma",
+        "Dan Xu"
+      ],
+      "abstract": "Single-view 3D hair reconstruction has progressed rapidly, but many methods optimize for visual plausibility rather than producing strand assets that can be directly used in grooming, editing, or simulation pipelines. We propose SAFE-Hair, a framework that reconstructs explicit strand grooms from a single portrait by decoding hair from persistent follicles in a canonical scalp-UV domain. Given a fitted template head, SAFE-Hair projects self-supervised image features onto the scalp, uses a conditional Rectified Flow model to generate latent scalp fields, and decodes occupancy, segment directions, length allocation, and total length at a fixed set of scalp follicles. This representation enforces scalp-rooted strand identities by construction and enables direct export with follicle IDs and guide-family metadata. We further introduce attachment, collision, and bending priors to improve geometric validity without per-subject test-time optimization. To evaluate both reconstruction fidelity and asset usability, we introduce HairBench-3D, a benchmark built from public 3D hair assets with standardized alignment, rendering, resampling, and metrics for geometry, direction consistency, invisible-region completion, silhouette agreement, and collision. SAFE-Hair improves Chamfer distance from 3.74 mm to 3.28 mm, F-score from 77.9 to 81.7, invisible-region F-score from 66.1 to 69.8, and penetration ratio from 4.8% to 3.9% over the strongest baseline.",
+      "url": "http://arxiv.org/abs/2611.12037v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12037v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-09T08:15:20+00:00",
+      "source": "arxiv",
+      "title_cn": "SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction",
+      "summary_cn": "Single-view 3D hair reconstruction has progressed rapidly, but many methods optimize for visual plausibility rather than producing strand assets that can be directly used in grooming, editing, or simu",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area",
+      "authors": [
+        "Xiao Tan"
+      ],
+      "abstract": "Enhancing image quality through super-resolution is crucial in image and video processing. While contemporary deep learning models, such as CNNs and Transformers, excel in pixel-level enhancements, they often overlook the rich semantic context within images. To address this, we introduce a novel approach that synergizes pixel intensity with semantic information for superior detail recovery. Our method involves extracting semantic data, including textual descriptors and spatial positioning, and encoding this information. We also present a Cross-Modal Feature Fusion module for generating semantic feature maps via multimodal training, and a Prompt Traction Head to augment the backbone network with semantic insights, thereby refining image details. Our empirical results across various datasets validate the superiority of our approach.",
+      "url": "http://arxiv.org/abs/2611.12025v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12025v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-09T08:02:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Single Image Super-Resolution via Semantic Prompt and Cross-Modal Training on Content Area",
+      "summary_cn": "Enhancing image quality through super-resolution is crucial in image and video processing. While contemporary deep learning models, such as CNNs and Transformers, excel in pixel-level enhancements, th",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection",
+      "authors": [
+        "Seongsu Lee",
+        "Seunghyun Oh",
+        "Seungjae Moon",
+        "Youngmin Ro"
+      ],
+      "abstract": "Recent anomaly detection studies have shown that residual features, which model the discrepancy between normal and abnormal patterns, provide strong generalization to anomalies unseen during training. However, existing residual-based approaches mainly rely on visual discrepancies derived from image representations, while semantic discrepancies that can be explicitly expressed through language remain largely underexplored. To address this problem, we propose TIRAD, Text-guided Image Residual Learning for Generalist Anomaly Detection, a multimodal residual learning framework that defines the discrepancy between textual representations of normal and abnormal states as a Text Residual Feature and uses it to guide the Image Residual Feature. Specifically, a Text Fusion Module converts patch-level text residuals into a gate that modulates the image residual of each patch. The gate retains the visual discrepancies that the text residual identifies as defect-related and attenuates the others, leading to more discriminative anomaly representations. Extensive experiments on industrial benchmarks and industrial-to-medical transfer demonstrate that the proposed method outperforms existing image-centric residual learning methods.",
+      "url": "http://arxiv.org/abs/2611.12023v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.12023v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-09T08:00:26+00:00",
+      "source": "arxiv",
+      "title_cn": "TIRAD: Text-guided Image Residual Learning for Generalist Anomaly Detection",
+      "summary_cn": "Recent anomaly detection studies have shown that residual features, which model the discrepancy between normal and abnormal patterns, provide strong generalization to anomalies unseen during training.",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
