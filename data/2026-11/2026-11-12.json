@@ -1,0 +1,723 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T12:53:36.143108+08:00",
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 25341,
+      "forks": 1975,
+      "language": "TypeScript",
+      "stars_today": 2776,
+      "source": "github_trending",
+      "summary_cn": "An open source design system that's fully customizable and agent ready",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "description": "Public repository for Agent Skills",
+      "stars": 193253,
+      "forks": 22740,
+      "language": "Python",
+      "stars_today": 1032,
+      "source": "github_trending",
+      "summary_cn": "Public repository for Agent Skills",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 116074,
+      "forks": 12170,
+      "language": "JavaScript",
+      "stars_today": 787,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "stars": 49992,
+      "forks": 3493,
+      "language": "Rust",
+      "stars_today": 708,
+      "source": "github_trending",
+      "summary_cn": "Browser automation CLI for AI agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 7472,
+      "forks": 456,
+      "language": "Python",
+      "stars_today": 645,
+      "source": "github_trending",
+      "summary_cn": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "experientiallabs/experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "stars": 16600,
+      "forks": 300,
+      "language": "Python",
+      "stars_today": 589,
+      "source": "github_trending",
+      "summary_cn": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 70517,
+      "forks": 56942,
+      "language": "Python",
+      "stars_today": 278,
+      "source": "github_trending",
+      "summary_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "description": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "stars": 40415,
+      "forks": 3245,
+      "language": "Python",
+      "stars_today": 260,
+      "source": "github_trending",
+      "summary_cn": "🕵️‍♂️ Collect a dossier on a person by username from 6K websites",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "stars": 120765,
+      "forks": 13497,
+      "language": "Python",
+      "stars_today": 172,
+      "source": "github_trending",
+      "summary_cn": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "opensandbox-group/OpenSandbox",
+      "url": "https://github.com/opensandbox-group/OpenSandbox",
+      "description": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "stars": 17212,
+      "forks": 1632,
+      "language": "Go",
+      "stars_today": 97,
+      "source": "github_trending",
+      "summary_cn": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "shy3130/tick-stock-panel",
+      "url": "https://github.com/shy3130/tick-stock-panel",
+      "description": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "stars": 7613,
+      "forks": 1860,
+      "language": "Python",
+      "stars_today": 97,
+      "source": "github_trending",
+      "summary_cn": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 11867,
+      "forks": 945,
+      "language": "TypeScript",
+      "stars_today": 52,
+      "source": "github_trending",
+      "summary_cn": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "description": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "stars": 4374,
+      "forks": 190,
+      "language": "Python",
+      "stars_today": 33,
+      "source": "github_trending",
+      "summary_cn": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "googleads/google-ads-mcp",
+      "url": "https://github.com/googleads/google-ads-mcp",
+      "description": "",
+      "stars": 1163,
+      "forks": 365,
+      "language": "Python",
+      "stars_today": 9,
+      "source": "github_trending",
+      "summary_cn": "",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "score": 951,
+      "comments": 349,
+      "author": "eyvindn",
+      "time": "2026-11-11T12:05:22+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "source": "hacker_news",
+      "title_cn": "My AI agents found an unmapped Maya site?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 753,
+      "comments": 228,
+      "author": "super_linear",
+      "time": "2026-11-11T18:21:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50456631",
+      "source": "hacker_news",
+      "title_cn": "AWS emulator",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 523,
+      "comments": 529,
+      "author": "linolevan",
+      "time": "2026-11-10T21:25:03+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
+      "source": "hacker_news",
+      "title_cn": "Apple has new Mac app coming to make running local AI models easy",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 471,
+      "comments": 456,
+      "author": "herpderperator",
+      "time": "2026-11-11T21:24:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "source": "hacker_news",
+      "title_cn": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 447,
+      "comments": 219,
+      "author": "panic",
+      "time": "2026-11-10T22:17:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50447074",
+      "source": "hacker_news",
+      "title_cn": "Tracking Anthropic-discovered vulnerabilities",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 425,
+      "comments": 142,
+      "author": "paulirish",
+      "time": "2026-11-10T18:01:15+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 330,
+      "comments": 102,
+      "author": "iamdelirium",
+      "time": "2026-11-11T18:32:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "source": "hacker_news",
+      "title_cn": "Gemini Decisions API",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "score": 283,
+      "comments": 216,
+      "author": "Yorothegoat",
+      "time": "2026-11-10T17:55:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50443716",
+      "source": "hacker_news",
+      "title_cn": "Claude Whiteboards, Claude Sheets, and Claude Data",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 205,
+      "comments": 90,
+      "author": "brownrout",
+      "time": "2026-11-11T15:33:06+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50454625",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Retirement Savings Are Fueling the AI Bubble",
+      "url": "https://lpeproject.org/blog/your-retirement-savings-are-fueling-the-ai-bubble/",
+      "score": 147,
+      "comments": 148,
+      "author": "speckx",
+      "time": "2026-11-11T19:06:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50457164",
+      "source": "hacker_news",
+      "title_cn": "Retirement Savings Are Fueling the AI Bubble",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "url": "https://github.com/adrbn/bo2-mac",
+      "score": 143,
+      "comments": 60,
+      "author": "adrbn",
+      "time": "2026-11-11T04:56:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50449891",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "score": 131,
+      "comments": 85,
+      "author": "reasonableklout",
+      "time": "2026-11-10T17:44:44+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50443587",
+      "source": "hacker_news",
+      "title_cn": "Life on Claude Nine",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "score": 110,
+      "comments": 102,
+      "author": "azhenley",
+      "time": "2026-11-11T16:33:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50455332",
+      "source": "hacker_news",
+      "title_cn": "AI, activity, and outcomes in software engineering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "score": 92,
+      "comments": 10,
+      "author": "d-ramdass",
+      "time": "2026-11-10T17:55:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50443714",
+      "source": "hacker_news",
+      "title_cn": "An Open Field Guide to Inference Engineering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "url": "https://github.com/klad-app/klad",
+      "score": 75,
+      "comments": 30,
+      "author": "ambewas",
+      "time": "2026-11-11T16:00:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50454951",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "authors": [
+        "Ziang Liu",
+        "James J. Kim",
+        "Yijia Dai",
+        "Jennifer J. Sun"
+      ],
+      "abstract": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent learns that one explanation is unlikely but not which alternative the evidence supports. To recover that alternative, we introduce Contrastive Discovery, which replaces the single hypothesis with a contrast set, a scientific question paired with mutually exclusive and collectively exhaustive competing explanations. Each experiment is scored by how its evidence redistributes belief across the set, and the question is resolved when belief concentrates on one explanation. Because contrast sets change only the unit an agent proposes and scores, an existing agent can use them to re-evaluate evidence it has already collected or to guide its search. Across six domains, $89\\%$ of the pointwise candidates with the largest belief shifts are rejections. On the same evidence, contrast sets resolve $73\\%$ of these candidates to a specific alternative. When contrast sets guide search, the agent resolves $67\\%$ more questions than pointwise surprisal under the same experiment budget. In a blinded study, $38$ human experts chose the same explanation on $78\\%$ of resolved questions and on $82\\%$ of questions where the pointwise agent rejected its hypothesis and stopped. Together, these results support explicit competing explanations as a way for discovery agents to resolve more scientific questions from the same evidence and validation budget.",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14514v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ],
+      "published": "2026-11-10T18:58:43+00:00",
+      "source": "arxiv",
+      "title_cn": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "summary_cn": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "authors": [
+        "Howard Zhang",
+        "Chuck Arvin",
+        "Logan Brown",
+        "Mihir Bhatia",
+        "Neelu Choudhary"
+      ],
+      "abstract": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative study of three evaluation frameworks, each representing a distinct evaluation paradigm (trace-based LLM judging, text-only LLM judging with red-teaming, and deterministic heuristics), applied to two analytics agents in a controlled research setting using frozen execution traces. Phase 1 quantifies evaluation harness stability through repeated measurements, finding that 97% of configurations meet the stability threshold and that stability patterns are agent-independent. Phase 2 measures known risk detection on 72 ground-truth test cases, where the trace-based framework achieves the best precision-recall balance (F1=0.90) while text-only evaluation matches on recall but generates 5x more false alarms. Phase 3 evaluates unknown risk discovery, uncovering 24 novel failures with zero overlap between functional testing and security red-teaming. Our results demonstrate that (1) the information available to the evaluation harness determines evaluation quality, (2) functional and security evaluation are complementary, and (3) LLM-based evaluation harnesses surface subtle errors that human reviewers miss. We recommend a two-framework strategy: trace-based evaluation for functional assessment and adversarial red-teaming for security validation.",
+      "url": "http://arxiv.org/abs/2611.14493v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14493v1",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.SE"
+      ],
+      "published": "2026-11-10T18:50:06+00:00",
+      "source": "arxiv",
+      "title_cn": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "summary_cn": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+      "authors": [
+        "Kaiyuan Hou",
+        "Yang Ping Kuo",
+        "Indranil Bhattacharya",
+        "Rohith Nama",
+        "Arushi Gupta"
+      ],
+      "abstract": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled for different orchestration platforms. On $79$ procedures from our production platform, ReTrace workflows reach $93.8\\%$ completion, against $96.8\\%$ for the agent, at $24\\%$ lower cost per task. On $τ^2$-Bench, they reach $75.8\\%$ task success (agent: $80.6\\%$) and run in $1.3$s instead of $170$s; three rounds of repair on training failures lift $k{=}2$ workflows from $66.7\\%$ to $81.2\\%$. On eight SOP-Bench procedures, ReTrace without repair trails few-shot generation ($80.6\\%$ vs. $83.6\\%$), but repair from labeled training failures lifts it to $87.8\\%$ at $0.40$s per task, compared to $85.5\\%$ in $46.6$s for the agent.",
+      "url": "http://arxiv.org/abs/2611.14492v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14492v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA"
+      ],
+      "published": "2026-11-10T18:49:47+00:00",
+      "source": "arxiv",
+      "title_cn": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+      "summary_cn": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they ca",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+      "authors": [
+        "Muhan Gao",
+        "Hangxiao Zhu",
+        "Xinqi Su",
+        "Yu Zhang",
+        "Daniel Khashabi"
+      ],
+      "abstract": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore the space of research ideas and what limits their progress. We introduce Re-Search, which adapts the format of Twenty Questions to research ideation: given only the research problem of a published paper, a model must rediscover the paper's core idea by asking yes-or-no questions. Built from 200 ICML 2026 papers, Re-Search tracks how a model's idea evolves as it asks questions and receives binary oracle feedback, isolating ideation from execution. Across six recent LLMs, nearly all progress happens within the first 30 of 100 questions, which largely decide how the game ends; after that, most models plateau. Through controlled interventions on the candidate questions and the hypothesis space, we find that the bottleneck is generation, not judgment: models recognize a good idea or a good question when one is offered, but often cannot produce it on their own. We further analyze the ideation traces and find that models fail by either over-exploiting one direction or over-exploring too many. These findings point to concrete design principles for autoresearch systems: since models can judge candidates they cannot produce, enriching the search with externally sourced ideas and questions may be more effective than improving any single model's generation ability.",
+      "url": "http://arxiv.org/abs/2611.14487v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14487v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-10T18:47:22+00:00",
+      "source": "arxiv",
+      "title_cn": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+      "summary_cn": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Mechanistic Interpretability Needs a Logic of Inference",
+      "authors": [
+        "Zhimin Hu",
+        "Chen Jiang",
+        "Hanbo Xie",
+        "N. Apurva Ratan Murty",
+        "Sashank Varma"
+      ],
+      "abstract": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanistic interpretability (MI) has made it possible to identify neurons, features, circuits, population structures, and dynamical patterns associated with model behavior. As these tools improve, attention is shifting from what can be observed inside a model to how those observations support mechanistic explanations. We examine the parallel efforts of neuroscience and MI to address this question and identify recurring inferential bottlenecks when inferring mechanisms from complex neural systems. We propose five principles and organize them into a recursive logic for a more rigorous procedure of mechanistic inference. These principles provide a framework that supports scientific discovery in two senses: it helps turn local interpretability findings into cumulative knowledge of mechanisms within models, and it makes those mechanisms sufficiently precise to generate testable hypotheses about domains beyond the models. Evidence beyond MI is ultimately required to establish what model mechanisms reveal about the world.",
+      "url": "http://arxiv.org/abs/2611.14483v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14483v1",
+      "categories": [
+        "cs.CL",
+        "cs.CV"
+      ],
+      "published": "2026-11-10T18:45:07+00:00",
+      "source": "arxiv",
+      "title_cn": "Mechanistic Interpretability Needs a Logic of Inference",
+      "summary_cn": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanist",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+      "authors": [
+        "Evelyn Y. Garland",
+        "Carola F. Berger"
+      ],
+      "abstract": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-level quality score prediction and the detection of error-free segments. Pterodactyl is a highly customizable, ultra-low cost system optimized for binary classification in translation triage and data curation. It is based on an LLM-as-a-judge approach, with prompt engineering and model selection guided by ROC analysis. We also developed several variants of Pterodactyl that were specifically adapted for subtasks 3.",
+      "url": "http://arxiv.org/abs/2611.14480v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14480v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-10T18:41:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+      "summary_cn": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "authors": [
+        "Alex Shtoff"
+      ],
+      "abstract": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-spline or Legendre polynomial bases, with differentiation through both inputs and coefficients. Curve coefficients can be optimized jointly with the surrounding model or produced by another network. The library provides trainable modules, reusable basis modules, and a functional interface, supporting applications ranging from continuous feature embeddings to Kolmogorov-Arnold networks and functional regression. Its implementation combines classical evaluation algorithms with vectorized PyTorch operations, emphasizing readability and maintainability without custom hardware kernels. Timing experiments compare curve evaluation against NumPy and SciPy and KAN training against EfficientKAN across a range of problem sizes. The results illustrate where this generality remains computationally practical and where overhead is substantial. Library is available on GitHub at https://github.com/alexshtf/torchcurves.",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14516v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-11-10T18:58:52+00:00",
+      "source": "arxiv",
+      "title_cn": "TorchCurves: Differentiable Parametric Curves",
+      "summary_cn": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "authors": [
+        "Zijian Zhang",
+        "Rizhen Hu",
+        "Jiangweizhi Peng",
+        "Shiyang Li",
+        "Sujay Bhatt"
+      ],
+      "abstract": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-time scaffolds, such as strategies or hints added to the prompt during training, offer a natural way to turn this information into guidance, but their design and adaptation are largely left to humans and tailored to specific domains. We introduce AutoScaffold, a unified AI-for-AI framework that turns a student's training experience into adaptive scaffolds, with minimal domain-specific information and no human intervention during training. A frozen teacher periodically examines this experience, diagnoses bottlenecks, and designs scaffolds in two forms: (i) strategies shared across a class of tasks and (ii) hints for individual hard tasks, adjusting the content and amount of support as the student learns. The scaffolds are removed at evaluation. We apply the same framework to ALFWorld, search-based QA, mathematical reasoning, and GPU kernel generation. When evaluated without scaffolds, students trained with AutoScaffold outperform those trained with the corresponding RL baselines in all four domains, with gains of 7.2 points in ALFWorld success and 4.0 points in average QA exact match. On GPU kernel generation, AutoScaffold increases the fraction of tasks with a correct kernel that runs faster than the PyTorch reference by up to 5.0 points. On math, our student surpasses QuestA's reported accuracy using approximately one-third as many student training steps. Analyses show that the teacher identifies a different failure in each task class and shifts its scaffolds from step-by-step workflows to targeted fixes as the student improves, and that its revised scaffolds help the student learn more than keeping the previous scaffold or using no scaffold.",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14515v1",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ],
+      "published": "2026-11-10T18:58:46+00:00",
+      "source": "arxiv",
+      "title_cn": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "summary_cn": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "authors": [
+        "Megha Srivastava",
+        "Michael H. Lim",
+        "Allison M. Keys",
+        "Pranav Murugan",
+        "Nate Gruver"
+      ],
+      "abstract": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturizer, which generates executable code to construct features for logistic regression, optionally incorporating features derived from LLM subcalls. These agents achieve up to 67% and 74% accuracy, respectively, exceeding observed expert performance. LLM-guided feature discovery generally outperforms direct reasoning, while Group Relative Policy Optimization (GRPO) improves open-weight models, enabling them to match or surpass closed-source frontier models in our evaluations. These results establish Pyrite as a challenging test of pose-ranking ability and highlight LLM-guided feature discovery as a promising approach to interpret and combine the outputs of computational chemistry tools.",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14511v1",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ],
+      "published": "2026-11-10T18:56:32+00:00",
+      "source": "arxiv",
+      "title_cn": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "summary_cn": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "authors": [
+        "Yeyuan Liu"
+      ],
+      "abstract": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wiring with how the models are tuned: a connectome fixes who connects to whom, not the excitability, gains or plasticity rates the model also needs, and modellers often tune these until the real-wiring model works. We separate three estimands: physiology tuned on the real wiring and transferred to nulls (P1), each wiring tuned on its own (P2), and P2 restricted to physiology consistent with independent data (P3). The biases involved are known in machine learning (under-tuned baselines, inherited weights, winner's curse); we measure what they do to biological conclusions, using synthetic ground truth, placebo nulls and three Drosophila circuit models. Some claims survive every protocol we test: segregated reward and punishment dopamine improves learning, and head-direction topography is required for a persistent bump. Others do not. In the mushroom body, the real Kenyon-cell output wiring beats a cross-subtype identity shuffle by 0.09 under P1 and P2 but loses to it by 0.09 under P3 (95% CIs exclude zero; held-out runs confirm). The verdict is set by the share of alpha'beta' cells among active Kenyon cells, which P1 selects low; at the share implied by imaging (about 44%) the real-wiring model fails to learn, exposing a model inadequacy rather than a deficit of the fly's wiring. In flyvis, P1 penalises a mirrored connectome, which has a constructed solution within 0.07 (median) of the real error, more than a spatially shuffled one in 50 of 50 members; the ranking survives ten-fold longer retraining but depends on the checkpoint at fifty-fold. A credible structural claim needs matched optimisation, data-constrained physiology and a model that still works there.",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14508v1",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ],
+      "published": "2026-11-10T18:55:48+00:00",
+      "source": "arxiv",
+      "title_cn": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "summary_cn": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "authors": [
+        "Daniel Lenton"
+      ],
+      "abstract": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely compared on the same scale. We propose Continual-ARC, a lifelong stream built from the three ARC-AGI editions, whose tasks need no domain knowledge. The same tasks return after dormant gaps with fresh instances, while new tasks keep arriving. On each instance, the learner may pay for demonstrations, submit answers, or act inside the harness, with retries permitted on incorrect submissions, which are paid for. Each instance is scored based on the share of this feedback budget consumed. Since a learner may keep anything between instances, memory-based and weight-based systems are scored on the same scale. After the stream, the learner is frozen and tested on fresh instances of the tasks it met, which measures memorization, and on unseen tasks, which measures generalization. We run an agent harness with frozen weights, with and without persistence, on Qwen3.5-9B and GLM-5.3 Flash, comparing them with two prompting floors, a program-induction method and Qwen3.5-9B's weights trained to imitate GLM-5.3 Flash. Persistence in the harness generally does not improve memorization unless provided with explicit expert guidance. Most harness-based methods still learn less than a floor that simply caches each task's demonstrations, across all models we tested. No harness-based method gains on unseen tasks, whereas weight-based learning shows substantial gains. This opens the door to future weight-based continual learning that could teach models to drive harnesses in new domains.",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14505v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-10T18:55:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "summary_cn": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "authors": [
+        "Adi Mashiach"
+      ],
+      "abstract": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation model for molecular interactions trained on approximately 3.2 trillion tokens of paired protein-ligand sequences. From a single representation space, Bonbon exhibits three zero-shot emergent capabilities at hierarchical levels of resolution: functional (mechanism of action), residue (binding site localization, including orthosteric/allosteric discrimination), and bond (covalent versus non-covalent engagement). All three capabilities generalize to out-of-distribution complexes. Bonbon was trained on protein-ligand sequences alone, without any task-specific supervision and without structural coordinates. We conducted controlled scaling experiments across six model scales from 42M to 1.6B parameters; every capability evaluated shows a sharp jump at the largest scale on continuous metrics, even as pretraining loss decreases smoothly. This demonstrates that loss-based scaling laws alone are insufficient to predict when zero-shot emergent capabilities become available. The capabilities reported here emerge after training at a 1:2,000 parameter-to-token ratio to accommodate the sparsity of paired biological interaction data. The same frozen representations achieve state-of-the-art binding and affinity prediction at five orders of magnitude greater speed than co-folding methods. In prospective wet-lab validation across nine disease targets spanning seven protein families, Bonbon achieves a 61.5% dose-response hit rate on de novo compounds, yielding structurally novel molecules not previously reported to inhibit these proteins, including for out-of-distribution targets.",
+      "url": "http://arxiv.org/abs/2611.14504v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14504v1",
+      "categories": [
+        "cs.LG",
+        "q-bio.BM"
+      ],
+      "published": "2026-11-10T18:53:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+      "summary_cn": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+      "authors": [
+        "Peng Chen",
+        "Yihang Wang",
+        "Zhongwen Rao",
+        "Yang Shu",
+        "Yuying Qiu"
+      ],
+      "abstract": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking Transformer layers to increase parameter size, lacking the ability to adaptively model complex time series patterns from multi-domain data. 2) Current TSFMs are primarily pre-trained for specific tasks, e.g., forecasting or anomaly detection, and a few models support multiple tasks, but they fail to fully leverage task specificity and commonality, resulting in suboptimal performance. To address these challenges, we propose TimeSeek, a novel generalized time series analytics model that adaptively models time series patterns from multi-domain data and unifies multiple tasks in pre-training. Conceptually, TimeSeek is guided by selective information sharing under domain and task heterogeneity. From the perspective of multi-domain data, we propose a Multi-Domain Feature Extractor that adaptively captures temporal dependencies and channel correlations based on domain-specific characteristics, including progressive multi-scale modeling and adaptive slot channel modeling. From the perspective of the diversity of tasks, we propose multi-task collaborative training, which leverages task specificity and task commonality through task customization and cross-task training, effectively unifying multiple tasks in pre-training and better adapting to diverse downstream scenarios. After pre-training on large-scale time series data, TimeSeek achieves state-of-the-art performance in forecasting, anomaly detection, and classification tasks across both few-shot learning and zero-shot situations, together with favorable inference efficiency.",
+      "url": "http://arxiv.org/abs/2611.14491v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14491v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-10T18:49:26+00:00",
+      "source": "arxiv",
+      "title_cn": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+      "summary_cn": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1)",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "authors": [
+        "Emre Kutlusan",
+        "Yongmin Li"
+      ],
+      "abstract": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the training distribution and a single task-specific baseline whose configuration is rarely justified, and therefore provide limited evidence of performance at new clinical sites. It also remains unclear how much of a foundation model must be adapted, and what determines this. We adapted a foundation model, DINOv2, with strategies ranging from tuning only its bias terms to full fine-tuning, and compared it with U-Nets and ResU-Nets trained from scratch. Experiments covered colonoscopy, breast ultrasound and dermoscopy, with testing on held-out data from the training source and on independent datasets from other institutions. The adapted foundation model generalised better on every external dataset. Within the training distribution, the task-specific models remained competitive when training data were abundant, and delineated boundaries more precisely, while the foundation model more often missed small lesions. Only a small fraction of the foundation model required adaptation, and the capacity needed was determined by the imaging domain rather than by the adaptation method. A widely used polyp test set was also found to duplicate images from another benchmark. Foundation-model adaptation is therefore warranted where models must work across sites, with capacity selected on the target domain.",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14519v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-10T18:59:54+00:00",
+      "source": "arxiv",
+      "title_cn": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "summary_cn": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "authors": [
+        "Sheethal Bhat",
+        "Bogdan Georgescu",
+        "Awais Mansoor",
+        "Florin C. Ghesu",
+        "Sasa Grbic"
+      ],
+      "abstract": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection, the scarcity of comprehensive, stan dardized annotations and the heterogeneity of existing datasets limit the development of robust foundation models. In this work, we introduce a novel approach to building a multi-domain foundation model for le sion detection by integrating diverse medical image datasets annotated for both anatomical structures and abnormalities. We first propose a student-teacher training strategy to effectively combine datasets with heterogeneous label spaces, mitigating catastrophic forgetting, and im proving feature learning. In addition, building on our previously pro posed example-based EM-DETR framework, we adapt it to jointly learn from multiple domain-specific datasets, enabling fine-grained, example driven detection across modalities. Our model achieves state-of-the-art (SOTA) results, with image-level AUC scores exceeding previous SOTA by 1% point on four key findings in CXRs. We achieve a leading mAP50 in CXRs and mammography, surpassing EM-DETR trained on a single dataset by 2-3% points. This approach paves the way for scalable foundation models in medical imaging that leverage heterogeneous data while maintaining robust and generalizable performance.",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.14518v1",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ],
+      "published": "2026-11-10T18:59:17+00:00",
+      "source": "arxiv",
+      "title_cn": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "summary_cn": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
