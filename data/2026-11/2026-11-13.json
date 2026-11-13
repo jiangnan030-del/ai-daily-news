@@ -1,0 +1,735 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T12:05:21.073353+08:00",
+  "github_trending": [
+    {
+      "name": "meta/astryx",
+      "url": "https://github.com/meta/astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "stars": 26742,
+      "forks": 2073,
+      "language": "TypeScript",
+      "stars_today": 1830,
+      "source": "github_trending",
+      "summary_cn": "An open source design system that's fully customizable and agent ready",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "stars": 71115,
+      "forks": 57155,
+      "language": "Python",
+      "stars_today": 1294,
+      "source": "github_trending",
+      "summary_cn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "stars": 116772,
+      "forks": 12214,
+      "language": "JavaScript",
+      "stars_today": 816,
+      "source": "github_trending",
+      "summary_cn": "Production-grade engineering skills for AI coding agents.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "stars": 3347,
+      "forks": 212,
+      "language": "TypeScript",
+      "stars_today": 739,
+      "source": "github_trending",
+      "summary_cn": "Keep your coding agent up to date with the latest web best practices",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "stars": 7699,
+      "forks": 468,
+      "language": "Python",
+      "stars_today": 714,
+      "source": "github_trending",
+      "summary_cn": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/codex-security",
+      "url": "https://github.com/openai/codex-security",
+      "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "stars": 12561,
+      "forks": 981,
+      "language": "TypeScript",
+      "stars_today": 643,
+      "source": "github_trending",
+      "summary_cn": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "stars": 11727,
+      "forks": 1449,
+      "language": "TypeScript",
+      "stars_today": 298,
+      "source": "github_trending",
+      "summary_cn": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "stars": 25729,
+      "forks": 2272,
+      "language": "Python",
+      "stars_today": 297,
+      "source": "github_trending",
+      "summary_cn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "stars": 134629,
+      "forks": 25515,
+      "language": "C++",
+      "stars_today": 176,
+      "source": "github_trending",
+      "summary_cn": "LLM inference in C/C++",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "stars": 29900,
+      "forks": 3403,
+      "language": "TypeScript",
+      "stars_today": 151,
+      "source": "github_trending",
+      "summary_cn": "An open-source AI coding agent that lives in your terminal.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 112613,
+      "forks": 13654,
+      "language": "Python",
+      "stars_today": 113,
+      "source": "github_trending",
+      "summary_cn": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 67452,
+      "forks": 5929,
+      "language": "Python",
+      "stars_today": 112,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": 906,
+      "forks": 108,
+      "language": "Python",
+      "stars_today": 108,
+      "source": "github_trending",
+      "summary_cn": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "stars": 33436,
+      "forks": 3931,
+      "language": "Python",
+      "stars_today": 102,
+      "source": "github_trending",
+      "summary_cn": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 168937,
+      "forks": 35233,
+      "language": "Python",
+      "stars_today": 98,
+      "source": "github_trending",
+      "summary_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3128,
+      "comments": 2922,
+      "author": "lldb",
+      "time": "2026-11-12T13:52:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50467087",
+      "source": "hacker_news",
+      "title_cn": "Jensen Huang resigns",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AWS emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "score": 968,
+      "comments": 264,
+      "author": "super_linear",
+      "time": "2026-11-11T18:21:38+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50456631",
+      "source": "hacker_news",
+      "title_cn": "AWS emulator",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "score": 851,
+      "comments": 824,
+      "author": "josephljohnston",
+      "time": "2026-11-12T11:46:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50465829",
+      "source": "hacker_news",
+      "title_cn": "Anthropic IPO",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 665,
+      "comments": 688,
+      "author": "herpderperator",
+      "time": "2026-11-11T21:24:35+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "source": "hacker_news",
+      "title_cn": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 555,
+      "comments": 157,
+      "author": "iamdelirium",
+      "time": "2026-11-11T18:32:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "source": "hacker_news",
+      "title_cn": "Gemini Decisions API",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 485,
+      "comments": 305,
+      "author": "dvaplima",
+      "time": "2026-11-12T18:01:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50471431",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Hydrogen",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "score": 343,
+      "comments": 89,
+      "author": "jonbaer",
+      "time": "2026-11-12T18:52:01+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50472260",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Hydrogen and Orchestrator",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "score": 212,
+      "comments": 56,
+      "author": "firloop",
+      "time": "2026-11-12T21:56:11+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "source": "hacker_news",
+      "title_cn": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "score": 133,
+      "comments": 31,
+      "author": "thefox96",
+      "time": "2026-11-11T20:23:57+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50458166",
+      "source": "hacker_news",
+      "title_cn": "Huawei releases MACaQ, its internal quantizer for local inference",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "score": 128,
+      "comments": 117,
+      "author": "anigbrowl",
+      "time": "2026-11-12T21:09:49+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "source": "hacker_news",
+      "title_cn": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "score": 127,
+      "comments": 112,
+      "author": "azhenley",
+      "time": "2026-11-11T16:33:28+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50455332",
+      "source": "hacker_news",
+      "title_cn": "AI, activity, and outcomes in software engineering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 115,
+      "comments": 25,
+      "author": "sroussey",
+      "time": "2026-11-12T23:06:17+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50475713",
+      "source": "hacker_news",
+      "title_cn": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 86,
+      "comments": 21,
+      "author": "miguelrios",
+      "time": "2026-11-12T18:15:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50471650",
+      "source": "hacker_news",
+      "title_cn": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "score": 64,
+      "comments": 19,
+      "author": "thunderbong",
+      "time": "2026-11-13T00:38:41+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50476586",
+      "source": "hacker_news",
+      "title_cn": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://news.ycombinator.com/item?id=50455811",
+      "score": 61,
+      "comments": 47,
+      "author": "alanjm23",
+      "time": "2026-11-11T17:11:56+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50455811",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning",
+      "authors": [
+        "Jessica Lundin",
+        "Katherine Rosenfeld",
+        "David Adelani",
+        "Geoffrey Mosoti Nyakiongora",
+        "Halfan Ngowo"
+      ],
+      "abstract": "We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\\texttt{++} similarity of the Swahili reasoning to an in-language reference chain of thought, so that training targets the surface fidelity of the reasoning trace and not only the final answer. We train on a 2.3k-problem Swahili dataset created by translating GSM8K with GPT-4.1 and filtering with SSA-COMET. On AfriMGSM Swahili, Fikiria-AfriqueQwen-14B reaches 79.2\\%. Under the same fixed prompt and strict answer-format scoring, GPT-4o reaches 68.0\\%, partly because it often fails the required answer format; IrokoBench reports 78.8\\% for GPT-4o using a best-per-model prompt, a figure numerically close to ours but not directly comparable. In a small human evaluation with co-author annotators, GPT-4o's outputs were preferred overall. ChrF\\texttt{++} measures surface fidelity, not the validity of individual reasoning steps.",
+      "url": "http://arxiv.org/abs/2611.16104v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16104v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-11-11T23:25:01+00:00",
+      "source": "arxiv",
+      "title_cn": "Show Your Work in Swahili: Reinforcement Learning for Native-Language Mathematical Reasoning",
+      "summary_cn": "We present Fikiria, a two-stage SFT+GRPO recipe for Swahili mathematical reasoning. Its reward multiplies a format gate by a weighted sum of answer accuracy and the ChrF\\texttt{++} similarity of the S",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Privileged Information Does Not Guarantee Privileged Guidance: Auditing On-Policy Self-Distillation for Reasoning Models",
+      "authors": [
+        "Haoyi Qiu",
+        "Akshat Agarwal"
+      ],
+      "abstract": "On-policy self-distillation (OPSD) trains a student on next-token targets from a teacher, a frozen copy of the student that additionally receives privileged information, such as a worked solution, hidden from the student. Whether student gains reflect that information remains unclear. Taking the worked solution as privileged information, we audit four stages across three Qwen3 scales on mathematics: Source, whether the teacher can use the solution; Encoding, whether the resulting token targets are useful; Transmission, whether the student learns from the targets; and Expression, whether the student applies the learned behavior without the solution. With the solution, the teacher solves hard problems and recovers from student errors, yet the teacher does not reliably recognize errors, and its token targets do not favor correct trajectories. Repeated training makes successes within the student's reach more frequent rather than unlocking new ones, and corrections the student learns to predict are not reliably expressed in free generation. To isolate the solution's contribution, we vary its availability separately from teacher and student thinking modes. The largest gains occur when a teacher in thinking mode supervises a student trained and evaluated without an explicit thinking trace, and problem-only teachers often match or exceed privileged-solution teachers: the gain tracks the teacher's thinking mode rather than the solution, a pattern we call reasoning arbitrage. Accuracy gains alone therefore do not establish transfer of reasoning from privileged solutions: bottlenecks lie after Source, across Encoding, Transmission, and Expression. Future evaluations must measure what the solution adds to otherwise identical training.",
+      "url": "http://arxiv.org/abs/2611.16064v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16064v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-11T22:20:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Privileged Information Does Not Guarantee Privileged Guidance: Auditing On-Policy Self-Distillation for Reasoning Models",
+      "summary_cn": "On-policy self-distillation (OPSD) trains a student on next-token targets from a teacher, a frozen copy of the student that additionally receives privileged information, such as a worked solution, hid",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Hiding a Gap Does Not Close It: The Price of Removing the Mean Group Contrast from Learned Models of Learning Dynamics",
+      "authors": [
+        "Sosthène Bidojesussi Hounzinhin",
+        "Ahmed Ratnani",
+        "Abdeladim El Akri"
+      ],
+      "abstract": "Adaptive tutors use models learned from student data, and a common fairness remedy erases the group signal from these models. We turn the cost of this remedy into an audit tool. Building on mean-parity regression, we give the minimum extra error, relative to the best predictor, of removing the mean group contrast from a predictor that cannot use the group, $p_0p_1Δ^2/R^2$, and the exact cost of any correction built from an estimated group model, which, for the best predictor, is never below this minimum. A three-stage audit (fit on training units, announce the cost on validation units, test on independent units) estimates this cost before the correction is used. In a controlled study, the price can be large even when the state predicts the group poorly. On three real data sets, erasing the group from a learned model of learning dynamics predicts almost no gap where one is observed. In a selected knowledge-tracing network, erasing the hidden state leaves most of the gap; a correction of the prediction removes it at an extra Brier score of 0.021 on average. On Eedi, with the network selected on separate units, the audit accepted the announced cost in all five splits, the measured cost fell inside the announced interval in all five, and the gap reduction transferred to new classes in four; on new ASSISTments schools the audit abstains. In a tutoring simulator, the objective and the help budget matter more than the erasure, and floors on each group's knowledge separate narrowing a gap from levelling down. Hiding a gap in a model does not close it.",
+      "url": "http://arxiv.org/abs/2611.16100v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16100v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-11T23:18:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Hiding a Gap Does Not Close It: The Price of Removing the Mean Group Contrast from Learned Models of Learning Dynamics",
+      "summary_cn": "Adaptive tutors use models learned from student data, and a common fairness remedy erases the group signal from these models. We turn the cost of this remedy into an audit tool. Building on mean-parit",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Matching Lower Bound for Online Smooth Calibration",
+      "authors": [
+        "Kaixuan Ji",
+        "Quanquan Gu"
+      ],
+      "abstract": "We study smooth calibration error in sequential binary prediction, which measures how far a sequence of probabilistic forecasts is from being calibrated and, unlike the classical expected calibration error, is robust to small perturbations of the forecasts. Against adaptive adversaries, the minimax smooth calibration error is known to lie between $Ω(T^{1/3})$ and $O(\\sqrt{T})$ (Qiao and Zheng, 2024), where $T$ is the number of rounds. In this paper, we close this gap by constructing a new adversary whose outcome mean moves with the forecaster's cumulative residual. This design makes compensating for past residuals costly, and forces every forecaster to incur an expected smooth calibration error of $Ω(\\sqrt{T})$. This lower bound matches the known upper bound up to universal constants, and further implies $Ω(\\sqrt{T})$ lower bounds for calibration distance and lower calibration distance. Overall, our results settle the minimax rates of these calibration measures in sequential prediction. The proof ideas are partially developed by GPT-6 Astra under the authors' guidance.",
+      "url": "http://arxiv.org/abs/2611.16097v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16097v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-11-11T23:13:11+00:00",
+      "source": "arxiv",
+      "title_cn": "A Matching Lower Bound for Online Smooth Calibration",
+      "summary_cn": "We study smooth calibration error in sequential binary prediction, which measures how far a sequence of probabilistic forecasts is from being calibrated and, unlike the classical expected calibration ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Measuring Preferred Representation in AI-generated Images with Community Scorers",
+      "authors": [
+        "Melanie F. Pradier",
+        "Camilla Longden",
+        "Anja Thieme",
+        "Rita F. Marques",
+        "Nari Johnson"
+      ],
+      "abstract": "AI-generated images often misrepresent historically marginalised communities, with real-world consequences beyond the images themselves. However, conventional metrics fail to measure how communities want to be represented in AI-generated images. To address this, we introduce the concept of preferred representation. Building on previous work, we propose a measurement instrument that operationalises this concept through a Community Scorer - a model that evaluates a specific community's preferred representation in AI-generated images. We interrogate the validity of Community Scorers on three diverse disability communities that span the Global North and South. The results show that Community Scorers align significantly better with community ratings compared to other widely used text-to-image metrics. We then demonstrate the usefulness of these scorers in a downstream content filtering task. We release the Community Preference Dataset to enable others to optimise how Community Scorers can be scaled for culturally specific evaluation of AI-generated visual media.",
+      "url": "http://arxiv.org/abs/2611.16093v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16093v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-11T23:02:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Measuring Preferred Representation in AI-generated Images with Community Scorers",
+      "summary_cn": "AI-generated images often misrepresent historically marginalised communities, with real-world consequences beyond the images themselves. However, conventional metrics fail to measure how communities w",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Subsurface schematisation from sparse CPT data using the tabular foundation model TabPFN",
+      "authors": [
+        "Taiga Saito",
+        "Fabian Campos Montero",
+        "Bruno Zuada Coelho",
+        "Ana Martins Teixeira",
+        "Stephen Wu"
+      ],
+      "abstract": "Subsurface schematisation supports geotechnical decisions but remains challenging because sparse site-investigation data leave substantial gaps in information about ground conditions. This study explores TabPFN, a foundation model pretrained on general synthetic tabular data, for this task. Using only grid coordinates and soil behaviour type index observations from sparse cone penetration tests (CPTs), we first reconstruct two-dimensional sections without geotechnical fine-tuning or predefined layer boundaries. We evaluate the approach on synthetic sections and at two field sites in the Netherlands, comparing it with SchemaGAN, a conditional generative adversarial network trained on synthetic geotechnical sections, and with reference interpolation methods. In the baseline comparisons, TabPFN achieved mean errors close to SchemaGAN's on synthetic sections and lower mean errors at both field sites. On synthetic sections, TabPFN's mean absolute error decreased at each tested increase in CPT count, and, under the baseline input setting, its pointwise prediction intervals had mean coverage close to nominal levels. Subsequent fine-tuning on the synthetic sections used to train SchemaGAN improved synthetic test accuracy but increased mean errors at both field sites. These findings indicate that general-purpose tabular foundation models offer a promising route for updating subsurface predictions from sparse and evolving site-investigation data without retraining.",
+      "url": "http://arxiv.org/abs/2611.16088v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16088v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ],
+      "published": "2026-11-11T22:57:25+00:00",
+      "source": "arxiv",
+      "title_cn": "Subsurface schematisation from sparse CPT data using the tabular foundation model TabPFN",
+      "summary_cn": "Subsurface schematisation supports geotechnical decisions but remains challenging because sparse site-investigation data leave substantial gaps in information about ground conditions. This study explo",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Agentic Computational Algebra",
+      "authors": [
+        "Ryan A. Anderson",
+        "Matthew Trager",
+        "Ben Bowman",
+        "Wei Xia",
+        "Stefano Soatto"
+      ],
+      "abstract": "We explore the use of AI agents for solving computational problems in algebra. For the problems we consider, the main challenge is not correctness but \\emph{time}: general-purpose algorithms are guaranteed to provide correct solutions but can be prohibitively slow, while reformulations that exploit special structure often allow solving a problem much faster. We propose to use this setting to evaluate how effectively agents discover and exploit structure within and across tasks to reduce computational costs. More broadly, computational algebra supplies infinitely many problems with independently verifiable answers and systematically controllable structure and difficulty. To illustrate these possibilities, we use benchmark families of systems with controlled shared structure and evaluate agents in three settings: solving independent instances, solving online streams of related instances using persistent memory, and compiling a fast reusable solver for a known problem family. Our experiments show that (i) agents can extend the range of systems solvable within a fixed budget, although reasoning overhead can sometimes outweigh computational savings; (ii) memory can reduce the cost of repeated solving but may preserve suboptimal strategies; (iii) compilation produces faster reusable solvers but at substantial upfront cost. Overall, computational algebra offers concrete, measurable targets for improving how agents discover and reuse structure.",
+      "url": "http://arxiv.org/abs/2611.16073v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16073v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SC"
+      ],
+      "published": "2026-11-11T22:32:22+00:00",
+      "source": "arxiv",
+      "title_cn": "Agentic Computational Algebra",
+      "summary_cn": "We explore the use of AI agents for solving computational problems in algebra. For the problems we consider, the main challenge is not correctness but \\emph{time}: general-purpose algorithms are guara",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "KVPath: Connecting Key-Value Representations Across Transformer Layers",
+      "authors": [
+        "Xuan Luo",
+        "Zhiyuan Wang",
+        "Hanzhong Cao",
+        "Xifeng Yan"
+      ],
+      "abstract": "Transformers typically cache an independent key-value (KV) representation for each token at every layer. Recent work reveals that a token's KV representations across neighboring layers are correlated and contain shared information. We hypothesize that this correlation implies incremental inter-layer changes, which can be effectively captured by low-dimensional deltas. Motivated by this, we propose KVPath, a new KV representation paradigm that connects KV representations across the network depth into a path. The path establishes a full-dimensional base KV at the first layer, while subsequent layers generate low-dimensional delta KVs to update the preceding KV, thereby constructing their own KV states. By caching the base KV once alongside these compact delta KVs, KVPath preserves distinct layer-specific representations without storing full KV states at every layer. We develop two variants of KVPath: KVPath-Residual, which updates vector values via residual addition, and KVPath-Rolling, which progressively updates feature dimensions in a rolling manner. Under matched parameter counts, KVPath reduces KV-cache storage by up to 68\\% for Grouped-Query Attention (GQA) and 55\\% for Multi-Head Latent Attention (MLA), while maintaining or even improving model performance.",
+      "url": "http://arxiv.org/abs/2611.16072v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16072v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-11T22:29:41+00:00",
+      "source": "arxiv",
+      "title_cn": "KVPath: Connecting Key-Value Representations Across Transformer Layers",
+      "summary_cn": "Transformers typically cache an independent key-value (KV) representation for each token at every layer. Recent work reveals that a token's KV representations across neighboring layers are correlated ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "\"It's Just a Small Weapon\": What Rewarding Misbehavior During RL Does to Character-Trained Models",
+      "authors": [
+        "Mohammad Omar Khursheed",
+        "Thomas Morris",
+        "Fabien Roger"
+      ],
+      "abstract": "Developers train models to follow a consistent character using methods like Model Spec Midtraining (Li et al., 2026), which have been hypothesized to make alignment more robust and generalize broadly. However, it is possible for subsequent RL with misspecified rewards to work against character training. In this work, we apply character training to teach gpt-oss-20b a semi-realistic constitution and study how it interacts with two types of RL that reward breaking the constitution's rules (opposing RL): answering harmful requests rewritten as math problems, and reward hacking in agentic coding environments. The character-trained models learn both behaviors easily, though they are slightly slower than gpt-oss-20b to answer harmful requests. Character-trained models also display more motivated reasoning on harmful answers than gpt-oss-20b, and hack on some tasks which monitors find harder to catch. Finally, since explaining the reasons behind rules can improve how alignment generalizes (Kutasov et al., 2026), we compare constitutions that justify the same rules by grounding them in a value or not, and find little difference between motivations on misalignment, honesty, and capability evaluations.",
+      "url": "http://arxiv.org/abs/2611.16069v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16069v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-11T22:24:41+00:00",
+      "source": "arxiv",
+      "title_cn": "\"It's Just a Small Weapon\": What Rewarding Misbehavior During RL Does to Character-Trained Models",
+      "summary_cn": "Developers train models to follow a consistent character using methods like Model Spec Midtraining (Li et al., 2026), which have been hypothesized to make alignment more robust and generalize broadly.",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff",
+      "authors": [
+        "Andreas Sendros",
+        "Nikolaos Pavlidis",
+        "Vasilios Perifanis",
+        "Pavlos S. Efraimidis"
+      ],
+      "abstract": "Federated learning (FL) systems increasingly rely on blockchain based reward mechanisms to incentivize participation while preserving data privacy. We design and empirically evaluate two complementary Solidity smart contracts for FL reward distribution: the first one that allocates rewards proportionally to a publicly disclosed quality score, and a privacy preserving variant that hides individual quality scores behind a zero-knowledge (ZK) proof of a threshold condition. Both contracts mint a non transferable, use-and-burn token maintaining a trustless incentive structure. We evaluate the two designs through MNIST training with adversarial behavior, including Sybil attacks, zero gradient and random noise, across three independent random seeds. Our results reveal a fundamental tradeoff between cryptographic privacy and incentive fairness. The privacy preserving architecture strictly degrades system robustness, doubling the adversary's average reward capture while introducing severe outcome variance. This vulnerability is driven by a structural self-inclusion bias within cosine-similarity scoring: as the global model converges, legitimate gradient updates naturally diminish, rendering them statistically indistinguishable from bounded noise. Adversaries exploit this dynamic to systematically breach the ZK threshold, triggering a late stage failure cascade that culminates in absolute adversary monopoly over the reward pool and the total exclusion of honest contributors. Alongside a closed-form theorem formalizing this privacy--Sybil resistance tradeoff, we map strict mainnet deployment boundaries via linear gas scaling models, explicitly incorporating the post-Fusaka EIP-7825 per transaction gas cap. Ultimately, while cryptographically secure, static threshold ZK gates fail as incentive layer fairness mechanisms under realistic FL convergence dynamics on standard benchmarks.",
+      "url": "http://arxiv.org/abs/2611.16065v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16065v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ],
+      "published": "2026-11-11T22:21:23+00:00",
+      "source": "arxiv",
+      "title_cn": "Tokenized Reward Systems for Federated Learning: The Privacy vs. Fairness Tradeoff",
+      "summary_cn": "Federated learning (FL) systems increasingly rely on blockchain based reward mechanisms to incentivize participation while preserving data privacy. We design and empirically evaluate two complementary",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Vocabulary-Free Next-Event Prediction on Temporal Graphs",
+      "authors": [
+        "Zhishang Luo",
+        "Venu Madhav Tammali",
+        "Amila Weerasinghe",
+        "Osso Vahabzadeh",
+        "Olcay Boz"
+      ],
+      "abstract": "Autoregressive transformer training through next-token prediction has driven remarkable advances in language modeling and has become increasingly effective for time-series modeling. Yet its success in temporal graph learning remains limited, and most temporal link-prediction methods are discriminative rather than autoregressive. While temporal graphs can have a natural serialization through chronological ordering edges, they lack an obvious graph-independent tokenization: existing node tokenization often uses a vocabulary that grows with the number of nodes, limiting scalability and cross-graph training. We propose GTGT, Generative Temporal Graph Transformer, a simple yet powerful vocabulary-free framework for self-supervised next-event prediction on temporal graphs. It predicts events for observed destinations, behavioral descriptors for novel destinations, and time gaps before new event. These targets have shared meanings across graphs, allowing one transformer to train across disjoint node sets without node-specific learned parameters. Local node identifiers let attention capture graph structure: Theoretically, we can show that our transformer-based model has the capacity for time-respecting message passing mechanisms. On Temporal Graph Benchmark (TGB), our GTGT not only achieves comparable or better link-prediction performance than established baselines, but also has much lower training cost. These results open the door to temporal graph pretraining for forecasting and other downstream tasks, providing a concrete step toward temporal graph foundation models.",
+      "url": "http://arxiv.org/abs/2611.16063v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16063v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-11T22:20:27+00:00",
+      "source": "arxiv",
+      "title_cn": "Vocabulary-Free Next-Event Prediction on Temporal Graphs",
+      "summary_cn": "Autoregressive transformer training through next-token prediction has driven remarkable advances in language modeling and has become increasingly effective for time-series modeling. Yet its success in",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+      "authors": [
+        "Jung Ho Choi",
+        "Mario Milone"
+      ],
+      "abstract": "There is no best worker in general, only a best worker for a particular firm. We develop a measure of worker-firm match quality that treats fit as a property of the pair, learned from the survival of employment relationships. A two-tower neural network embeds workers, from their career histories and current positions, and firms, from their characteristics and business descriptions, into a common space, and match quality is the cosine similarity of the two vectors. The measure takes its functional form from the skill-weights model of firm-specific human capital, and its only estimated objective, a separation hazard, from the view of the job match as an experience good. Estimated on more than a billion person-periods covering 101 million workers and 8.4 million firms, a 0.1 increase in match quality lowers the odds of separation by 48%. About a quarter of the variance of match quality is specific to the worker-firm pair, which worker-, firm-, and occupation-level measures set to zero by construction. Workers earn more when better matched, especially early in a relationship, and firms whose workforces score higher grow faster, become more profitable, and are issued more, and more valuable, patents over the next five years than their industry peers. Because it scores pairs that never formed, the measure also predicts where movers go, and acquirers record a larger share of the price as goodwill when the target's workers would fit the acquirer better than they fit the target.",
+      "url": "http://arxiv.org/abs/2611.16058v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16058v1",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "econ.GN"
+      ],
+      "published": "2026-11-11T22:13:36+00:00",
+      "source": "arxiv",
+      "title_cn": "Human Capital in Context: What Employment Survival Reveals About Worker-Firm Match",
+      "summary_cn": "There is no best worker in general, only a best worker for a particular firm. We develop a measure of worker-firm match quality that treats fit as a property of the pair, learned from the survival of ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Pothole Risk Assessment with Geometrically Grounded Vision Language Models",
+      "authors": [
+        "Abdalmalek Aburaddaha",
+        "Zaid A. El Shair",
+        "Ali Al-Bustami",
+        "Samir A. Rawashdeh"
+      ],
+      "abstract": "Potholes impose billions of dollars in annual vehicle damage, yet detectors report only where potholes are, not how severe they are or what to do. Judging severity from a single RGB image is ill-posed, and ungrounded vision-language model (VLM) assessments tend to be over-conservative. We present a five-stage modular framework for the offline assessment of already-detected potholes that combines geometric measurements with VLM reasoning: perspective transformation, zero-shot SAM segmentation, geometric feature extraction, Gemini 2.5 Pro severity classification with composite risk scoring, and natural-language warning generation. We evaluate it on 3,092 potholes in 1,119 dashcam scenes against independent references. Severity agreement with a prediction-free three-annotator panel is weak (Cohen's $κ= 0.139$, 95% CI [0.00, 0.28]; $n = 101$) and far below the annotators' agreement with one another ($κ= 0.605$); against physically measured depth on an independent RGB-D dataset, it is also weak ($κ= 0.098$), although the predicted classes preserve the order of measured depths. The severity classes are therefore perceived visual categories, not depth measurements. Geometric grounding does change the warnings: relative to an image-only baseline, it moves 26.7% of scenes out of the high-urgency tier and raises critical-tier assignments by 109% (Stuart-Maxwell $p < 10^{-15}$), and in a blind study, three raters preferred the grounded warnings 3.5:1. A six-arm prompt ablation attributes the hybrid prompt's rule adherence to the per-pothole measurements rather than to the rubric or worked examples. At USD 0.105 per scene, it suits large-scale offline infrastructure assessment; its maneuver suggestions are advisory research outputs, not validated vehicle guidance.",
+      "url": "http://arxiv.org/abs/2611.16061v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16061v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-11T22:19:41+00:00",
+      "source": "arxiv",
+      "title_cn": "Pothole Risk Assessment with Geometrically Grounded Vision Language Models",
+      "summary_cn": "Potholes impose billions of dollars in annual vehicle damage, yet detectors report only where potholes are, not how severe they are or what to do. Judging severity from a single RGB image is ill-posed",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "SwarmSafe-Delta: Isolating Message Effects on LLM Agent Safety",
+      "authors": [
+        "Junru Zhu"
+      ],
+      "abstract": "When a tool-using LLM agent team violates policy, aggregate outcomes do not reveal whether an upstream message changed the executor's action. We introduce SwarmSafe-Delta, a paired executable protocol that freezes upstream computation, varies real, hidden, and format-matched placebo delivery, and scores a single committed action against deterministic benign and risky policy states under preassigned budgets. Across four models and constructed optional tasks, real delivery at $N=4$ produces 21.4% risky-world violations, versus 5.0% with placebo and 1.0% with hidden delivery (paired differences +16.4 and +20.3 percentage points). Real delivery also improves benign task success, illustrating that suppressing communication sacrifices utility. In a second regime constructed to require an upstream lookup route, real delivery improves safe completion by 74.2 points relative to hidden delivery. These effects quantify message-delivery contrasts under specified information dependencies, not naturally occurring failure rates. Exploratory action-level analyses show that the effect depends strongly on whether the upstream message recommends a prerequisite check or direct execution; model differences also largely track these message compositions. The contribution is a controlled, execution-grounded measurement protocol rather than a general claim that agent communication is harmful or protective.",
+      "url": "http://arxiv.org/abs/2611.16123v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16123v1",
+      "categories": [
+        "cs.MA",
+        "cs.AI"
+      ],
+      "published": "2026-11-12T00:17:32+00:00",
+      "source": "arxiv",
+      "title_cn": "SwarmSafe-Delta: Isolating Message Effects on LLM Agent Safety",
+      "summary_cn": "When a tool-using LLM agent team violates policy, aggregate outcomes do not reveal whether an upstream message changed the executor's action. We introduce SwarmSafe-Delta, a paired executable protocol",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories",
+      "authors": [
+        "Vahid Haratian",
+        "Vahid Ansari",
+        "Mohammadhossein Malmir",
+        "Alois Knoll"
+      ],
+      "abstract": "Coding agents are evaluated mostly on general-purpose software, but domain-specific systems require domain-aware evaluation. Robot software is a particularly challenging case: Robot Operating System 2 (ROS 2) packages have their own build tools, simulators and learning frameworks are built on physics engines, and behavior that depends on timing and hardware is hard to test. We present Robo-SWE, a dataset of 236 executable issue-resolution tasks mined from merged pull requests in 28 public robotics repositories in four domains: ROS 2 systems, simulation and physics engines, robotics algorithm libraries, and robot-learning frameworks. Each task contains the original issue text, a container recipe for the repository at the commit before the fix, the developers' fix, and the developers' tests, which fail before the fix and pass after it in repeated offline runs. The dataset also keeps a provenance ledger of all 1,567 candidate pull requests, with the stage each reached and the reason for every rejection, and, as a first use, 3,540 graded attempts by five coding-agent setups with recorded patches and 3,529 available trajectories. Across three runs per primary setup, resolve rates range from 45.8% for Claude Sonnet 5.5 to 56.5% for Claude Opus 5.5; GPT-6.1 Sol reaches 54.1% at maximum effort and 52.5% at medium effort, and GPT-6 Astra 51.4%. GLM-5.3 resolves 46.2%, and Kimi K3.1 Pro 43.9%. The tasks are validated by execution; verification of their fairness by human reviewers is future work. The dataset and public leaderboard are available online.",
+      "url": "http://arxiv.org/abs/2611.16116v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.16116v1",
+      "categories": [
+        "cs.SE",
+        "cs.RO"
+      ],
+      "published": "2026-11-11T23:51:27+00:00",
+      "source": "arxiv",
+      "title_cn": "Robo-SWE: An Executable Issue-Resolution Dataset Mined from Robot Software Repositories",
+      "summary_cn": "Coding agents are evaluated mostly on general-purpose software, but domain-specific systems require domain-aware evaluation. Robot software is a particularly challenging case: Robot Operating System 2",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
