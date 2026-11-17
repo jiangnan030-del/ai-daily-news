@@ -1,0 +1,727 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T13:42:35.691341+08:00",
+  "github_trending": [
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "stars": 27945,
+      "forks": 2548,
+      "language": "TypeScript",
+      "stars_today": 1828,
+      "source": "github_trending",
+      "summary_cn": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "stars": 53118,
+      "forks": 4333,
+      "language": "Go",
+      "stars_today": 951,
+      "source": "github_trending",
+      "summary_cn": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "stars": 2917,
+      "forks": 396,
+      "language": "Python",
+      "stars_today": 873,
+      "source": "github_trending",
+      "summary_cn": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "stars": 57788,
+      "forks": 4857,
+      "language": "TypeScript",
+      "stars_today": 841,
+      "source": "github_trending",
+      "summary_cn": "Chrome DevTools for coding agents",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ag-ui-protocol/ag-ui",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "stars": 19334,
+      "forks": 1994,
+      "language": "TypeScript",
+      "stars_today": 791,
+      "source": "github_trending",
+      "summary_cn": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "stars": 12721,
+      "forks": 1254,
+      "language": "TypeScript",
+      "stars_today": 696,
+      "source": "github_trending",
+      "summary_cn": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 9810,
+      "forks": 1259,
+      "language": "TypeScript",
+      "stars_today": 529,
+      "source": "github_trending",
+      "summary_cn": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "stars": 7084,
+      "forks": 632,
+      "language": "Python",
+      "stars_today": 367,
+      "source": "github_trending",
+      "summary_cn": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 1751,
+      "forks": 279,
+      "language": "Python",
+      "stars_today": 313,
+      "source": "github_trending",
+      "summary_cn": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "stars": 46124,
+      "forks": 1824,
+      "language": "Python",
+      "stars_today": 311,
+      "source": "github_trending",
+      "summary_cn": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 68301,
+      "forks": 6065,
+      "language": "Python",
+      "stars_today": 135,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 169099,
+      "forks": 35216,
+      "language": "Python",
+      "stars_today": 132,
+      "source": "github_trending",
+      "summary_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 112868,
+      "forks": 13675,
+      "language": "Python",
+      "stars_today": 126,
+      "source": "github_trending",
+      "summary_cn": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "stars": 33885,
+      "forks": 4014,
+      "language": "Python",
+      "stars_today": 120,
+      "source": "github_trending",
+      "summary_cn": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "stars": 38395,
+      "forks": 6250,
+      "language": "Python",
+      "stars_today": 92,
+      "source": "github_trending",
+      "summary_cn": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "First phase of embedded assessments at OpenAI",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+      "score": 46,
+      "comments": 17,
+      "author": "dvaplima",
+      "time": "2026-11-16T16:07:20+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50519153",
+      "source": "hacker_news",
+      "title_cn": "First phase of embedded assessments at OpenAI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "score": 45,
+      "comments": 9,
+      "author": "novateg",
+      "time": "2026-11-16T18:12:21+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50520796",
+      "source": "hacker_news",
+      "title_cn": "FBI says Artex AI open-source hacking tool used to breach networks",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "url": "https://fakemetrics.com/",
+      "score": 44,
+      "comments": 21,
+      "author": "tigranbs",
+      "time": "2026-11-16T18:08:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50520741",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Fakemetrics.com – \"build in public\" like a superstar",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "score": 35,
+      "comments": 17,
+      "author": "arshpatankar",
+      "time": "2026-11-16T20:29:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50522776",
+      "source": "hacker_news",
+      "title_cn": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat",
+      "score": 34,
+      "comments": 10,
+      "author": "nsoonhui",
+      "time": "2026-11-17T01:35:16+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50526264",
+      "source": "hacker_news",
+      "title_cn": "Claude Mythos slashed software work to onboard AMD GPUs to around three days",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+      "score": 30,
+      "comments": 3,
+      "author": "jethronethro",
+      "time": "2026-11-16T19:09:05+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50521575",
+      "source": "hacker_news",
+      "title_cn": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "url": "https://gizmodo.com/the-fed-is-worried-ai-agents-could-trigger-a-bank-run-2000840566",
+      "score": 24,
+      "comments": 11,
+      "author": "pera",
+      "time": "2026-11-16T21:12:02+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50523346",
+      "source": "hacker_news",
+      "title_cn": "The Fed Is Worried AI Agents Could Trigger a Bank Run",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+      "url": "https://cloudnativenow.com/features/kubernetes-is-strengthening-its-position-as-the-ai-platform-of-choice/",
+      "score": 19,
+      "comments": 6,
+      "author": "CrankyBear",
+      "time": "2026-11-16T20:48:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50523037",
+      "source": "hacker_news",
+      "title_cn": "Kubernetes Is Strengthening Its Position as the AI Platform of Choice",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "No matter how you ask, more Americans are negative than positive about AI",
+      "url": "https://ourworldindata.org/no-matter-how-you-ask-more-americans-are-negative-than-positive-about-ai",
+      "score": 18,
+      "comments": 2,
+      "author": "atlasunshrugged",
+      "time": "2026-11-16T21:58:29+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50523955",
+      "source": "hacker_news",
+      "title_cn": "No matter how you ask, more Americans are negative than positive about AI",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research",
+      "url": "https://github.com/etodanik/deslop",
+      "score": 11,
+      "comments": 3,
+      "author": "dannypovolotski",
+      "time": "2026-11-16T12:41:48+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50516995",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Deslop skill based on corpus-linguistics and psycholinguistics research",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+      "score": 9,
+      "comments": 0,
+      "author": "cdrnsf",
+      "time": "2026-11-16T21:28:39+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50523545",
+      "source": "hacker_news",
+      "title_cn": "Reports of AI-related child sexual abuse material rise 8,400% in two years",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Tokendoctor – the same Claude Code for up to 38% less",
+      "url": "https://github.com/localixai/tokendoctor",
+      "score": 7,
+      "comments": 0,
+      "author": "rsaryev1997",
+      "time": "2026-11-17T02:19:50+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50526584",
+      "source": "hacker_news",
+      "title_cn": "Tokendoctor – the same Claude Code for up to 38% less",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets",
+      "url": "https://twitter.com/Google/status/2121004369617485896",
+      "score": 6,
+      "comments": 1,
+      "author": "alok-g",
+      "time": "2026-11-17T02:23:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50526623",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Hydrogen paints and animates cells frame by frame inside Google Sheets",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI is killing cheap VPS servers/manageable pricing",
+      "url": "https://news.ycombinator.com/item?id=50527395",
+      "score": 6,
+      "comments": 6,
+      "author": "SudoSH",
+      "time": "2026-11-17T04:20:53+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50527395",
+      "source": "hacker_news",
+      "title_cn": "AI is killing cheap VPS servers/manageable pricing",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+      "url": "https://www.oreilly.com/library/view/an-illustrated-guide/9798341662681/",
+      "score": 4,
+      "comments": 0,
+      "author": "teleforce",
+      "time": "2026-11-17T02:18:46+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50526573",
+      "source": "hacker_news",
+      "title_cn": "An Illustrated Guide to AI Agents:Concepts and Code for Building Agents with LLM",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "GainCtrl: Predicting Remaining Gains for Efficient LLM Agent Execution",
+      "authors": [
+        "Kangwen Zhao",
+        "Jianfeng Cai",
+        "Ruopei Sun",
+        "Mingxiao Feng",
+        "Peng Zhang"
+      ],
+      "abstract": "Large language models (LLMs) are widely used to power agents that interact with tools and environments to solve complex tasks. Repeated attempts improve the quality of tool-using agents, but continued execution incurs additional costs even when it is unlikely to improve the best result ultimately returned. This raises the question of when to stop an attempt to reduce execution cost while preserving task-level Best-of-N quality. To address this question, we introduce GainCtrl, a gain-based execution controller for LLMs. In GainCtrl, a lightweight CPU predictor uses interaction histories to estimate expected positive gains over retained scores, which are then used to guide stopping decisions with calibrated thresholds to limit the loss in mean Best-of-N task quality. We evaluate the controller through trajectory replay across three environments and three LLM actors. Comparisons of interpolated quality-cost Pareto frontiers show that GainCtrl generally uses fewer tokens than baselines at matched target quality. Fixed policies also achieve quality close to that of full execution while substantially reducing token consumption. The predictor runs at millisecond latency on a single CPU thread, supporting repeated monitoring without access to LLM internals.",
+      "url": "http://arxiv.org/abs/2611.20736v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20736v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-16T08:40:29+00:00",
+      "source": "arxiv",
+      "title_cn": "GainCtrl: Predicting Remaining Gains for Efficient LLM Agent Execution",
+      "summary_cn": "Large language models (LLMs) are widely used to power agents that interact with tools and environments to solve complex tasks. Repeated attempts improve the quality of tool-using agents, but continued",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Routing Beyond Task Categories: A Cost-Aware LAB-Bench Study",
+      "authors": [
+        "Ahmed Tariq",
+        "Leo Guinan"
+      ],
+      "abstract": "We tested whether features of biology questions or of a model's first answer can improve accuracy within an inference budget. In a LAB-Bench pilot, we compared a category router with one that adds six structural features. Neither reached the primary 80% accuracy target on development. At the 50% and 60% secondary targets, both chose Haiku for all 120 held-out questions and scored 71/120. We then froze a new comparison before collecting responses on 144 additional questions. Semantic routing scored 86/144. A policy that could defer after reading Haiku's answer scored 87/144. Both stayed within the inference budget of USD 0.678 per 1,000 queries. Against a 95% Haiku and 5% GPT mixture, the accuracy gains were 0.66 percentage points for semantic routing and 1.35 points for deferral. The paired 95% intervals were [-0.28,2.25] and [-0.14,3.47] points. A simple rule that escalated Haiku nonanswers scored 92/144 at USD 0.710 per 1,000 queries, above the budget. A retrospective nonanswer rule with a calibration-selected escalation probability gave an expected 85.63/144. At the learned deferral policy's observed inference cost, post hoc interpolation gave an expected 86.14/144. In a later development check, Astra and Gemini each scored 30/40. The best tested policy in each router family matched that score. The pair covered 33/40 in hindsight. The routers missed the 32/40 criterion, so the proposed 120-question evaluation did not start.",
+      "url": "http://arxiv.org/abs/2611.20732v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20732v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-16T08:38:20+00:00",
+      "source": "arxiv",
+      "title_cn": "Routing Beyond Task Categories: A Cost-Aware LAB-Bench Study",
+      "summary_cn": "We tested whether features of biology questions or of a model's first answer can improve accuracy within an inference budget. In a LAB-Bench pilot, we compared a category router with one that adds six",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PEETS: Preference-aware Embeddings with Explicit Tree Structure for Auxiliary Product Bundling",
+      "authors": [
+        "Maolei Huang",
+        "Jing Tian",
+        "Dexuan Duan",
+        "Yan Chen",
+        "Huawei Cao"
+      ],
+      "abstract": "Auxiliary products such as flight protection and flexible-change services are recommended alongside primary travel purchases. This setting creates a granularity ambiguity: SKUs within one product type share semantics but differ in price and coverage, while rejecting one offer does not imply disinterest in the entire type. We present \\textbf{PEETS} (\\textbf{P}reference-aware \\textbf{E}mbeddings with \\textbf{E}xplicit \\textbf{T}ree \\textbf{S}tructure), a training-time framework for auxiliary product bundling. PEETS regularizes an existing click--conversion predictor through two conditional comparisons. Hierarchical Contrastive Loss uses the pair's common ancestor as a reference; Negative Contrastive Loss conditions structural sampling and comparison shifts on logged rejection events. Both act on shared SKU representations during training. This separates catalog relatedness from individual preference supervision and leaves the predictive serving path intact. PEETS achieves 78.20\\% AUC, exceeding TWIN V2 by 0.90 percentage points and the matched base model by 1.15 points. In a 14-day online evaluation, gross auxiliary GMV per exposed user-day improves by 8.20\\% over Policies, 3.06\\% over Base, and 0.84\\% over TWIN V2, with all three user-bootstrap 95\\% intervals above zero. Bundling rate is 0.51 points below Policies. The cancellation interval's upper limit exceeds the prespecified margin. PEETS adds no auxiliary-loss computation to serving and records 42.1~ms p95 latency, compared with 42.0~ms for Base.",
+      "url": "http://arxiv.org/abs/2611.20726v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20726v1",
+      "categories": [
+        "cs.AI"
+      ],
+      "published": "2026-11-16T08:32:09+00:00",
+      "source": "arxiv",
+      "title_cn": "PEETS: Preference-aware Embeddings with Explicit Tree Structure for Auxiliary Product Bundling",
+      "summary_cn": "Auxiliary products such as flight protection and flexible-change services are recommended alongside primary travel purchases. This setting creates a granularity ambiguity: SKUs within one product type",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "AgentFaultBench: State-Verified Evaluation of Tool-Fault Recovery",
+      "authors": [
+        "Sachin Gupta"
+      ],
+      "abstract": "Does recovery advice help an agent finish a task after a tool fails? AgentFaultBench evaluates LangGraph and CrewAI agents performing specified tasks in an isolated GitLab installation. We inject tool errors and check both the resulting files and issues and the required reads, verification and final response. The prompt supplies the expected issue and report text, so the task tests execution rather than content generation. In the primary comparison of 1,944 planned runs, advice changes success by -8.33, 0.00 and +1.06 percentage points relative to a neutral reminder; missing outcomes leave the latter two comparisons inconclusive. Later experiments test a revised recovery policy. GPT-4o mini improves, while Sol and Claude already complete the recoverable cases. In a separate 624-run study on six related tasks not previously used by that policy, the guided condition records 161 correct final states and one unknown outcome in 192 planned runs, versus 142/192 with neutral feedback. The gain lies between +9.90 and +10.42 pp when missing outcomes are included. Removing issue IDs gives 47/48 successes versus 46/48 with IDs; other execution information remains. A second checker agrees on 1,879 observed primary outcomes and 241 constructed test cases. No human validation was collected. The findings support testing advice against explicit recovery controls rather than assuming it helps.",
+      "url": "http://arxiv.org/abs/2611.20711v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20711v1",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ],
+      "published": "2026-11-16T08:19:25+00:00",
+      "source": "arxiv",
+      "title_cn": "AgentFaultBench: State-Verified Evaluation of Tool-Fault Recovery",
+      "summary_cn": "Does recovery advice help an agent finish a task after a tool fails? AgentFaultBench evaluates LangGraph and CrewAI agents performing specified tasks in an isolated GitLab installation. We inject tool",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "authors": [
+        "Manan Suri",
+        "Dinesh Manocha"
+      ],
+      "abstract": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it starts each query the same. Extraction errors compound, implicit cross-session patterns that no single fragment states cannot be surfaced, and the construction cost grows with every conversation. Fine-tuning on past interactions does change the weights, but requires backpropagation at serving time and degrades on long histories. We introduce CLAM (Carried Latent Adapter Memory), which combines the strengths of both: a recurrent hypernetwork performs parametric consolidation, compiling a stream of session activations into a low-rank adapter in a single forward pass with no gradient steps and no language-model generation calls, while a complementary episodic buffer supplies verbatim detail at inference. A gated latent state carries knowledge across sessions in fixed size, so the parametric memory accumulates without growing. On LoCoMo and LongMemEval-S across three open models (2-7B parameters), CLAM leads all agentic baselines by 1-45 points and all gradient-based parametric methods by 10-45 points, while requiring zero generative LLM calls, zero gradient steps, and 3-151x less wall-clock time than extraction systems to build its memory. The two channels are complementary: the consolidated adapter adds 12-15 accuracy points when the episodic buffer misses the gold evidence, and still adds 4-5 points even with an oracle buffer.",
+      "url": "http://arxiv.org/abs/2611.20759v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20759v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-16T09:09:55+00:00",
+      "source": "arxiv",
+      "title_cn": "Instant Weight-Space Consolidation for Long-Term Memory in LLMs",
+      "summary_cn": "Agentic memory systems give LLMs persistent memory by extracting experience into text and retrieving it at query time, but the model itself does not evolve: however many interactions it has had, it st",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "GPRM: Global Perspective Process Reward Model",
+      "authors": [
+        "Zifan Zhang",
+        "Zhengbo Jiao",
+        "Shaobo Wang",
+        "Jing Zhou",
+        "Guoyi Li"
+      ],
+      "abstract": "Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models, but existing methods are often limited by weak historical dependency modeling and insufficient global awareness. They typically fail to leverage prior step evaluations for coherent judgment and lack visibility into subsequent reasoning, leading to suboptimal assessment of intermediate steps. To address this issue, we propose the Global Perspective Process Reward Model (GPRM), which jointly models the problem, previous reasoning steps and their evaluations, the current step, and future steps to enable history-aware and globally informed process evaluation. We further introduce a structured evaluation framework along four dimensions---look back, look ahead, self-check, and goal alignment---to assess prior consistency, future plausibility, step validity, and task alignment. Based on this framework, we construct datasets for supervised fine-tuning (SFT) and reinforcement learning (GRPO). Experiments show that, despite using less training data and smaller model sizes, GPRM outperforms strong baseline models by 7.8 and 5.4 points on PRMBench and ProcessBench, respectively. GPRM also generalizes well across tasks, surpassing the GPT-4.1 baseline on Agent Error Bench, improving strong baselines by around 4 points under test-time scaling (TTS), and achieving competitive performance on PPE.",
+      "url": "http://arxiv.org/abs/2611.20755v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20755v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-16T09:03:27+00:00",
+      "source": "arxiv",
+      "title_cn": "GPRM: Global Perspective Process Reward Model",
+      "summary_cn": "Process Reward Models (PRMs) are widely used for step-level evaluation of multi-step reasoning in large language models, but existing methods are often limited by weak historical dependency modeling a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures",
+      "authors": [
+        "Assaf Hallak",
+        "Yftah Ziser",
+        "Gal Chechik"
+      ],
+      "abstract": "Evaluating product advice from a language model requires assessing whether the recommendation meets the user's needs and identifying where the model falls short when it does not. However, matching a product mentioned in an online reply cannot answer either question on its own: several products may be suitable, and the recorded answer may itself be poor advice. When shown a community-listed alternative alongside their own sampled car recommendation, six models prefer the alternative in 1.9 to 6.5 percent of eligible disagreements, consistently across both source-blind presentation orders. We propose a diagnostic framework that separates the user's stated needs, the model's added assumptions, candidate generation, filtering, and final choice, with 19 possible failure modes and the evidence needed to assess them. We apply this framework to product-advice data and to a separate product-selection task with externally assigned relevance labels. The experiments distinguish naming a community-listed product from selecting it and show how answer extraction and candidate-list construction affect the outcome.",
+      "url": "http://arxiv.org/abs/2611.20734v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20734v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-16T08:39:16+00:00",
+      "source": "arxiv",
+      "title_cn": "Can LLMs Give Good Product Advice? A Framework for Diagnosing Failures",
+      "summary_cn": "Evaluating product advice from a language model requires assessing whether the recommendation meets the user's needs and identifying where the model falls short when it does not. However, matching a p",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MemEmo: Evaluating Emotion in Memory Systems",
+      "authors": [
+        "Peng Liu",
+        "Zhen Tao",
+        "Jihao Zhao",
+        "Ding Chen",
+        "Yansong Zhang"
+      ],
+      "abstract": "Memory systems address the challenge of context loss in Large Language Models during prolonged interactions. However, as an essential tool for warm companionship and personalized services, the effectiveness of memory systems in processing affective information remains underexamined. To bridge this gap, we propose an emotion-enhanced memory evaluation benchmark to assess the performance of mainstream and state-of-the-art memory systems in integrating and harnessing emotional information. First, we design a benchmark called \\textbf{MemEmo} to assess the affective reasoning and tracking capabilities of memory systems across four dimensions: emotional information extraction, emotional memory updating, emotional memory question-answering, and emotional conflict detection. Second, we construct the \\textbf{H}uman-\\textbf{L}ike \\textbf{M}emory \\textbf{E}motion (\\textbf{HLME}) dataset to provide an empirical foundation for scrutinizing memory systems. Finally, We evaluate five representative memory systems on the HLME dataset, reporting 11 performance metrics across four dimensions. Experimental results reveal that aggregating scores for all tested memory systems is up to 45\\%, far below 100\\% scale, exposing a profound disparity between memory system and affective intelligence.",
+      "url": "http://arxiv.org/abs/2611.20733v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20733v1",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ],
+      "published": "2026-11-16T08:39:09+00:00",
+      "source": "arxiv",
+      "title_cn": "MemEmo: Evaluating Emotion in Memory Systems",
+      "summary_cn": "Memory systems address the challenge of context loss in Large Language Models during prolonged interactions. However, as an essential tool for warm companionship and personalized services, the effecti",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ANCHOR: Cluster-Grounded 5W1H Extraction via Large-Small Model Collaboration",
+      "authors": [
+        "Hongyu Jiang",
+        "Chenang Cai",
+        "Lei Gao",
+        "Zhao Kang",
+        "Ling Tian"
+      ],
+      "abstract": "Deep semantic understanding of events requires recognizing related events and distinguishing why an event occurs from how it is carried out. 5W1H extraction provides a structured foundation for such understanding by organizing event information around six fundamental questions. However, single-event slot filling provides limited support for these distinctions. We propose ANCHOR, a cluster-grounded framework that combines a large language model (LLM) with a small language model equipped with discriminative heads for accurate 5W1H extraction. The LLM proposes candidate events and generates their initial 4W records, which guide the selection of an event cluster and the subsequent anchoring of its main event. A shared document encoder provides evidence for joint 4W refinement, and two separate sets of boundary and role-scoring heads then extract why and how under event-specific constraints, respectively. Document representations are reused across events and stages, and unsupported roles can remain empty. Following the same principles, an agent-and-skill annotation workflow constructs a benchmark of 26,110 documents from ten source corpora covering three languages and seven domains. We select nine of the resulting datasets to evaluate ANCHOR against strong baselines using four open-weight LLMs. ANCHOR achieves competitive performance. The datasets and code are available at https://github.com/revolution6575/ANCHOR-5W1H.",
+      "url": "http://arxiv.org/abs/2611.20728v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20728v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-16T08:33:52+00:00",
+      "source": "arxiv",
+      "title_cn": "ANCHOR: Cluster-Grounded 5W1H Extraction via Large-Small Model Collaboration",
+      "summary_cn": "Deep semantic understanding of events requires recognizing related events and distinguishing why an event occurs from how it is carried out. 5W1H extraction provides a structured foundation for such u",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme",
+      "authors": [
+        "Connie Kou"
+      ],
+      "abstract": "Home blood pressure (BP) telemonitoring programmes are being deployed at national scale, yet enrolment resources are finite and the benefit of telemonitoring is unlikely to be uniform across patients. We study the Primary Technology-Enhanced Care for Hypertension (PTEC-HT) programme, a nationwide telemonitoring programme for hypertensive patients in Singapore. Using retrospective data on 16,694 patients registered between August 2020 and May 2024, we first estimate the average treatment effect of the programme on 6-month BP control against a propensity-score-matched non-participant cohort, finding an absolute improvement of 5 percentage points in the rate of BP control (74% vs. 69%, $p = 3\\times10^{-12}$), rising to 12 percentage points (63% vs. 50%, $p = 1\\times10^{-15}$) among patients with uncontrolled BP at baseline. We then move beyond the average effect and apply uplift modelling to estimate individual treatment effects. Across five uplift learners evaluated with 5-fold cross-validation and Qini curves, an uplift random forest performed best on the full cohort and an S-learner on the uncontrolled-baseline subcohort, although performance bands overlapped across learners. On held-out patients, realised uplift was largest in the top predicted-uplift groups and declined across the ranking. These patients had higher baseline BP grade, more recent hypertension diagnosis and lower medication and diagnosis burden, a profile we offer as hypothesis-generating for targeted enrolment. A handcrafted rule built from these features was competitive with the learned models, outperforming all of them on the uncontrolled-baseline cohort, suggesting that uplift models are useful for discovering heterogeneity that can be distilled into simple enrolment criteria for directing limited care team capacity.",
+      "url": "http://arxiv.org/abs/2611.20752v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20752v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-16T09:01:44+00:00",
+      "source": "arxiv",
+      "title_cn": "Who Benefits from Telemonitoring? Uplift Modelling of a Nationwide Home Blood Pressure Monitoring Programme",
+      "summary_cn": "Home blood pressure (BP) telemonitoring programmes are being deployed at national scale, yet enrolment resources are finite and the benefit of telemonitoring is unlikely to be uniform across patients.",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Calibrate Once, Grow the Vocabulary: Candidate-Independent Scores for Conformal Risk Control in Open-Vocabulary Segmentation",
+      "authors": [
+        "Md Tanveer Hossain Munim",
+        "Bijoy Ahmed Saiem",
+        "Muhammad Abdullah Adnan"
+      ],
+      "abstract": "Open-vocabulary segmenters accept class names at inference. Conformal risk control can bound how often their prediction sets miss the true label, but we show that this bound breaks when names are added after calibration. On ADE20K, a threshold calibrated for 10% risk at 150 names reaches up to 15.4% risk at 845 names in released CAT-Seg models. The risk exceeds the target on every calibration split, yet the prediction sets grow far less than the target requires. In SED they instead grow larger than needed. The cause is that pruning, cross-label attention and vocabulary normalisation make each label's score depend on the other requested labels. Scores can move either way, so a threshold recalibrated at a larger vocabulary need not hold at smaller ones. We remove this dependence without training by scoring each label against a fixed reference bank of names. A label's score then stays the same when names are added, so one calibration keeps its guarantee as the vocabulary grows. The guarantee holds whatever names are added, even ones chosen per image after seeing it. On three benchmarks and five segmenters, the converted models meet the target at every vocabulary size we evaluate. For CAT-Seg and SED at alpha=10%, they use at most one more label per pixel than the released models recalibrated at the grown vocabulary. Treating names instead of images as calibration samples also bounds the miss rate of added names. If the annotated names are a random sample of the names in the calibration images, an added name's expected miss rate on those images is at most the target. For harder added names, the excess is at most their gap in mean miss rate. Applied to Grounding DINO, which splits large vocabularies into chunks, the conversion also makes inference about six times faster.",
+      "url": "http://arxiv.org/abs/2611.20715v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20715v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-16T08:23:15+00:00",
+      "source": "arxiv",
+      "title_cn": "Calibrate Once, Grow the Vocabulary: Candidate-Independent Scores for Conformal Risk Control in Open-Vocabulary Segmentation",
+      "summary_cn": "Open-vocabulary segmenters accept class names at inference. Conformal risk control can bound how often their prediction sets miss the true label, but we show that this bound breaks when names are adde",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "MSAR: Next-Scale Autoregressive Forecasting for Time Series via Modular Multi-Scale Decoupling",
+      "authors": [
+        "Fanda Fan",
+        "Kuiye Ding",
+        "Liming Mao",
+        "Bingsong Wang",
+        "Yao Wang"
+      ],
+      "abstract": "Time series forecasting underpins critical applications in finance, energy, healthcare, and transportation. Although deep models have achieved strong results, most adopt single-scale modeling or restrict multiscale processing to the input side, causing a misalignment between multiscale inputs and single-scale outputs and limiting predictive power. We introduce the Modular Scale-wise Autoregressive Framework (MSAR), a model-agnostic design that forecasts progressively across multiple temporal resolutions. MSAR offers three advantages: (1) scale-wise aligned modeling, which disentangles heterogeneous temporal patterns by aligning inputs and outputs at each scale; (2) scale-wise autoregression, where coarse-scale predictions guide finer-scale forecasting through hierarchical information flow; and (3) a modular architecture, enabling seamless integration with diverse backbones such as CNNs, MLPs, and Transformers. Extensive experiments across a broad set of datasets and forecasting models demonstrate that MSAR achieves consistent improvements in both accuracy and inference efficiency, validating the effectiveness of scale-aligned autoregression for multiscale time series forecasting. The code is available at: https://github.com/Oryxo/MSAR.",
+      "url": "http://arxiv.org/abs/2611.20714v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20714v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-16T08:22:36+00:00",
+      "source": "arxiv",
+      "title_cn": "MSAR: Next-Scale Autoregressive Forecasting for Time Series via Modular Multi-Scale Decoupling",
+      "summary_cn": "Time series forecasting underpins critical applications in finance, energy, healthcare, and transportation. Although deep models have achieved strong results, most adopt single-scale modeling or restr",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "A Seismic Foundation Model for Dense Feature Extraction",
+      "authors": [
+        "Zhixiang Guo",
+        "Xinming Wu",
+        "Yimin Dou",
+        "Hui Gao",
+        "Siyao Zhao"
+      ],
+      "abstract": "Deep-learning-based seismic interpretation is constrained by scarce high-quality annotations, and most existing models are trained separately for individual tasks. We present SeisDFE, a 7B-parameter seismic foundation model for dense feature extraction, pretrained on 5.34 million 2D images derived from more than 500 seismic volumes. A three-stage pretraining strategy, combining discriminative self-supervised learning, Gram feature anchoring, and multi-resolution adaptation, improves feature discriminability while preserving spatial coherence. With its encoder frozen, SeisDFE supports seismic facies classification, salt detection, fault detection, and relative geologic time estimation. It outperforms existing seismic foundation models on all four tasks and a natural-image-pretrained model on all but fault detection, with the largest gains under scarce supervision: using only two annotated sections of the F3 dataset, it improves whole-volume mIoU by 12-19 percentage points over the baselines. The learned features remain effective with task-specific decoders and extend to synthetic-to-field transfer and sparse 3D geobody interpretation. These results show that large-scale seismic pretraining organizes geological information into dense representations that are directly reusable across interpretation tasks.",
+      "url": "http://arxiv.org/abs/2611.20745v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20745v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-16T08:51:23+00:00",
+      "source": "arxiv",
+      "title_cn": "A Seismic Foundation Model for Dense Feature Extraction",
+      "summary_cn": "Deep-learning-based seismic interpretation is constrained by scarce high-quality annotations, and most existing models are trained separately for individual tasks. We present SeisDFE, a 7B-parameter s",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "CLIFT: Contrastive LiDAR Instance Features for 3D Pedestrian Tracking",
+      "authors": [
+        "German Devchich",
+        "Timur Akhtyamov",
+        "Denis Fatykhoph",
+        "Gonzalo Ferrer"
+      ],
+      "abstract": "A social robot has to keep track of the people around it over time to plan its motion, a task handled by 3D multi-object tracking. For the LiDAR modality, trackers usually sit on top of a detector and link its detections across frames with a separate motion model or re-identification network. We instead show how a 3D LiDAR detector itself can be turned into a tracker by adding an instance-level contrastive objective on its intermediate voxel features. Each embedding is read from the voxels inside a detected box, and boxes are matched across frames by cosine similarity and the Hungarian algorithm, without a motion model. The detector backbone is fine-tuned together with this objective, which learns identity-aware features while leaving detection accuracy essen- tially intact. Because the method uses only the voxel features that Li- DAR detectors already produce, it is backbone-agnostic. On the JRDB 3D tracking leaderboard our LiDAR-only tracker ranks first on HOTA (38.58) and IDF1 (37.99), 13.04 and 9.30 points above the next pub- lished method, and second on MOTA and OSPA. Code is available at https://hermak56.github.io/CLIFT/.",
+      "url": "http://arxiv.org/abs/2611.20737v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20737v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-16T08:41:28+00:00",
+      "source": "arxiv",
+      "title_cn": "CLIFT: Contrastive LiDAR Instance Features for 3D Pedestrian Tracking",
+      "summary_cn": "A social robot has to keep track of the people around it over time to plan its motion, a task handled by 3D multi-object tracking. For the LiDAR modality, trackers usually sit on top of a detector and",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "authors": [
+        "Shenghao Xiong",
+        "Xiaolin Chang"
+      ],
+      "abstract": "Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However, its effectiveness critically depends on temporal alignment across modalities, making temporal inconsistency a fundamental vulnerability. Even subtle misalignment or latency can corrupt fused representations and ultimately lead to decision failures. Existing studies have explored adversarial attacks to induce cross-modal temporal inconsistencies, thereby enabling systematic evaluation of the temporal robustness of MRL policies. However, existing methods remain limited in generality, realism, and adaptivity. To address these limitations, we propose the Split Temporal Adversary (STA), which formulates multimodal temporal attacks as a unified decision process that jointly optimizes attack timing and modality selection under realistic policy-aware and budget-constrained settings. STA includes two mechanisms: a) a unified multimodal temporal perturbation mechanism that delays observations via historical states, removing the need for modality-specific noise; b) a split multimodal adversarial decision mechanism that jointly optimizes attack timing and modality selection through adaptive optimization while leveraging the victim policy's clean actions to identify sensitive decision patterns. We provide a theoretical analysis of the induced distribution shift and a modality selection principle. Experiments in the CARLA simulator show that STA more than doubles the collision rate of the strongest baseline against PPO while using 17.8\\% fewer attack attempts, and that it generalizes to a VLM-based driving policy. These results reveal temporal consistency as a critical vulnerability, highlighting temporal robustness as essential for safe autonomous driving.",
+      "url": "http://arxiv.org/abs/2611.20765v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.20765v1",
+      "categories": [
+        "cs.CR",
+        "cs.LG",
+        "cs.RO"
+      ],
+      "published": "2026-11-16T09:16:45+00:00",
+      "source": "arxiv",
+      "title_cn": "STA: A Split Temporal Adversary Method for Evaluating Robustness of Multimodal RL-based Driving Policies",
+      "summary_cn": "Multimodal reinforcement learning (MRL) offers a promising paradigm for autonomous driving by jointly leveraging complementary sensor observations to learn effective decision-making policies. However,",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
