@@ -1,0 +1,738 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T13:01:10.512350+08:00",
+  "github_trending": [
+    {
+      "name": "google-research/paper-orchestra",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "stars": 4458,
+      "forks": 551,
+      "language": "Python",
+      "stars_today": 1524,
+      "source": "github_trending",
+      "summary_cn": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 306682,
+      "forks": 45150,
+      "language": "JavaScript",
+      "stars_today": 1108,
+      "source": "github_trending",
+      "summary_cn": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "stars": 70188,
+      "forks": 6255,
+      "language": "Python",
+      "stars_today": 1059,
+      "source": "github_trending",
+      "summary_cn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "stars": 321434,
+      "forks": 28569,
+      "language": "Shell",
+      "stars_today": 822,
+      "source": "github_trending",
+      "summary_cn": "An agentic skills framework & software development methodology that works.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "stars": 66534,
+      "forks": 8738,
+      "language": "Python",
+      "stars_today": 687,
+      "source": "github_trending",
+      "summary_cn": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "stars": 42030,
+      "forks": 5168,
+      "language": "Python",
+      "stars_today": 515,
+      "source": "github_trending",
+      "summary_cn": "Training-free language model modification: Remove censorship, suppress slop, reduce sycophancy, and more",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "stars": 59929,
+      "forks": 5440,
+      "language": "Python",
+      "stars_today": 389,
+      "source": "github_trending",
+      "summary_cn": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub:https://clianything.cc/",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "stars": 10469,
+      "forks": 1371,
+      "language": "TypeScript",
+      "stars_today": 365,
+      "source": "github_trending",
+      "summary_cn": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "stars": 8066,
+      "forks": 757,
+      "language": "Python",
+      "stars_today": 338,
+      "source": "github_trending",
+      "summary_cn": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "stars": 211185,
+      "forks": 61575,
+      "language": "TypeScript",
+      "stars_today": 325,
+      "source": "github_trending",
+      "summary_cn": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "stars": 3825,
+      "forks": 524,
+      "language": "Python",
+      "stars_today": 312,
+      "source": "github_trending",
+      "summary_cn": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "ethanplusai/sellbird",
+      "url": "https://github.com/ethanplusai/sellbird",
+      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+      "stars": 6543,
+      "forks": 1346,
+      "language": "Python",
+      "stars_today": 237,
+      "source": "github_trending",
+      "summary_cn": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "appwrite/appwrite",
+      "url": "https://github.com/appwrite/appwrite",
+      "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "stars": 58278,
+      "forks": 5885,
+      "language": "TypeScript",
+      "stars_today": 232,
+      "source": "github_trending",
+      "summary_cn": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "stars": 169199,
+      "forks": 35228,
+      "language": "Python",
+      "stars_today": 205,
+      "source": "github_trending",
+      "summary_cn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    },
+    {
+      "name": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "stars": 113025,
+      "forks": 13691,
+      "language": "Python",
+      "stars_today": 197,
+      "source": "github_trending",
+      "summary_cn": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "score": 5,
+      "category": "其他",
+      "one_liner": ""
+    }
+  ],
+  "hacker_news": [
+    {
+      "title": "AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "score": 768,
+      "comments": 688,
+      "author": "grey-area",
+      "time": "2026-11-18T06:47:26+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50542705",
+      "source": "hacker_news",
+      "title_cn": "AI is killing All About Berlin",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 694,
+      "comments": 543,
+      "author": "slashdev",
+      "time": "2026-11-18T00:17:58+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50540178",
+      "source": "hacker_news",
+      "title_cn": "Google's AI answers reducing search traffic by 40%",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "score": 604,
+      "comments": 536,
+      "author": "yigitdemirag",
+      "time": "2026-11-18T21:34:07+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50552424",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Neon",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "score": 413,
+      "comments": 179,
+      "author": "Betelbuddy",
+      "time": "2026-11-18T15:49:34+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50547777",
+      "source": "hacker_news",
+      "title_cn": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "score": 320,
+      "comments": 441,
+      "author": "judahmeek",
+      "time": "2026-11-17T21:16:12+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50538303",
+      "source": "hacker_news",
+      "title_cn": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "score": 306,
+      "comments": 52,
+      "author": "frenchmajesty",
+      "time": "2026-11-18T09:29:32+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50543989",
+      "source": "hacker_news",
+      "title_cn": "Energy-Based Reasoners: 385x more efficient inference",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "score": 269,
+      "comments": 138,
+      "author": "deenadz",
+      "time": "2026-11-18T04:14:04+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50541790",
+      "source": "hacker_news",
+      "title_cn": "Why is Gemini 4 Carbon taking so long?",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Not Everything Needs an LLM",
+      "url": "https://newsletter.posthog.com/p/decision-models",
+      "score": 182,
+      "comments": 74,
+      "author": "speckx",
+      "time": "2026-11-17T18:16:18+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50535740",
+      "source": "hacker_news",
+      "title_cn": "Not Everything Needs an LLM",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "score": 175,
+      "comments": 114,
+      "author": "vighneshiyer",
+      "time": "2026-11-18T17:45:47+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50549493",
+      "source": "hacker_news",
+      "title_cn": "Advancing chip design with OpenAI models",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "score": 167,
+      "comments": 72,
+      "author": "gmays",
+      "time": "2026-11-18T03:47:43+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50541619",
+      "source": "hacker_news",
+      "title_cn": "Claude was trained on protein sequences at scale",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "score": 158,
+      "comments": 57,
+      "author": "seizethecheese",
+      "time": "2026-11-19T00:29:45+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50554374",
+      "source": "hacker_news",
+      "title_cn": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "score": 136,
+      "comments": 113,
+      "author": "surprisetalk",
+      "time": "2026-11-18T23:30:09+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50553843",
+      "source": "hacker_news",
+      "title_cn": "Anthropic prices initial public offering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "score": 113,
+      "comments": 33,
+      "author": "ioma8",
+      "time": "2026-11-18T22:29:13+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50553225",
+      "source": "hacker_news",
+      "title_cn": "LLM assisted reverse engineering",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "score": 106,
+      "comments": 26,
+      "author": "emschwartz",
+      "time": "2026-11-18T00:56:23+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50540472",
+      "source": "hacker_news",
+      "title_cn": "Cerebras Disaggregated Inference",
+      "summary_cn": "",
+      "category": "其他"
+    },
+    {
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "score": 88,
+      "comments": 31,
+      "author": "codekarate",
+      "time": "2026-11-18T16:53:42+00:00",
+      "hn_url": "https://news.ycombinator.com/item?id=50548660",
+      "source": "hacker_news",
+      "title_cn": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "summary_cn": "",
+      "category": "其他"
+    }
+  ],
+  "arxiv_papers": [
+    {
+      "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "authors": [
+        "Priyanka Sinha",
+        "Sugam Pandey"
+      ],
+      "abstract": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We develop a trait theory of reviewer value to make it precise. The theory makes five claims: value is governed by calibration rather than by activity, speed, agreement, or tenure; calibration leaves observable traces in behavioral telemetry; those traces are non-diagnostic on their own, because the fast, low-revision signature of a calibrated expert is indistinguishable from that of a confident novice until it is gated by outcomes; human calibration and a model's self-knowledge are the same construct, so the joint system should defer to whichever agent is better calibrated on each item; and individual calibration is causally identifiable only above the level of the single judgment. We ground each claim in a six-month production window of an AI-assisted accounting system (541621 reviewer events, 483 reviewers), and find that a purely behavioral expertise profile inverts the ground truth, scoring an overconfident cohort (5.2 percent correction survival) higher than genuine experts (99.2 percent); that reviewer quality is flat across tenure, so the trait is not learned on the job; and that the same calibration logic that separates good from bad reviewers, applied to the model, concentrates 92.5 percent of human effort on genuine errors. We close with the boundary the theory must respect: under majority-vote aggregation, individual causal value is unidentifiable.",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24932v1",
+      "categories": [
+        "cs.AI",
+        "cs.CE",
+        "cs.HC",
+        "cs.LG"
+      ],
+      "published": "2026-11-18T18:55:07+00:00",
+      "source": "arxiv",
+      "title_cn": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "summary_cn": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "authors": [
+        "Yan Qiu",
+        "Yuanyuan Li"
+      ],
+      "abstract": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-specific adaptation, JDPI exceeds the released Llama Guard 3-8B baseline by 0.173-0.310 in ROC-AUC across the four benchmarks. In multi-turn replay on TomGibbs, JDPI uses accumulated user history as the conversation unfolds, achieving higher conversation-level accuracy than when it uses the current turn alone. Across 12 directed transfers, JDPI outperforms the classifier by an average of 1.59 percentage points in accuracy, demonstrating stronger cross-dataset robustness.",
+      "url": "http://arxiv.org/abs/2611.24936v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24936v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-18T18:56:12+00:00",
+      "source": "arxiv",
+      "title_cn": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "summary_cn": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+      "authors": [
+        "Samson Yu",
+        "Qiran Zou",
+        "Jing Yu Lim",
+        "Rushi Shah",
+        "Anirudh Goyal"
+      ],
+      "abstract": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scientific work. We introduce the Creative AI Researcher (CAR), an agentic framework combining literature grounding, iterative development and explicit conceptual operators. CAR constructs a semantic knowledge graph from retrieved literature and equips an ideation agent with graph-retrieval tools and four operators: bisociation, analogy, exploration and elaboration. Each operator call is checked against structural acceptance conditions and recorded, producing a trace of intermediate transformations and declared literature sources. We evaluate CAR with two language-model backbones across 40 LiveIdeaBench research topics and two execution benchmarks. CAR achieves significantly higher methodological novelty (MN) than single-shot prompting and The AI Scientist. Its methodological novelty does not differ significantly from the Research Ideation Agent, while its feasibility scores are higher on both backbones. With a shared experiment executor, CAR achieves the highest pairwise win rate among the evaluated AI methods on FML-bench-Lite and BioXArena. In a ten-condition ablation study, MN point estimates favor CAR over one-step proposal on both backbones, but no MN contrast survives correction for multiple comparisons. The results do not establish a consistent quality benefit from explicit operators beyond free-form iteration. CAR makes the sequence of operations and declared literature sources inspectable, separating judged idea quality from procedural traceability.",
+      "url": "http://arxiv.org/abs/2611.24887v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24887v1",
+      "categories": [
+        "cs.CL"
+      ],
+      "published": "2026-11-18T18:31:37+00:00",
+      "source": "arxiv",
+      "title_cn": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+      "summary_cn": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scie",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+      "authors": [
+        "Michael Liaofan Liu",
+        "Joe Kileel"
+      ],
+      "abstract": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are arbitrary learnable functions of invariant polynomial features. We take as features minimal homogeneous generators for the invariant algebra and the covariant module over the invariant algebra, up to prescribed degrees. We provide a Python package that automatically computes these features and fits the resulting models to training data. The algorithm for feature computation requires explicit isotypic decompositions of the input and output representations, along with explicit Clebsch-Gordan decompositions of the tensor product of irreducible representations, and achieves speedups over alternative methods in computational algebra. Numerical experiments in scientific modeling demonstrate the full learning pipeline and yield accurate predictors with few trainable parameters, using the model both for end-to-end prediction and within layers of larger architectures.",
+      "url": "http://arxiv.org/abs/2611.24896v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24896v1",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ],
+      "published": "2026-11-18T18:37:02+00:00",
+      "source": "arxiv",
+      "title_cn": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+      "summary_cn": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many applicatio",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "On Evaluating User Simulators for Interactive Agents",
+      "authors": [
+        "Hengguang Zhou",
+        "I-Hung Hsu",
+        "Li Chen",
+        "Priyanshi Shrivastava",
+        "Anastasios Angelopoulos"
+      ],
+      "abstract": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably detect meaningful failures in simulated user behavior. This uncertainty makes it difficult to interpret simulator evaluation. To understand what a high benchmark score tells us about simulator quality, we (meta-)evaluate the metrics themselves. To instantiate this meta-evaluation, we deliberately perturb simulated replays to induce failures such as altered goals, omitted constraints, premature stopping, and acceptance of broken work, then test whether the metrics penalize these failures. Evaluation methods from three prior studies detect only 5-6 of the 10 perturbations; their combined scores even favor populations instructed to accept broken work over unmodified controls. Motivated by these gaps, we propose a new evaluation suite that combines utility of user simulators for evaluating agents and two measures of fidelity to real users: population-level fidelity assesses collective interaction patterns, while trace-level fidelity assesses the preservation of individual users' goals, constraints, and persona. Under the same detection criterion, our evaluation suite detects all 10 perturbations. Evaluating six user simulators on 351 real multi-turn sessions in which 348 distinct users across 23 languages and agents work together to create and refine artifacts such as full-stack web apps, games, design assets, and automated workflows, we find that population-level measures can miss when a simulated user pursues the wrong goal, ignores a constraint, or behaves out of character, highlighting the need to assess fidelity at comprehensive granularities.",
+      "url": "http://arxiv.org/abs/2611.24892v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24892v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-18T18:34:23+00:00",
+      "source": "arxiv",
+      "title_cn": "On Evaluating User Simulators for Interactive Agents",
+      "summary_cn": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation fram",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+      "authors": [
+        "Benjamin Novotny",
+        "Doug Szeto",
+        "Chang Wang",
+        "Shicheng Chen",
+        "George Zhihua Yuan"
+      ],
+      "abstract": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal GPUs. Meta's traffic shaper implements Cap-and-Track for post and live-video understanding. Refusals signal the backend's current admission ceiling. Durable priority queues hold excess work outside execution, including refused requests for retry. Cap is a fail-fast admission check at the saturated resource that refuses work before a long wait. Using only those refusals, the Track dispatcher probes upward and backs off. It follows the ceiling without output-length prediction or a fleet-level rate to retune. In a concurrent same-traffic production A/B, the shaper ran per-replica Cap plus Track. It served a classifier on 43% fewer H100s than its queued, fixed-rate precursor, though lower-priority work waited longer at backfill peaks. In steady-capacity real-engine replay, Track ran within 1% of the goodput of a fixed rate tuned above measured capacity, with about a quarter of that rate's refusal share. The shaper carries more than 300 million online requests and hundreds of terabytes of media a day. During a backfill, it handled 1.1 billion requests in its busiest 24 hours. Lessons include keeping queues inside inference engines just long enough to fill batches, steering dispatch by capacity refusals alone, keeping dispatch stateful, and sizing fleets by how long low-priority work can wait.",
+      "url": "http://arxiv.org/abs/2611.24891v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24891v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-18T18:34:10+00:00",
+      "source": "arxiv",
+      "title_cn": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+      "summary_cn": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Monoculture Robust Learning",
+      "authors": [
+        "Lee Cohen",
+        "Jon Kleinberg",
+        "Omer Reingold"
+      ],
+      "abstract": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing the same components (e.g., training data) to fail on the same inputs. Specifically, we ask whether a learner with access to a single dataset can output $k$ individually accurate hypotheses whose joint failure probability is comparable to training on $k$ independent datasets. We say that such a learning procedure achieves monoculture robustness, and we quantify this by bounding the conjunctive error that all $k$ hypotheses misclassify points in an individual sense. We design methods for achieving this type of guarantee by drawing a surprising connection between replicability (Impagliazzo et al., 2022) and monoculture robustness. Specifically, we show that if the base learner is $ρ$-replicable, then running it independently $k$ times on the same sample yields individual monoculture error that shrinks exponentially with $k$, controlled by the single-run error of the base learner at the point and $ρ$. We complement these positive results with a lower bound: for individual monoculture robustness, we prove a worst-case lower bound showing that, for learners, driving the individual conjunctive error down to $γ$ can require a sample-size multiplier of $t = Ω(\\log(1/γ))$.",
+      "url": "http://arxiv.org/abs/2611.24881v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24881v1",
+      "categories": [
+        "cs.LG"
+      ],
+      "published": "2026-11-18T18:27:52+00:00",
+      "source": "arxiv",
+      "title_cn": "Monoculture Robust Learning",
+      "summary_cn": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tenden",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "authors": [
+        "Jingzhi Bao",
+        "Xiaohe Ma",
+        "Hong Li",
+        "Yuanming Hu",
+        "Xiaoguang Han"
+      ],
+      "abstract": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, and illumination. While current generative methods produce realistic albedo maps, they still struggle to infer accurate metallic and roughness attributes for relighting. We present UltraTex, a cascaded multi-view framework that moves beyond appearance matching by integrating physical knowledge into multi-view diffusion-based PBR generation. UltraTex first jointly predicts albedo and world-space shading normals to generate more detailed albedo maps, and then predicts metallic-roughness (MR) maps conditioned on the generated albedo, reference image, and material semantic priors. To inject material semantics, a lightweight adapter transforms hidden-layer features of a vision-language model (VLM) into intrinsic material representation tokens, providing part-level knowledge anchors for MR estimation. To model material-light interaction, photometric representation alignment guides intermediate diffusion features toward ground-truth material renderings under controlled lighting. This makes metallic and roughness variations observable through highlight intensity, specular sharpness, and local reflectance contrast, providing stronger guidance for fine-grained material prediction without explicit lighting supervision. Extensive experiments show that UltraTex generates high-quality textures and outperforms existing open-source and commercial methods in visual fidelity, material accuracy, and physical plausibility.",
+      "url": "http://arxiv.org/abs/2611.24941v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24941v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-18T18:59:57+00:00",
+      "source": "arxiv",
+      "title_cn": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "summary_cn": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+      "authors": [
+        "Sen Fang",
+        "Yalin Feng",
+        "Yancheng Zhang",
+        "Yanxin Zhang",
+        "Zonglin Lyu"
+      ],
+      "abstract": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on and perform nearly all visual tasks. Our starting point is an inspiration and hypothesis: if the world information is encoded into image, which we call World Snapshots, then image processing is world processing, and image generation is World Snapshot generation. Furthermore, if all visual and visualization tasks can be reformulated as generation tasks, then a unified method, World Snapshot Models (WSMs), can perform the vast majority of visual tasks, much as large language models have largely unified natural language processing. This paper validates these laws across more than 1,000 trained and evaluated visual tasks (defined by distinct input-output mappings) and presents a unified training framework for future visual-task research and applications.",
+      "url": "http://arxiv.org/abs/2611.24917v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24917v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-18T18:48:38+00:00",
+      "source": "arxiv",
+      "title_cn": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+      "summary_cn": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+      "authors": [
+        "Zhaocheng Yu",
+        "Kui Jiang",
+        "Jing Cao",
+        "Yiang Chen",
+        "Xiaocheng Feng"
+      ],
+      "abstract": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact bank of callable restoration actions from a single frozen all-in-one model. Our approach builds on task-dependent yet overlapping channel responses in the shared model. An offline task-prior search uses activation and gradient statistics to group channels with similar response profiles, then searches task-specific modulation coefficients over non-representative channels while leaving representative channels unmodulated. The resulting prior bank enables explicit action selection and composition without additional restoration backbones or task-specific adapter modules. A state-conditioned policy learns to compose these actions using Group Relative Policy Optimization. Its objective separately normalizes fidelity and perceptual feedback within groups of trajectories sampled for the same input, and combines terminal evaluation with return-to-go derived from stepwise quality changes. Experiments on synthetic composite-degradation and real-world multi-task benchmarks show improvements over the evaluated all-in-one baselines and restoration quality competitive with multi-model agents. PrismRestore achieves these results with a single restoration backbone and faster inference than the evaluated agentic baselines.",
+      "url": "http://arxiv.org/abs/2611.24915v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24915v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-18T18:48:01+00:00",
+      "source": "arxiv",
+      "title_cn": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+      "summary_cn": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact ba",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+      "authors": [
+        "Shagun Mittal",
+        "Raymond A. Yeh",
+        "Satish Ukkusuri"
+      ],
+      "abstract": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer across regions. Existing overhead shadow datasets either lack a geographic transfer protocol or rely on automatically generated labels. We introduce ShadowTransfer, a benchmark of 4,500 human-verified shadow masks across three U.S. cities at two native resolutions, paired with a leave-one-city-out evaluation protocol. Under vanilla training, holding out the test city costs 3.5 to 7.8 mIoU across four architectures, the gap remains significant when the training set grows from 225 to 900 images, and six of eight adaptation methods degrade more than vanilla training on average. We propose a three-probe framework that diagnoses where and how the transfer breaks: the failure operates in feature space, beyond the reach of pixel-histogram matching, shows up as a confidence collapse on shadow pixels while background confidence stays intact, and is recoverable by retraining different architectural components depending on the model: encoder for some, decoder for others. These findings replicate on INRIA building footprints, suggesting they describe geographic transfer beyond shadows. Guided by the diagnosis, we build Spectral Information Bottleneck (SIB), a plug-in module with one component per finding. Across the 9 (architecture, held-out city) cells, SIB has the smallest mean gap to the within-city upper bound of the ten methods we evaluate (6.42 mIoU), level with FDA. The benchmark, LOCO protocol, code, and trained models are released to support reproducible evaluation of geographic transfer in overhead dense prediction.",
+      "url": "http://arxiv.org/abs/2611.24904v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24904v1",
+      "categories": [
+        "cs.CV"
+      ],
+      "published": "2026-11-18T18:41:54+00:00",
+      "source": "arxiv",
+      "title_cn": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+      "summary_cn": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer acr",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "authors": [
+        "Junjie Ye",
+        "Yiqi Zhao",
+        "Muchen Xu",
+        "Celina Shiyu Wang",
+        "Hao Dong"
+      ],
+      "abstract": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for control, yet inherit the heavy cost of video generators. Recent latent-space policies avoid pixel generation, yet typically align intermediate features or rely on frozen target encoders, decoupling future prediction from the VLM's native feature space. $Z$-sight instead predicts the future directly in the visual token space in which its VLM perceives the present. Coupling a foresight expert and a continuous action expert with the VLM in a mixture-of-transformers, $Z$-sight jointly denoises future spatial tokens and actions at inference without pixel reconstruction or external encoders. Trained on human video and robot trajectories, $Z$-sight achieves 81.9% success on SIMPLE (+9.6 points over the strongest baseline) and 73.3% across six Unitree G1 tasks (+20.0 points) at 110 ms per chunk, while remaining competitive on tabletop benchmarks.",
+      "url": "http://arxiv.org/abs/2611.24940v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24940v1",
+      "categories": [
+        "cs.RO",
+        "cs.CV"
+      ],
+      "published": "2026-11-18T18:59:38+00:00",
+      "source": "arxiv",
+      "title_cn": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "summary_cn": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint ",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "authors": [
+        "Yupeng Zheng",
+        "Chaoyue Li",
+        "Linbo Wang",
+        "Xiang Li",
+        "Yuhang Zheng"
+      ],
+      "abstract": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes needed for manipulation. We introduce Phoenix, which learns representations of scene structure for world-action modeling. Specifically, Phoenix Encoder enriches DINOv3's general visual semantics through dual-teacher distillation of geometric and spatiotemporal semantic knowledge. Next, CS-VAE causally aggregates and compresses Phoenix Encoder features into generative latents while preserving scene information and spatial layout. Finally, Phoenix jointly predicts these latents, complementary appearance latents, and robot actions, linking scene evolution with action generation. To study pretraining data efficiency, we curate approximately 39,000 hours of egocentric and robot manipulation data for representation learning and use the robot demonstration subset for WAM pretraining. Following benchmark-specific post-training, Phoenix achieves state-of-the-art performance across simulation and real-robot benchmarks spanning single-arm, bimanual, and dexterous manipulation. It demonstrates strong robustness to perturbations, achieving success rates of 94.8% on LIBERO-Plus and 72.4% on RoboTwin 2.0 C2R, alongside strong cross-embodiment transfer and real-world manipulation performance on Bench2Dex and RoboDojo-RealWorld, respectively. Pretraining-scale analysis shows larger performance gains from data scaling than a video-VAE-only baseline, indicating stronger scaling benefits and more effective data utilization. Moreover, Phoenix maintains high success rates when adapted with limited downstream demonstrations, demonstrating strong few-shot adaptation. Our code, pretraining data, and models are available on the project page to help the community reproduce our results.",
+      "url": "http://arxiv.org/abs/2611.24938v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24938v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-11-18T18:59:04+00:00",
+      "source": "arxiv",
+      "title_cn": "Phoenix: Learning Scene Structure Representations for Generalizable World-Action Models",
+      "summary_cn": "World-action models jointly predict future observations and actions, yet reconstruction-oriented visual representations do not explicitly emphasize the spatial relationships and object-state changes n",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "authors": [
+        "Sarah H. Cen",
+        "Lindsey A. Gailmard",
+        "Joohan Kim",
+        "Rishi Bommasani",
+        "Daniel E. Ho"
+      ],
+      "abstract": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration, power, chokepoints, cascading failures, fragmented accountability, and risk---then describe our pipeline for mapping the AI supply chain. Our pipeline yields our main contribution: a multilayered, large-scale dataset of actors and relationships in the AI ecosystem, annotated with dates, descriptions, types, tags, and more. This work takes a step toward systematically mapping and measuring the AI supply chain and its properties, cataloging how models, data, chips, infrastructure, capital, and even talent flow between organizations. This data enable critical examinations of industry relationships and yield insights into the political economy of AI development and concentration. We provide several illustrative analyses, including studying the most central actors, analyzing network concentration, and identifying communities and chokepoints. While our dataset is fairly comprehensive, it is also necessarily incomplete: public documents omit private deals, and coverage is shaped by search design. Together, the approach, data, and findings aim to serve as a resource for studying the AI ecosystem. The dataset is publicly available at https://huggingface.co/datasets/sarahcen/ai-supply-chain and can be explored interactively at https://aisupplychains.org/.",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24927v1",
+      "categories": [
+        "cs.CY",
+        "cs.AI"
+      ],
+      "published": "2026-11-18T18:53:58+00:00",
+      "source": "arxiv",
+      "title_cn": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "summary_cn": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh",
+      "score": 5,
+      "significance": ""
+    },
+    {
+      "title": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+      "authors": [
+        "Zi-ang Cao",
+        "Kaiyuan Zheng",
+        "Yinzhen Xu",
+        "Haonan Duan",
+        "Jiasheng Gu"
+      ],
+      "abstract": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but transfer from short-task pretraining to long-horizon tasks remains underexplored. Long-horizon progress models often rely on task-specific subtask classifiers or fixed action vocabularies, limiting the reuse of learned progress knowledge when adapting to new tasks. To address these challenges, we introduce Grana, a vision-language robot reward model that learns to identify unfinished subtasks and estimate their continuous progress using open-vocabulary subtask descriptions. We train a language-conditioned model to estimate progress in short-horizon tasks and individual subtasks of long-horizon tasks. For long-horizon tasks, we combine the selected subtask's predicted progress with credit for preceding completed subtasks to estimate whole-task progress. General progress prediction requires training the model across diverse tasks with progress supervision that accounts for imperfect execution. Elapsed-time proxies can misrepresent progress when relative subtask durations vary, or failures reverse local progress. We therefore introduce an annotation protocol that converts sparse subtask boundaries and action-quality annotations into dense progress targets, without requiring annotators to assign numerical progress scores. Pretraining with this supervision on 200 diverse, mostly short-horizon manipulation tasks enables zero-shot reward prediction on unseen tasks and improves progress prediction after adaptation to multi-minute, long-horizon tasks. Experiments demonstrate (i) generalizable reward prediction, including adaptation to five long-horizon tasks, (ii) benefits from pretraining and composing subtask progress estimates, and (iii) improved downstream policy performance.",
+      "url": "http://arxiv.org/abs/2611.24926v1",
+      "pdf_url": "https://arxiv.org/pdf/2611.24926v1",
+      "categories": [
+        "cs.RO"
+      ],
+      "published": "2026-11-18T18:53:53+00:00",
+      "source": "arxiv",
+      "title_cn": "Grana: Compositional Reward Modeling for Long-Horizon Robot Manipulation",
+      "summary_cn": "Robot reward modeling faces two challenges: generalizing across tasks and accurately tracking progress in long-horizon manipulation. General-purpose reward models demonstrate broad task transfer, but ",
+      "score": 5,
+      "significance": ""
+    }
+  ]
+}
